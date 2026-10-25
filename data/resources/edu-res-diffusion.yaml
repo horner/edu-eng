@@ -1,0 +1,28 @@
+schema_version: 1
+id: edu-res-diffusion
+title: Biology 2e — 5.2 Passive Transport
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/biology-2e/pages/5-2-passive-transport
+format: reading
+topics:
+  - edu-bme-transport
+  - edu-bme-anatomy-physiology
+description: Read diffusion, osmosis and selective membranes as context for mass-transport models.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected concentration-gradient, permeability and equilibrium explanations.
+engagement_rationale: Familiar barrier examples support a prediction-and-explanation activity.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Compare three ideal barriers: water-permeable only, glucose-permeable
+  only, and impermeable to both. Initially one side has 0.10 mol/L glucose and the other 0.20 mol/L, with
+  equal pressure. Predict initial net movement, distinguish equilibrium from stopped molecular motion, and
+  list missing parameters."
+assessment_connection: "Term 5 individual: explain a changed transport case; team: state what a membrane analogue omits."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a05-individual
+  - edu-bme-a05-team
+limitations: Qualitative introduction; quantitative Fick-law derivations and reaction–diffusion modeling
+  remain a depth gap.

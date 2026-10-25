@@ -1,0 +1,27 @@
+schema_version: 1
+id: edu-res-breathing
+title: Anatomy and Physiology 2e — 22.3 The Process of Breathing
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing
+format: reading
+topics:
+  - edu-bme-anatomy-physiology
+  - edu-bme-transport
+  - edu-bme-systems-controls
+description: Read pressure, volume and resistance relationships before constructing a respiratory analogue.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected Boyle-law assumptions and distinctions among atmospheric, alveolar and intrapleural pressures.
+engagement_rationale: Pressure/volume diagrams expose a useful but bounded analogy.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Draw a pressure–volume model for a classroom lung analogue; identify
+  initial/boundary conditions and two missing biological mechanisms."
+assessment_connection: "Term 5 individual: defend the model and changed boundary condition; team: test an
+  early high-risk assumption."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a05-individual
+  - edu-bme-a05-team
+limitations: A benchtop analogy does not reproduce complete pulmonary physiology or establish ventilator performance.

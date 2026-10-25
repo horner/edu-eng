@@ -1,0 +1,34 @@
+id: edu-bme-c02-technical
+name: Quantify a physical system with defensible measurements
+summary: Derive a mechanics prediction using forces, energy or momentum and the relevant derivative
+  or integral. Calibrate an instrument against a reference at five or more points; report
+  repeatability, uncertainty and justified limitations. Provide a tested script/notebook that
+  another student can run from raw data without undocumented steps.
+chapters:
+  - edu-bme-programming
+  - edu-bme-mechanics
+  - edu-bme-experimental-measurement
+  - edu-bme-calculus
+  - edu-bme-anatomy-physiology
+prerequisites:
+  - edu-bme-c01-technical
+resources:
+  - edu-res-python
+  - edu-res-mechanics
+  - edu-res-measurement
+  - edu-res-calculus
+  - edu-res-physiology
+assessments:
+  - edu-bme-a02-individual
+performance_criteria:
+  - Derive a mechanics prediction using forces, energy or momentum and the relevant derivative or
+    integral.
+  - Calibrate an instrument against a reference at five or more points; report repeatability,
+    uncertainty and justified limitations.
+  - Provide a tested script/notebook that another student can run from raw data without undocumented
+    steps.
+review_status: academic_review_pending
+expected_level: guided application
+stage: assessed
+mastery_requires: Individual assessment evidence and review; viewing content or passing a team
+  demonstration does not demonstrate this capability.

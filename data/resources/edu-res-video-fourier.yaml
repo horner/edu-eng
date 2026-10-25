@@ -1,0 +1,28 @@
+schema_version: 1
+id: edu-res-video-fourier
+title: But what is the Fourier Transform? A visual introduction.
+creator: Grant Sanderson / 3Blue1Brown
+provider: YouTube
+url: https://www.youtube.com/watch?v=spUNpyF58BY
+format: video
+topics:
+  - edu-bme-signals
+description: Optional watch companion to the inspected Fourier article.
+access: Public YouTube destination verified; playback, captions, regional access and classroom filtering were
+  not tested. Assigned text alternatives remain available.
+accuracy_evidence: Video title/destination verified; companion article's transform and winding construction
+  inspected. No full video/transcript review.
+engagement_rationale: Visual winding narrative observed in the article; video pacing and entertainment quality
+  were not independently reviewed.
+review_status: metadata_verified
+date_checked: 2026-10-25
+practice: "Locally authored activity: Predict a two-tone spectrum before computation; pause to explain the
+  winding analogy and where sampled-data reasoning needs more theory."
+assessment_connection: "Term 5 individual and team: connect frequency reasoning to the synthetic-signal pipeline."
+review_scope: Identity/URL metadata only; no claim of watching the full video or reviewing a transcript.
+role: optional_candidate
+assessment_ids:
+  - edu-bme-a05-individual
+  - edu-bme-a05-team
+required: false
+limitations: Further content, accessibility and teaching review required before assigning this as a primary explanation.

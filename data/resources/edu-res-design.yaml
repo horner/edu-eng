@@ -1,0 +1,34 @@
+schema_version: 1
+id: edu-res-design
+title: NASA Systems Engineering Handbook — 4.0 System Design Processes
+creator: NASA
+provider: NASA
+url: https://www.nasa.gov/reference/4-0-system-design-processes/
+format: reading
+topics:
+  - edu-bme-design-foundations
+description: Read 4.1–4.4 for stakeholder needs, measurable requirements, decomposition and alternatives.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the distinctions among stakeholder expectations, requirements and solution
+  choices, and the recursive design process.
+engagement_rationale: Concrete process diagrams and contrasting requirement examples support design critique.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For a classroom fixture, write five measurable requirements, compare two
+  concepts and divide work into interfaces with an acceptance check."
+assessment_connection: "Term 1: defend one requirement and a changed constraint individually; demonstrate the
+  fixture and negotiated interfaces as a team. Reuse in Term 7 capstone discovery."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: NASA context requires adaptation to biomedical student projects; it is not medical-device
+  regulatory guidance.
+assigned_sections:
+  - 4.1 Stakeholder Expectations Definition
+  - 4.2 Technical Requirements Definition
+  - 4.3 Logical Decomposition
+  - 4.4 Design Solution Definition
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team
+  - edu-bme-a07-individual
+  - edu-bme-a07-team

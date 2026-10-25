@@ -1,0 +1,29 @@
+id: edu-bme-c05-technical
+name: Validate a physiological transport or signal model
+summary: Construct a fluid/thermal/mass-balance model and state boundary conditions and assumptions.
+  Analyze a signal or dynamic response, compare predicted and observed values, and explain residual
+  error statistically. Relate material compatibility and physiology to model limitations and propose
+  a discriminating next experiment.
+chapters:
+  - edu-bme-signals
+  - edu-bme-transport
+  - edu-bme-biomaterials
+prerequisites:
+  - edu-bme-c04-technical
+resources:
+  - edu-res-fourier
+  - edu-res-transport
+  - edu-res-biomaterials
+assessments:
+  - edu-bme-a05-individual
+performance_criteria:
+  - Construct a fluid/thermal/mass-balance model and state boundary conditions and assumptions.
+  - Analyze a signal or dynamic response, compare predicted and observed values, and explain
+    residual error statistically.
+  - Relate material compatibility and physiology to model limitations and propose a discriminating
+    next experiment.
+review_status: academic_review_pending
+expected_level: independent integration
+stage: assessed
+mastery_requires: Individual assessment evidence and review; viewing content or passing a team
+  demonstration does not demonstrate this capability.

@@ -1,0 +1,58 @@
+schema_version: 1
+id: edu-bme-anatomy-physiology
+name: Biology, anatomy, physiology and disease
+category: Biomedical Engineering
+level: 1
+priority: core
+summary: Explain biological structure and function before selecting engineering interventions.
+prerequisites: []
+related:
+  - bi-cell-biology
+  - bi-human-physiology
+topics:
+  - id: edu-bme-anatomy-physiology-t1
+    name: structure and function
+  - id: edu-bme-anatomy-physiology-t2
+    name: homeostasis
+  - id: edu-bme-anatomy-physiology-t3
+    name: cells and genetics
+  - id: edu-bme-anatomy-physiology-t4
+    name: physiological mechanisms
+  - id: edu-bme-anatomy-physiology-t5
+    name: cell biology and human genetics
+  - id: edu-bme-anatomy-physiology-t6
+    name: pathophysiology and immune/host response
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-physiology
+competencies:
+  - edu-bme-c01-technical
+  - edu-bme-c02-technical
+  - edu-bme-c03-technical
+  - edu-bme-c04-technical
+  - edu-bme-c06-technical
+assessments:
+  - edu-bme-a01-individual
+  - edu-bme-a02-individual
+  - edu-bme-a03-individual
+  - edu-bme-a04-individual
+  - edu-bme-a06-individual
+review_status: academic_review_pending
+proposed_first_term: 1
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links:
+  - bi-cell-biology
+  - bi-human-physiology
+spiral_focus:
+  term1: Anatomy, physiological systems and homeostasis
+  term3: Cells, gene expression and genetic variation
+  term4: Disease mechanisms and physiological consequences
+  term6: Innate/adaptive immunity and material-host response
+proposed_terms:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 6

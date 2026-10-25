@@ -1,0 +1,37 @@
+id: edu-bme-a01-individual
+name: Term 1 individual technical defense and transfer
+mode: individual
+task: Complete a supervised quantitative task based on this term, reproduce an analysis from raw
+  inputs, explain a decision and limitation, and solve a changed or unfamiliar case.
+evidence:
+  - Dated calculation/test or notebook with units, assumptions and original inputs.
+  - Short individual explanation with instructor follow-up questions.
+  - Versioned contribution and interface evidence plus a learning-source evaluation.
+  - Fresh transfer task and revision record after feedback.
+rubric:
+  - "Technical reasoning (0–3): 0 unsupported; 1 substantial help; 2 correct model/calculations with
+    explained assumptions; 3 justified model choice and sensitivity/limits."
+  - "Evidence and reproducibility (0–3): 0 absent; 1 incomplete inputs; 2 another person reproduces
+    the result; 3 independent check and uncertainty or alternative explanation."
+  - "Explanation and transfer (0–3): 0 repeats words; 1 explains familiar steps only; 2 explains
+    reasoning and solves a changed case; 3 critiques and transfers the method to an unfamiliar
+    case."
+  - "Accountable collaboration (0–3): 0 no contribution evidence; 1 reports activity; 2 explains
+    owned interface and tested failure hypothesis; 3 helps another person reproduce work and
+    verifies a process improvement."
+competencies:
+  - edu-bme-c01-technical
+  - edu-bme-c01-team
+review_status: academic_review_pending
+pass_interpretation: "Proposed mastery gate: score at least 2 in every dimension, correct any
+  safety-critical or fundamentally invalid reasoning, and complete reassessment when needed. Numeric
+  cutoffs require faculty calibration."
+performance_criteria:
+  - Translate a documented user need into at least five measurable requirements and two alternatives.
+  - Explain one relevant anatomical mechanism and one chemical or material assumption; show correct
+    units and calculus-based reasoning.
+  - Produce a dimensioned CAD model and compare a measured fixture dimension or load against the
+    requirement.
+external_assessment: Brilliant or relevant certification/problem-bank results may support
+  preparation; they do not automatically replace this individual performance evidence.
+assessment_state: definition_only_no_student_results

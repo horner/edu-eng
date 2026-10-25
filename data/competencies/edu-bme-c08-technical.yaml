@@ -1,0 +1,25 @@
+id: edu-bme-c08-technical
+name: Verify, explain and transfer a complete engineering result
+summary: Run the agreed verification plan from versioned inputs and report passing, failing and
+  untested requirements. Explain whether the final evidence supports the intended use and the
+  remaining uncertainties. Independently solve an unfamiliar transfer problem and defend how a new
+  source was evaluated and applied.
+chapters:
+  - edu-bme-capstone
+prerequisites:
+  - edu-bme-c07-technical
+resources:
+  - edu-res-capstone
+assessments:
+  - edu-bme-a08-individual
+performance_criteria:
+  - Run the agreed verification plan from versioned inputs and report passing, failing and untested
+    requirements.
+  - Explain whether the final evidence supports the intended use and the remaining uncertainties.
+  - Independently solve an unfamiliar transfer problem and defend how a new source was evaluated and
+    applied.
+review_status: academic_review_pending
+expected_level: independent professional judgment
+stage: assessed
+mastery_requires: Individual assessment evidence and review; viewing content or passing a team
+  demonstration does not demonstrate this capability.

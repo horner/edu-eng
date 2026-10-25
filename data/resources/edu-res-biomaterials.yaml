@@ -1,0 +1,33 @@
+schema_version: 1
+id: edu-res-biomaterials
+title: "MIT 3.051J — Lecture 1: Structural Hierarchy in Materials and Biology"
+creator: Anne Mayes
+provider: MIT OpenCourseWare
+url: https://ocw.mit.edu/courses/3-051j-materials-for-biomedical-applications-spring-2006/resources/lecture1/
+format: reading
+topics:
+  - edu-bme-biomaterials
+description: Use scientific examples of material classes, structural scale and application-dependent selection.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the 10-page PDF's scientific introduction and hierarchy examples. The old usage
+  counts and blanket regulatory claim on PDF page 3 are excluded from current instruction.
+engagement_rationale: Device examples connect processing, structure and properties to a tangible selection decision.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Compare two candidate materials for an educational flow fixture using
+  mechanical, surface and degradation questions; list missing evidence rather than declare biocompatibility."
+assessment_connection: "Term 5 individual: defend a selection tradeoff and an uncertainty; team: document how
+  material choice changes the experimental interface."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+assigned_sections:
+  - Scientific material-class and structural-hierarchy examples; exclude historical market counts and
+    regulatory statements
+related_sources:
+  - https://ocw.mit.edu/courses/3-051j-materials-for-biomedical-applications-spring-2006/860c4719a25cc2154e95f27165c8bbbe_lecture1.pdf
+limitations: 2006 science notes are an introductory anchor. Host response, protein adsorption, degradation
+  assays and current evidence require further selections and subject review; lecture 24 is not current
+  regulatory guidance.
+assessment_ids:
+  - edu-bme-a05-individual
+  - edu-bme-a05-team

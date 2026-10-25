@@ -1,0 +1,36 @@
+schema_version: 1
+id: edu-res-risk
+title: NASA Systems Engineering Handbook — 6.0 Crosscutting Technical Management
+creator: NASA
+provider: NASA
+url: https://www.nasa.gov/reference/6-0-crosscutting-technical-management/
+format: reading
+topics:
+  - edu-bme-quality-risk
+  - edu-bme-device-integration
+description: Assign technical risk, interface and configuration management as evidence-producing team practices.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected consequence/likelihood reasoning, mitigation/monitoring, uncertainty and the
+  rationale for recording risk decisions.
+engagement_rationale: Risk triggers and traceable decisions make review discussions concrete.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Maintain a hazard/risk register for a nonclinical prototype; compare two
+  mitigations, assign a verification test and investigate one failure using competing causal hypotheses."
+assessment_connection: "Term 6 individual: defend a risk decision and limit; team: connect requirements,
+  hazards, tests and corrective action. Carry unresolved items into Term 7/Term 8."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+assigned_sections:
+  - 6.3 Interface Management
+  - 6.4 Technical Risk Management
+  - 6.5 Configuration Management
+limitations: This is engineering risk-process instruction. Medical-device risk standards and formal regulatory
+  review are separate; a risk score alone is not proof of acceptability.
+assessment_ids:
+  - edu-bme-a06-individual
+  - edu-bme-a06-team
+  - edu-bme-a07-individual
+  - edu-bme-a07-team
+  - edu-bme-a08-individual
+  - edu-bme-a08-team

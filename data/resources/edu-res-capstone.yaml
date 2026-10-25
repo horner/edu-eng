@@ -1,0 +1,31 @@
+schema_version: 1
+id: edu-res-capstone
+title: NASA Systems Engineering Handbook — Product Realization for Capstone Verification
+creator: NASA
+provider: NASA
+url: https://www.nasa.gov/reference/5-0-product-realization/
+format: reading
+topics:
+  - edu-bme-capstone
+description: Reuse the integration/verification source for a capstone test plan and an independently reproducible release.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the verification/validation distinction and report artifacts; this reuses the
+  same reviewed chapter as edu-res-integration with a later performance task.
+engagement_rationale: A handoff to another team gives documentation and test results an immediate audience.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: In Term 7 create a need–requirement–test matrix with pass criteria and
+  an early risk-reduction test; in Term 8 freeze the tested version, run the plan and have another pair
+  reproduce the release."
+assessment_connection: "Term 7 individual: justify a test before results are known; Term 7 team: demonstrate
+  feasibility. Term 8 individual: defend failures/limits; Term 8 team: hand off the tested release and
+  unresolved issues."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: Intentional source reuse across integration and capstone, not a second independent review.
+  Clinical or living-system experiments need separately approved faculty protocols.
+assessment_ids:
+  - edu-bme-a07-individual
+  - edu-bme-a07-team
+  - edu-bme-a08-individual
+  - edu-bme-a08-team

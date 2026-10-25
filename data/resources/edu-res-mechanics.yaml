@@ -1,0 +1,26 @@
+schema_version: 1
+id: edu-res-mechanics
+title: University Physics Volume 1 — 6.1 Solving Problems with Newton's Laws
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/university-physics-volume-1/pages/6-1-solving-problems-with-newtons-laws
+format: reading
+topics:
+  - edu-bme-mechanics
+description: Use free-body diagrams, force components and dimensional checks before measuring a physical model.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the force-modeling strategy and equilibrium-versus-acceleration distinction in worked examples.
+engagement_rationale: Diagrams and checkable examples make model setup visible before algebra.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: A 10 N load hangs at a junction supported by cables at 30 and 60 degrees
+  above opposite horizontal directions. Draw the free-body diagram, solve both tensions and change the load to
+  15 N. Explain the massless-cable assumption."
+assessment_connection: "Term 2 individual: solve a changed load case; team: reconcile a prediction/measurement
+  discrepancy using competing causes."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: Requires faculty-designed experiments and facilities; a reading is not evidence of laboratory performance.
+assessment_ids:
+  - edu-bme-a02-individual
+  - edu-bme-a02-team

@@ -1,0 +1,94 @@
+schema_version: 1
+id: indiana-tech-bme
+name: Current Indiana Tech requirements compared with the proposal
+source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+date_checked: 2026-10-25
+review_status: academic_review_pending
+relationship: Topic comparison only; no official course substitution or credit equivalence.
+baseline: indiana-tech-bme-2026-2027
+comparisons:
+  - baseline_courses:
+      - BIO 2710
+      - BIO 2720
+      - BIO 2730
+      - BIO 2740
+      - BIO 2900
+      - BIO 3000
+      - BIO 3600
+      - BIO 4710
+    chapters:
+      - edu-bme-anatomy-physiology
+    proposed_terms:
+      - 1
+      - 3
+      - 4
+      - 6
+    gap: Validate biological depth, laboratory experience and credit equivalence; current core lists 20
+      biology credits, while proposed integrated units distribute related learning differently.
+  - baseline_courses:
+      - BME 3200
+      - BME 3250
+      - BME 3500
+      - EGR 2600
+      - EM 2010
+      - EM 2020
+      - EM 3100
+      - EM 3150
+      - ME 3400
+      - ME 3405
+    chapters:
+      - edu-bme-transport
+      - edu-bme-biomechanics
+      - edu-bme-engineering-mechanics-materials
+    proposed_terms:
+      - 4
+      - 5
+    gap: Review statics→dynamics/materials prerequisites and laboratory/finite-element depth.
+  - baseline_courses:
+      - BME 3800
+      - BME 3810
+      - BME 4960
+      - BME 4961
+    chapters:
+      - edu-bme-design-foundations
+      - edu-bme-device-integration
+      - edu-bme-design-standards
+      - edu-bme-capstone
+    proposed_terms:
+      - 1
+      - 6
+      - 7
+      - 8
+    gap: Review that earlier studios and capstone collectively retain required design outputs,
+      verification and senior depth.
+  - baseline_courses:
+      - ECE 1100
+      - ECE 2100
+      - PH 1300
+      - PH 1310
+      - PH 2300
+      - MA 1210
+      - MA 2100
+      - MA 2430
+      - CH 1230
+    chapters:
+      - edu-bme-programming
+      - edu-bme-electricity-circuits
+      - edu-bme-mechanics
+      - edu-bme-calculus
+      - edu-bme-linear-algebra-differential-equations
+      - edu-bme-statistics
+      - edu-bme-chemistry
+    proposed_terms:
+      - 1
+      - 2
+      - 3
+      - 4
+    gap: Review exact foundational prerequisites, credit definitions and concurrency. Python practice is
+      not automatically equivalent to the official C Programming requirement.
+gaps:
+  - Official semester offerings and an approved eight-semester sequence remain unverified.
+  - General-education choices, duplicated-course replacement and elective credit variations require
+    advisor interpretation.
+  - Institutional approval, staffing, facilities and degree equivalence are outside software
+    acceptance.

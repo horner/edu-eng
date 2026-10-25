@@ -1,0 +1,30 @@
+schema_version: 1
+id: edu-res-signal-numerics
+title: SciPy User Guide — Signal processing
+creator: SciPy contributors
+provider: SciPy
+url: https://docs.scipy.org/doc/scipy/tutorial/signal.html
+format: reading
+topics:
+  - edu-bme-signals
+  - edu-bme-programming
+description: Reference numerical signal operations alongside Fourier intuition and a sampled-data exercise.
+access: Free public text. Local practice requires Python, NumPy, SciPy and plotting tools; no paid service is
+  necessary.
+accuracy_evidence: Inspected the tutorial's signal-array scope and selected convolution/example code; code was
+  not executed in this curation pass.
+engagement_rationale: Executable examples make an independent numerical check possible.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Generate s(t)=sin(2π5t)+0.5sin(2π18t), sampled at 100 Hz for 2 s. Plot a
+  labeled spectrum and a low-pass-filtered trace; resample at 25 Hz to expose aliasing. Document FFT
+  normalization, edge effects, amplitude retention and timing changes."
+assessment_connection: "Term 5 individual: diagnose an alias or filtering distortion; team: version
+  sampling/units assumptions and acceptance checks."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a05-individual
+  - edu-bme-a05-team
+limitations: Sampling theory, filter choice and artifact assessment require explicit teaching; running library
+  code is not proof that the interpretation is correct.

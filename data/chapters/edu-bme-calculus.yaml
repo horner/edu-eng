@@ -1,0 +1,41 @@
+schema_version: 1
+id: edu-bme-calculus
+name: Calculus for change and accumulation
+category: Biomedical Engineering
+level: 1
+priority: core
+summary: Translate changing biological and physical quantities into mathematical models.
+prerequisites:
+  - ma-precalculus
+related:
+  - ma-calculus
+  - ma-multivariable-calculus
+topics:
+  - id: edu-bme-calculus-t1
+    name: derivatives
+  - id: edu-bme-calculus-t2
+    name: integration
+  - id: edu-bme-calculus-t3
+    name: rates and balances
+  - id: edu-bme-calculus-t4
+    name: multivariable sensitivity
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-calculus
+competencies:
+  - edu-bme-c01-technical
+  - edu-bme-c02-technical
+assessments:
+  - edu-bme-a01-individual
+  - edu-bme-a02-individual
+review_status: academic_review_pending
+proposed_first_term: 1
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links:
+  - ma-calculus
+  - ma-multivariable-calculus
+proposed_terms:
+  - 1
+  - 2

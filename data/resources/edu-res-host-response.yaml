@@ -1,0 +1,31 @@
+schema_version: 1
+id: edu-res-host-response
+title: "MIT 3.051J — Lecture 7: Cell-Surface Interactions: Host Responses to Biomaterials"
+creator: Anne Mayes
+provider: MIT OpenCourseWare
+url: https://ocw.mit.edu/courses/3-051j-materials-for-biomedical-applications-spring-2006/resources/lecture7/
+format: reading
+topics:
+  - edu-bme-anatomy-physiology
+  - edu-bme-biomaterials
+  - edu-bme-quality-risk
+description: Connect protein adsorption, cell adhesion and inflammatory response to material selection.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected the PDF's receptor/ECM introduction and injury-to-foreign-body-response sequence;
+  historical numerical counts and detailed pathway claims were not validated.
+engagement_rationale: The surface-to-cell-to-tissue sequence makes a cross-disciplinary interface visible.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For a hypothetical surface treatment, map protein adsorption, cell
+  response and performance. Synthetic adhesion counts in three images are control [10,12,11] and treatment
+  [18,22,20]. Propose an assay question and a competing imaging or sampling explanation; state why these
+  counts alone cannot establish biological compatibility."
+assessment_connection: "Term 6 individual: defend a material–biology assumption; team: trace its uncertainty
+  to a risk-control or evidence task."
+assessment_ids:
+  - edu-bme-a06-individual
+  - edu-bme-a06-team
+review_scope: Selected mechanism text/diagrams inspected; not a full-course, clinical or subject-expert review.
+role: supplement
+limitations: Historical teaching notes need contemporary expert review. No compatibility, clinical suitability
+  or regulatory conformity is inferred from completing the reading.

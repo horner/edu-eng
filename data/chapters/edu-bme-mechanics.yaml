@@ -1,0 +1,34 @@
+schema_version: 1
+id: edu-bme-mechanics
+name: Calculus-based mechanics
+category: Biomedical Engineering
+level: 1
+priority: core
+summary: Use calculus-based physical models to predict and test mechanical behavior.
+prerequisites:
+  - edu-bme-calculus
+related:
+  - ph-introductory-mechanics
+topics:
+  - id: edu-bme-mechanics-t1
+    name: forces and free-body diagrams
+  - id: edu-bme-mechanics-t2
+    name: energy and momentum
+  - id: edu-bme-mechanics-t3
+    name: rotation
+  - id: edu-bme-mechanics-t4
+    name: measurement predictions
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-mechanics
+competencies:
+  - edu-bme-c02-technical
+assessments:
+  - edu-bme-a02-individual
+review_status: academic_review_pending
+proposed_first_term: 2
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links:
+  - ph-introductory-mechanics

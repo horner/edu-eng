@@ -1,0 +1,24 @@
+schema_version: 1
+id: edu-res-sampling
+title: Introductory Statistics 2e — 1.1 Definitions of Statistics, Probability, and Key Terms
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/introductory-statistics-2e/pages/1-1-definitions-of-statistics-probability-and-key-terms
+format: reading
+topics:
+  - edu-bme-statistics
+  - edu-bme-experimental-measurement
+description: "Read before inference: population, sample and the limits of generalization."
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected population/sample distinctions and the sampling exercises.
+engagement_rationale: Short contextual questions help separate data collection from inference.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Define a target population and sampling process for synthetic repeated
+  sensor tests; identify a convenience-sampling failure and redesign collection."
+assessment_connection: "Term 3 individual: explain what a sample supports; team: document the data-collection interface."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a03-individual
+  - edu-bme-a03-team

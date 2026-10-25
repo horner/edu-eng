@@ -1,0 +1,31 @@
+schema_version: 1
+id: edu-bme-design-foundations
+name: Need finding and engineering design
+category: Biomedical Engineering
+level: 1
+priority: core
+summary: Frame a useful biological or assistive need, create requirements, and compare simple designs.
+prerequisites: []
+related: []
+topics:
+  - id: edu-bme-design-foundations-t1
+    name: requirements
+  - id: edu-bme-design-foundations-t2
+    name: alternatives
+  - id: edu-bme-design-foundations-t3
+    name: CAD and tolerances
+  - id: edu-bme-design-foundations-t4
+    name: bench verification
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-design
+competencies:
+  - edu-bme-c01-technical
+assessments:
+  - edu-bme-a01-individual
+review_status: academic_review_pending
+proposed_first_term: 1
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []

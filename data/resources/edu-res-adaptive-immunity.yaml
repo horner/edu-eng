@@ -1,0 +1,30 @@
+schema_version: 1
+id: edu-res-adaptive-immunity
+title: "Anatomy and Physiology 2e — 21.3 The Adaptive Immune Response: T lymphocytes and Their Functional Types"
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/anatomy-and-physiology-2e/pages/21-3-the-adaptive-immune-response-t-lymphocytes-and-their-functional-types
+format: reading
+topics:
+  - edu-bme-anatomy-physiology
+  - edu-bme-biomaterials
+  - edu-bme-quality-risk
+description: Assign specificity, antigen presentation and functional T-cell roles after innate immunity.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected the T-cell receptor and antigen-presentation explanations and the
+  self-recognition distinction; broad clinical generalizations are outside the assignment.
+engagement_rationale: Labeled receptor/presentation diagrams connect cell-level structure to system behavior.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Draw antigen uptake, processing, presentation and T-cell recognition
+  from the assigned reading. Compare innate/adaptive responses and state why a material claim needs evidence
+  beyond this diagram."
+assessment_connection: "Term 6 individual: explain a changed mechanism case; team: record the evidence needed
+  to address a host-response risk."
+assessment_ids:
+  - edu-bme-a06-individual
+  - edu-bme-a06-team
+review_scope: Selected mechanism text/diagrams inspected; not a full-course, clinical or subject-expert review.
+role: supplement
+limitations: Selected foundational mechanisms only. B-cell/antibody pathways, immune disorders and
+  biomaterial-specific evidence require further teaching.

@@ -1,0 +1,34 @@
+schema_version: 1
+id: edu-res-integration
+title: NASA Systems Engineering Handbook — 5.0 Product Realization
+creator: NASA
+provider: NASA
+url: https://www.nasa.gov/reference/5-0-product-realization/
+format: reading
+topics:
+  - edu-bme-device-integration
+description: Assign integration, verification and validation sections to link interfaces to a reproducible demonstration.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the separation of verification from validation and the need for versioned
+  procedures, calibrated instrumentation, anomaly records and traceability.
+engagement_rationale: A deliverable-to-test workflow gives the team concrete artifacts to critique.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Write a mechanical/electrical/software interface contract and an
+  integration sequence; deliberately introduce one synthetic mismatch, reproduce it, fix it and rerun
+  acceptance checks."
+assessment_connection: "Term 6 individual: explain the owned interface and failure evidence; team: demonstrate
+  integrated requirements. Reuse in Term 8 release verification."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+assigned_sections:
+  - 5.2 Product Integration
+  - 5.3 Product Verification
+  - 5.4 Product Validation
+limitations: NASA process examples need adaptation; a classroom demonstration does not establish
+  medical-device safety or market authorization.
+assessment_ids:
+  - edu-bme-a06-individual
+  - edu-bme-a06-team
+  - edu-bme-a08-individual
+  - edu-bme-a08-team

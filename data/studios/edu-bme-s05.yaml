@@ -1,0 +1,44 @@
+id: edu-bme-s05
+name: Physiological analogue
+summary: Build a benchtop flow or thermal analogue that answers a bounded physiological question.
+need: Build a benchtop flow or thermal analogue that answers a bounded physiological question.
+deliverables:
+  - Balance model and reproducible solver
+  - Controlled experimental dataset
+  - Statistical comparison and limitations
+decomposition:
+  - "Physiology/assumptions team: negotiate a small, testable backlog with dependencies and
+    acceptance checks."
+  - "Apparatus and controls team: negotiate a small, testable backlog with dependencies and
+    acceptance checks."
+  - "Signals/statistical analysis team: negotiate a small, testable backlog with dependencies and
+    acceptance checks."
+interfaces:
+  - Flow/temperature ranges and units
+  - Boundary and initial conditions
+  - Synchronized sampling and analysis versions
+roles:
+  - Rotate technical lead, integration lead, verification lead and communicator within the semester.
+  - Record actual contributions and interface decisions; role titles alone are not evidence.
+experiments:
+  - Test the highest-risk assumption early with a small controlled experiment.
+  - Repeat a measurement or integration test using another team member following only the written
+    protocol.
+root_cause: Investigate unexplained residuals with competing hypotheses about leakage, sensor lag
+  and model form; run a discriminating experiment.
+individual_defense: Each student explains one technical decision, one interface they owned, a
+  limitation, a failure they helped investigate, and a new transfer problem without teammates
+  answering.
+competencies:
+  - edu-bme-c05-technical
+  - edu-bme-c05-team
+review_status: academic_review_pending
+standup_protocol: "Use a short Huddle update and optional Pulse video: accomplished, current work,
+  learned, blocked. Give a useful explanation and link the related task/evidence."
+sprint_protocol: Plan a short sprint with backlog, definition of done, mid-sprint integration,
+  demonstration and retrospective. Adapt ceremony timing to physical experiments.
+leadership_rotation: At least two different responsibilities per student per term, covering all four
+  responsibility types over the year.
+retrospective: Choose one change, give it an owner and follow-up date, and compare its effect in the next sprint.
+data_policy: The public prototype stores synthetic/nonsensitive examples only. Actual living-system
+  measurement experiences require faculty-defined protocols and facilities.

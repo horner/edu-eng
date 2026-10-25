@@ -1,0 +1,26 @@
+schema_version: 1
+id: edu-res-linear-visual
+title: Linear transformations and matrices — visual companion lesson
+creator: Grant Sanderson; text adaptation by Kurt Bruns, James Schloss and River Way
+provider: 3Blue1Brown
+url: https://www.3blue1brown.com/lessons/linear-transformations/
+format: reading
+topics:
+  - edu-bme-linear-algebra-differential-equations
+description: Geometric explanation of matrix columns, basis vectors and linear transformations.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected the article's basis-vector construction, matrix-vector multiplication and
+  additivity/scaling definition.
+engagement_rationale: Observed grid transformations make basis and matrix meaning visible.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Predict where two basis vectors and a third vector move under a given
+  matrix; verify algebraically, then explain a sensor-coordinate transformation."
+assessment_connection: "Term 4 individual: explain a changed transformation and model assumptions."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a04-individual
+  - edu-bme-a04-team
+limitations: Article text and visual descriptions were inspected; associated video playback was not. Add
+  linear systems, eigenvalues and numerical conditioning for depth.

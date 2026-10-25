@@ -1,0 +1,31 @@
+schema_version: 1
+id: edu-res-calculus
+title: Calculus Volume 1 — 3.1 Defining the Derivative
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/calculus-volume-1/pages/3-1-defining-the-derivative
+format: reading
+topics:
+  - edu-bme-calculus
+description: Develop derivatives as limits of measured average rates. Pair with the definite-integral and
+  visual-calculus resources.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected difference quotients, tangent limits and the average-versus-instantaneous velocity example.
+engagement_rationale: Numerical tables and geometric interpretation connect symbols to changing measurements.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For x(t)=t², compare finite-difference slopes at t=2 for three step
+  sizes with the analytic derivative; label units and numerical limits."
+assessment_connection: "Term 1 individual: derive and explain a changed rate case. Term 2 team: document how
+  sample spacing changes a measured-rate estimate."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+prerequisite_knowledge:
+  - ma-precalculus
+limitations: Derivatives and integrals are a starting sequence. Multivariable sensitivity and later calculus
+  depth remain explicit curation gaps.
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team
+  - edu-bme-a02-individual
+  - edu-bme-a02-team

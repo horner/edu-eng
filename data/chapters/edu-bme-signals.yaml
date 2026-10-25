@@ -1,0 +1,36 @@
+schema_version: 1
+id: edu-bme-signals
+name: Biomedical signals and systems
+category: Biomedical Engineering
+level: 2
+priority: core
+summary: Analyze physiological signals while explaining acquisition and processing limitations.
+prerequisites:
+  - edu-bme-electricity-circuits
+  - edu-bme-statistics
+  - edu-bme-linear-algebra-differential-equations
+related:
+  - ma-signal-processing
+topics:
+  - id: edu-bme-signals-t1
+    name: sampling
+  - id: edu-bme-signals-t2
+    name: filtering
+  - id: edu-bme-signals-t3
+    name: Fourier interpretation
+  - id: edu-bme-signals-t4
+    name: signal artifacts and system response
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-fourier
+competencies:
+  - edu-bme-c05-technical
+assessments:
+  - edu-bme-a05-individual
+review_status: academic_review_pending
+proposed_first_term: 5
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links:
+  - ma-signal-processing

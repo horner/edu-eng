@@ -1,0 +1,45 @@
+schema_version: 1
+id: edu-bme-ethics-society
+name: Engineering ethics, society and professional judgment
+category: Biomedical Engineering
+level: 2
+priority: core
+summary: Make supported professional judgments about the effects and limits of engineering work.
+prerequisites: []
+related: []
+topics:
+  - id: edu-bme-ethics-society-t1
+    name: professional duties
+  - id: edu-bme-ethics-society-t2
+    name: access and equity
+  - id: edu-bme-ethics-society-t3
+    name: environmental and economic impact
+  - id: edu-bme-ethics-society-t4
+    name: ethical decision analysis
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-ethics
+competencies:
+  - edu-bme-c04-technical
+  - edu-bme-c05-technical
+  - edu-bme-c06-technical
+  - edu-bme-c07-technical
+  - edu-bme-c08-technical
+assessments:
+  - edu-bme-a04-individual
+  - edu-bme-a05-individual
+  - edu-bme-a06-individual
+  - edu-bme-a07-individual
+  - edu-bme-a08-individual
+review_status: academic_review_pending
+proposed_first_term: 4
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []
+proposed_terms:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8

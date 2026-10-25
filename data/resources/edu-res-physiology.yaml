@@ -1,0 +1,29 @@
+schema_version: 1
+id: edu-res-physiology
+title: Anatomy and Physiology 2e — 1.5 Homeostasis
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis
+format: reading
+topics:
+  - edu-bme-anatomy-physiology
+description: Start with feedback, regulated variables and the relationship between biological mechanism and an
+  engineering model.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected negative-feedback components, temperature regulation and the bounded role of positive feedback.
+engagement_rationale: Familiar physiological examples provide a concrete entry to system diagrams.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Draw a sensor–controller–effector diagram for thermoregulation; mark
+  what a benchtop analogue represents and omits."
+assessment_connection: "Term 1 individual: explain the mechanism and an assumption. Term 2 team: use the
+  diagram to justify a measurement target."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: Homeostasis is an introduction. Pair with cell, neural, cardiac and respiratory readings;
+  organ-system and genetics depth still needs faculty sequencing.
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team
+  - edu-bme-a02-individual
+  - edu-bme-a02-team

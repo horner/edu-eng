@@ -1,0 +1,24 @@
+schema_version: 1
+id: edu-res-precalculus-trig
+title: "Precalculus 2e — 5.2 Unit Circle: Sine and Cosine Functions"
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/precalculus-2e/pages/5-2-unit-circle-sine-and-cosine-functions
+format: reading
+topics:
+  - ma-precalculus
+  - edu-bme-signals
+description: Entry/refresh reading for radians, sine/cosine and oscillation.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected unit-circle coordinate definitions, reference angles and worked values.
+engagement_rationale: Circle diagrams connect angles to signal values.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Predict sine/cosine at four angles, convert degrees to radians and
+  sketch a phase-shifted synthetic oscillation with labeled axes."
+assessment_connection: Entry preparation supports Term 1 mathematical explanation and later Term 5 signal transfer.
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team

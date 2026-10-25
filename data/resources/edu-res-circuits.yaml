@@ -1,0 +1,29 @@
+schema_version: 1
+id: edu-res-circuits
+title: "MIT 6.002 — Lecture 2: Basic Circuit Analysis Method"
+creator: Anant Agarwal and Jeffrey Lang
+provider: MIT OpenCourseWare
+url: https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l2/
+format: reading
+topics:
+  - edu-bme-electricity-circuits
+description: Assign the lecture notes on lumped circuits, element relations, KCL and KVL; add the RC notes for transients.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the PDF's KCL/KVL equations, resistor law and analysis steps under the lumped-model assumptions.
+engagement_rationale: Circuit diagrams and a repeated worked demo expose choices students can explain and test.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Use a 3.0 V source and a divider with 2.0 kohm above the node and 1.0
+  kohm to ground. Predict node voltage, current and power with KCL/KVL; add a 1.0 kohm load from node to
+  ground and explain the changed result. Compare with a simulation or approved low-voltage bench test."
+assessment_connection: "Term 3 individual: solve a changed network and explain assumptions; team: negotiate
+  sensor/processor voltage, units and connector interfaces."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+related_sources:
+  - https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/99b2a662083d1b1f487c55ea0f0d0220_6002_l2.pdf
+limitations: Fall 2000 notes are hosted in the Spring 2007 course. Fundamental models remain useful;
+  contemporary components, electrical safety and biomedical isolation require separate instruction.
+assessment_ids:
+  - edu-bme-a03-individual
+  - edu-bme-a03-team

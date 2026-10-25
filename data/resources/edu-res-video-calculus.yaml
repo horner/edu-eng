@@ -1,0 +1,45 @@
+schema_version: 1
+id: edu-res-video-calculus
+title: The Essence of Calculus
+creator: Grant Sanderson / 3Blue1Brown
+provider: YouTube
+url: https://www.youtube.com/watch?v=WUvTyaaNkzM
+format: video
+topics:
+  - edu-bme-calculus
+description: Optional visual introduction. Assign 2:16–8:23 for ring approximation and 11:48–15:38 for the
+  derivative–integral connection.
+access: Public YouTube page and English transcript export were accessible in this session. Advertising was
+  observed. Anonymous, regional and classroom playback were not tested; an account-free companion article is
+  available.
+accuracy_evidence: Read the exported English transcript and cross-checked the assigned limiting argument with
+  the official companion article and OpenStax derivative/integral sections. Finite annulus area is
+  approximated, not exactly 2πrΔr; the derivative is a limit. The export repeats one endpoint at 13:10; the
+  practice uses the algebraically correct difference.
+engagement_rationale: The transcript develops a single geometric puzzle through prediction and reverse
+  reasoning; the companion text supplies the visual construction. Full video pacing and audiovisual
+  accessibility were not reviewed.
+review_status: transcript_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Compare π((r+Δr)²−r²) with 2πrΔr at r=2 and Δr=0.1,0.01. Derive the
+  omitted term and explain convergence. For A(x)=x³/3, write the correct difference A(3.001)−A(3), then
+  explain its ratio to 0.001."
+assessment_connection: "Term 1 individual: explain the limit and solve a changed accumulation problem."
+review_scope: Complete exported English transcript read; selected mathematical claims checked. Assigned
+  segments 2:16–8:23 and 11:48–15:38. No claim of full audiovisual viewing or faculty approval.
+role: optional_supplement
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team
+required: false
+limitations: An intuition-building introduction, not a proof course. The fundamental-theorem example assumes
+  continuity at the evaluation point. Captions can contain transcription errors; full pacing, animation
+  synchronization and accessibility remain unreviewed.
+assigned_segments:
+  - "2:16–8:23: rings, sums and limiting area"
+  - "11:48–15:38: area derivative and fundamental-theorem intuition"
+related_sources:
+  - https://www.3blue1brown.com/lessons/essence-of-calculus/
+  - https://openstax.org/books/calculus-volume-1/pages/5-2-the-definite-integral
+transcript_evidence: English YouTube transcript exported through the supported browser transcript tool on
+  2026-10-25; caption provenance reported authored or unspecified. No transcript is redistributed.

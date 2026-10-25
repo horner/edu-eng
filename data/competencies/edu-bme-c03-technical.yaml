@@ -1,0 +1,32 @@
+id: edu-bme-c03-technical
+name: Characterize an instrumentation and data pipeline
+summary: Predict and measure circuit behavior with Kirchhoff laws; document range, gain, uncertainty
+  and safe bench limits. Explain sampling and distinguish measurement artifacts from a physiological
+  claim. Use probability/statistics to compare repeated measurements and show how a human-factor
+  requirement changes the design.
+chapters:
+  - edu-bme-electricity-circuits
+  - edu-bme-statistics
+  - edu-bme-human-factors
+  - edu-bme-anatomy-physiology
+prerequisites:
+  - edu-bme-c02-technical
+resources:
+  - edu-res-circuits
+  - edu-res-statistics
+  - edu-res-human-factors
+  - edu-res-physiology
+assessments:
+  - edu-bme-a03-individual
+performance_criteria:
+  - Predict and measure circuit behavior with Kirchhoff laws; document range, gain, uncertainty and
+    safe bench limits.
+  - Explain sampling and distinguish measurement artifacts from a physiological claim.
+  - Use probability/statistics to compare repeated measurements and show how a human-factor
+    requirement changes the design.
+  - Explain a cellular/genetic mechanism relevant to the biological signal and its limits.
+review_status: academic_review_pending
+expected_level: supported analysis
+stage: assessed
+mastery_requires: Individual assessment evidence and review; viewing content or passing a team
+  demonstration does not demonstrate this capability.

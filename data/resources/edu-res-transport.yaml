@@ -1,0 +1,29 @@
+schema_version: 1
+id: edu-res-transport
+title: University Physics Volume 1 — 14.7 Viscosity and Turbulence
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/university-physics-volume-1/pages/14-7-viscosity-and-turbulence
+format: reading
+topics:
+  - edu-bme-transport
+description: Use viscosity, tube resistance and Reynolds number in a bounded physiological analogue; pair with
+  heat and membrane transport.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the viscous-flow model, Poiseuille-law objectives and the dependence on fluid
+  properties and geometry.
+engagement_rationale: Everyday fluid contrasts and tube diagrams motivate an experiment with a strong radius effect.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For a rigid horizontal tube, use water viscosity 0.001 Pa·s, density
+  1000 kg/m³, length 0.50 m and flow 1.0 mL/s. Compare pressure drops and Reynolds numbers for radii 1.0 and
+  2.0 mm. State laminar/Newtonian assumptions and design a check that separates a leak from a wrong radius."
+assessment_connection: "Term 5 individual: derive a balance and changed-radius prediction; team: reproduce a
+  flow/thermal experiment with controlled boundary conditions."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: Rigid-tube Newtonian laminar assumptions must be stated. Blood and compliant vessels need more
+  sophisticated treatment; ideal Bernoulli is not a viscous-loss model.
+assessment_ids:
+  - edu-bme-a05-individual
+  - edu-bme-a05-team

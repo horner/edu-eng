@@ -1,0 +1,28 @@
+schema_version: 1
+id: edu-res-action-potential
+title: Anatomy and Physiology 2e — 12.4 The Action Potential
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/anatomy-and-physiology-2e/pages/12-4-the-action-potential
+format: reading
+topics:
+  - edu-bme-anatomy-physiology
+  - edu-bme-electricity-circuits
+  - edu-bme-signals
+description: Connect ion gradients, channels and time-varying electrical signals.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected channel/pump roles and the separation of concentration maintenance from membrane signaling.
+engagement_rationale: A mechanism-to-waveform explanation makes circuit analogies easier to critique.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Draw a membrane-voltage/time sketch from the assigned reading and
+  annotate channel-state reasoning; explain two differences between a cell membrane and a passive RC circuit."
+assessment_connection: "Term 3 individual: explain an electrical/biological model limit; Term 5: preserve
+  physiological meaning when processing a synthetic signal."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a03-individual
+  - edu-bme-a03-team
+limitations: Qualitative mechanism reading; quantitative membrane models and electrophysiology safety remain
+  separate instruction.

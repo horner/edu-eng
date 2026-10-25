@@ -1,0 +1,28 @@
+schema_version: 1
+id: edu-res-python
+title: The Python Tutorial — An Informal Introduction to Python
+creator: Python documentation contributors
+provider: Python Software Foundation
+url: https://docs.python.org/3/tutorial/introduction.html
+format: reading
+topics:
+  - edu-bme-programming
+description: Use the calculator, variables, strings and lists to start a reproducible engineering data workflow.
+access: Free public documentation. Running the activity requires a local Python installation or an
+  institution-provided environment; no cloud account is required.
+accuracy_evidence: Inspected numeric operations, variables, sequence examples and the floating-point precision caveat.
+engagement_rationale: Short executable examples let students alter inputs and observe results.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Convert synthetic voltages [0, 0.5, 1.0] V using T=20V+5 degrees C;
+  reject inputs outside 0–3.3 V. Add expected-value checks and a documented file/units interface, then
+  reproduce a teammate’s run."
+assessment_connection: "Term 2 individual: rebuild the transformation from raw inputs and explain a failure;
+  team: agree a file/units interface and reproduce a teammate's run."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: The official tutorial assumes some programming experience. Beginners need instructor scaffolding
+  plus functions, files, debugging and testing lessons.
+assessment_ids:
+  - edu-bme-a02-individual
+  - edu-bme-a02-team

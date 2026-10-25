@@ -1,0 +1,31 @@
+schema_version: 1
+id: edu-bme-programming
+name: Reproducible engineering computation
+category: Biomedical Engineering
+level: 1
+priority: core
+summary: Build inspectable computational tools with tests, units, and clear data provenance.
+prerequisites: []
+related: []
+topics:
+  - id: edu-bme-programming-t1
+    name: Python and numerical work
+  - id: edu-bme-programming-t2
+    name: version control
+  - id: edu-bme-programming-t3
+    name: tests
+  - id: edu-bme-programming-t4
+    name: reproducible notebooks
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-python
+competencies:
+  - edu-bme-c02-technical
+assessments:
+  - edu-bme-a02-individual
+review_status: academic_review_pending
+proposed_first_term: 2
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []

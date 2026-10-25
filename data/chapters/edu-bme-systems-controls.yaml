@@ -1,0 +1,32 @@
+schema_version: 1
+id: edu-bme-systems-controls
+name: Systems modeling and feedback
+category: Biomedical Engineering
+level: 2
+priority: core
+summary: Predict and test the behavior and limits of a controlled biomedical subsystem.
+prerequisites:
+  - edu-bme-signals
+related: []
+topics:
+  - id: edu-bme-systems-controls-t1
+    name: system identification
+  - id: edu-bme-systems-controls-t2
+    name: feedback
+  - id: edu-bme-systems-controls-t3
+    name: stability
+  - id: edu-bme-systems-controls-t4
+    name: robustness and disturbances
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-controls
+competencies:
+  - edu-bme-c06-technical
+assessments:
+  - edu-bme-a06-individual
+review_status: academic_review_pending
+proposed_first_term: 6
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []

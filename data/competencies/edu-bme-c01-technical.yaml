@@ -1,0 +1,34 @@
+id: edu-bme-c01-technical
+name: Frame a need and justify a first prototype
+summary: Translate a documented user need into at least five measurable requirements and two
+  alternatives. Explain one relevant anatomical mechanism and one chemical or material assumption;
+  show correct units and calculus-based reasoning. Produce a dimensioned CAD model and compare a
+  measured fixture dimension or load against the requirement.
+chapters:
+  - edu-bme-design-foundations
+  - edu-bme-anatomy-physiology
+  - edu-bme-chemistry
+  - edu-bme-calculus
+  - edu-bme-communication
+  - edu-bme-team-engineering
+prerequisites: []
+resources:
+  - edu-res-design
+  - edu-res-physiology
+  - edu-res-chemistry
+  - edu-res-calculus
+  - edu-res-communication
+  - edu-res-team
+assessments:
+  - edu-bme-a01-individual
+performance_criteria:
+  - Translate a documented user need into at least five measurable requirements and two alternatives.
+  - Explain one relevant anatomical mechanism and one chemical or material assumption; show correct
+    units and calculus-based reasoning.
+  - Produce a dimensioned CAD model and compare a measured fixture dimension or load against the
+    requirement.
+review_status: academic_review_pending
+expected_level: guided application
+stage: assessed
+mastery_requires: Individual assessment evidence and review; viewing content or passing a team
+  demonstration does not demonstrate this capability.

@@ -1,0 +1,45 @@
+schema_version: 1
+id: edu-res-communication
+title: Technical Writing One
+creator: Google technical-writing education team
+provider: Google for Developers
+url: https://developers.google.com/tech-writing/one
+format: course
+topics:
+  - edu-bme-communication
+  - edu-bme-team-engineering
+description: Use the self-study writing units to make engineering decisions and interfaces understandable to
+  another person.
+access: Public self-study text without required sign-in; Google says the course is not available for offline
+  download. Instructor-led sessions are optional.
+accuracy_evidence: Inspected course objectives, audience and self-study structure; individual sublessons and
+  videos were not exhaustively reviewed.
+engagement_rationale: Brief practical units focus on concrete revisions rather than abstract speaking advice.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Rewrite an ambiguous interface paragraph, ask a teammate to implement or
+  test from it, and revise after a misunderstanding. Give a concise standup explanation linking
+  accomplishment, learning, current work and blocker to evidence."
+assessment_connection: Every term's individual defense assesses explanation/transfer; every team assessment
+  checks whether another person can reproduce work and whether updates resolve dependencies.
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: Writing instruction alone does not cover oral feedback, visual accessibility or conflict
+  resolution. Pulse/Huddle updates are proposed local practices, not features of this course.
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team
+  - edu-bme-a02-individual
+  - edu-bme-a02-team
+  - edu-bme-a03-individual
+  - edu-bme-a03-team
+  - edu-bme-a04-individual
+  - edu-bme-a04-team
+  - edu-bme-a05-individual
+  - edu-bme-a05-team
+  - edu-bme-a06-individual
+  - edu-bme-a06-team
+  - edu-bme-a07-individual
+  - edu-bme-a07-team
+  - edu-bme-a08-individual
+  - edu-bme-a08-team

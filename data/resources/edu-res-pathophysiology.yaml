@@ -1,0 +1,29 @@
+schema_version: 1
+id: edu-res-pathophysiology
+title: What Is Diabetes? — mechanism overview
+creator: National Institute of Diabetes and Digestive and Kidney Diseases
+provider: NIDDK
+url: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes
+format: reading
+topics:
+  - edu-bme-anatomy-physiology
+description: Use a disease mechanism to distinguish an absent control signal from an impaired response.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected the insulin-production/use distinction and the separate type 1/type 2 mechanism
+  summaries. Epidemiology and treatment sections are not assigned.
+engagement_rationale: The mechanism connects homeostasis to a specific failure of a biological system.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Draw two fictional qualitative regulation models: Case A has little
+  control-signal production; Case B has a present signal but reduced target response. Map these abstractions
+  to the assigned mechanisms, propose measurements that could distinguish them and state what the model cannot
+  infer."
+assessment_connection: "Term 4 individual: explain disease mechanism and consequences without diagnosing
+  anyone; team: state biological model limits in a design rationale."
+assessment_ids:
+  - edu-bme-a04-individual
+  - edu-bme-a04-team
+review_scope: Selected mechanism text/diagrams inspected; not a full-course, clinical or subject-expert review.
+role: supplement
+limitations: A public explanatory overview, not an advanced pathophysiology course or treatment reference.
+  Quantitative glucose control and wider organ-system disease depth remain uncurated.

@@ -1,0 +1,30 @@
+schema_version: 1
+id: edu-res-ode-modeling
+title: MIT 18.03 Supplementary Notes — Modeling by first order linear ODEs
+creator: Haynes Miller
+provider: MIT OpenCourseWare
+url: https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/resources/mit18_03s10_chapter_2/
+format: reading
+topics:
+  - edu-bme-linear-algebra-differential-equations
+  - edu-bme-transport
+  - edu-bme-systems-controls
+description: Derive a first-order model from a balance and make linearization assumptions explicit.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected savings-account and thermal-insulation derivations, units of the rate constant
+  and small-difference linearization.
+engagement_rationale: Stepwise modeling connects assumptions to equations rather than presenting a formula alone.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For a classroom cooling model dT/dt=−0.1(T−20) with time in minutes and
+  T(0)=40 degrees C, derive the constant-ambient solution and compare numerical/analytic values. Double the
+  rate constant and state the balance and linearization assumptions."
+assessment_connection: "Term 4 individual: explain the derivation; Term 5/Term 6: state model assumptions at
+  solver/control interfaces."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a04-individual
+  - edu-bme-a04-team
+related_sources:
+  - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/7b8ba29759722542ebad3c6e41a245c7_MIT18_03S10_chapter_2.pdf

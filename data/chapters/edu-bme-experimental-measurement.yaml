@@ -1,0 +1,33 @@
+schema_version: 1
+id: edu-bme-experimental-measurement
+name: Measurement, uncertainty and experiments
+category: Biomedical Engineering
+level: 1
+priority: core
+summary: Design measurements that distinguish signal, error, and unsupported inference.
+prerequisites:
+  - edu-bme-design-foundations
+  - edu-bme-calculus
+related: []
+topics:
+  - id: edu-bme-experimental-measurement-t1
+    name: calibration
+  - id: edu-bme-experimental-measurement-t2
+    name: uncertainty
+  - id: edu-bme-experimental-measurement-t3
+    name: controls and replication
+  - id: edu-bme-experimental-measurement-t4
+    name: living-system measurements
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-measurement
+competencies:
+  - edu-bme-c02-technical
+assessments:
+  - edu-bme-a02-individual
+review_status: academic_review_pending
+proposed_first_term: 2
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []

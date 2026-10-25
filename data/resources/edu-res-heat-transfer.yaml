@@ -1,0 +1,25 @@
+schema_version: 1
+id: edu-res-heat-transfer
+title: University Physics Volume 2 — 1.6 Mechanisms of Heat Transfer
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer
+format: reading
+topics:
+  - edu-bme-transport
+description: Separate conduction, convection and radiation before selecting a thermal analogue model.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected the conduction law and the role of geometry, temperature difference and material conductivity.
+engagement_rationale: Everyday examples support prediction before an experiment.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For a slab with area 0.01 m², thickness 0.005 m, conductivity 0.2
+  W/(m·K) and temperature difference 10 K, predict steady conduction power. Double thickness and identify when
+  neglected convection or transient storage would invalidate the comparison."
+assessment_connection: "Term 5 individual: derive and bound an energy model; team: compare prediction with
+  supplied or approved benchtop measurements."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a05-individual
+  - edu-bme-a05-team

@@ -1,0 +1,28 @@
+schema_version: 1
+id: edu-res-gene-expression
+title: Biology 2e — 15.5 Ribosomes and Protein Synthesis
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis
+format: reading
+topics:
+  - edu-bme-anatomy-physiology
+  - edu-bme-statistics
+description: Read translation as one stage linking an mRNA sequence to a polypeptide.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected the mRNA/ribosome/tRNA roles and initiation–elongation–termination scope.
+engagement_rationale: A stepwise molecular process supports an explain-and-predict diagram.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Using the standard genetic code, translate synthetic mRNA 5′-AUG GAA UUU
+  UAA-3′; compare GAA→GAG and GAA→UAA changes. Explain assumptions about reading frame and initiation, and why
+  sequence alone does not predict all cellular behavior."
+assessment_connection: "Term 3 individual: explain a cell/genetic mechanism and a changed case; team: document
+  what the simplified sequence model omits."
+assessment_ids:
+  - edu-bme-a03-individual
+  - edu-bme-a03-team
+review_scope: Selected mechanism text/diagrams inspected; not a full-course, clinical or subject-expert review.
+role: supplement
+limitations: Requires DNA/transcription and genetic-code preparation. Protein folding, regulation and
+  sequence-to-phenotype inference need more depth.

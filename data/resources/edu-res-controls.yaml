@@ -1,0 +1,33 @@
+schema_version: 1
+id: edu-res-controls
+title: Python Control Systems Library — Cruise control
+creator: Richard M. Murray and Karl J. Åström
+provider: python-control documentation
+url: https://python-control.readthedocs.io/en/latest/examples/cruise.html
+format: reading
+topics:
+  - edu-bme-systems-controls
+description: Study a modeled feedback loop, disturbance rejection and actuator saturation before applying the
+  method to a classroom apparatus.
+access: Free public notebook text. Local execution requires Python, NumPy, SciPy, Matplotlib and
+  python-control. Optional Colab execution requires a Google account; local execution is the account-free
+  route.
+accuracy_evidence: Inspected the force-balance model, bounded throttle and explanation of PI control and
+  windup protection; code was read, not executed in this audit.
+engagement_rationale: An everyday disturbance makes closed-loop behavior interpretable; plotted examples
+  connect parameter changes to response.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Simulate the classroom plant G(s)=1/(10s+1) with a unit-step target and
+  PI controller Kp=1, Ki=0.1. Add a step disturbance and an actuator clamp from 0 to 1; compare with open
+  loop, change Ki, and explain settling, overshoot, windup and model limits. No person is connected to the
+  simulated system."
+assessment_connection: "Term 6 individual: explain a changed gain/disturbance case; team: integrate
+  controller, sensor units and actuator limits and verify a boundary test."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: Vehicle dynamics are a transfer example, not a validated biomedical controller. Stability theory
+  and robustness require a sequenced course; no human-connected control is proposed.
+assessment_ids:
+  - edu-bme-a06-individual
+  - edu-bme-a06-team

@@ -1,0 +1,26 @@
+schema_version: 1
+id: edu-res-cell-membrane
+title: Anatomy and Physiology 2e — 3.1 The Cell Membrane
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/anatomy-and-physiology-2e/pages/3-1-the-cell-membrane
+format: reading
+topics:
+  - edu-bme-anatomy-physiology
+  - edu-bme-biomaterials
+description: Cell structure, selective barriers and passive versus active movement.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected bilayer, membrane-protein and transport descriptions.
+engagement_rationale: Labeled cross-sections connect molecular arrangement to function.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For oxygen, glucose and sodium ions, predict which can cross a
+  simplified phospholipid barrier without a transport protein. Add a channel or carrier assumption,
+  distinguish passive from active transport and explain the changed prediction."
+assessment_connection: "Term 1 individual: defend a structure–function explanation; Term 5: state limitations
+  of a membrane analogue."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team

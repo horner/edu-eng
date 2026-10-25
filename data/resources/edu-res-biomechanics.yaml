@@ -1,0 +1,28 @@
+schema_version: 1
+id: edu-res-biomechanics
+title: University Physics Volume 1 — 12.2 Examples of Static Equilibrium
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium
+format: reading
+topics:
+  - edu-bme-biomechanics
+description: Assign the free-body strategy and Example 12.4, Forces in the Forearm.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected torque-balance setup and the forearm example's explicit negligible-weight and
+  force-direction assumptions.
+engagement_rationale: A recognizable lever problem illustrates why muscle forces can differ greatly from the held load.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Model a horizontal massless forearm with a 50 N load 0.30 m from the
+  elbow and an upward muscle force at a 0.04 m moment arm. Solve muscle and joint forces; then add a 10 N
+  forearm weight at 0.15 m. Explain which anatomical assumptions make this only an analogue."
+assessment_connection: "Term 4 individual: draw and defend the free-body model in a fresh case; team: compare
+  a safe benchtop lever analogue with predicted reactions."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: A planar rigid lever is a bounded analogue. It does not cover gait, tissue constitutive behavior
+  or patient-specific musculoskeletal prediction.
+assessment_ids:
+  - edu-bme-a04-individual
+  - edu-bme-a04-team

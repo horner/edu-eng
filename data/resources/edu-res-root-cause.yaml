@@ -1,0 +1,35 @@
+schema_version: 1
+id: edu-res-root-cause
+title: Five Whys and Five Hows
+creator: American Society for Quality
+provider: ASQ
+url: https://asq.org/quality-resources/five-whys
+format: reading
+topics:
+  - edu-bme-team-engineering
+  - edu-bme-quality-risk
+  - edu-bme-experimental-measurement
+description: Use structured why/how questioning to refine a problem statement and investigate causes.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected the method, the explicit allowance for more or fewer than five questions, and
+  links discussing multiple causes.
+engagement_rationale: A simple shared diagram makes hypotheses discussable without special software.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For a reproduced integration defect, write two competing causal chains,
+  propose a discriminating test and verify the corrective action; change a process and check the next sprint."
+assessment_connection: Every team assessment Term 1–Term 8 requires tested learning from failure; an untested
+  Five Whys story does not satisfy the proposed rubric.
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a01-team
+  - edu-bme-a02-team
+  - edu-bme-a03-team
+  - edu-bme-a04-team
+  - edu-bme-a05-team
+  - edu-bme-a06-team
+  - edu-bme-a07-team
+  - edu-bme-a08-team
+limitations: A questioning aid does not prove causation. Avoid blame and premature stopping; preserve
+  contradictory evidence and systemic alternatives.

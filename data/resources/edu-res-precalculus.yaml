@@ -1,0 +1,27 @@
+schema_version: 1
+id: edu-res-precalculus
+title: Precalculus 2e — 1.1 Functions and Function Notation
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/precalculus-2e/pages/1-1-functions-and-function-notation
+format: reading
+topics:
+  - ma-precalculus
+  - edu-bme-calculus
+description: "Entry diagnostic support: functions, domains, evaluation and graphs."
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected function definitions, input/output examples and Try It exercises.
+engagement_rationale: Multiple representations and immediate check questions support diagnosis of specific gaps.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For calibration T(V)=20V+5 degrees C on 0≤V≤3.3 V, evaluate three inputs
+  and invert the relation for 25 degrees C. Then examine T(V)=(V−1)²: explain why the inverse can be ambiguous
+  on that domain."
+assessment_connection: Entry preparation feeds Term 1 individual transfer task; this is not a complete placement test.
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team
+limitations: Covers function notation. Algebra fluency, exponents/logarithms and trigonometry need a broader
+  entry diagnostic.

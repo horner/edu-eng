@@ -1,0 +1,37 @@
+schema_version: 1
+id: edu-res-standards
+title: FDA — Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices
+creator: US Food and Drug Administration
+provider: FDA
+url: https://www.fda.gov/media/71983/download
+format: reading
+topics:
+  - edu-bme-design-standards
+  - edu-bme-quality-risk
+description: Read scope, standards use, version transitions and limitations to build a standards-applicability argument.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the 2018 guidance, its current QMSR cover notice and the distinction between
+  evidence and a promise of future conformity.
+engagement_rationale: A real guidance document lets students practice finding scope and edition limits rather
+  than memorizing labels.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Create a standards-applicability matrix for a fictional device: source,
+  edition, relevant clause scope, available evidence, access needs and unresolved question. Make no
+  unsupported conformity claim."
+assessment_connection: "Term 7 individual: defend source/applicability choices; team: connect applicable
+  requirements to planned tests. Term 8: report actual evidence and remaining gaps."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+assigned_sections:
+  - I–IV Scope and use
+  - V Version transitions
+  - VII Limitations; read the QMSR cover notice first
+limitations: Free guidance is nonbinding except where law/regulation is cited. Full normative standards may
+  require paid or institutional access. The 2026 QMSR notice supersedes old quality-record terminology; expert
+  review is required for real submissions.
+assessment_ids:
+  - edu-bme-a07-individual
+  - edu-bme-a07-team
+  - edu-bme-a08-individual
+  - edu-bme-a08-team

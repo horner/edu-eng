@@ -1,0 +1,1589 @@
+schema_version: 1
+id: abet-eac-2026-2027
+name: ABET engineering and biomedical alignment audit
+program: biomedical
+source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+review_cycle: 2026–2027
+date_checked: 2026-10-25
+review_status: academic_review_pending
+id_convention: IDs are local normalized audit keys. Source clauses identify the official criterion;
+  these keys are not ABET-issued approval codes.
+claim: Proposed curricular alignment only. No accreditation or student attainment determination.
+criteria:
+  - id: EAC-C1
+    title: Criterion 1 · Students
+    requirement: Student monitoring and graduation policies.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 1 · Students
+    competencies: []
+    studios: []
+    assessments: []
+    chapters: []
+    coverage: gap
+    review_status: academic_review_pending
+    gaps:
+      - Admissions, placement, transfer, progression, reassessment and graduation approval policies
+        require institutional definition and review.
+    evidence: []
+    instructional_stages: []
+    stage_note: Not a student instructional outcome; institutional evidence and responsible review
+      remain required.
+  - id: EAC-C2
+    title: Criterion 2 · Educational objectives
+    requirement: Objectives and periodic constituent review.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 2 · Educational objectives
+    competencies: []
+    studios: []
+    assessments: []
+    chapters: []
+    coverage: gap
+    review_status: academic_review_pending
+    gaps:
+      - Current program objectives are captured, but no redesigned-program constituent review,
+        approval or review cycle has occurred.
+    evidence:
+      - Current catalog baseline records three educational objectives.
+      - Faculty, student, employer and alumni feedback must inform any redesigned objectives.
+    instructional_stages: []
+    stage_note: Not a student instructional outcome; institutional evidence and responsible review
+      remain required.
+  - id: EAC-SO1
+    title: Criterion 3 · Outcome 1
+    requirement: Identify, formulate and solve complex engineering problems using mathematics, science
+      and engineering principles.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 3 · Outcome 1
+    competencies:
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s02
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-calculus
+      - edu-bme-mechanics
+      - edu-bme-statistics
+      - edu-bme-linear-algebra-differential-equations
+      - edu-bme-biomechanics
+      - edu-bme-capstone
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Faculty must confirm complexity, breadth and independent transfer; a mapping is not
+        attainment.
+    evidence:
+      - "Term 2: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 2
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 2
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a02-individual
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-SO2
+    title: Criterion 3 · Outcome 2
+    requirement: Create engineering designs for specified needs, considering health, safety, welfare and
+      cultural, global, social, environmental and economic effects.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 3 · Outcome 2
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s01
+      - edu-bme-s04
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-design-foundations
+      - edu-bme-human-factors
+      - edu-bme-quality-risk
+      - edu-bme-design-standards
+      - edu-bme-capstone
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Proposed constraints and priorities need stakeholder validation and calibrated design-review
+        rubrics.
+    evidence:
+      - "Term 1: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 1
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 4
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 1
+          - 4
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a01-individual
+          - edu-bme-a04-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-SO3
+    title: Criterion 3 · Outcome 3
+    requirement: Communicate across audiences.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 3 · Outcome 3
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s01
+      - edu-bme-s02
+      - edu-bme-s03
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-communication
+      - edu-bme-team-engineering
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Individual explanations, writing and audience-specific demonstrations are designed; their
+        effectiveness has not been evaluated.
+    evidence:
+      - "Term 1: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 2: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 3: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 1
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a01-individual
+          - edu-bme-a02-individual
+          - edu-bme-a03-individual
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-SO4
+    title: Criterion 3 · Outcome 4
+    requirement: Recognize professional and ethical responsibilities, make informed judgments and
+      consider the wider impacts of engineering solutions.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 3 · Outcome 4
+    competencies:
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-ethics-society
+      - edu-bme-human-factors
+      - edu-bme-quality-risk
+      - edu-bme-design-standards
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Faculty must assess case reasoning and consequences, including economic, social,
+        environmental and global contexts.
+    evidence:
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 4
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-SO5
+    title: Criterion 3 · Outcome 5
+    requirement: Collaborate effectively with shared leadership, inclusion, goals, task planning and delivery.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 3 · Outcome 5
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s01
+      - edu-bme-s02
+      - edu-bme-s03
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-team-engineering
+      - edu-bme-communication
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Observed contribution, leadership rotation and conflict handling need instructor
+        calibration; standup frequency and time logs alone are insufficient.
+    evidence:
+      - "Term 1: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 2: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 3: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 1
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a01-individual
+          - edu-bme-a02-individual
+          - edu-bme-a03-individual
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-SO6
+    title: Criterion 3 · Outcome 6
+    requirement: Develop and conduct suitable experiments; analyze data and use engineering judgment to
+      draw conclusions.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 3 · Outcome 6
+    competencies:
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s02
+      - edu-bme-s03
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-experimental-measurement
+      - edu-bme-statistics
+      - edu-bme-signals
+      - edu-bme-transport
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Lab availability, protocols and reproducibility must be demonstrated with actual educational
+        evidence.
+    evidence:
+      - "Term 2: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 3: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 2
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 3
+          - 4
+          - 5
+          - 6
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 8
+        assessments:
+          - edu-bme-a02-individual
+          - edu-bme-a03-individual
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-SO7
+    title: Criterion 3 · Outcome 7
+    requirement: Acquire and apply new knowledge using suitable learning strategies.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 3 · Outcome 7
+    competencies:
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s03
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-programming
+      - edu-bme-communication
+      - edu-bme-capstone
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - New-source evaluation and unfamiliar transfer tasks require student results and faculty
+        review; watching content is not completion.
+    evidence:
+      - "Term 3: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 3
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 3
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a03-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-C4
+    title: Criterion 4 · Continuous improvement
+    requirement: Assess attainment and use results for improvement.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 4 · Continuous improvement
+    competencies: []
+    studios: []
+    assessments: []
+    chapters: []
+    coverage: gap
+    review_status: academic_review_pending
+    gaps:
+      - No learner results, longitudinal comparison or completed improvement cycle exists.
+    evidence:
+      - Assessment definitions include dimension-level rubrics and targeted reassessment.
+      - "Proposed review cycle: faculty samples individual work each term, identifies weak
+        dimensions, records corrective action and checks the next cohort/iteration."
+      - A designated program assessment lead and faculty committee must approve thresholds, sampling
+        and action records.
+    instructional_stages: []
+    stage_note: Not a student instructional outcome; institutional evidence and responsible review
+      remain required.
+  - id: EAC-C5-A
+    title: Criterion 5(a) · Mathematics and science
+    requirement: At least 30 credits of mathematics/basic science, with experimental experience.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 5(a) · Mathematics and science
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+    studios:
+      - edu-bme-s01
+      - edu-bme-s02
+      - edu-bme-s03
+      - edu-bme-s04
+      - edu-bme-s06
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+    chapters:
+      - edu-bme-calculus
+      - edu-bme-chemistry
+      - edu-bme-anatomy-physiology
+      - edu-bme-mechanics
+      - edu-bme-statistics
+      - edu-bme-linear-algebra-differential-equations
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Proposed ledger assigns 40 credits. Faculty must verify course-equivalent content, depth,
+        experimental experience and category assignments.
+    evidence:
+      - "Term 1: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 2: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 3: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    proposed_credits: 40
+    required_minimum: 30
+    credit_state: proposed_not_academically_approved
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 1
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 2
+          - 3
+          - 4
+          - 6
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 6
+        assessments:
+          - edu-bme-a01-individual
+          - edu-bme-a02-individual
+          - edu-bme-a03-individual
+          - edu-bme-a04-individual
+          - edu-bme-a06-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-C5-B
+    title: Criterion 5(b) · Engineering topics
+    requirement: At least 45 credits of engineering topics using modern tools.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 5(b) · Engineering topics
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s01
+      - edu-bme-s02
+      - edu-bme-s03
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-design-foundations
+      - edu-bme-programming
+      - edu-bme-electricity-circuits
+      - edu-bme-engineering-mechanics-materials
+      - edu-bme-biomechanics
+      - edu-bme-signals
+      - edu-bme-transport
+      - edu-bme-biomaterials
+      - edu-bme-systems-controls
+      - edu-bme-device-integration
+      - edu-bme-quality-risk
+      - edu-bme-design-standards
+      - edu-bme-capstone
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Proposed ledger assigns 58 credits. Academic review must confirm engineering-science/design
+        content and prevent double counting.
+    evidence:
+      - "Term 1: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 2: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 3: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    proposed_credits: 58
+    required_minimum: 45
+    credit_state: proposed_not_academically_approved
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 1
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a01-individual
+          - edu-bme-a02-individual
+          - edu-bme-a03-individual
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-C5-C
+    title: Criterion 5(c) · Broad education
+    requirement: Broad education complements technical study.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 5(c) · Broad education
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s01
+      - edu-bme-s02
+      - edu-bme-s03
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-communication
+      - edu-bme-ethics-society
+      - edu-bme-human-factors
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Proposed ledger assigns 24 credits; breadth and institutional general-education
+        substitutions require review.
+    evidence:
+      - Proposed units address communication, humanities, leadership, economics and global/social
+        consequences.
+      - Official general education is 30 credits with mathematics/science options; it is not the
+        same classification.
+    proposed_credits: 24
+    credit_state: proposed_not_academically_approved
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 1
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a01-individual
+          - edu-bme-a02-individual
+          - edu-bme-a03-individual
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-C5-D
+    title: Criterion 5(d) · Culminating design
+    requirement: Culminating design uses prior learning, standards and multiple constraints.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 5(d) · Culminating design
+    competencies:
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-capstone
+      - edu-bme-design-standards
+      - edu-bme-quality-risk
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Actual standards applicability, sponsor needs, feasibility and culminating depth need
+        faculty review.
+    evidence:
+      - Terms 7–8 require alternatives, architecture, standards rationale, risk/constraint analysis,
+        verification and individual defense.
+      - Traceability must connect earlier mathematics/science/engineering reasoning to final
+        decisions.
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 7
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: EAC-C6
+    title: Criterion 6 · Faculty
+    requirement: Sufficient qualified faculty with program authority.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 6 · Faculty
+    competencies: []
+    studios: []
+    assessments: []
+    chapters: []
+    coverage: gap
+    review_status: academic_review_pending
+    gaps:
+      - No staffing, expertise, workload, advising or faculty-authority plan is approved.
+    evidence:
+      - "Assumed roles: biomedical/physiology lead, mechanics/materials lead,
+        electronics/computation lead, experiment/quality lead and broad-education contributors."
+      - Faculty review must establish actual people, capacity, competence and governance; a list of
+        roles is insufficient.
+    instructional_stages: []
+    stage_note: Not a student instructional outcome; institutional evidence and responsible review
+      remain required.
+  - id: EAC-C7
+    title: Criterion 7 · Facilities
+    requirement: Suitable laboratories, equipment and learning resources.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 7 · Facilities
+    competencies: []
+    studios: []
+    assessments: []
+    chapters: []
+    coverage: gap
+    review_status: academic_review_pending
+    gaps:
+      - Availability, maintenance, student access and oversight for instrumentation, fabrication,
+        biological work and computing have not been verified.
+    evidence:
+      - Studios assume CAD/fabrication, calibrated load/flow/temperature instruments, safe
+        electrical benches and reproducible computing.
+      - Faculty must define actual living-system measurement facilities and protocols.
+    instructional_stages: []
+    stage_note: Not a student instructional outcome; institutional evidence and responsible review
+      remain required.
+  - id: EAC-C8
+    title: Criterion 8 · Institutional support
+    requirement: Leadership and resources sustain the program.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Criterion 8 · Institutional support
+    competencies: []
+    studios: []
+    assessments: []
+    chapters: []
+    coverage: gap
+    review_status: academic_review_pending
+    gaps:
+      - No institutional commitment, operating budget, technical support or long-term resource
+        provision is established.
+    evidence: []
+    instructional_stages: []
+    stage_note: Not a student instructional outcome; institutional evidence and responsible review
+      remain required.
+  - id: BME-BREADTH
+    title: Biomedical curriculum · Breadth and depth
+    requirement: Biomedical engineering and science breadth and depth.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Biomedical curriculum · Breadth and depth
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s01
+      - edu-bme-s02
+      - edu-bme-s03
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-anatomy-physiology
+      - edu-bme-chemistry
+      - edu-bme-biomechanics
+      - edu-bme-signals
+      - edu-bme-transport
+      - edu-bme-biomaterials
+      - edu-bme-device-integration
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Faculty must review the complete science and engineering scope, elective depth and the
+        balance between domain breadth and studio integration.
+    evidence:
+      - "Term 1: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 2: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 3: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 1
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a01-individual
+          - edu-bme-a02-individual
+          - edu-bme-a03-individual
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: BME-PRINCIPLES
+    title: Biomedical curriculum · Item 1
+    requirement: Engineering, biology, physiology, chemistry, calculus-based physics, differential
+      equations and statistics.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Biomedical curriculum · Item 1
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+    studios:
+      - edu-bme-s01
+      - edu-bme-s02
+      - edu-bme-s03
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+    chapters:
+      - edu-bme-anatomy-physiology
+      - edu-bme-chemistry
+      - edu-bme-calculus
+      - edu-bme-mechanics
+      - edu-bme-electricity-circuits
+      - edu-bme-statistics
+      - edu-bme-linear-algebra-differential-equations
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - The named content and proposed credit units need subject-expert review and individual
+        evidence at sufficient depth.
+    evidence:
+      - "Term 1: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 2: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 3: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 1
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+        assessments:
+          - edu-bme-a01-individual
+          - edu-bme-a02-individual
+          - edu-bme-a03-individual
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: BME-INTERACTION
+    title: Biomedical curriculum · Item 2
+    requirement: Solve problems involving living/nonliving interactions.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Biomedical curriculum · Item 2
+    competencies:
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-anatomy-physiology
+      - edu-bme-biomechanics
+      - edu-bme-biomaterials
+      - edu-bme-human-factors
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Bench analogues alone do not establish every relevant biological mechanism; assumptions and
+        limitations need review.
+    evidence:
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 4
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: BME-REALIZATION
+    title: Biomedical curriculum · Item 3
+    requirement: Analyze, model, design and realize biomedical systems.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Biomedical curriculum · Item 3
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s01
+      - edu-bme-s03
+      - edu-bme-s04
+      - edu-bme-s05
+      - edu-bme-s06
+      - edu-bme-s07
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-design-foundations
+      - edu-bme-biomechanics
+      - edu-bme-signals
+      - edu-bme-transport
+      - edu-bme-device-integration
+      - edu-bme-capstone
+    coverage: planned
+    review_status: academic_review_pending
+    gaps:
+      - Prototype performance must be evidenced; no medical or regulatory approval follows from an
+        educational demonstrator.
+    evidence:
+      - "Term 1: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 3: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 4: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 5: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 6: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 7: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+      - "Term 8: designed studio artifacts, individual task, transfer explanation and team rubric;
+        no student attainment results."
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 1
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 1
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+        assessments:
+          - edu-bme-a01-individual
+          - edu-bme-a03-individual
+          - edu-bme-a04-individual
+          - edu-bme-a05-individual
+          - edu-bme-a06-individual
+          - edu-bme-a07-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+  - id: BME-LIVING-MEASUREMENT
+    title: Biomedical curriculum · Item 4
+    requirement: Measure living systems and interpret their data.
+    source: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    source_clause: Biomedical curriculum · Item 4
+    competencies:
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studios:
+      - edu-bme-s02
+      - edu-bme-s03
+      - edu-bme-s05
+      - edu-bme-s08
+    assessments:
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    chapters:
+      - edu-bme-experimental-measurement
+      - edu-bme-anatomy-physiology
+      - edu-bme-statistics
+      - edu-bme-signals
+    coverage: gap
+    review_status: academic_review_pending
+    gaps:
+      - A faculty-defined experience involving actual living-system measurement, with
+        facilities/protocols/oversight and individual analysis evidence, is unresolved. Synthetic
+        demonstration data does not satisfy this requirement.
+    evidence:
+      - Measurement studios define analysis and uncertainty evidence.
+      - The software demonstration uses synthetic or nonsensitive existing data; it proves
+        navigation, not completion of a living-system measurement experience.
+    instructional_stages:
+      - stage: introduced
+        terms:
+          - 2
+        meaning: First explicitly mapped guided opportunity in this proposal.
+      - stage: practiced
+        terms:
+          - 3
+          - 5
+          - 8
+        meaning: Repeated application, explanation and feedback; complexity and independence increase.
+      - stage: assessed
+        terms:
+          - 2
+          - 3
+          - 5
+          - 8
+        assessments:
+          - edu-bme-a02-individual
+          - edu-bme-a03-individual
+          - edu-bme-a05-individual
+          - edu-bme-a08-individual
+        meaning: Defined individual assessment opportunities; no student attainment results exist.
+    stage_note: These preparatory opportunities do not resolve the stated coverage gap.
+stage_interpretation: Introduced/practiced/assessed describe designed curricular opportunities only.
+  Assessed means an individual assessment is defined, never that a learner passed. Repeated practice
+  and formative feedback also occur inside the introductory term. Institutional criteria are
+  reviewed through policies and support evidence, not student instructional stages.

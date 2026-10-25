@@ -1,0 +1,32 @@
+id: edu-bme-c06-technical
+name: Integrate and verify a biomedical system
+summary: Trace each priority requirement through mechanical, electrical and software interfaces to a
+  repeatable test. Predict closed-loop response and test a disturbance or boundary condition.
+  Identify important hazards, verify chosen risk controls, and distinguish bench performance from a
+  clinical conclusion.
+chapters:
+  - edu-bme-systems-controls
+  - edu-bme-device-integration
+  - edu-bme-quality-risk
+  - edu-bme-anatomy-physiology
+prerequisites:
+  - edu-bme-c05-technical
+resources:
+  - edu-res-controls
+  - edu-res-integration
+  - edu-res-risk
+  - edu-res-physiology
+assessments:
+  - edu-bme-a06-individual
+performance_criteria:
+  - Trace each priority requirement through mechanical, electrical and software interfaces to a
+    repeatable test.
+  - Predict closed-loop response and test a disturbance or boundary condition.
+  - Identify important hazards, verify chosen risk controls, and distinguish bench performance from
+    a clinical conclusion.
+  - Explain immune/host response implications of the chosen materials and intended use.
+review_status: academic_review_pending
+expected_level: independent integration
+stage: assessed
+mastery_requires: Individual assessment evidence and review; viewing content or passing a team
+  demonstration does not demonstrate this capability.

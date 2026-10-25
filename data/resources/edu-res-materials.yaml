@@ -1,0 +1,30 @@
+schema_version: 1
+id: edu-res-materials
+title: University Physics Volume 1 — 12.3 Stress, Strain, and Elastic Modulus
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/university-physics-volume-1/pages/12-3-stress-strain-and-elastic-modulus
+format: reading
+topics:
+  - edu-bme-engineering-mechanics-materials
+  - edu-bme-biomechanics
+description: Develop stress–strain reasoning and the limits of a linear elastic model.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected tensile stress/strain, Young's modulus, shear/bulk definitions and the limited linear range.
+engagement_rationale: Worked loading examples and dimensionless strain allow quick prediction checks.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: A specimen has initial length 100 mm and cross-section 10 mm². Synthetic
+  forces [0,10,20,30,40] N produce extensions [0,0.05,0.10,0.15,0.30] mm. Estimate the initial modulus,
+  identify failure of a single linear fit and predict the effect of doubling the cross-section."
+assessment_connection: "Term 4 individual: defend the model and changed geometry; team: negotiate
+  load/geometry interfaces and test a discrepancy."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: Tabulated values are teaching references, not design allowables. Living tissues can be
+  anisotropic, nonlinear and viscoelastic; dedicated depth is still needed.
+assessment_ids:
+  - edu-bme-a04-individual
+  - edu-bme-a04-team
+  - edu-bme-a05-individual
+  - edu-bme-a05-team

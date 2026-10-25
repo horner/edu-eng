@@ -1,0 +1,37 @@
+schema_version: 1
+id: edu-res-human-factors
+title: FDA — Applying Human Factors and Usability Engineering to Medical Devices
+creator: US Food and Drug Administration, CDRH
+provider: FDA
+url: https://www.fda.gov/media/80481/download
+format: reading
+topics:
+  - edu-bme-human-factors
+  - edu-bme-design-foundations
+  - edu-bme-design-standards
+description: Read user/environment/interface analysis, critical tasks and formative evaluation for a classroom
+  mock device.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the August 3, 2026 PDF, selected definitions, task-analysis sections and
+  validation scope. Original 2016 issuance is identified separately.
+engagement_rationale: Task walkthroughs make otherwise hidden use errors observable and discussable.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For a nonclinical mock interface, map intended users, environment and
+  task steps; predict two use errors, observe a peer walkthrough, revise and repeat while recording evidence."
+assessment_connection: "Term 3 individual: explain a critical-task decision and limitation; team: demonstrate
+  the revised mock interface. Term 7: connect use-related hazards to the capstone test plan."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+assigned_sections:
+  - 5 Users, Use Environments and User Interface
+  - 6 Preliminary Analyses and Evaluations
+  - 8 Validation scope
+limitations: Peer classroom critique is formative educational work, not representative-user validation or
+  clinical evidence. Guidance contains nonbinding recommendations; current normative requirements need expert
+  review.
+assessment_ids:
+  - edu-bme-a03-individual
+  - edu-bme-a03-team
+  - edu-bme-a07-individual
+  - edu-bme-a07-team

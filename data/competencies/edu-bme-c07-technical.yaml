@@ -1,0 +1,31 @@
+id: edu-bme-c07-technical
+name: Defend a constrained capstone design
+summary: Use prior mathematics, sciences and engineering to compare at least three design
+  alternatives. Identify applicable standards and multiple constraints with dated sources and a
+  rationale for applicability. Defend architecture, economics, acceptance criteria and feasibility
+  before building the final system.
+chapters:
+  - edu-bme-design-standards
+  - edu-bme-capstone
+prerequisites:
+  - edu-bme-c06-technical
+resources:
+  - edu-res-standards
+  - edu-res-capstone
+assessments:
+  - edu-bme-a07-individual
+performance_criteria:
+  - Use prior mathematics, sciences and engineering to compare at least three design alternatives.
+  - Identify applicable standards and multiple constraints with dated sources and a rationale for
+    applicability.
+  - Defend architecture, economics, acceptance criteria and feasibility before building the final
+    system.
+  - Translate a faculty-validated appropriate engineering standard into design choices and
+    verification checks; record version, access and unresolved clauses.
+  - Document and justify tradeoffs across public health, safety and welfare; cultural, global,
+    social, environmental and economic considerations; and technical performance.
+review_status: academic_review_pending
+expected_level: independent professional judgment
+stage: assessed
+mastery_requires: Individual assessment evidence and review; viewing content or passing a team
+  demonstration does not demonstrate this capability.

@@ -1,0 +1,33 @@
+schema_version: 1
+id: edu-bme-electricity-circuits
+name: Electricity, circuits and instrumentation
+category: Biomedical Engineering
+level: 2
+priority: core
+summary: Analyze electrical behavior and assemble a characterized benchtop instrument.
+prerequisites:
+  - edu-bme-mechanics
+  - edu-bme-programming
+related: []
+topics:
+  - id: edu-bme-electricity-circuits-t1
+    name: electric fields
+  - id: edu-bme-electricity-circuits-t2
+    name: circuit laws
+  - id: edu-bme-electricity-circuits-t3
+    name: sensors and amplifiers
+  - id: edu-bme-electricity-circuits-t4
+    name: electrical measurement safety
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-circuits
+competencies:
+  - edu-bme-c03-technical
+assessments:
+  - edu-bme-a03-individual
+review_status: academic_review_pending
+proposed_first_term: 3
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []

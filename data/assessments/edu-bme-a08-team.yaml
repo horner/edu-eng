@@ -1,0 +1,36 @@
+id: edu-bme-a08-team
+name: Term 8 integrated demonstration and team-process review
+mode: team
+task: Demonstrate the studio result against versioned requirements; hand the instructions to another
+  pair for reproduction; inspect decomposition, interfaces, leadership, daily explanation, tested
+  root causes and retrospective follow-up.
+evidence:
+  - Demonstrator and release package
+  - Verification report with explicit failures and limits
+  - Individual defenses and team improvement report
+  - Backlog, dependencies, interface agreements and acceptance-test results.
+  - Dated role/contribution log and concise standup explanations.
+  - Failure investigation with alternative causes, discriminating tests and corrective-action result.
+  - Retrospective experiment and follow-up observation.
+  - Participation and decision evidence showing whose input was considered, how access barriers were
+    addressed and how disagreement was resolved.
+rubric:
+  - "Deliverable and integration (0–3): 0 no system; 1 isolated parts; 2 integrated requirements
+    demonstrated with limitations; 3 independently reproducible integration and sensible boundary
+    tests."
+  - "Decomposition/interfaces (0–3): 0 tasks unexplained; 1 owners only; 2 dependencies and
+    negotiated interfaces checked; 3 interface changes controlled and integration risks reduced
+    early."
+  - "Leadership/communication (0–3): 0 excludes members or one person carries the team; 1 role
+    labels without shared participation; 2 observed rotation, inclusive participation and useful
+    regular explanations; 3 members enable others and resolve disagreement with evidence."
+  - "Learning from failure (0–3): 0 blame; 1 untested Five Whys; 2 competing causes tested and
+    correction verified; 3 learning changes the next design and team process."
+competencies:
+  - edu-bme-c08-team
+review_status: academic_review_pending
+pass_interpretation: "Proposed team gate: at least 2 in each dimension and visible untested/failed
+  requirements. A team pass changes no individual assessment result."
+individual_accountability: Peer feedback is triangulated with versioned work and individual
+  defenses; popularity or time logged is insufficient.
+assessment_state: definition_only_no_student_results

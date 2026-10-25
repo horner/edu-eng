@@ -1,0 +1,24 @@
+schema_version: 1
+id: edu-res-integral
+title: Calculus Volume 1 — 5.2 The Definite Integral
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/calculus-volume-1/pages/5-2-the-definite-integral
+format: reading
+topics:
+  - edu-bme-calculus
+  - edu-bme-transport
+description: Read accumulation as a limit of sums and distinguish signed net area from total magnitude.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected Riemann-sum definition, signed-area reasoning and the worked integral of x².
+engagement_rationale: Geometric examples and checkpoints provide a bridge from samples to accumulated quantity.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For synthetic flow q(t)=2+t mL/s on 0≤t≤4 s, estimate volume with left
+  sums at 1 s and 0.5 s spacing, compare with the analytic integral and explain units, sign and convergence."
+assessment_connection: "Term 1 individual: solve a fresh accumulation case; Term 5: use a balance to justify an analogue model."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team

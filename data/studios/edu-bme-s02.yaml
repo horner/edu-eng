@@ -1,0 +1,43 @@
+id: edu-bme-s02
+name: Measurement bench
+summary: Characterize a low-energy benchtop force or motion measurement setup.
+need: Characterize a low-energy benchtop force or motion measurement setup.
+deliverables:
+  - Calibration data and uncertainty budget
+  - Working data acquisition notebook
+  - Reproducibility and handoff guide
+decomposition:
+  - "Fixture/reference team: negotiate a small, testable backlog with dependencies and acceptance
+    checks."
+  - "Sensor/data team: negotiate a small, testable backlog with dependencies and acceptance checks."
+  - "Analysis/verification team: negotiate a small, testable backlog with dependencies and
+    acceptance checks."
+interfaces:
+  - Units, timestamp and CSV schema
+  - Calibration version and reference range
+  - Mechanical mounting and test loads
+roles:
+  - Rotate technical lead, integration lead, verification lead and communicator within the semester.
+  - Record actual contributions and interface decisions; role titles alone are not evidence.
+experiments:
+  - Test the highest-risk assumption early with a small controlled experiment.
+  - Repeat a measurement or integration test using another team member following only the written
+    protocol.
+root_cause: Investigate inconsistent readings using controlled tests of calibration, mounting,
+  sampling and analysis; verify the selected correction.
+individual_defense: Each student explains one technical decision, one interface they owned, a
+  limitation, a failure they helped investigate, and a new transfer problem without teammates
+  answering.
+competencies:
+  - edu-bme-c02-technical
+  - edu-bme-c02-team
+review_status: academic_review_pending
+standup_protocol: "Use a short Huddle update and optional Pulse video: accomplished, current work,
+  learned, blocked. Give a useful explanation and link the related task/evidence."
+sprint_protocol: Plan a short sprint with backlog, definition of done, mid-sprint integration,
+  demonstration and retrospective. Adapt ceremony timing to physical experiments.
+leadership_rotation: At least two different responsibilities per student per term, covering all four
+  responsibility types over the year.
+retrospective: Choose one change, give it an owner and follow-up date, and compare its effect in the next sprint.
+data_policy: The public prototype stores synthetic/nonsensitive examples only. Actual living-system
+  measurement experiences require faculty-defined protocols and facilities.

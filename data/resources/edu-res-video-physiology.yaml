@@ -1,0 +1,46 @@
+schema_version: 1
+id: edu-res-video-physiology
+title: "Introduction to Anatomy & Physiology: Crash Course Anatomy & Physiology #1"
+creator: Crash Course; script Kathleen Yale; consultant Brandon Jackson
+provider: YouTube
+url: https://www.youtube.com/watch?v=uBGl2BujkPQ
+format: video
+topics:
+  - edu-bme-anatomy-physiology
+description: "Optional orientation: assign 1:08–1:29 for anatomy/physiology, 3:49–4:17 for structure/function
+  and 7:39–9:31 for anatomical language."
+access: Public YouTube page and English transcript export were accessible in this session. Anonymous, regional
+  and classroom playback were not tested; OpenStax supplies text alternatives.
+accuracy_evidence: Read the exported English transcript. Cross-checked the assigned structure/function and
+  directional-term sections against OpenStax sections 1.5 and 1.6. The historical overview, numerical trivia
+  and dramatic universal homeostasis wording are outside the verified assignment.
+engagement_rationale: "Observed in the transcript: direct questions, a playful tone and an applied
+  spatial-description quiz. These can invite participation; full pacing, graphics, humor reception and
+  learning effectiveness were not tested."
+review_status: transcript_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Draw a simple body diagram and describe the elbow relative to the wrist
+  using proximal/distal, then identify sagittal, frontal and transverse cuts. Exchange a short location
+  description with a teammate and revise any ambiguity. Verify one structure/function claim against the
+  reading."
+assessment_connection: "Term 1 individual: explain and source-check a mechanism; watching alone supplies no mastery result."
+review_scope: Complete exported English transcript read; only assigned mechanism/terminology segments
+  cross-checked. No claim of complete audiovisual viewing or approval of every historical, numerical or
+  clinical assertion.
+role: optional_supplement
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team
+required: false
+limitations: Introductory terminology, not organ-system depth. The historical segment 2:33–3:47 and numerical
+  trivia were not validated and are not assigned. Explain homeostasis as regulation within limits; do not
+  interpret dramatic phrasing as invariance under arbitrary conditions.
+assigned_segments:
+  - "1:08–1:29: anatomy and physiology"
+  - "3:49–4:17: structure and function"
+  - "7:39–9:31: anatomical terminology"
+related_sources:
+  - https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis
+  - https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology
+transcript_evidence: English YouTube transcript exported through the supported browser transcript tool on
+  2026-10-25; caption provenance reported authored or unspecified. No transcript is redistributed.

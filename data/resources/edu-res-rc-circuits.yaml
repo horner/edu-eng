@@ -1,0 +1,31 @@
+schema_version: 1
+id: edu-res-rc-circuits
+title: "MIT 6.002 — Lecture 12: Capacitors and first-order systems"
+creator: Anant Agarwal and Jeffrey Lang
+provider: MIT OpenCourseWare
+url: https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l12/
+format: reading
+topics:
+  - edu-bme-electricity-circuits
+  - edu-bme-linear-algebra-differential-equations
+  - edu-bme-signals
+description: Use ideal capacitor and RC models to connect stored charge and transient response.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Verified the lecture and PDF; inspected selected introductory capacitor/RC material, not
+  the entire electronics course.
+engagement_rationale: Circuit and response diagrams support a prediction before simulation.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For R=10 kohm, C=10 microfarad and an initially uncharged capacitor
+  driven by a 1 V step, predict the time constant and voltage at one time constant. Double R, then C; compare
+  a simulation and explain how a measurement could distinguish a wrong component value from sensor lag."
+assessment_connection: "Term 3 individual: explain transient behavior; Term 4: connect the circuit equation to a first-order model."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a03-individual
+  - edu-bme-a03-team
+related_sources:
+  - https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/84f4b553fc6a1ddd7007465041c4e213_6002_l12.pdf
+limitations: Historical ideal-element notes; include component tolerances and contemporary safe
+  instrumentation before a bench exercise.

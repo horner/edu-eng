@@ -1,0 +1,37 @@
+schema_version: 1
+id: edu-bme-engineering-mechanics-materials
+name: Engineering mechanics and materials
+category: Biomedical Engineering
+level: 2
+priority: core
+summary: Connect load cases, geometry and material properties to component behavior.
+prerequisites:
+  - edu-bme-mechanics
+  - edu-bme-chemistry
+related:
+  - me-mechanics-of-materials
+  - me-engineering-materials
+topics:
+  - id: edu-bme-engineering-mechanics-materials-t1
+    name: statics and dynamics
+  - id: edu-bme-engineering-mechanics-materials-t2
+    name: stress and strain
+  - id: edu-bme-engineering-mechanics-materials-t3
+    name: failure and fatigue
+  - id: edu-bme-engineering-mechanics-materials-t4
+    name: material selection
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-materials
+competencies:
+  - edu-bme-c04-technical
+assessments:
+  - edu-bme-a04-individual
+review_status: academic_review_pending
+proposed_first_term: 4
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links:
+  - me-mechanics-of-materials
+  - me-engineering-materials

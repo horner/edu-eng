@@ -1,0 +1,29 @@
+schema_version: 1
+id: edu-res-buffer
+title: Chemistry 2e — 14.6 Buffers
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/chemistry-2e/pages/14-6-buffers
+format: reading
+topics:
+  - edu-bme-chemistry
+  - edu-bme-biomaterials
+description: Use after acids, bases and equilibrium to explain buffered conditions.
+access: Public text accessible without an account during this audit.
+accuracy_evidence: Inspected weak-acid/conjugate-base response and the worked acetate buffer example.
+engagement_rationale: A before/after perturbation makes equilibrium response tangible.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: An ideal acetate buffer starts with 0.010 mol each of acid and conjugate
+  base in 1.0 L; take pKa=4.74. Predict pH before and after 0.001 mol strong acid is added, neglecting volume
+  change; compare with an unbuffered model and state capacity/equilibrium limits."
+assessment_connection: "Term 1 individual: explain a chemical assumption and changed case; reuse in Term 5
+  materials/medium rationale."
+review_scope: Selected text and examples inspected; not a full textbook or faculty review.
+role: supplement
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team
+prerequisite_knowledge:
+  - molarity, acid/base equilibria and logarithms
+limitations: This is a paper calculation, not a clinical preparation or a complete equilibrium sequence.

@@ -1,0 +1,54 @@
+schema_version: 1
+id: edu-bme-communication
+name: Engineering explanation and technical writing
+category: Biomedical Engineering
+level: 1
+priority: core
+summary: Make engineering reasoning understandable and actionable for different audiences.
+prerequisites: []
+related: []
+topics:
+  - id: edu-bme-communication-t1
+    name: claims and evidence
+  - id: edu-bme-communication-t2
+    name: design drawings
+  - id: edu-bme-communication-t3
+    name: audience adaptation
+  - id: edu-bme-communication-t4
+    name: concise progress explanations
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-communication
+competencies:
+  - edu-bme-c01-team
+  - edu-bme-c02-team
+  - edu-bme-c03-team
+  - edu-bme-c04-team
+  - edu-bme-c05-team
+  - edu-bme-c06-team
+  - edu-bme-c07-team
+  - edu-bme-c08-team
+assessments:
+  - edu-bme-a01-individual
+  - edu-bme-a02-individual
+  - edu-bme-a03-individual
+  - edu-bme-a04-individual
+  - edu-bme-a05-individual
+  - edu-bme-a06-individual
+  - edu-bme-a07-individual
+  - edu-bme-a08-individual
+review_status: academic_review_pending
+proposed_first_term: 1
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []
+proposed_terms:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8

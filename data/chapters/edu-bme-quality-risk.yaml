@@ -1,0 +1,33 @@
+schema_version: 1
+id: edu-bme-quality-risk
+name: Quality, risk and verification
+category: Biomedical Engineering
+level: 2
+priority: core
+summary: Use evidence to prioritize risks, investigate failures, and verify corrective action.
+prerequisites:
+  - edu-bme-experimental-measurement
+  - edu-bme-ethics-society
+related: []
+topics:
+  - id: edu-bme-quality-risk-t1
+    name: hazard analysis
+  - id: edu-bme-quality-risk-t2
+    name: risk controls
+  - id: edu-bme-quality-risk-t3
+    name: verification versus validation
+  - id: edu-bme-quality-risk-t4
+    name: root-cause and corrective action
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-risk
+competencies:
+  - edu-bme-c06-technical
+assessments:
+  - edu-bme-a06-individual
+review_status: academic_review_pending
+proposed_first_term: 6
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []

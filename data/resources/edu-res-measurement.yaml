@@ -1,0 +1,35 @@
+schema_version: 1
+id: edu-res-measurement
+title: NIST/SEMATECH e-Handbook — Bias and Accuracy
+creator: NIST/SEMATECH authors
+provider: NIST
+url: https://www.itl.nist.gov/div898/handbook/mpc/section1/mpc113.htm
+format: reading
+topics:
+  - edu-bme-experimental-measurement
+  - edu-bme-quality-risk
+description: Distinguish systematic bias from repeatability and plan a calibration check.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the definition of bias, calibration/check-standard methods and the warning that
+  environmental effects can remain after calibration.
+engagement_rationale: A short diagnostic reference supports a focused argument about evidence.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: A reference length is 100.0 mm; five synthetic readouts are
+  [100.1,100.2,100.3,100.2,100.2] mm. Estimate bias and sample standard deviation. Propose an independent
+  day/operator or temperature check, then distinguish correction from proof that every error is removed."
+assessment_connection: "Term 2 individual: explain the estimate and limitation; Term 3/Term 6 teams: reproduce
+  the protocol, test an alternative cause and verify correction."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+related_sources:
+  - https://www.itl.nist.gov/div898/handbook/mpc/section1/mpc114.htm
+limitations: The linked Variability section distinguishes short- and long-term variation; both were
+  text-inspected. Calibration does not eliminate every error.
+assessment_ids:
+  - edu-bme-a02-individual
+  - edu-bme-a02-team
+  - edu-bme-a03-individual
+  - edu-bme-a03-team
+  - edu-bme-a06-individual
+  - edu-bme-a06-team

@@ -1,0 +1,44 @@
+schema_version: 1
+id: edu-res-team
+title: The Scrum Guide — The Definitive Guide to Scrum
+creator: Ken Schwaber and Jeff Sutherland
+provider: Scrum Guides
+url: https://scrumguides.org/scrum-guide.html
+format: reading
+topics:
+  - edu-bme-team-engineering
+  - edu-bme-communication
+description: Use the 2020 guide for empiricism, cross-functional ownership, a backlog, short cycles, review
+  and retrospective.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the roles, artifacts, Definition of Done and events. Daily Scrum adapts the plan;
+  it is not a status report to a supervisor.
+engagement_rationale: Short recurring feedback loops connect team discussions to an inspectable increment.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Break a studio goal into dependent tasks and testable interfaces; rotate
+  leads, integrate mid-sprint, demonstrate evidence and test one retrospective improvement in the next
+  sprint."
+assessment_connection: Term 1–Term 8 team assessments inspect decomposition, interfaces, leadership rotation
+  and tested learning from failure. Individual defenses retain separate contribution evidence.
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: Adapt cadence to physical experiments. Scrum does not supply engineering decomposition expertise
+  or root-cause proof; pair the separate Five Whys reading and causal tests.
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team
+  - edu-bme-a02-individual
+  - edu-bme-a02-team
+  - edu-bme-a03-individual
+  - edu-bme-a03-team
+  - edu-bme-a04-individual
+  - edu-bme-a04-team
+  - edu-bme-a05-individual
+  - edu-bme-a05-team
+  - edu-bme-a06-individual
+  - edu-bme-a06-team
+  - edu-bme-a07-individual
+  - edu-bme-a07-team
+  - edu-bme-a08-individual
+  - edu-bme-a08-team

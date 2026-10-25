@@ -1,0 +1,50 @@
+id: edu-bme-s07
+name: Capstone design review
+summary: Define a stakeholder-informed biomedical capstone that can be evaluated with available resources.
+need: Define a stakeholder-informed biomedical capstone that can be evaluated with available resources.
+deliverables:
+  - Needs and prioritized requirements
+  - Alternative-design and constraints analysis
+  - Design-review package and verification plan
+  - Standard-clause to requirement/design/test trace, with version, applicability and access
+    limitations.
+  - Constraint/tradeoff matrix covering public health, safety, welfare, culture, global/social
+    effects, environment, economics and technical performance.
+decomposition:
+  - "Stakeholder/needs lead: negotiate a small, testable backlog with dependencies and acceptance
+    checks."
+  - "Architecture and interface leads: negotiate a small, testable backlog with dependencies and
+    acceptance checks."
+  - "Evidence/risk/verification lead: negotiate a small, testable backlog with dependencies and
+    acceptance checks."
+interfaces:
+  - Stakeholder and intended-use statement
+  - Subsystem acceptance criteria
+  - Budget, standards and review decision log
+roles:
+  - Rotate technical lead, integration lead, verification lead and communicator within the semester.
+  - Record actual contributions and interface decisions; role titles alone are not evidence.
+experiments:
+  - Test the highest-risk assumption early with a small controlled experiment.
+  - Repeat a measurement or integration test using another team member following only the written
+    protocol.
+  - Use a current faculty-validated standard or documented permitted excerpt to derive and trial at
+    least one concrete verification procedure; retain any unresolved access or applicability issue.
+root_cause: Run an early risk-reduction experiment, record a rejected assumption, and change the
+  design or justify retaining it with evidence.
+individual_defense: Each student explains one technical decision, one interface they owned, a
+  limitation, a failure they helped investigate, and a new transfer problem without teammates
+  answering.
+competencies:
+  - edu-bme-c07-technical
+  - edu-bme-c07-team
+review_status: academic_review_pending
+standup_protocol: "Use a short Huddle update and optional Pulse video: accomplished, current work,
+  learned, blocked. Give a useful explanation and link the related task/evidence."
+sprint_protocol: Plan a short sprint with backlog, definition of done, mid-sprint integration,
+  demonstration and retrospective. Adapt ceremony timing to physical experiments.
+leadership_rotation: At least two different responsibilities per student per term, covering all four
+  responsibility types over the year.
+retrospective: Choose one change, give it an owner and follow-up date, and compare its effect in the next sprint.
+data_policy: The public prototype stores synthetic/nonsensitive examples only. Actual living-system
+  measurement experiences require faculty-defined protocols and facilities.

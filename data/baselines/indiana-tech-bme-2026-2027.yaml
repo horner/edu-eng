@@ -1,0 +1,389 @@
+schema_version: 1
+id: indiana-tech-bme-2026-2027
+name: Indiana Tech current biomedical degree baseline
+institution: indiana-tech
+catalog_year: 2026–2027
+date_checked: 2026-10-25
+review_status: source_verified_academic_interpretation_pending
+source:
+  url: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+  retrieval_method: "Visible Chrome catalog navigation: home → Degree Options → Biomedical
+    Engineering; expanded general education and course detail panels."
+  catalog_id: 22
+  program_id: 5716
+  source_access_note: Direct web/HTTP requests returned 403 or blank 202 responses; ordinary public
+    browser navigation displayed the current catalog. No login or private data was used.
+degree:
+  name: Biomedical Engineering, B.S.
+  instruction_style: on-campus
+  published_total_credits: 122
+  core_required_courses_credits: 89
+  technical_elective_minimum_credits: 3
+  core_group_published_credits: 92
+  general_education_published_credits: 30
+  credit_reconciliation: The displayed group totals 92 + 30 equal 122. Actual choices, overlaps and
+    preparatory work require advisor review; no proposed studio equivalences are asserted.
+program_educational_objectives:
+  - id: IT-BME-PEO1
+    summary: Engagement and increasing responsibility in biomedical or other professional fields.
+  - id: IT-BME-PEO2
+    summary: Continued technical development, graduate study, professional participation and lifelong
+      learning.
+  - id: IT-BME-PEO3
+    summary: Innovation or entrepreneurship addressing societal and related needs.
+required_courses:
+  - code: BIO 2710
+    title: Human Anatomy and Physiology I
+    credits: 3
+    prerequisite_summary: Restricted to the listed majors/minors; BIO 2720 is a co-requisite.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BIO 2720
+    title: Human Anatomy and Physiology I Lab
+    credits: 1
+    prerequisite_summary: Restricted to the listed majors/minors; BIO 2710 is a co-requisite.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BIO 2730
+    title: Human Anatomy & Physiology II
+    credits: 3
+    prerequisite_summary: BIO 2710; restricted to the listed majors/minors.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BIO 2740
+    title: Human Anatomy & Physiology II Lab
+    credits: 1
+    prerequisite_summary: BIO 2720; restricted to the listed majors/minors.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BIO 2900
+    title: Cell Biology
+    credits: 3
+    prerequisite_summary: BIO 2730 or BIO 1350.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BIO 3000
+    title: Genetics
+    credits: 3
+    prerequisite_summary: BIO 2900.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BIO 3600
+    title: Pathophysiology
+    credits: 3
+    prerequisite_summary: BIO 2900.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BIO 4710
+    title: Immunology
+    credits: 3
+    prerequisite_summary: BIO 2900.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BME 3200
+    title: Thermodynamics & Fluids
+    credits: 3
+    prerequisite_summary: EM 2020 and MA 2100.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BME 3250
+    title: Thermodynamics & Fluids Lab
+    credits: 1
+    prerequisite_summary: BME 3200, permitted as a co-requisite.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BME 3500
+    title: Biomechanics
+    credits: 3
+    prerequisite_summary: EM 2020.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BME 3800
+    title: Medical Device Design Project I
+    credits: 3
+    prerequisite_summary: EGR 3600; ME 3400 may be prior or concurrent.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BME 3810
+    title: Medical Device Design Project II
+    credits: 3
+    prerequisite_summary: BME 3800.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BME 4960
+    title: BME Senior Project I
+    credits: 2
+    prerequisite_summary: EGR 2000, BME 3800 and senior standing.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: BME 4961
+    title: BME Senior Project II
+    credits: 3
+    prerequisite_summary: BME 4960.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: CH 1230
+    title: General Chemistry II
+    credits: 3
+    prerequisite_summary: CH 1220 with at least C-.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: ECE 1100
+    title: C Programming
+    credits: 3
+    prerequisite_summary: None.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: ECE 2100
+    title: Circuit Analysis I
+    credits: 3
+    prerequisite_summary: MA 1210, permitted as a co-requisite.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: EGR 2600
+    title: Materials Science
+    credits: 3
+    prerequisite_summary: One of CH 1000/CH 1220 and one of PH 1100/PH 1300.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: EGR 3600
+    title: CAD I-Parametric Modeling
+    credits: 3
+    prerequisite_summary: EGR 1710 with at least C-.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: EGR 4400
+    title: Professional Practice
+    credits: 3
+    prerequisite_summary: MA 1030, the written-communication general-education requirement and junior standing.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: EM 2010
+    title: Statics
+    credits: 3
+    prerequisite_summary: PH 1300; MA 1210 may be prior or concurrent.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: EM 2020
+    title: Dynamics
+    credits: 3
+    prerequisite_summary: EM 2010 with at least C-.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: EM 3100
+    title: Mechanics of Materials
+    credits: 3
+    prerequisite_summary: EM 2010 with at least C-.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: EM 3150
+    title: Mechanics of Materials Laboratory
+    credits: 1
+    prerequisite_summary: EM 3100, permitted as a co-requisite.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: IIT 1000
+    title: University Experience
+    credits: 1
+    prerequisite_summary: None.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: IIT 2000
+    title: Pre-Internship Seminar
+    credits: 0
+    prerequisite_summary: None.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: MA 1210
+    title: Calculus II
+    credits: 4
+    prerequisite_summary: MA 1200 with at least C-, or equivalent.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: MA 2100
+    title: Differential Equation & Linear Algebra
+    credits: 4
+    prerequisite_summary: MA 1210 with at least C-.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: MA 2430
+    title: Probability & Statistics for Engineers
+    credits: 3
+    prerequisite_summary: MA 1210 with at least C-.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: ME 3400
+    title: Mechanical Engineering Design I
+    credits: 3
+    prerequisite_summary: EM 3100.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: ME 3405
+    title: Finite Element Analysis
+    credits: 1
+    prerequisite_summary: EGR 3600 or EM 2700; ME 3400 may be prior or concurrent.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: PH 1300
+    title: General Physics I
+    credits: 3
+    prerequisite_summary: MA 1100 or MA 1200 with at least C-.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: PH 1310
+    title: General Physics I Laboratory
+    credits: 1
+    prerequisite_summary: PH 1300, permitted as a co-requisite.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+  - code: PH 2300
+    title: General Physics II
+    credits: 3
+    prerequisite_summary: MA 1110 or MA 1210; PH 1300 with at least C-.
+    source: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    verification: course_title_credits_and_expanded_prerequisite_panel_checked
+technical_elective:
+  selection_rule: Choose one from the published technical-elective list; the heading specifies 3 credits.
+  options:
+    - code: BIO 4750
+      title: Pharmacogenomics
+      credits: 3
+    - code: BME 3300
+      title: Biosimulation
+      credits: 3
+    - code: BME 3700
+      title: Biomedical Instrumentation
+      credits: 3
+    - code: BME 4000
+      title: Advanced Cadaver
+      credits: 3
+    - code: BME 4990
+      title: Special Topics in Biomedical Engineering
+      credits: 1–6
+    - code: CH 2400
+      title: Organic Chemistry I
+      credits: 3
+    - code: EGR 2710
+      title: GD&T
+      credits: 3
+    - code: EM 2700
+      title: 3D CAD Parametric Modeling
+      credits: 3
+    - code: IME 3040
+      title: Computer Integrated Manufacturing
+      credits: 4
+    - code: IME 3110
+      title: Six Sigma II
+      credits: 3
+    - code: MA 2200
+      title: Calculus III
+      credits: 4
+    - code: ME 4400
+      title: Mechanical Engineering Design II
+      credits: 3
+    - code: ME 4990
+      title: Special Topics in Mechanical Engineering
+      credits: 1–6
+  interpretation_gap: Some listed choices have 4 or variable credits. Ask the program how those
+    choices affect the stated minimum and approved degree plan.
+general_education:
+  published_total_credits: 30
+  groups:
+    - name: How to Communicate
+      minimum_credits: 9
+      building_blocks:
+        - Collaborative Communication
+        - Written Communication
+        - Oral Communication
+    - name: How to Analyze
+      minimum_credits: 9
+      building_blocks:
+        - Quantitative Reasoning
+        - Qualitative Analysis
+        - Data Analytics and Critical Analysis
+    - name: How to Lead
+      minimum_credits: 9
+      building_blocks:
+        - Lead Self
+        - Lead Others
+        - Lead Globally
+    - name: Global Issues Problem Solving Seminar
+      minimum_credits: 3
+      course: IIT 4960
+  selection_rule: Select a course of at least 3 credits for each building block from the published
+    options. Higher-credit choices may change an individual plan.
+  overlap_rule: When a course fulfills both general education and the major, approved electives
+    increase by the duplicated credits. Do not double-count degree credits.
+  not_abet_broad_education: This institutional grouping includes mathematics and science choices; its
+    30 credits must not be automatically classified as ABET broad education.
+  selected_relevant_options:
+    - code: EGR 1710
+      title: Engineering Graphics and Design
+      credits: 3
+      block: Collaborative Communication
+      prerequisite_summary: MA 1021, permitted as a co-requisite.
+    - code: EGR 2000
+      title: Engineering Communication
+      credits: 3
+      block: Oral Communication
+      prerequisite_summary: Written-communication general-education requirement with at least C-.
+    - code: MA 1200
+      title: Calculus I
+      credits: 4
+      block: Quantitative Reasoning
+      prerequisite_summary: MA 1030 and MA 1055, each with at least C-.
+    - code: CH 1220
+      title: General Chemistry I
+      credits: 3
+      block: Qualitative Analysis
+      prerequisite_summary: MA 1030 with at least C-.
+    - code: MA 2430
+      title: Probability & Statistics for Engineers
+      credits: 3
+      block: Data Analytics and Critical Analysis
+      prerequisite_summary: MA 1210 with at least C-.
+preparatory_courses:
+  degree_credit_status: Excluded from degree requirements per catalog note.
+  courses:
+    - ENG 1000
+    - ENG 1100
+    - MA 1005
+    - MA 1021
+  listed_total_credits: 12
+published_sequencing:
+  semester_grid: Not provided on the captured current degree page; no official eight-semester
+    distribution inferred.
+  verified_prerequisite_chains:
+    - - MA 1200
+      - MA 1210
+      - MA 2100
+    - - BIO 2710
+      - BIO 2730
+      - BIO 2900
+      - BIO 3000
+    - - PH 1300
+      - EM 2010
+      - EM 2020
+      - BME 3500
+    - - EGR 1710
+      - EGR 3600
+      - BME 3800
+      - BME 3810
+    - - BME 3800
+      - BME 4960
+      - BME 4961
+  program_page_yearly_description: Freshman anatomy/physiology and CAD; sophomore/junior device
+    prototyping; senior design or research capstone.
+gaps:
+  - Faculty/registrar must confirm specific general-education choices, overlap replacement and
+    higher-credit technical electives for an actual 122-credit plan.
+  - The BME 3700 elective panel lists EE 2050 as prerequisite, whereas the current core lists ECE
+    2100. Equivalence or substitution has not been assumed.
+  - No current official semester grid or complete term offering schedule was captured.
+  - The older public outcomes page lists two educational objectives; the current catalog lists
+    three. Current catalog is the baseline for this prototype.
+  - No official equivalence between proposed credit units and the required courses has been
+    established.
+historical_sources_excluded:
+  - Official PDF plans from 2014–2015 and earlier show 128–129 credits. They were not used as
+    current requirements.

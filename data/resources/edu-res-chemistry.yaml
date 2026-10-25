@@ -1,0 +1,29 @@
+schema_version: 1
+id: edu-res-chemistry
+title: Chemistry 2e — 3.3 Molarity
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/chemistry-2e/pages/3-3-molarity
+format: reading
+topics:
+  - edu-bme-chemistry
+description: Quantitative solution concentration and dilution, followed by the separate buffer reading.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected molarity as moles per litre of solution, dilution reasoning and worked examples.
+engagement_rationale: Worked calculations with units make errors visible and give immediate practice.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Calculate the volume of a 100 mmol/L stock needed to make 100 mL at 10
+  mmol/L, assuming additive volumes; exchange a written unit check with a partner. Then change the target to
+  25 mmol/L."
+assessment_connection: "Term 1 individual: solve a fresh concentration case and explain the volume assumption;
+  team: include the checked calculation in the fixture material rationale."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+prerequisite_knowledge:
+  - moles, molar mass, algebra and unit conversion
+limitations: The core chemistry sequence still needs bonding, balanced reactions, stoichiometry and
+  equilibrium assignments; this section alone does not cover that sequence.
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a01-team

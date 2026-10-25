@@ -1,0 +1,33 @@
+schema_version: 1
+id: edu-bme-human-factors
+name: Human factors, accessibility and use context
+category: Biomedical Engineering
+level: 2
+priority: core
+summary: Translate user abilities and context into design and evaluation decisions.
+prerequisites:
+  - edu-bme-design-foundations
+  - edu-bme-anatomy-physiology
+related: []
+topics:
+  - id: edu-bme-human-factors-t1
+    name: task analysis
+  - id: edu-bme-human-factors-t2
+    name: accessibility
+  - id: edu-bme-human-factors-t3
+    name: use error
+  - id: edu-bme-human-factors-t4
+    name: social context
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-human-factors
+competencies:
+  - edu-bme-c03-technical
+assessments:
+  - edu-bme-a03-individual
+review_status: academic_review_pending
+proposed_first_term: 3
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []

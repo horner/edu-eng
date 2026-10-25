@@ -1,0 +1,708 @@
+schema_version: 1
+id: biomedical
+name: Biomedical engineering · working backward
+summary: A proposed four-year pathway from independent engineering capability to foundational
+  knowledge, individual mastery and collaborative studio evidence.
+review_status: draft
+target_credits: 122
+entry_prerequisites:
+  - ma-precalculus
+semesters:
+  - id: edu-bme-term-1
+    number: 1
+    title: Year 1 · Semester 1
+    theme: Understand a need and make a first artifact
+    chapters:
+      - edu-bme-design-foundations
+      - edu-bme-anatomy-physiology
+      - edu-bme-chemistry
+      - edu-bme-calculus
+      - edu-bme-communication
+      - edu-bme-team-engineering
+    competencies:
+      - edu-bme-c01-technical
+      - edu-bme-c01-team
+    studio: edu-bme-s01
+    assessments:
+      - edu-bme-a01-individual
+      - edu-bme-a01-team
+    credit_units:
+      - id: edu-bme-credit-1-1
+        title: Calculus I
+        credits: 4
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-1-2
+        title: Chemistry and experimental foundations
+        credits: 4
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-1-3
+        title: Anatomy and physiology with laboratory
+        credits: 4
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-1-4
+        title: Design studio and CAD
+        credits: 2
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-1-5
+        title: Written explanation foundations
+        credits: 2
+        category: broad_education
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+    completion_criteria:
+      - Meet the individual technical/transfer rubric; complete targeted reassessment when a
+        dimension is not yet demonstrated.
+      - Demonstrate studio acceptance checks and publish failed, uncertain and untested claims.
+      - Show role rotation, actionable standup explanations, integration and tested
+        root-cause/retrospective evidence.
+    independence: Frequent coaching and bounded tasks; students explain each decision.
+    concurrent: []
+    term_prerequisites: []
+    concurrent_study_notes: Foundational skills are introduced before their use within the term; a term
+      number alone is not proof of prerequisite mastery.
+  - id: edu-bme-term-2
+    number: 2
+    title: Year 1 · Semester 2
+    theme: Measure before claiming
+    chapters:
+      - edu-bme-programming
+      - edu-bme-mechanics
+      - edu-bme-experimental-measurement
+      - edu-bme-communication
+      - edu-bme-team-engineering
+      - edu-bme-calculus
+      - edu-bme-anatomy-physiology
+    competencies:
+      - edu-bme-c02-technical
+      - edu-bme-c02-team
+    studio: edu-bme-s02
+    assessments:
+      - edu-bme-a02-individual
+      - edu-bme-a02-team
+    credit_units:
+      - id: edu-bme-credit-2-1
+        title: Calculus II
+        credits: 4
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-2-2
+        title: Calculus-based mechanics with laboratory
+        credits: 4
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-2-3
+        title: Engineering programming
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-2-4
+        title: Measurement studio
+        credits: 2
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-2-5
+        title: Technical and interpersonal communication
+        credits: 3
+        category: broad_education
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+    completion_criteria:
+      - Meet the individual technical/transfer rubric; complete targeted reassessment when a
+        dimension is not yet demonstrated.
+      - Demonstrate studio acceptance checks and publish failed, uncertain and untested claims.
+      - Show role rotation, actionable standup explanations, integration and tested
+        root-cause/retrospective evidence.
+    independence: Frequent coaching and bounded tasks; students explain each decision.
+    concurrent: []
+    term_prerequisites:
+      - edu-bme-term-1
+    concurrent_study_notes: Foundational skills are introduced before their use within the term; a term
+      number alone is not proof of prerequisite mastery.
+    foundation_focus:
+      - Integral calculus and series
+      - Calculus-based mechanics with experiment
+      - Physiology and measurement
+      - Programming and technical communication
+  - id: edu-bme-term-3
+    number: 3
+    title: Year 2 · Semester 3
+    theme: Connect instruments people and data
+    chapters:
+      - edu-bme-electricity-circuits
+      - edu-bme-statistics
+      - edu-bme-human-factors
+      - edu-bme-communication
+      - edu-bme-team-engineering
+      - edu-bme-anatomy-physiology
+    competencies:
+      - edu-bme-c03-technical
+      - edu-bme-c03-team
+    studio: edu-bme-s03
+    assessments:
+      - edu-bme-a03-individual
+      - edu-bme-a03-team
+    credit_units:
+      - id: edu-bme-credit-3-1
+        title: Cell biology and genetics
+        credits: 3
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-3-2
+        title: Electricity and magnetism with laboratory
+        credits: 4
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-3-3
+        title: Probability and statistics
+        credits: 3
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-3-4
+        title: Circuits and instrumentation studio
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-3-5
+        title: Human factors and social inquiry
+        credits: 3
+        category: broad_education
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+    completion_criteria:
+      - Meet the individual technical/transfer rubric; complete targeted reassessment when a
+        dimension is not yet demonstrated.
+      - Demonstrate studio acceptance checks and publish failed, uncertain and untested claims.
+      - Show role rotation, actionable standup explanations, integration and tested
+        root-cause/retrospective evidence.
+    independence: Teams plan and coordinate work with faculty design checkpoints.
+    concurrent: []
+    term_prerequisites:
+      - edu-bme-term-2
+    concurrent_study_notes: Foundational skills are introduced before their use within the term; a term
+      number alone is not proof of prerequisite mastery.
+    foundation_focus:
+      - Cellular mechanisms and genetics
+      - Calculus-based electricity and magnetism
+      - Probability and statistics
+      - Circuit measurement and use context
+    continued_chapters:
+      - edu-bme-anatomy-physiology
+  - id: edu-bme-term-4
+    number: 4
+    title: Year 2 · Semester 4
+    theme: Explain and redesign mechanical behavior
+    chapters:
+      - edu-bme-linear-algebra-differential-equations
+      - edu-bme-engineering-mechanics-materials
+      - edu-bme-biomechanics
+      - edu-bme-ethics-society
+      - edu-bme-communication
+      - edu-bme-team-engineering
+      - edu-bme-anatomy-physiology
+    competencies:
+      - edu-bme-c04-technical
+      - edu-bme-c04-team
+    studio: edu-bme-s04
+    assessments:
+      - edu-bme-a04-individual
+      - edu-bme-a04-team
+    credit_units:
+      - id: edu-bme-credit-4-1
+        title: Differential equations and linear algebra
+        credits: 4
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-4-2
+        title: Mechanics and materials
+        credits: 4
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-4-3
+        title: Biomechanical component studio
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-4-4
+        title: Engineering ethics
+        credits: 2
+        category: broad_education
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-4-5
+        title: Pathophysiology
+        credits: 3
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+    completion_criteria:
+      - Meet the individual technical/transfer rubric; complete targeted reassessment when a
+        dimension is not yet demonstrated.
+      - Demonstrate studio acceptance checks and publish failed, uncertain and untested claims.
+      - Show role rotation, actionable standup explanations, integration and tested
+        root-cause/retrospective evidence.
+    independence: Teams plan and coordinate work with faculty design checkpoints.
+    concurrent:
+      - edu-bme-engineering-mechanics-materials
+      - edu-bme-biomechanics
+    term_prerequisites:
+      - edu-bme-term-3
+    concurrent_study_notes: Mechanics/materials is taught before the biomechanical design decisions
+      within the same term; faculty must validate this scaffold.
+    foundation_focus:
+      - Differential equations and linear algebra
+      - Mechanics/materials
+      - Pathophysiology
+      - Ethics
+    continued_chapters:
+      - edu-bme-anatomy-physiology
+  - id: edu-bme-term-5
+    number: 5
+    title: Year 3 · Semester 5
+    theme: Model test and revise
+    chapters:
+      - edu-bme-signals
+      - edu-bme-transport
+      - edu-bme-biomaterials
+      - edu-bme-communication
+      - edu-bme-team-engineering
+      - edu-bme-ethics-society
+    competencies:
+      - edu-bme-c05-technical
+      - edu-bme-c05-team
+    studio: edu-bme-s05
+    assessments:
+      - edu-bme-a05-individual
+      - edu-bme-a05-team
+    credit_units:
+      - id: edu-bme-credit-5-1
+        title: Physiological transport
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-5-2
+        title: Signals and systems
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-5-3
+        title: Biomaterials
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-5-4
+        title: Physiological analogue studio
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-5-5
+        title: Humanities and cultural context
+        credits: 3
+        category: broad_education
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+    completion_criteria:
+      - Meet the individual technical/transfer rubric; complete targeted reassessment when a
+        dimension is not yet demonstrated.
+      - Demonstrate studio acceptance checks and publish failed, uncertain and untested claims.
+      - Show role rotation, actionable standup explanations, integration and tested
+        root-cause/retrospective evidence.
+    independence: Teams select methods and manage interfaces; faculty challenges evidence and risk decisions.
+    concurrent: []
+    term_prerequisites:
+      - edu-bme-term-4
+    concurrent_study_notes: Foundational skills are introduced before their use within the term; a term
+      number alone is not proof of prerequisite mastery.
+  - id: edu-bme-term-6
+    number: 6
+    title: Year 3 · Semester 6
+    theme: Integrate across disciplines
+    chapters:
+      - edu-bme-systems-controls
+      - edu-bme-device-integration
+      - edu-bme-quality-risk
+      - edu-bme-communication
+      - edu-bme-team-engineering
+      - edu-bme-anatomy-physiology
+      - edu-bme-ethics-society
+    competencies:
+      - edu-bme-c06-technical
+      - edu-bme-c06-team
+    studio: edu-bme-s06
+    assessments:
+      - edu-bme-a06-individual
+      - edu-bme-a06-team
+    credit_units:
+      - id: edu-bme-credit-6-1
+        title: Systems and feedback
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-6-2
+        title: Integrated device and risk studio
+        credits: 6
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-6-3
+        title: Leadership and organizational behavior
+        credits: 3
+        category: broad_education
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-6-4
+        title: Immunology and host response
+        credits: 3
+        category: math_science
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+    completion_criteria:
+      - Meet the individual technical/transfer rubric; complete targeted reassessment when a
+        dimension is not yet demonstrated.
+      - Demonstrate studio acceptance checks and publish failed, uncertain and untested claims.
+      - Show role rotation, actionable standup explanations, integration and tested
+        root-cause/retrospective evidence.
+    independence: Teams select methods and manage interfaces; faculty challenges evidence and risk decisions.
+    concurrent: []
+    term_prerequisites:
+      - edu-bme-term-5
+    concurrent_study_notes: Foundational skills are introduced before their use within the term; a term
+      number alone is not proof of prerequisite mastery.
+    foundation_focus:
+      - Immunology and material/host response
+      - Systems/feedback
+      - Integration/quality/risk
+      - Leadership
+    continued_chapters:
+      - edu-bme-anatomy-physiology
+  - id: edu-bme-term-7
+    number: 7
+    title: Year 4 · Semester 7
+    theme: Defend an evidence-based design
+    chapters:
+      - edu-bme-design-standards
+      - edu-bme-capstone
+      - edu-bme-communication
+      - edu-bme-team-engineering
+      - edu-bme-ethics-society
+    competencies:
+      - edu-bme-c07-technical
+      - edu-bme-c07-team
+    studio: edu-bme-s07
+    assessments:
+      - edu-bme-a07-individual
+      - edu-bme-a07-team
+    credit_units:
+      - id: edu-bme-credit-7-1
+        title: Capstone design I
+        credits: 4
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-7-2
+        title: Advanced biomedical elective I
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-7-3
+        title: Engineering research methods
+        credits: 2
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-7-4
+        title: Standards and constrained design
+        credits: 2
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-7-5
+        title: Economics and public decisions
+        credits: 3
+        category: broad_education
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+    completion_criteria:
+      - Meet the individual technical/transfer rubric; complete targeted reassessment when a
+        dimension is not yet demonstrated.
+      - Demonstrate studio acceptance checks and publish failed, uncertain and untested claims.
+      - Show role rotation, actionable standup explanations, integration and tested
+        root-cause/retrospective evidence.
+    independence: Teams own stakeholder-informed scope, verification and handoff; each student defends
+      independent transfer.
+    concurrent: []
+    term_prerequisites:
+      - edu-bme-term-6
+    concurrent_study_notes: Foundational skills are introduced before their use within the term; a term
+      number alone is not proof of prerequisite mastery.
+  - id: edu-bme-term-8
+    number: 8
+    title: Year 4 · Semester 8
+    theme: Verify transfer and hand off
+    chapters:
+      - edu-bme-capstone
+      - edu-bme-communication
+      - edu-bme-team-engineering
+      - edu-bme-ethics-society
+    competencies:
+      - edu-bme-c08-technical
+      - edu-bme-c08-team
+    studio: edu-bme-s08
+    assessments:
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+    credit_units:
+      - id: edu-bme-credit-8-1
+        title: Capstone design II
+        credits: 4
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-8-2
+        title: Advanced biomedical elective II
+        credits: 3
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-8-3
+        title: Engineering verification methods
+        credits: 2
+        category: engineering
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-8-4
+        title: Professional communication and transition
+        credits: 2
+        category: broad_education
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+      - id: edu-bme-credit-8-5
+        title: Global ethics and social impact
+        credits: 3
+        category: broad_education
+        status: proposed
+        classification_note: Proposed teaching allocation for this redesign; not an official Indiana Tech
+          course equivalence or ABET credit determination.
+    completion_criteria:
+      - Meet the individual technical/transfer rubric; complete targeted reassessment when a
+        dimension is not yet demonstrated.
+      - Demonstrate studio acceptance checks and publish failed, uncertain and untested claims.
+      - Show role rotation, actionable standup explanations, integration and tested
+        root-cause/retrospective evidence.
+    independence: Teams own stakeholder-informed scope, verification and handoff; each student defends
+      independent transfer.
+    concurrent: []
+    term_prerequisites:
+      - edu-bme-term-7
+    concurrent_study_notes: Foundational skills are introduced before their use within the term; a term
+      number alone is not proof of prerequisite mastery.
+sources:
+  - id: program
+    url: https://academics.indianatech.edu/program/biomedical-engineering/
+    date_checked: 2026-10-25
+  - id: catalog
+    url: https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5716&returnto=906
+    date_checked: 2026-10-25
+    verification: verified_in_Chrome_from_current_catalog_navigation
+  - id: abet
+    url: https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/
+    date_checked: 2026-10-25
+  - id: outcomes
+    url: https://academics.indianatech.edu/talwar/abet/biomedical-engineering-bs/
+    date_checked: 2026-10-25
+credit_summary:
+  total: 122
+  math_science: 40
+  engineering: 58
+  broad_education: 24
+  status: proposed
+  official_equivalence: not_established
+  note: Single-counted proposed allocation. Official Indiana Tech general education is 30 credits but
+    includes mathematics and science options, so it is not identical to the ABET broad-education
+    classification.
+gaps:
+  - Faculty must calibrate depth, workload, assessment thresholds, prerequisites and
+    concurrent-study scaffolding.
+  - Current 2026–2027 required courses and prerequisites are captured; the proposed units are not
+    official course substitutions. No official semester sequence was published on the captured
+    degree page.
+  - A faculty-defined living-system measurement experience, suitable facilities, protocols and
+    oversight remain required.
+  - No student attainment evidence or continuous-improvement cycle has been collected.
+  - Credit classifications, general-education substitutions and standards applicability require
+    academic review.
+credit_policy: Credit-bearing units are a proposed allocation. Competencies, resources, practice and
+  studio evidence refer to those units and add no duplicate credits.
+status_meanings:
+  draft: Complete enough for prototype review; academic decisions remain pending.
+  assessed: An assessment opportunity is designed, not a claim that a student passed.
+  demonstrated: Requires reviewed individual performance evidence; this public demo contains none.
+recurring_practice:
+  chapters:
+    - edu-bme-communication
+    - edu-bme-team-engineering
+    - edu-bme-ethics-society
+  terms:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+  note: Communication, collaboration, ethical reflection and feedback recur in every studio even where
+    their introductory chapter appears only once.
+general_education_crosswalk_status: pending_academic_review
+graduate_profile:
+  - id: independent-technical-reasoning
+    capability: Formulate an unfamiliar engineering problem, choose and critique quantitative models,
+      and explain uncertainty.
+    competencies:
+      - edu-bme-c05-technical
+      - edu-bme-c08-technical
+    assessments:
+      - edu-bme-a08-individual
+  - id: build-and-verify
+    capability: Turn a stakeholder need into a constrained design, integrate it, and verify requirements
+      with reproducible evidence.
+    competencies:
+      - edu-bme-c06-technical
+      - edu-bme-c07-technical
+      - edu-bme-c08-technical
+    assessments:
+      - edu-bme-a07-individual
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+  - id: collaborate-and-lead
+    capability: Decompose work, negotiate interfaces, rotate leadership, resolve integration failures
+      and verify a team-process improvement.
+    competencies:
+      - edu-bme-c06-team
+      - edu-bme-c08-team
+    assessments:
+      - edu-bme-a08-individual
+      - edu-bme-a08-team
+  - id: communicate-and-exercise-judgment
+    capability: Explain a decision across audiences, document limits and weigh ethical, human and wider
+      consequences.
+    competencies:
+      - edu-bme-c07-technical
+      - edu-bme-c08-team
+    assessments:
+      - edu-bme-a07-individual
+      - edu-bme-a08-individual
+  - id: learn-independently
+    capability: Evaluate a new source, apply it to an unfamiliar case and defend its limits without
+      relying on teammates to answer.
+    competencies:
+      - edu-bme-c08-technical
+    assessments:
+      - edu-bme-a08-individual
+elective_policy:
+  review_status: academic_review_pending
+  credits_in_existing_ledger: 6
+  terms:
+    - 7
+    - 8
+  meaning: Choose an advanced emphasis or coherent pair with a faculty reviewer. These choices use the
+    two existing 3-credit elective units and add no credits. They are proposed options, not Indiana
+    Tech approved elective substitutions.
+  options:
+    - id: advanced-biomechanics
+      name: Advanced biomechanical modeling
+      chapters:
+        - edu-bme-biomechanics
+        - edu-bme-engineering-mechanics-materials
+      resources:
+        - edu-res-biomechanics
+        - edu-res-materials
+      individual_evidence: Compare an analytical model with a numerical or experimental model; justify
+        boundary conditions, sensitivity and a changed load case.
+    - id: advanced-signals-controls
+      name: Advanced biomedical signals and feedback
+      chapters:
+        - edu-bme-signals
+        - edu-bme-systems-controls
+      resources:
+        - edu-res-fourier
+        - edu-res-controls
+      individual_evidence: Build and test a documented analysis/control pipeline; quantify noise, sampling
+        and model limits on an unfamiliar synthetic case.
+    - id: advanced-biomaterials-transport
+      name: Advanced biomaterials and transport
+      chapters:
+        - edu-bme-biomaterials
+        - edu-bme-transport
+      resources:
+        - edu-res-biomaterials
+        - edu-res-transport
+      individual_evidence: Model a transport or host-material interaction; compare assumptions against a
+        relevant supplied dataset or controlled analogue and defend the biological limitations.
+  assessment_connection:
+    - edu-bme-a07-individual
+    - edu-bme-a08-individual
+  gap: Faculty must approve breadth, advanced depth, prerequisites, workload and how elective evidence
+    is assessed; an emphasis cannot replace required biomedical breadth.

@@ -1,0 +1,32 @@
+schema_version: 1
+id: edu-bme-design-standards
+name: Standards, constraints and design review
+category: Biomedical Engineering
+level: 3
+priority: core
+summary: Identify applicable expectations and document justified design tradeoffs.
+prerequisites:
+  - edu-bme-quality-risk
+related: []
+topics:
+  - id: edu-bme-design-standards-t1
+    name: applicable standards research
+  - id: edu-bme-design-standards-t2
+    name: regulatory context
+  - id: edu-bme-design-standards-t3
+    name: multiple constraints
+  - id: edu-bme-design-standards-t4
+    name: engineering economics
+discipline: edu-biomedical
+ownership: local
+resources:
+  - edu-res-standards
+competencies:
+  - edu-bme-c07-technical
+assessments:
+  - edu-bme-a07-individual
+review_status: academic_review_pending
+proposed_first_term: 7
+scope_note: Locally authored biomedical application scope; related KN chapters are supporting
+  references, not a requirement to master their entire catalog scope.
+foundation_links: []

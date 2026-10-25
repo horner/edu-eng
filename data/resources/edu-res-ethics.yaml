@@ -1,0 +1,34 @@
+schema_version: 1
+id: edu-res-ethics
+title: NSPE Code of Ethics for Engineers
+creator: National Society of Professional Engineers
+provider: NSPE
+url: https://www.nspe.org/career-growth/nspe-code-ethics-engineers
+format: reading
+topics:
+  - edu-bme-ethics-society
+  - edu-bme-design-foundations
+  - edu-bme-capstone
+description: Assign the canons and relevant practice rules, then apply them to a design decision with competing interests.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected safety/welfare, competence, truthful statements, conflicts and acknowledging
+  errors; the code is marked revised July 2019.
+engagement_rationale: A short professional code creates a clear reference for a contested case discussion.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: Write an individual decision memo about a failed prototype requirement
+  under schedule pressure; cite relevant clauses, affected stakeholders, uncertainty and an escalation path.
+  Debate alternatives as a team."
+assessment_connection: "Term 4 individual: defend an ethical tradeoff with evidence; Term 7/Term 8: truthfully
+  communicate failed requirements, limits and responsibility."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: A code supports reasoning; it is not a full ethics curriculum, jurisdiction-specific licensing
+  advice or evidence that a student has demonstrated ethical behavior.
+assessment_ids:
+  - edu-bme-a04-individual
+  - edu-bme-a04-team
+  - edu-bme-a07-individual
+  - edu-bme-a07-team
+  - edu-bme-a08-individual
+  - edu-bme-a08-team

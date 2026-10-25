@@ -1,0 +1,29 @@
+id: edu-bme-c03-team
+name: Integrate independently produced subsystems
+summary: "Work as an accountable teammate: decompose work, negotiate interfaces, rotate leadership,
+  communicate, investigate failure and improve the team process."
+chapters:
+  - edu-bme-team-engineering
+  - edu-bme-communication
+prerequisites:
+  - edu-bme-c02-team
+resources:
+  - edu-res-team
+  - edu-res-communication
+assessments:
+  - edu-bme-a03-individual
+  - edu-bme-a03-team
+performance_criteria:
+  - Backlog separates useful deliverables with owners, dependencies, interface contracts and
+    objective acceptance checks.
+  - Each member rotates through leadership, integration, verification and communication
+    responsibilities with observable work evidence.
+  - "Create an inclusive working environment: invite and credit each member’s input, make
+    explanations accessible, and resolve disagreement through explicit decisions and evidence."
+  - Each active workday has a concise standup or short video update explaining progress, next work,
+    learning and blockers; asynchronous access is permitted.
+  - A failed assumption or integration issue is investigated with tested causal hypotheses; Five
+    Whys alone is not proof of a root cause.
+  - The retrospective records a specific process change and checks its effect in the next iteration.
+review_status: academic_review_pending
+expected_level: independent coordination

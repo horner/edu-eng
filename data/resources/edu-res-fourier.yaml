@@ -1,0 +1,31 @@
+schema_version: 1
+id: edu-res-fourier
+title: Fourier transforms — visual companion lesson
+creator: Grant Sanderson; text adaptation by James Schloss
+provider: 3Blue1Brown
+url: https://www.3blue1brown.com/lessons/fourier-transforms/
+format: reading
+topics:
+  - edu-bme-signals
+description: Read the frequency-decomposition and winding interpretation alongside the optional video and
+  sampled-signal practice.
+access: Public reading accessible without an account during this audit; follow the source link for original material.
+accuracy_evidence: Inspected the companion text's continuous-transform integral, complex winding construction
+  and superposed-sound examples.
+engagement_rationale: The observed geometric winding narrative and visual frequency examples build intuition before computation.
+review_status: content_reviewed
+date_checked: 2026-10-25
+practice: "Locally authored activity: For s(t)=sin(2π5t)+0.5sin(2π18t), predict the frequencies and sample at
+  100 Hz for 2 s. Compute a spectrum, then resample at 25 Hz and explain the aliased 18 Hz component using the
+  numerical-signal reading. Label amplitudes, time and frequency units."
+assessment_connection: "Term 5 individual: explain frequencies and an unfamiliar sampling case; team: preserve
+  timing and units across the analysis pipeline."
+review_scope: Selected text, objectives, equations or worked examples were inspected; this is not full-course
+  or faculty review.
+limitations: Article content was inspected; the full video was not watched. Continuous-transform intuition
+  alone does not establish FFT normalization, sampling, aliasing or filter design competence.
+related_sources:
+  - https://www.youtube.com/watch?v=spUNpyF58BY
+assessment_ids:
+  - edu-bme-a05-individual
+  - edu-bme-a05-team
