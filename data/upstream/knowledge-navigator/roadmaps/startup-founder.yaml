@@ -1,0 +1,495 @@
+id: startup-founder
+name: Startup Founder
+icon: 🦄
+tagline: Take an idea from the first customer conversations to a funded company that is growing.
+description: For would-be founders and early startup staff with no business training; school maths is enough. You start with business basics and the numbers, then find and test an opportunity with real customers, work out a business model and its finances, set the company up legally, build a first product and win early customers through marketing and founder-led sales. The route ends with leading a team, raising money and what changes when a company scales.
+outcomes:
+  - Run customer discovery interviews without leading questions and decide from the evidence whether a problem is worth solving
+  - Design a minimum viable product or smoke test and judge product-market fit from retention data rather than vanity metrics
+  - Build a driver-based financial model with revenue, costs, cash flow, burn rate and runway, and work out unit economics such as CAC, lifetime value and payback period
+  - Choose a legal structure and put founder agreements, vesting and IP assignment in place, and know when you need a lawyer
+  - Write a positioning statement, pick two or three traction channels, set a launch price and close the first customers through founder-led sales
+  - Compare bootstrapping, grants, angels and venture capital for your company, and read a term sheet and a cap table, including the dilution from a SAFE
+  - Make the first hires, run one-to-ones and give feedback, and identify the roles and processes a company needs as it grows beyond its founders
+stages:
+  - name: Business basics and the decision to start
+    description: The vocabulary of business, the arithmetic you will use every day, and an honest look at whether, when and with whom to start.
+    items:
+      - chapter: bu-introduction-to-business
+        why: How product, sales, money and people fit together in a business, which is everything you will be responsible for as a founder.
+        depth: full
+      - chapter: ma-arithmetic-pre-algebra
+        why: A refresher on fractions, percentages, ratios and estimation, the arithmetic behind every margin, growth rate and dilution figure.
+        depth: selected
+        focus:
+          - ma-arithmetic-pre-algebra-4
+          - ma-arithmetic-pre-algebra-5
+          - ma-arithmetic-pre-algebra-6
+          - ma-arithmetic-pre-algebra-7
+          - ma-arithmetic-pre-algebra-9
+          - ma-arithmetic-pre-algebra-11
+      - chapter: ma-elementary-intermediate-algebra
+        why: Enough algebra to write a cost or revenue formula, solve for break-even and read a straight-line graph.
+        depth: selected
+        focus:
+          - ma-elementary-intermediate-algebra-5
+          - ma-elementary-intermediate-algebra-6
+          - ma-elementary-intermediate-algebra-7
+          - ma-elementary-intermediate-algebra-11
+      - chapter: bu-business-mathematics
+        why: "Margins, mark-ups, interest, break-even and contribution: the arithmetic that decides whether a business can make money."
+        depth: full
+      - chapter: bu-entrepreneurship-startups
+        why: The whole journey in one pass, so you know what lies ahead and can decide whether starting a company is right for you now.
+        depth: full
+      - chapter: bu-personal-finance
+        why: How much personal runway you need before leaving a job, keeping personal and company money apart, and the risk of having most of your wealth in one illiquid company.
+        depth: selected
+        focus:
+          - bu-personal-finance-1
+          - bu-personal-finance-2
+          - bu-personal-finance-3
+          - bu-personal-finance-10
+          - bu-personal-finance-11
+          - bu-personal-finance-12
+      - chapter: bu-founding-teams-early-hiring
+        why: Choosing a co-founder, splitting equity and agreeing roles are early decisions that are hard to undo; the chapter also covers your first hires and early culture.
+        depth: full
+  - name: Finding and validating an opportunity
+    description: Most startups fail because nobody wants what they built, so this stage tests the problem and the customer before you spend money on a product.
+    items:
+      - chapter: bu-startup-ideas-opportunity
+        why: Where good ideas come from, how to size a market with TAM, SAM and SOM, and how to choose a first market you can actually win.
+        depth: full
+      - chapter: mk-marketing-principles
+        why: Customer value, the marketing mix and the market environment, the basic ideas behind every later go-to-market decision.
+        depth: full
+      - chapter: mk-consumer-behavior
+        why: How customers decide, why early adopters differ from the mainstream and how businesses buy, which tells you who to talk to first.
+        depth: selected
+        focus:
+          - mk-consumer-behavior-2
+          - mk-consumer-behavior-3
+          - mk-consumer-behavior-6
+          - mk-consumer-behavior-10
+          - mk-consumer-behavior-13
+          - mk-consumer-behavior-14
+          - mk-consumer-behavior-15
+      - chapter: ma-descriptive-statistics
+        why: Averages, spread, simple charts and sampling basics, so you can summarise survey results and see why ten interviews are not a statistic.
+        depth: selected
+        focus:
+          - ma-descriptive-statistics-4
+          - ma-descriptive-statistics-3
+          - ma-descriptive-statistics-1
+          - ma-descriptive-statistics-2
+          - ma-descriptive-statistics-9
+      - chapter: mk-customer-research-basics
+        why: Desk research, simple surveys, competitor maps and market sizing that a founder can do in days and with little money.
+        depth: full
+      - chapter: bu-customer-discovery
+        why: "The core founder skill: interviewing customers about what they have actually done, writing down your hypotheses, and testing them with small experiments such as pre-sales."
+        depth: full
+      - chapter: bu-lean-startup-mvp
+        why: Build the smallest product that tests your riskiest assumption, read retention cohorts, and decide whether to pivot or carry on.
+        depth: full
+  - name: Business models and founder finance
+    description: Whether the business can make money, and the records, models and projections that show it to you, a lender or an investor.
+    items:
+      - chapter: bu-business-models
+        why: The Business Model Canvas, revenue models and unit economics show whether each customer makes or loses money before you try to grow.
+        depth: full
+      - chapter: mk-marketing-maths-metrics
+        why: Customer acquisition cost, payback, churn, simple lifetime value and funnel conversion rates, which investors ask about in the first meeting.
+        depth: full
+      - chapter: bu-bookkeeping-basics
+        why: Clean records from the first day make tax returns, investor due diligence and knowing your real cash position far easier.
+        depth: full
+      - chapter: bu-financial-accounting
+        why: Enough accounting to read your own income statement, balance sheet and cash flow statement, and to see why profit and cash are different.
+        depth: selected
+        focus:
+          - bu-financial-accounting-1
+          - bu-financial-accounting-3
+          - bu-financial-accounting-4
+          - bu-financial-accounting-5
+          - bu-financial-accounting-6
+          - bu-financial-accounting-7
+          - bu-financial-accounting-12
+          - bu-financial-accounting-13
+      - chapter: bu-spreadsheet-modelling
+        why: Your financial model, cap table and metrics will live in spreadsheets, so they need to be built so that they can be checked.
+        depth: full
+      - chapter: bu-managerial-cost-accounting
+        why: Cost behaviour, cost-volume-profit analysis, cash budgets and customer profitability for everyday pricing and spending decisions.
+        depth: selected
+        focus:
+          - bu-managerial-cost-accounting-1
+          - bu-managerial-cost-accounting-2
+          - bu-managerial-cost-accounting-3
+          - bu-managerial-cost-accounting-8
+          - bu-managerial-cost-accounting-9
+          - bu-managerial-cost-accounting-12
+      - chapter: bu-business-plans-financial-projections
+        why: Driver-based revenue forecasts, hiring plans, burn rate and runway, and a pitch deck built on the same assumptions.
+        depth: full
+  - name: Legal setup and protecting what you build
+    description: The legal and tax choices made in the first months that are expensive to fix later, and the ethics that keep a young company out of trouble.
+    items:
+      - chapter: bu-legal-foundations-for-founders
+        why: Choice of company type, founder vesting, IP assignment and the contracts every startup needs, compared across the US, UK, EU and India.
+        depth: full
+      - chapter: bu-business-law
+        why: The legal basics of contracts, liability, agency and consumer protection, so you can follow what your lawyer is telling you.
+        depth: selected
+        focus:
+          - bu-business-law-1
+          - bu-business-law-3
+          - bu-business-law-5
+          - bu-business-law-6
+          - bu-business-law-7
+          - bu-business-law-9
+          - bu-business-law-10
+      - chapter: bu-intellectual-property
+        why: Whether to file a patent, how to protect your name and code, how to keep trade secrets, and how to use open-source licences safely.
+        depth: selected
+        focus:
+          - bu-intellectual-property-1
+          - bu-intellectual-property-2
+          - bu-intellectual-property-3
+          - bu-intellectual-property-4
+          - bu-intellectual-property-5
+          - bu-intellectual-property-6
+          - bu-intellectual-property-8
+          - bu-intellectual-property-13
+      - chapter: bu-business-taxation
+        why: How your company type, sales tax or VAT, payroll and founders' capital gains are taxed, and which startup reliefs and R&D credits may apply.
+        depth: selected
+        focus:
+          - bu-business-taxation-3
+          - bu-business-taxation-5
+          - bu-business-taxation-6
+          - bu-business-taxation-7
+          - bu-business-taxation-8
+          - bu-business-taxation-13
+      - chapter: bu-business-ethics
+        why: Pressure to hit targets is how honest founders end up overstating numbers; this covers honesty in sales and reporting, conflicts of interest and the ethics of using customer data.
+        depth: selected
+        focus:
+          - bu-business-ethics-1
+          - bu-business-ethics-5
+          - bu-business-ethics-6
+          - bu-business-ethics-7
+          - bu-business-ethics-10
+          - bu-business-ethics-11
+  - name: Building the product
+    description: Turning what you learned from customers into a product people use, with sensible decisions about technology, security and AI.
+    items:
+      - chapter: bu-management-information-systems
+        why: Enough about cloud services, databases, SaaS tools and working with engineers to make build-or-buy decisions without being a specialist.
+        depth: selected
+        focus:
+          - bu-management-information-systems-2
+          - bu-management-information-systems-3
+          - bu-management-information-systems-4
+          - bu-management-information-systems-7
+          - bu-management-information-systems-8
+      - chapter: bu-product-management
+        why: Deciding what to build next, writing user stories, prioritising and tracking a north-star metric once the MVP has users.
+        depth: full
+      - chapter: bu-cybersecurity-privacy-for-managers
+        why: Basic security habits, privacy law and breach response; one serious incident or data protection complaint can do lasting damage to a small company.
+        depth: selected
+        focus:
+          - bu-cybersecurity-privacy-for-managers-1
+          - bu-cybersecurity-privacy-for-managers-2
+          - bu-cybersecurity-privacy-for-managers-5
+          - bu-cybersecurity-privacy-for-managers-6
+          - bu-cybersecurity-privacy-for-managers-7
+          - bu-cybersecurity-privacy-for-managers-8
+          - bu-cybersecurity-privacy-for-managers-9
+      - chapter: bu-ai-for-business
+        why: Where AI adds real value to your product or operations, how to pilot it cheaply, and the risks of errors, bias and IP problems.
+        depth: selected
+        focus:
+          - bu-ai-for-business-2
+          - bu-ai-for-business-3
+          - bu-ai-for-business-5
+          - bu-ai-for-business-6
+          - bu-ai-for-business-8
+          - bu-ai-for-business-9
+  - name: Going to market
+    description: Choosing whom to sell to, how to position and price the product, and which few marketing channels to try first on a small budget.
+    items:
+      - chapter: mk-segmentation-targeting-positioning
+        why: Choosing a target segment and writing a clear position against the alternatives your customers use today.
+        depth: full
+      - chapter: mk-go-to-market-startups
+        why: Ideal customer profile, crossing the chasm, choosing between self-serve, product-led and sales-led approaches, and planning a launch.
+        depth: full
+      - chapter: bu-startup-go-to-market
+        why: Doing things that do not scale, testing traction channels with the bullseye framework, and setting a weekly growth target.
+        depth: full
+      - chapter: mk-pricing-fundamentals
+        why: Value-based pricing, how buyers perceive prices, and freemium and subscription choices; new founders often set prices too low.
+        depth: full
+      - chapter: mk-copywriting-storytelling
+        why: Clear headlines, benefits and calls to action for your landing page, ads and emails, which you will write yourself before you can hire a marketer.
+        depth: selected
+        focus:
+          - mk-copywriting-storytelling-1
+          - mk-copywriting-storytelling-2
+          - mk-copywriting-storytelling-3
+          - mk-copywriting-storytelling-4
+          - mk-copywriting-storytelling-5
+          - mk-copywriting-storytelling-7
+          - mk-copywriting-storytelling-8
+          - mk-copywriting-storytelling-13
+      - chapter: mk-digital-marketing
+        why: An overview of the online channels and how to put together a simple digital marketing plan with sensible targets.
+        depth: full
+      - chapter: mk-web-product-analytics
+        why: Tracking, UTM tags, funnels and cohorts, so you can see where users come from and where they drop off.
+        depth: selected
+        focus:
+          - mk-web-product-analytics-1
+          - mk-web-product-analytics-2
+          - mk-web-product-analytics-5
+          - mk-web-product-analytics-6
+          - mk-web-product-analytics-7
+          - mk-web-product-analytics-8
+          - mk-web-product-analytics-9
+          - mk-web-product-analytics-13
+      - chapter: mk-conversion-rate-optimization
+        why: Landing pages that convert, and research-based changes to sign-up and checkout, where small gains add up.
+        depth: selected
+        focus:
+          - mk-conversion-rate-optimization-1
+          - mk-conversion-rate-optimization-4
+          - mk-conversion-rate-optimization-5
+          - mk-conversion-rate-optimization-6
+          - mk-conversion-rate-optimization-8
+          - mk-conversion-rate-optimization-9
+          - mk-conversion-rate-optimization-10
+      - chapter: mk-search-engine-optimization
+        why: "Search intent, on-page basics and local SEO: a cheap channel that builds slowly, so it is worth starting early."
+        depth: selected
+        focus:
+          - mk-search-engine-optimization-1
+          - mk-search-engine-optimization-2
+          - mk-search-engine-optimization-3
+          - mk-search-engine-optimization-4
+          - mk-search-engine-optimization-5
+          - mk-search-engine-optimization-9
+          - mk-search-engine-optimization-12
+      - chapter: mk-email-lifecycle-marketing
+        why: Building a permission-based list and automated welcome and onboarding emails within the consent rules.
+        depth: selected
+        focus:
+          - mk-email-lifecycle-marketing-2
+          - mk-email-lifecycle-marketing-3
+          - mk-email-lifecycle-marketing-6
+          - mk-email-lifecycle-marketing-8
+          - mk-email-lifecycle-marketing-10
+  - name: Selling and keeping customers
+    description: Founder-led sales, negotiation and customer success, because the first customers are usually won and kept by the founders themselves.
+    items:
+      - chapter: mk-sales-fundamentals
+        why: The sales process, discovery questions, handling objections and closing honestly, for founders who have never sold before.
+        depth: full
+      - chapter: mk-prospecting-lead-generation
+        why: Building target account lists, writing cold emails and qualifying leads, so your limited selling time goes to the right prospects.
+        depth: selected
+        focus:
+          - mk-prospecting-lead-generation-1
+          - mk-prospecting-lead-generation-2
+          - mk-prospecting-lead-generation-3
+          - mk-prospecting-lead-generation-5
+          - mk-prospecting-lead-generation-6
+          - mk-prospecting-lead-generation-7
+          - mk-prospecting-lead-generation-11
+          - mk-prospecting-lead-generation-12
+      - chapter: bu-business-communication
+        why: Clear emails, proposals and meetings with customers and partners, and later with your team and investors.
+        depth: selected
+        focus:
+          - bu-business-communication-1
+          - bu-business-communication-2
+          - bu-business-communication-3
+          - bu-business-communication-5
+          - bu-business-communication-7
+          - bu-business-communication-8
+          - bu-business-communication-9
+      - chapter: bu-negotiation
+        why: BATNA, anchoring and creating value apply equally to customer deals, supplier terms, job offers and term sheets.
+        depth: full
+      - chapter: mk-retention-loyalty
+        why: Why customers leave and how to keep them; retention is the clearest sign of product-market fit and drives lifetime value.
+        depth: selected
+        focus:
+          - mk-retention-loyalty-1
+          - mk-retention-loyalty-2
+          - mk-retention-loyalty-4
+          - mk-retention-loyalty-5
+          - mk-retention-loyalty-9
+          - mk-retention-loyalty-10
+          - mk-retention-loyalty-11
+          - mk-retention-loyalty-12
+      - chapter: mk-account-management-customer-success
+        why: Onboarding, health scores, renewals and expansion, so early customers become references and revenue from existing customers grows.
+        depth: selected
+        focus:
+          - mk-account-management-customer-success-1
+          - mk-account-management-customer-success-4
+          - mk-account-management-customer-success-5
+          - mk-account-management-customer-success-6
+          - mk-account-management-customer-success-9
+          - mk-account-management-customer-success-10
+          - mk-account-management-customer-success-12
+  - name: Leading the team
+    description: Once you employ people, managing them well becomes much of the job, so this stage covers behaviour at work, leadership, culture and employment law.
+    items:
+      - chapter: bu-organizational-behavior
+        why: "Motivation, group behaviour, power and conflict: what the evidence says about people at work, before you manage your first employee."
+        depth: selected
+        focus:
+          - bu-organizational-behavior-1
+          - bu-organizational-behavior-2
+          - bu-organizational-behavior-6
+          - bu-organizational-behavior-7
+          - bu-organizational-behavior-8
+          - bu-organizational-behavior-10
+          - bu-organizational-behavior-11
+          - bu-organizational-behavior-12
+      - chapter: bu-first-time-manager
+        why: One-to-ones, feedback, delegation and difficult conversations, the practical skills many founders learn too late.
+        depth: full
+      - chapter: bu-leadership
+        why: Setting a direction, leading change and getting honest feedback about yourself as the company comes to depend on you.
+        depth: selected
+        focus:
+          - bu-leadership-1
+          - bu-leadership-5
+          - bu-leadership-8
+          - bu-leadership-9
+          - bu-leadership-12
+          - bu-leadership-13
+      - chapter: bu-organizational-culture-inclusion
+        why: Founders shape culture early whether they intend to or not; this is how to shape it on purpose and keep bias out of hiring and pay.
+        depth: selected
+        focus:
+          - bu-organizational-culture-inclusion-1
+          - bu-organizational-culture-inclusion-4
+          - bu-organizational-culture-inclusion-5
+          - bu-organizational-culture-inclusion-8
+          - bu-organizational-culture-inclusion-9
+          - bu-organizational-culture-inclusion-13
+      - chapter: bu-employment-law
+        why: "Employee or contractor, contracts, discrimination rules, dismissal and non-competes: the legal duties that start with your first hire."
+        depth: selected
+        focus:
+          - bu-employment-law-1
+          - bu-employment-law-2
+          - bu-employment-law-3
+          - bu-employment-law-4
+          - bu-employment-law-7
+          - bu-employment-law-8
+          - bu-employment-law-11
+  - name: Raising money and scaling
+    description: How to fund growth, what outside investors and directors' duties mean for you, and how the company has to change after product-market fit.
+    items:
+      - chapter: bu-presentation-persuasion
+        why: Structuring a pitch, presenting numbers and handling investors' questions in a short meeting.
+        depth: selected
+        focus:
+          - bu-presentation-persuasion-1
+          - bu-presentation-persuasion-2
+          - bu-presentation-persuasion-3
+          - bu-presentation-persuasion-4
+          - bu-presentation-persuasion-5
+          - bu-presentation-persuasion-7
+          - bu-presentation-persuasion-9
+      - chapter: bu-startup-finance-fundraising
+        why: "Bootstrapping, grants, angels, venture capital, SAFEs, dilution, cap tables and term sheets: how to choose the right money and raise it."
+        depth: full
+      - chapter: bu-company-law
+        why: Share classes, directors' duties and shareholder rights start to matter once outside investors own part of your company.
+        depth: selected
+        focus:
+          - bu-company-law-2
+          - bu-company-law-3
+          - bu-company-law-5
+          - bu-company-law-6
+          - bu-company-law-7
+          - bu-company-law-8
+          - bu-company-law-11
+      - chapter: bu-microeconomics-for-business
+        why: Elasticity, economies of scale and market power, which explain why some markets reward size and others stay crowded.
+        depth: selected
+        focus:
+          - bu-microeconomics-for-business-1
+          - bu-microeconomics-for-business-2
+          - bu-microeconomics-for-business-3
+          - bu-microeconomics-for-business-5
+          - bu-microeconomics-for-business-6
+          - bu-microeconomics-for-business-8
+          - bu-microeconomics-for-business-9
+          - bu-microeconomics-for-business-11
+      - chapter: bu-business-strategy
+        why: Five forces, competitive advantage and blue ocean thinking, for deciding where to compete once early traction attracts rivals.
+        depth: selected
+        focus:
+          - bu-business-strategy-1
+          - bu-business-strategy-3
+          - bu-business-strategy-5
+          - bu-business-strategy-7
+          - bu-business-strategy-8
+          - bu-business-strategy-9
+          - bu-business-strategy-11
+          - bu-business-strategy-13
+      - chapter: bu-scaling-ventures
+        why: Hiring at scale, adding managers, OKRs, working with a board and moving from founder to CEO after product-market fit.
+        depth: full
+  - name: Electives
+    description: Optional directions depending on the kind of company you are building and the channels it relies on.
+    items:
+      - chapter: bu-social-entrepreneurship
+        why: "Elective: if your main aim is social or environmental impact, the legal forms, funding and impact measurement that go with it."
+        depth: full
+      - chapter: bu-ecommerce
+        why: "Elective: storefronts, payments, fulfilment and cross-border rules for founders selling physical or digital products online."
+        depth: full
+      - chapter: bu-platform-digital-strategy
+        why: "Elective: network effects, solving the chicken-and-egg problem and platform pricing, for founders building marketplaces."
+        depth: full
+      - chapter: ma-elementary-probability
+        why: "Elective: the probability needed for the business statistics and experimentation chapters that follow."
+        depth: selected
+        focus:
+          - ma-elementary-probability-1
+          - ma-elementary-probability-3
+          - ma-elementary-probability-4
+          - ma-elementary-probability-5
+          - ma-elementary-probability-6
+          - ma-elementary-probability-7
+          - ma-elementary-probability-8
+      - chapter: bu-business-statistics-analytics
+        why: "Elective: confidence intervals, hypothesis tests and regression, so you know when to trust the numbers from your experiments and surveys."
+        depth: full
+      - chapter: mk-ab-testing-experimentation
+        why: "Elective: A/B tests with enough users to give a reliable answer, without peeking or false positives."
+        depth: full
+      - chapter: mk-growth-marketing
+        why: "Elective: growth loops, activation, referral and a structured experiment process, once you have enough traffic to test."
+        depth: full
+related:
+  - business-fundamentals
+  - digital-marketer
+  - software-engineer
+  - understanding-people
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/roadmaps/startup-founder.json
+  sha256: d702e6923025df44bd8cd72bcceb2d5584db5452d22bb3e884c520b305820d36

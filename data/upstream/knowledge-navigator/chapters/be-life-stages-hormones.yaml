@@ -1,0 +1,51 @@
+id: be-life-stages-hormones
+name: Life Stages, Hormones & Appearance
+category: Lifestyle, Wellbeing & Appearance
+level: 2
+priority: important
+summary: How skin, hair and appearance change from infancy through puberty, pregnancy, menopause and older age, and how care should adapt at each stage.
+prerequisites:
+  - be-skincare-fundamentals
+  - be-hair-scalp-science
+related:
+  - hf-hormonal-health
+  - hf-healthy-aging-longevity
+topics:
+  - id: be-life-stages-hormones-1
+    name: "Baby and child skin: barrier, bathing and sun protection"
+  - id: be-life-stages-hormones-2
+    name: "Puberty: oil, acne, body hair and body odour"
+  - id: be-life-stages-hormones-3
+    name: The menstrual cycle and skin
+  - id: be-life-stages-hormones-4
+    name: "Polycystic ovary syndrome: acne, hirsutism and hair thinning"
+  - id: be-life-stages-hormones-5
+    name: Pregnancy and breastfeeding
+    sub:
+      - id: be-life-stages-hormones-5-1
+        name: Melasma, stretch marks and hair changes
+      - id: be-life-stages-hormones-5-2
+        name: Ingredients to avoid or check with a doctor
+      - id: be-life-stages-hormones-5-3
+        name: Postpartum hair shedding
+  - id: be-life-stages-hormones-6
+    name: Contraception and skin
+  - id: be-life-stages-hormones-7
+    name: "Menopause: dryness, thinning, hair changes and hormone therapy"
+  - id: be-life-stages-hormones-8
+    name: Male hormones, ageing and appearance
+  - id: be-life-stages-hormones-9
+    name: "Gender-affirming hormones: effects on skin and hair"
+  - id: be-life-stages-hormones-10
+    name: Thyroid and other hormonal conditions with visible signs
+  - id: be-life-stages-hormones-11
+    name: "Older adults: fragile skin, itching and self-care"
+  - id: be-life-stages-hormones-12
+    name: "Ageing well: pro-ageing attitudes and self-acceptance"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-life-stages-hormones.json
+  sha256: 3050aaad862b4644c97b4ab6ec967a3bac3e3846e43dbfe9ed850c009f6d18d7

@@ -1,0 +1,39 @@
+id: ma-differential-topology
+name: Differential Topology
+category: Topology
+level: 4
+priority: important
+summary: Smooth manifolds, tangent spaces, differential forms and de Rham cohomology, the setting for modern geometry and physics.
+prerequisites:
+  - ma-general-topology
+  - ma-vector-calculus
+  - ma-linear-algebra
+related: []
+topics:
+  - id: ma-differential-topology-1
+    name: Smooth manifolds
+  - id: ma-differential-topology-2
+    name: Tangent spaces
+  - id: ma-differential-topology-6
+    name: Smooth maps, immersions and submersions
+  - id: ma-differential-topology-7
+    name: Sard's theorem and transversality
+  - id: ma-differential-topology-3
+    name: Vector fields
+  - id: ma-differential-topology-8
+    name: Flows and Lie derivatives
+  - id: ma-differential-topology-4
+    name: Differential forms
+  - id: ma-differential-topology-9
+    name: Integration on manifolds and Stokes' theorem
+  - id: ma-differential-topology-5
+    name: De Rham cohomology
+  - id: ma-differential-topology-10
+    name: Degree theory and intersection numbers
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-differential-topology.json
+  sha256: 21e4af0e998904cdd5797ba208e59330eda7c226367b49977880ad89d42d3335

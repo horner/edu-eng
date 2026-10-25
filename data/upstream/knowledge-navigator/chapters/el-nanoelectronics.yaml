@@ -1,0 +1,39 @@
+id: el-nanoelectronics
+name: Nanoelectronics & Beyond-CMOS Devices
+category: Emerging & Advanced Topics
+level: 5
+priority: advanced
+summary: "Research-level devices that may succeed or complement CMOS: quantum transport, tunnel FETs, 2D-material and spintronic devices, and memristive computing."
+prerequisites:
+  - el-semiconductor-devices
+  - ph-quantum-mechanics
+related:
+  - ph-spintronics
+  - ph-nanoscience-nanotechnology
+  - mt-2d-materials
+topics:
+  - id: el-nanoelectronics-1
+    name: Limits of CMOS scaling
+  - id: el-nanoelectronics-2
+    name: "Quantum transport basics: Landauer formalism and ballistic conduction"
+  - id: el-nanoelectronics-3
+    name: Tunnel FETs and negative-capacitance FETs
+  - id: el-nanoelectronics-4
+    name: 2D-material and carbon-nanotube transistors
+  - id: el-nanoelectronics-5
+    name: "Spintronic devices: MTJs, STT- and SOT-MRAM"
+  - id: el-nanoelectronics-6
+    name: Single-electron and molecular devices
+  - id: el-nanoelectronics-7
+    name: Memristors and resistive RAM
+  - id: el-nanoelectronics-8
+    name: Ferroelectric FETs and in-memory computing
+  - id: el-nanoelectronics-9
+    name: Monolithic 3D integration
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-nanoelectronics.json
+  sha256: 015349f60ad36e908531303adca9e997a8cf8527964bef83b009dd9e3b609439

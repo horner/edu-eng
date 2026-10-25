@@ -1,0 +1,45 @@
+id: bu-procurement-sourcing
+name: Procurement & Strategic Sourcing
+category: Operations, Supply Chain & Projects
+level: 3
+priority: important
+summary: How organisations decide what to buy, choose suppliers, negotiate contracts and manage supplier performance and risk.
+prerequisites:
+  - bu-operations-management
+related:
+  - bu-negotiation
+  - bu-contract-commercial-law
+topics:
+  - id: bu-procurement-sourcing-1
+    name: "The procurement process: from requisition to payment"
+  - id: bu-procurement-sourcing-2
+    name: Spend analysis and category management
+  - id: bu-procurement-sourcing-3
+    name: The Kraljic matrix and supplier segmentation
+  - id: bu-procurement-sourcing-4
+    name: Make-or-buy and outsourcing decisions
+  - id: bu-procurement-sourcing-5
+    name: Supplier selection and evaluation
+  - id: bu-procurement-sourcing-6
+    name: Total cost of ownership
+  - id: bu-procurement-sourcing-7
+    name: Tenders, RFPs and e-auctions
+  - id: bu-procurement-sourcing-8
+    name: Negotiating with suppliers
+  - id: bu-procurement-sourcing-9
+    name: "Contract types: fixed price, cost-plus and incentive contracts"
+  - id: bu-procurement-sourcing-10
+    name: Supplier performance management and development
+  - id: bu-procurement-sourcing-11
+    name: Supplier risk, dual sourcing and continuity
+  - id: bu-procurement-sourcing-12
+    name: Ethical and sustainable sourcing; anti-bribery in procurement
+  - id: bu-procurement-sourcing-13
+    name: "Public procurement rules: an overview"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-procurement-sourcing.json
+  sha256: cc0dbab975992b8625348de25bcf6937e8daf78a77790ac3555a5fceace996a8

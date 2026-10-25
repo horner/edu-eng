@@ -1,0 +1,42 @@
+id: bu-managing-teams
+name: Managing Groups & Teams
+category: People, Organisations & Leadership
+level: 2
+priority: important
+summary: How to design, launch and lead teams that make good decisions and get work done.
+prerequisites:
+  - bu-organizational-behavior
+related:
+  - bu-project-management
+topics:
+  - id: bu-managing-teams-1
+    name: When to use a team and what makes teams effective
+  - id: bu-managing-teams-2
+    name: Team composition, size and roles
+  - id: bu-managing-teams-3
+    name: "Team launch: goals, norms and charters"
+  - id: bu-managing-teams-4
+    name: Stages of team development
+  - id: bu-managing-teams-5
+    name: Psychological safety and team learning
+  - id: bu-managing-teams-6
+    name: "Group decision-making: groupthink, polarisation and remedies"
+  - id: bu-managing-teams-7
+    name: Managing conflict in teams
+  - id: bu-managing-teams-8
+    name: "Diversity in teams: benefits and challenges"
+  - id: bu-managing-teams-9
+    name: Virtual, remote and hybrid teams
+  - id: bu-managing-teams-10
+    name: Cross-functional and self-managing teams
+  - id: bu-managing-teams-11
+    name: Team performance measurement and rewards
+  - id: bu-managing-teams-12
+    name: Facilitation techniques for meetings and workshops
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-managing-teams.json
+  sha256: ca8b79bfb218fc1434149e15a472070388aa83d71ab27a04f03dad0743eae796

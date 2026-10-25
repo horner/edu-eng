@@ -1,0 +1,57 @@
+id: be-formulation-science
+name: "Cosmetic Formulation Science: Emulsions, Surfactants & Rheology"
+category: Cosmetic Chemistry & Formulation
+level: 3
+priority: core
+summary: "The physical chemistry of cosmetic formulations: surfactant behaviour, emulsions, gels, powders and how to make products stable and pleasant to use."
+prerequisites:
+  - be-cosmetic-ingredients
+  - ch-organic-structure-bonding
+related:
+  - ch-colloid-interface-science
+  - ch-polymer-chemistry
+  - ch-surface-chemistry
+  - mt-soft-materials
+topics:
+  - id: be-formulation-science-1
+    name: Interfaces and surface tension
+  - id: be-formulation-science-2
+    name: "Surfactant self-assembly: micelles, critical micelle concentration and liquid crystals"
+  - id: be-formulation-science-3
+    name: The hydrophilic-lipophilic balance (HLB) system and emulsifier selection
+  - id: be-formulation-science-4
+    name: Emulsions
+    sub:
+      - id: be-formulation-science-4-1
+        name: Oil-in-water, water-in-oil and multiple emulsions
+      - id: be-formulation-science-4-2
+        name: Emulsification methods and droplet size
+      - id: be-formulation-science-4-3
+        name: "Instability: creaming, flocculation, coalescence and Ostwald ripening"
+      - id: be-formulation-science-4-4
+        name: Stabilisation with polymers, particles (Pickering) and liquid crystals
+  - id: be-formulation-science-5
+    name: Microemulsions, nanoemulsions and solubilisation
+  - id: be-formulation-science-6
+    name: "Rheology: viscosity, yield stress, thixotropy and texture"
+  - id: be-formulation-science-7
+    name: Gels and polymer thickening
+  - id: be-formulation-science-8
+    name: "Anhydrous systems: balms, sticks and oils"
+  - id: be-formulation-science-9
+    name: Powders and dispersions of solids
+  - id: be-formulation-science-10
+    name: "Encapsulation: liposomes, niosomes and microcapsules"
+  - id: be-formulation-science-11
+    name: "Sensory properties: spreadability, absorption and after-feel"
+  - id: be-formulation-science-12
+    name: Ingredient compatibility and pH-dependent stability
+  - id: be-formulation-science-13
+    name: "Designing a formula: from concept to first prototype"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-formulation-science.json
+  sha256: 44b00e54361dd460bea724e75f55b76d03a1bf0ca38861ea53963886a79cdc77

@@ -1,0 +1,34 @@
+id: ch-food-agricultural-chemistry
+name: Food, Agricultural & Consumer Chemistry
+category: Industrial & Applied Chemistry
+level: 3
+priority: optional
+summary: The chemistry of food, crops, agrochemicals and everyday consumer products.
+prerequisites:
+  - ch-biochemistry-structure-function
+related:
+  - bi-plant-agricultural-biotech
+topics:
+  - id: ch-food-agricultural-chemistry-1
+    name: "Food components: water, carbohydrates, proteins and lipids"
+  - id: ch-food-agricultural-chemistry-2
+    name: Maillard reaction, caramelization and flavour chemistry
+  - id: ch-food-agricultural-chemistry-3
+    name: Food additives, preservatives and emulsifiers
+  - id: ch-food-agricultural-chemistry-4
+    name: Food analysis and adulteration detection
+  - id: ch-food-agricultural-chemistry-5
+    name: Soil fertility and fertilizer chemistry
+  - id: ch-food-agricultural-chemistry-6
+    name: "Pesticides and herbicides: modes of action and environmental fate"
+  - id: ch-food-agricultural-chemistry-7
+    name: Plant chemistry and phytochemicals
+  - id: ch-food-agricultural-chemistry-8
+    name: Cosmetics and personal-care chemistry
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-food-agricultural-chemistry.json
+  sha256: 2728163b36144545956269ca26425d74821e17ae6b143a3fc427891299d4940c

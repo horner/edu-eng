@@ -1,0 +1,42 @@
+id: py-psychotherapy-foundations
+name: "Psychotherapy: Foundations, Common Factors & Evidence"
+category: Assessment, Psychotherapy & Counselling
+level: 3
+priority: core
+summary: An overview of the major talking therapies, what they share, and how researchers test whether therapy works.
+prerequisites:
+  - py-psychopathology-foundations
+  - py-counselling-skills
+related: []
+topics:
+  - id: py-psychotherapy-foundations-1
+    name: "What psychotherapy is: history and main schools"
+  - id: py-psychotherapy-foundations-2
+    name: Does therapy work? Eysenck's challenge and the meta-analytic answer
+  - id: py-psychotherapy-foundations-3
+    name: The common factors model and the therapeutic alliance
+  - id: py-psychotherapy-foundations-4
+    name: The Dodo bird verdict and specific vs common factors debate
+  - id: py-psychotherapy-foundations-5
+    name: "Evidence-based practice: research, clinical expertise and client values"
+  - id: py-psychotherapy-foundations-6
+    name: Empirically supported treatments and clinical guidelines (APA, NICE, Division 12)
+  - id: py-psychotherapy-foundations-7
+    name: Efficacy vs effectiveness; RCTs and practice-based evidence
+  - id: py-psychotherapy-foundations-8
+    name: Therapist effects and what makes a good therapist
+  - id: py-psychotherapy-foundations-9
+    name: Harms of therapy and deterioration
+  - id: py-psychotherapy-foundations-10
+    name: Integrative and eclectic approaches
+  - id: py-psychotherapy-foundations-11
+    name: "Formats: individual, group, brief, online and stepped care"
+  - id: py-psychotherapy-foundations-12
+    name: "Choosing a therapist: a practical guide for clients"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychotherapy-foundations.json
+  sha256: 0ed74bc7cf8ea0cad2bc3f2a40b986003093c021759943db1845a4296c632260

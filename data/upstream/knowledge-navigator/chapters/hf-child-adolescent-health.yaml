@@ -1,0 +1,49 @@
+id: hf-child-adolescent-health
+name: Child & Adolescent Health
+category: Life Stages & Hormonal Health
+level: 2
+priority: important
+summary: "The physical health of children and teenagers: growth, nutrition, activity, sleep, prevention and development."
+prerequisites:
+  - hf-human-body-basics
+related:
+  - py-introduction-to-psychology
+  - py-child-adolescent-mental-health
+topics:
+  - id: hf-child-adolescent-health-1
+    name: Growth and developmental milestones
+  - id: hf-child-adolescent-health-2
+    name: Growth charts
+  - id: hf-child-adolescent-health-3
+    name: Child nutrition and healthy eating habits
+  - id: hf-child-adolescent-health-4
+    name: "Physical activity and play: WHO guidance for under-5s and 5-17-year-olds"
+  - id: hf-child-adolescent-health-5
+    name: Screen time and sedentary behaviour
+  - id: hf-child-adolescent-health-6
+    name: Sleep for children and teenagers
+  - id: hf-child-adolescent-health-7
+    name: Childhood immunisations
+  - id: hf-child-adolescent-health-8
+    name: Children's oral health
+  - id: hf-child-adolescent-health-9
+    name: Puberty and adolescent development
+  - id: hf-child-adolescent-health-10
+    name: "Adolescent risk behaviours: alcohol, smoking and vaping"
+  - id: hf-child-adolescent-health-11
+    name: Sport participation and injury in young people
+  - id: hf-child-adolescent-health-12
+    name: "Childhood obesity: non-stigmatising approaches"
+  - id: hf-child-adolescent-health-13
+    name: School and community health
+  - id: hf-child-adolescent-health-14
+    name: Young people's mental wellbeing
+  - id: hf-child-adolescent-health-15
+    name: Safeguarding and when to seek help
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-child-adolescent-health.json
+  sha256: fdc78e1a0303e8fba81dac5db58d49a2dde9389dce992a714b1fa51ab6fa22dd

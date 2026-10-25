@@ -1,0 +1,244 @@
+id: beauty-self-care
+name: Beauty & Self-Care
+icon: ✨
+tagline: Look after your skin, hair and appearance with science rather than marketing.
+description: For anyone who wants to understand what beauty and personal-care products and treatments actually do, so they can spend less, avoid harm and feel good about how they look. You start with skin biology and the chemistry of cosmetics, build a simple skincare routine with sun protection and well-chosen actives, then cover skin concerns, hair, makeup, grooming, fragrance and style, how to judge safety claims and cosmetic procedures, and finish with the lifestyle and psychological side of appearance.
+outcomes:
+  - Build and adjust a cleanse, moisturise and protect routine for your own skin type, adding actives such as retinoids, vitamin C or azelaic acid safely
+  - Choose and apply sunscreen correctly for your skin tone, and explain what SPF, UVA ratings and broad-spectrum labels mean
+  - Read an ingredient list and a marketing claim, and decide whether the evidence supports it
+  - Recognise common skin, hair and scalp problems, what over-the-counter options can do, and when to see a dermatologist or doctor
+  - "Weigh up a cosmetic procedure: what it involves, its risks, how practitioners are regulated and how to choose a qualified provider"
+  - Explain how sleep, stress, smoking, diet and supplements affect skin and hair, and which popular claims lack evidence
+  - Describe how beauty ideals and social media affect body image, and use self-care in ways that support rather than undermine wellbeing
+stages:
+  - name: Beauty science basics
+    description: What beauty products and practices do, how to judge their claims, and the small amount of biology and chemistry needed to understand them.
+    items:
+      - chapter: be-introduction-to-beauty-science
+        why: "The map of the subject: cosmetics versus drugs, how a product works, and who does the science."
+        depth: full
+      - chapter: be-evaluating-beauty-claims
+        why: How to see through "clinically proven", "chemical-free" and influencer hype before you spend money.
+        depth: full
+      - chapter: ma-arithmetic-pre-algebra
+        why: Percentages and ratios, so you can make sense of "10% niacinamide" and "87% saw results".
+        depth: selected
+        focus:
+          - ma-arithmetic-pre-algebra-6
+          - ma-arithmetic-pre-algebra-7
+          - ma-arithmetic-pre-algebra-10
+      - chapter: ma-elementary-intermediate-algebra
+        why: A brief refresher on simple formulas, needed before the chemistry chapter.
+        depth: selected
+        focus:
+          - ma-elementary-intermediate-algebra-5
+          - ma-elementary-intermediate-algebra-6
+      - chapter: ch-introductory-chemistry
+        why: "Atoms, molecules, solutions and pH: the basic chemistry every cosmetic label relies on."
+        depth: selected
+        focus:
+          - ch-introductory-chemistry-1
+          - ch-introductory-chemistry-3
+          - ch-introductory-chemistry-4
+          - ch-introductory-chemistry-6
+          - ch-introductory-chemistry-13
+          - ch-introductory-chemistry-14
+          - ch-introductory-chemistry-17
+      - chapter: bi-introductory-biology
+        why: Cells and how the body maintains itself, as groundwork for skin and hair biology.
+        depth: selected
+        focus:
+          - bi-introductory-biology-2
+          - bi-introductory-biology-3
+          - bi-introductory-biology-5
+      - chapter: be-cosmetic-chemistry-basics
+        why: Oil, water, emulsions, surfactants and preservatives, and how to read an ingredient list and expiry symbols.
+        depth: full
+  - name: Skin science
+    description: How skin is built, how it holds water and keeps irritants out, and how it differs between people.
+    items:
+      - chapter: be-skin-biology
+        why: "The layers, cells and glands of skin: why skin is oily, dry, sensitive or slow to heal."
+        depth: full
+      - chapter: be-skin-barrier-hydration
+        why: The skin barrier and what damages it, the reason so many routines fail.
+        depth: full
+      - chapter: be-skin-types-skin-of-colour
+        why: Skin types, phototypes and how skin of colour differs in pigment, scarring and sun response.
+        depth: full
+  - name: Your skincare routine
+    description: A simple routine built from cleansing, moisturising and sun protection, then actives added with care.
+    items:
+      - chapter: be-skincare-fundamentals
+        why: "Cleanse, moisturise, protect: building a routine for your skin, budget and climate, and the common mistakes."
+        depth: full
+      - chapter: be-cleansers-moisturisers-exfoliation
+        why: How cleansers, moisturisers, toners and exfoliants work and how to choose textures for your skin.
+        depth: full
+      - chapter: be-sun-protection-photoaging
+        why: "The best-supported step against skin ageing and skin cancer: SPF, UVA, how much to apply, and options for every skin tone."
+        depth: full
+      - chapter: be-active-ingredients
+        why: "Retinoids, vitamin C, niacinamide, acids and peptides: what the evidence shows and how to combine them safely."
+        depth: full
+  - name: Common skin concerns
+    description: The skin problems people most often try to fix, what products can realistically do, and when to see a doctor.
+    items:
+      - chapter: be-acne
+        why: What drives acne at any age, which over-the-counter options work, and when prescription treatment is worth seeking.
+        depth: full
+      - chapter: be-hyperpigmentation-skin-tone
+        why: Dark spots, melasma and post-acne marks, safe brightening ingredients and the dangers of illegal skin lighteners.
+        depth: full
+      - chapter: be-sensitive-skin-eczema-rosacea
+        why: Reactive, red or itchy skin, eczema and rosacea, how to choose products for them and when to get medical help.
+        depth: full
+      - chapter: be-scars-texture-body-concerns
+        why: "Scars, stretch marks, cellulite, pores and lines: what can and cannot be changed."
+        depth: full
+  - name: Hair and scalp
+    description: How hair grows and gets damaged, everyday and chemical hair care, hair loss and hair removal.
+    items:
+      - chapter: be-hair-scalp-science
+        why: The follicle, growth cycle and structure of the hair fibre, which explain texture, damage and dandruff.
+        depth: full
+      - chapter: be-hair-care-styling
+        why: Washing, conditioning, heat styling and choosing a haircut, with less damage.
+        depth: full
+      - chapter: be-textured-curly-hair
+        why: "Care for curly and coily hair: moisture, detangling, protective styles and avoiding traction hair loss."
+        depth: full
+      - chapter: be-hair-colour-chemical-services
+        why: How dyes, bleach, perms and relaxers work, how to limit damage, and why the patch test matters.
+        depth: full
+      - chapter: be-hair-loss-scalp-conditions
+        why: Why hair thins or falls out, which treatments have evidence, and when to see a dermatologist.
+        depth: full
+      - chapter: be-hair-removal
+        why: Shaving, waxing, lasers, IPL and electrolysis compared for results, risks and different skin and hair types.
+        depth: full
+  - name: Makeup, grooming, fragrance and style
+    description: The everyday practices of looking after and presenting yourself, from makeup and hygiene to scent and clothes.
+    items:
+      - chapter: be-makeup-fundamentals
+        why: Undertones, shade matching and everyday application for base, eyes, brows and lips, with good hygiene.
+        depth: full
+      - chapter: be-hygiene-body-odour
+        why: Sweat, body odour, deodorant versus antiperspirant, and how much washing the body actually needs.
+        depth: full
+      - chapter: be-mens-grooming
+        why: Skincare, shaving, beard care and body grooming, grounded in how male skin and hair differ.
+        depth: full
+      - chapter: be-nails-hands-feet
+        why: Nail, hand and foot care, common problems, and the nail signs that need a doctor.
+        depth: full
+      - chapter: be-oral-care-smile
+        why: Healthy teeth and gums, whitening that is safe and legal, and the risks of direct-to-consumer aligners.
+        depth: full
+      - chapter: be-fragrance-fundamentals
+        why: How smell and perfume work, how to choose and store a fragrance, and fragrance allergy.
+        depth: full
+      - chapter: be-personal-style-colour
+        why: "Fit, colour, wardrobe planning and dress codes: a personal style that suits your body, life and budget."
+        depth: full
+  - name: Safety, claims and procedures
+    description: Using products safely and deciding with clear eyes about cosmetic treatments and who should perform them.
+    items:
+      - chapter: be-cosmetic-safety-consumers
+        why: Irritation versus allergy, ingredient scares assessed, counterfeit products and how to report a reaction.
+        depth: full
+      - chapter: be-cosmetic-procedures-overview
+        why: The range of cosmetic procedures, who may perform what, how to choose a provider and when to walk away.
+        depth: full
+      - chapter: be-injectables-explained
+        why: Know what anti-wrinkle injections and fillers can and cannot do, the serious risks, and who should be doing them, before you book anything.
+        depth: full
+      - chapter: be-peels-microneedling
+        why: What chemical peels, microneedling and dermaplaning can achieve, and the extra risks for darker skin.
+        depth: full
+      - chapter: be-lasers-energy-devices
+        why: "Lasers, IPL, radiofrequency and at-home devices: how they work, what the evidence shows and the risk of burns."
+        depth: full
+  - name: Lifestyle and inner wellbeing
+    description: How the rest of life shows in skin and hair, and the psychology of appearance, body image and self-care.
+    items:
+      - chapter: be-lifestyle-appearance
+        why: How sleep, stress, exercise, smoking and pollution affect skin and hair, and which changes help.
+        depth: full
+      - chapter: hf-human-body-basics
+        why: A light pass on digestion, metabolism and skin as an organ, as groundwork for the nutrition chapters.
+        depth: selected
+        focus:
+          - hf-human-body-basics-3
+          - hf-human-body-basics-10
+          - hf-human-body-basics-13
+          - hf-human-body-basics-15
+      - chapter: hf-nutrition-fundamentals
+        why: Nutrients and food groups in brief, so you can judge diet advice for skin and hair.
+        depth: selected
+        focus:
+          - hf-nutrition-fundamentals-1
+          - hf-nutrition-fundamentals-2
+          - hf-nutrition-fundamentals-4
+          - hf-nutrition-fundamentals-5
+          - hf-nutrition-fundamentals-6
+          - hf-nutrition-fundamentals-8
+          - hf-nutrition-fundamentals-14
+      - chapter: be-nutrition-appearance
+        why: What diet, collagen, biotin and other supplements can and cannot do for skin, hair and nails.
+        depth: full
+      - chapter: py-introduction-to-psychology
+        why: A short orientation to psychology before the body-image chapters.
+        depth: selected
+        focus:
+          - py-introduction-to-psychology-1
+          - py-introduction-to-psychology-2
+          - py-introduction-to-psychology-4
+          - py-introduction-to-psychology-14
+      - chapter: py-body-image-self-perception
+        why: How media, filters and comparison shape body image, and evidence-based ways to feel better about your body.
+        depth: full
+      - chapter: be-beauty-ideals-culture-history
+        why: What science says about attractiveness and how beauty ideals vary across cultures, eras and genders.
+        depth: full
+      - chapter: be-psychology-of-appearance
+        why: Appearance anxiety, visible difference and body dysmorphia, and how self-care can support wellbeing rather than pressure.
+        depth: full
+  - name: Electives
+    description: Optional chapters for particular interests, life stages or a first step towards beauty work.
+    items:
+      - chapter: be-life-stages-hormones
+        why: "Elective: how skin and hair change through puberty, pregnancy, menopause and older age, and how care should adapt."
+        depth: full
+      - chapter: be-makeup-artistry
+        why: "Elective: makeup for different face shapes, eye shapes, skin tones, ages and occasions, plus camouflage makeup."
+        depth: full
+      - chapter: be-hygiene-infection-control
+        why: "Elective: the hygiene standards salons should meet, useful for judging a salon and needed before brow and lash services."
+        depth: full
+      - chapter: be-brows-lashes
+        why: "Elective: brow shaping, tinting, lifts, extensions and microblading, and their safety risks."
+        depth: full
+      - chapter: be-nail-cosmetics-enhancements
+        why: "Elective: gel, acrylic and press-on nails, methacrylate allergy and safe removal."
+        depth: full
+      - chapter: be-cosmetic-ingredients
+        why: "Elective: the main classes of cosmetic raw materials and what each adds to a product."
+        depth: full
+      - chapter: be-sustainability-ethics
+        why: 'Elective: packaging, "clean beauty", greenwashing, animal testing and supply-chain ethics.'
+        depth: full
+      - chapter: be-cosmetic-surgery-explained
+        why: "Elective: the main cosmetic operations, their recovery and risks, and how to make a safe, informed decision."
+        depth: full
+related:
+  - whole-person-wellbeing
+  - fitness-physical-wellness
+  - mental-wellness
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/roadmaps/beauty-self-care.json
+  sha256: 5a8c62428e4678a21dbd348a798dd2b96ed55ce305b0b1b14b518326ee3363e6

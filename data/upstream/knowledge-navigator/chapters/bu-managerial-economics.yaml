@@ -1,0 +1,57 @@
+id: bu-managerial-economics
+name: Managerial Economics
+category: Economics for Business
+level: 3
+priority: important
+summary: Applying economic models and data to concrete business decisions about pricing, costs, output and market entry.
+prerequisites:
+  - bu-microeconomics-for-business
+  - bu-business-statistics-analytics
+related:
+  - bu-game-theory-competitive-strategy
+  - ma-econometrics
+  - mk-pricing-strategy-analytics
+topics:
+  - id: bu-managerial-economics-1
+    name: Marginal analysis and optimisation for managers
+  - id: bu-managerial-economics-2
+    name: Estimating demand from data
+    sub:
+      - id: bu-managerial-economics-2-1
+        name: Survey and experimental approaches
+      - id: bu-managerial-economics-2-2
+        name: Regression-based demand estimation
+  - id: bu-managerial-economics-3
+    name: Cost estimation and learning curves
+  - id: bu-managerial-economics-4
+    name: Short-run and long-run production decisions
+  - id: bu-managerial-economics-5
+    name: Make-or-buy decisions and transaction cost economics
+  - id: bu-managerial-economics-6
+    name: Pricing with market power
+    sub:
+      - id: bu-managerial-economics-6-1
+        name: Optimal markup and the elasticity rule
+      - id: bu-managerial-economics-6-2
+        name: Two-part tariffs and bundling
+      - id: bu-managerial-economics-6-3
+        name: Versioning and dynamic pricing
+  - id: bu-managerial-economics-7
+    name: Pricing in multi-product firms and cannibalisation
+  - id: bu-managerial-economics-8
+    name: Market structure, concentration measures and entry barriers
+  - id: bu-managerial-economics-9
+    name: "Decisions under uncertainty: expected value and value of information"
+  - id: bu-managerial-economics-10
+    name: "Asymmetric information: adverse selection and moral hazard"
+  - id: bu-managerial-economics-11
+    name: Incentives and principal-agent problems inside firms
+  - id: bu-managerial-economics-12
+    name: Real options and the value of flexibility
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-managerial-economics.json
+  sha256: 670673cf3b04ab1bcd4842cf4dc97f1a991b8bdfa9507c114c120ac4e3cb2199

@@ -1,0 +1,41 @@
+id: py-psychedelic-emerging-treatments
+name: Psychedelic Science & Emerging Treatments
+category: Assessment, Psychotherapy & Counselling
+level: 5
+priority: advanced
+summary: Current research on psilocybin, MDMA, ketamine and other emerging treatments, what trials have shown and where the evidence is still weak.
+prerequisites:
+  - py-psychopharmacology
+  - py-psychotherapy-foundations
+related:
+  - bi-pharmacology
+topics:
+  - id: py-psychedelic-emerging-treatments-1
+    name: History of psychedelic research and prohibition
+  - id: py-psychedelic-emerging-treatments-2
+    name: Pharmacology of classic psychedelics, MDMA and ketamine
+  - id: py-psychedelic-emerging-treatments-3
+    name: Psilocybin trials for depression
+  - id: py-psychedelic-emerging-treatments-4
+    name: MDMA-assisted therapy for PTSD and the regulatory decisions
+  - id: py-psychedelic-emerging-treatments-5
+    name: Ketamine and esketamine for treatment-resistant depression
+  - id: py-psychedelic-emerging-treatments-6
+    name: Set, setting and the role of psychological support
+  - id: py-psychedelic-emerging-treatments-7
+    name: Blinding, expectancy and methodological problems
+  - id: py-psychedelic-emerging-treatments-8
+    name: Risks, adverse events and who should not take part
+  - id: py-psychedelic-emerging-treatments-9
+    name: Microdosing claims vs evidence
+  - id: py-psychedelic-emerging-treatments-10
+    name: "Neuromodulation: TMS, deep brain stimulation and other device treatments"
+  - id: py-psychedelic-emerging-treatments-11
+    name: Ethics, access and commercialisation
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychedelic-emerging-treatments.json
+  sha256: 14c7affa55746ff84b40d6f1b284f3e10c2c1a5eb87a90e8b6460c261b200230

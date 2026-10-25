@@ -1,0 +1,53 @@
+id: py-sleep-insomnia-mental-health
+name: Sleep Problems, Insomnia & Mental Health
+category: Mental Health & Psychopathology
+level: 2
+priority: important
+summary: How sleep and mental health affect each other, the common sleep disorders, and why CBT for insomnia is the first-line treatment.
+prerequisites:
+  - py-mental-health-literacy
+  - hf-sleep-science
+related:
+  - py-consciousness-sleep-altered-states
+  - hf-sleep-disorders
+topics:
+  - id: py-sleep-insomnia-mental-health-1
+    name: The two-way link between sleep and mood, anxiety and psychosis
+  - id: py-sleep-insomnia-mental-health-2
+    name: "Insomnia: definition, prevalence and the 3P model"
+  - id: py-sleep-insomnia-mental-health-3
+    name: "How insomnia is maintained: arousal, worry and conditioned wakefulness"
+  - id: py-sleep-insomnia-mental-health-4
+    name: CBT for insomnia (CBT-I)
+    sub:
+      - id: py-sleep-insomnia-mental-health-4-1
+        name: Stimulus control
+      - id: py-sleep-insomnia-mental-health-4-2
+        name: Sleep restriction and sleep efficiency
+      - id: py-sleep-insomnia-mental-health-4-3
+        name: Cognitive techniques for sleep worry
+      - id: py-sleep-insomnia-mental-health-4-4
+        name: Digital CBT-I
+  - id: py-sleep-insomnia-mental-health-5
+    name: "Sleep hygiene: useful but not enough on its own"
+  - id: py-sleep-insomnia-mental-health-6
+    name: "Sleeping pills and supplements: evidence and risks"
+  - id: py-sleep-insomnia-mental-health-7
+    name: Nightmares and imagery rehearsal therapy
+  - id: py-sleep-insomnia-mental-health-8
+    name: Sleep apnoea, restless legs and narcolepsy in outline
+  - id: py-sleep-insomnia-mental-health-9
+    name: "Circadian rhythm problems: shift work, jet lag and delayed sleep phase"
+  - id: py-sleep-insomnia-mental-health-10
+    name: Sleep in teenagers, new parents and older adults
+  - id: py-sleep-insomnia-mental-health-11
+    name: Orthosomnia and sleep trackers
+  - id: py-sleep-insomnia-mental-health-12
+    name: When to see a doctor about sleep
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-sleep-insomnia-mental-health.json
+  sha256: 151b0aaac66d9acd0adcd98e33e457aaa1d52c55e8c288794dfd90ab00e46e66

@@ -1,0 +1,47 @@
+id: hf-immunity-infection-prevention
+name: Immunity, Vaccination & Infection Prevention
+category: Preventive Health & Lifestyle Medicine
+level: 2
+priority: important
+summary: How the immune system protects us, how vaccines work, and everyday measures that prevent infection.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-immunology
+  - bi-infectious-disease-pathogenesis
+  - bi-microbiology
+  - be-hygiene-infection-control
+topics:
+  - id: hf-immunity-infection-prevention-1
+    name: "Immune system basics: innate and adaptive immunity"
+  - id: hf-immunity-infection-prevention-2
+    name: How infections spread
+  - id: hf-immunity-infection-prevention-3
+    name: Hand hygiene and respiratory etiquette
+  - id: hf-immunity-infection-prevention-4
+    name: How vaccines work
+  - id: hf-immunity-infection-prevention-5
+    name: Vaccination schedules across life
+  - id: hf-immunity-infection-prevention-6
+    name: Vaccine safety and misinformation
+  - id: hf-immunity-infection-prevention-7
+    name: Herd immunity
+  - id: hf-immunity-infection-prevention-8
+    name: Antibiotics and antimicrobial resistance
+  - id: hf-immunity-infection-prevention-9
+    name: Sleep, exercise, nutrition and immune function
+  - id: hf-immunity-infection-prevention-10
+    name: "'Immune-boosting' products: claims vs evidence"
+  - id: hf-immunity-infection-prevention-11
+    name: Travel health
+  - id: hf-immunity-infection-prevention-12
+    name: Preventing sexually transmitted infections
+  - id: hf-immunity-infection-prevention-13
+    name: Exercising when ill
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-immunity-infection-prevention.json
+  sha256: 22ec5780bc5fc6a4a50c7785dfe2818f9de89cdd15017114e442ffed3e95bed6

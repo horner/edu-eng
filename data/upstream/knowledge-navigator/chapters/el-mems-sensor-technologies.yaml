@@ -1,0 +1,28 @@
+id: el-mems-sensor-technologies
+name: MEMS Sensor Technologies
+category: Sensors, Transducers & Actuators
+level: 3
+priority: advanced
+summary: "The transduction principles behind MEMS sensors: capacitive, piezoresistive, resonant and optical sensing."
+prerequisites:
+  - el-mems-devices
+related:
+  - el-mems-devices
+topics:
+  - id: el-mems-sensor-technologies-1
+    name: MEMS fabrication principles
+  - id: el-mems-sensor-technologies-2
+    name: Capacitive MEMS sensing
+  - id: el-mems-sensor-technologies-3
+    name: Piezoresistive MEMS
+  - id: el-mems-sensor-technologies-4
+    name: Resonant MEMS sensors
+  - id: el-mems-sensor-technologies-5
+    name: Optical MEMS
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-mems-sensor-technologies.json
+  sha256: 581deb0164e58a9cf55c4252867cfd316b9157fe7ae4e2b021098403f051dc4c

@@ -1,0 +1,51 @@
+id: py-consciousness-science
+name: Consciousness Science
+category: Sensation, Perception & Consciousness
+level: 4
+priority: advanced
+summary: Current scientific theories of consciousness and the experiments that test them, from neural correlates to metacognition and disorders of consciousness.
+prerequisites:
+  - py-cognitive-neuroscience-for-psychologists
+  - py-consciousness-sleep-altered-states
+related:
+  - bi-cognitive-neuroscience
+  - ai-cognitive-ai
+topics:
+  - id: py-consciousness-science-1
+    name: The hard problem and the easy problems
+  - id: py-consciousness-science-2
+    name: "Contrastive methods: masking, binocular rivalry and the neural correlates of consciousness"
+  - id: py-consciousness-science-3
+    name: Theories
+    sub:
+      - id: py-consciousness-science-3-1
+        name: Global workspace theory
+      - id: py-consciousness-science-3-2
+        name: Integrated information theory
+      - id: py-consciousness-science-3-3
+        name: Higher-order theories
+      - id: py-consciousness-science-3-4
+        name: Recurrent processing and predictive processing
+  - id: py-consciousness-science-4
+    name: Adversarial collaborations testing theories
+  - id: py-consciousness-science-5
+    name: Metacognition and confidence
+  - id: py-consciousness-science-6
+    name: Self, body ownership and the rubber hand illusion
+  - id: py-consciousness-science-7
+    name: Anaesthesia, sleep and loss of consciousness
+  - id: py-consciousness-science-8
+    name: "Disorders of consciousness: coma, vegetative and minimally conscious states"
+  - id: py-consciousness-science-9
+    name: Free will and the Libet experiments
+  - id: py-consciousness-science-10
+    name: Psychedelics and the neuroscience of altered states
+  - id: py-consciousness-science-11
+    name: Animal and machine consciousness
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-consciousness-science.json
+  sha256: 02083a4d8f2f6c8eac08ae8a376c231ec5a7395bb98955d7317b8e9156b77b68

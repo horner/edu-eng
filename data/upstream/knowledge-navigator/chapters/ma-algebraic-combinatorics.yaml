@@ -1,0 +1,30 @@
+id: ma-algebraic-combinatorics
+name: Algebraic Combinatorics
+category: Combinatorics & Discrete Mathematics
+level: 4
+priority: advanced
+summary: "Combinatorics meets algebra: symmetric functions, Young tableaux, posets and their links to representation theory."
+prerequisites:
+  - ma-enumerative-combinatorics
+  - ma-group-theory
+related: []
+topics:
+  - id: ma-algebraic-combinatorics-4
+    name: Posets and Moebius inversion
+  - id: ma-algebraic-combinatorics-1
+    name: Symmetric functions
+  - id: ma-algebraic-combinatorics-2
+    name: Young tableaux
+  - id: ma-algebraic-combinatorics-5
+    name: Robinson-Schensted-Knuth correspondence
+  - id: ma-algebraic-combinatorics-3
+    name: Representation theory connections
+  - id: ma-algebraic-combinatorics-6
+    name: Association schemes
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-algebraic-combinatorics.json
+  sha256: 0b3dc6d2ce393fdf883d42a37860a66f13ca3c93155ef95c59dd092e72468d8d

@@ -1,0 +1,47 @@
+id: hf-exercise-instruction-coaching
+name: Exercise Instruction & Coaching
+category: Fitness Training & Programme Design
+level: 3
+priority: important
+summary: "The practical craft of teaching exercise to individuals and groups: demonstrating, cueing, correcting and motivating."
+prerequisites:
+  - hf-motor-learning-control
+  - hf-resistance-training
+related:
+  - py-sport-exercise-psychology
+topics:
+  - id: hf-exercise-instruction-coaching-1
+    name: The coach's role and communication skills
+  - id: hf-exercise-instruction-coaching-2
+    name: Demonstrating and explaining exercises
+  - id: hf-exercise-instruction-coaching-3
+    name: Verbal cues and attentional focus
+  - id: hf-exercise-instruction-coaching-4
+    name: Tactile cues and consent
+  - id: hf-exercise-instruction-coaching-5
+    name: Observing and correcting technique
+  - id: hf-exercise-instruction-coaching-6
+    name: Common faults in the main lifts
+  - id: hf-exercise-instruction-coaching-7
+    name: Teaching progressions
+  - id: hf-exercise-instruction-coaching-8
+    name: Planning and structuring a session
+  - id: hf-exercise-instruction-coaching-9
+    name: Group exercise instruction and class design
+  - id: hf-exercise-instruction-coaching-10
+    name: Music, motivation and class atmosphere
+  - id: hf-exercise-instruction-coaching-11
+    name: Adapting cueing for different populations
+  - id: hf-exercise-instruction-coaching-12
+    name: Remote and online coaching
+  - id: hf-exercise-instruction-coaching-13
+    name: Safety and the training environment
+  - id: hf-exercise-instruction-coaching-14
+    name: Reflective practice
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-exercise-instruction-coaching.json
+  sha256: 0df3e2361f493aa66632476cd2c5a58666a061f1218ba435f73b6a504c9b5f73

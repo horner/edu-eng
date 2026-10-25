@@ -1,0 +1,36 @@
+id: ch-carbon-capture-circular-chemistry
+name: Carbon Capture, Utilization & Circular Chemistry
+category: Environmental & Green Chemistry
+level: 4
+priority: advanced
+summary: Chemical technologies for capturing and converting CO2, recycling plastics and destroying persistent pollutants.
+prerequisites:
+  - ch-green-chemistry
+  - ch-heterogeneous-catalysis
+related:
+  - ea-subsurface-energy-and-storage
+  - ea-climate-change-impacts-mitigation-adaptation
+topics:
+  - id: ch-carbon-capture-circular-chemistry-1
+    name: "CO2 capture chemistry: amine scrubbing, solid sorbents and membranes"
+  - id: ch-carbon-capture-circular-chemistry-2
+    name: Direct air capture
+  - id: ch-carbon-capture-circular-chemistry-3
+    name: Mineralization and geological storage chemistry
+  - id: ch-carbon-capture-circular-chemistry-4
+    name: "CO2 conversion: thermocatalytic, electrochemical and photochemical"
+  - id: ch-carbon-capture-circular-chemistry-5
+    name: CO2-derived fuels, polymers and chemicals
+  - id: ch-carbon-capture-circular-chemistry-6
+    name: "Chemical recycling of plastics: pyrolysis, depolymerization and upcycling"
+  - id: ch-carbon-capture-circular-chemistry-7
+    name: PFAS destruction and remediation technologies
+  - id: ch-carbon-capture-circular-chemistry-8
+    name: Techno-economic and life-cycle evaluation
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-carbon-capture-circular-chemistry.json
+  sha256: c6fd744db569278c9844536363e3bed79129ce14fa92b72cf1a30596cf2f7fed

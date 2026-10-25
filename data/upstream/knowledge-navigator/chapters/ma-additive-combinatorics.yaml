@@ -1,0 +1,32 @@
+id: ma-additive-combinatorics
+name: Additive Combinatorics
+category: Number Theory
+level: 4
+priority: advanced
+summary: "Additive structure in sets of integers: sumsets, Szemeredi's theorem and primes in arithmetic progressions."
+prerequisites:
+  - ma-elementary-number-theory
+  - ma-harmonic-analysis
+related: []
+topics:
+  - id: ma-additive-combinatorics-3
+    name: Additive number theory
+  - id: ma-additive-combinatorics-1
+    name: Sum-free sets
+  - id: ma-additive-combinatorics-4
+    name: Sumsets and the Cauchy-Davenport theorem
+  - id: ma-additive-combinatorics-5
+    name: Freiman's theorem
+  - id: ma-additive-combinatorics-2
+    name: Arithmetic progressions
+  - id: ma-additive-combinatorics-6
+    name: Roth's and Szemeredi's theorems
+  - id: ma-additive-combinatorics-7
+    name: Green-Tao theorem (overview)
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-additive-combinatorics.json
+  sha256: b1eda8a955517272db7fdf97c53bf4292287542286894fd2afdf022a64288f06

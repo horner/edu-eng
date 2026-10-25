@@ -1,0 +1,28 @@
+id: el-photonics-silicon-photonics
+name: Photonics & Silicon Photonics
+category: Emerging & Advanced Topics
+level: 4
+priority: advanced
+summary: "Integrating optics on chips: photonic integrated circuits, optical interconnects, optical computing and optical sensors."
+prerequisites:
+  - el-optoelectronic-devices
+  - el-electromagnetic-waves
+related:
+  - ph-nanophotonics-plasmonics
+  - ph-modern-optics
+topics:
+  - id: el-photonics-silicon-photonics-1
+    name: Optical interconnects
+  - id: el-photonics-silicon-photonics-2
+    name: Photonic integrated circuits
+  - id: el-photonics-silicon-photonics-3
+    name: Optical computing
+  - id: el-photonics-silicon-photonics-4
+    name: Optical sensors
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-photonics-silicon-photonics.json
+  sha256: 14e59a6768eb97b14a80cc1dc515b68c263c5a1350f59bc3cfa0b5273f010e2b

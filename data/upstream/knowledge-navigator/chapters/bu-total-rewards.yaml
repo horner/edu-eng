@@ -1,0 +1,50 @@
+id: bu-total-rewards
+name: Compensation & Total Rewards
+category: People, Organisations & Leadership
+level: 3
+priority: advanced
+summary: Designing pay, incentives, equity and benefits that are fair, competitive and affordable.
+prerequisites:
+  - bu-human-resource-management
+related:
+  - bu-performance-management-control
+  - bu-founding-teams-early-hiring
+topics:
+  - id: bu-total-rewards-1
+    name: "Total rewards framework: pay, benefits, development and work environment"
+  - id: bu-total-rewards-2
+    name: Job evaluation and internal equity
+  - id: bu-total-rewards-3
+    name: Market pricing and salary surveys
+  - id: bu-total-rewards-4
+    name: Pay structures, grades and ranges
+  - id: bu-total-rewards-5
+    name: "Pay for performance: merit pay, bonuses and commissions"
+  - id: bu-total-rewards-6
+    name: Team, profit-sharing and gain-sharing plans
+  - id: bu-total-rewards-7
+    name: Equity compensation
+    sub:
+      - id: bu-total-rewards-7-1
+        name: Stock options and RSUs
+      - id: bu-total-rewards-7-2
+        name: Vesting schedules
+      - id: bu-total-rewards-7-3
+        name: Tax treatment across countries
+  - id: bu-total-rewards-8
+    name: "Benefits: health, retirement and leave"
+  - id: bu-total-rewards-9
+    name: Executive compensation and say-on-pay
+  - id: bu-total-rewards-10
+    name: Pay equity, transparency and gender pay gap reporting
+  - id: bu-total-rewards-11
+    name: Global compensation and expatriate packages
+  - id: bu-total-rewards-12
+    name: Evaluating the cost and effectiveness of reward programmes
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-total-rewards.json
+  sha256: 6e66db572efdb3e06fd2d364ae9d0909349e166d628bee36cf48d0f0d6f8644f

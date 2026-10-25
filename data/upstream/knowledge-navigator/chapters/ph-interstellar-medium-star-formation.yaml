@@ -1,0 +1,45 @@
+id: ph-interstellar-medium-star-formation
+name: Interstellar Medium & Star Formation
+category: Stars, the Sun & Interstellar Medium
+level: 4
+priority: advanced
+summary: The gas and dust between the stars, and how molecular clouds collapse to form stars and planetary systems.
+prerequisites:
+  - ph-stellar-astrophysics
+  - ph-astrophysical-fluid-dynamics
+related:
+  - ch-astrochemistry
+topics:
+  - id: ph-interstellar-medium-star-formation-1
+    name: Phases of the interstellar medium
+  - id: ph-interstellar-medium-star-formation-2
+    name: Neutral hydrogen and the 21-cm line
+  - id: ph-interstellar-medium-star-formation-3
+    name: HII regions and Stromgren spheres
+  - id: ph-interstellar-medium-star-formation-4
+    name: "Interstellar dust: extinction, reddening and emission"
+  - id: ph-interstellar-medium-star-formation-5
+    name: Molecular clouds and astrochemistry
+  - id: ph-interstellar-medium-star-formation-6
+    name: Heating and cooling of interstellar gas
+  - id: ph-interstellar-medium-star-formation-7
+    name: Interstellar shocks and supernova remnants
+  - id: ph-interstellar-medium-star-formation-8
+    name: Magnetic fields and cosmic rays in the ISM
+  - id: ph-interstellar-medium-star-formation-9
+    name: Gravitational instability and the Jeans mass
+  - id: ph-interstellar-medium-star-formation-10
+    name: Protostars, accretion discs, jets and outflows
+  - id: ph-interstellar-medium-star-formation-11
+    name: Protoplanetary discs
+  - id: ph-interstellar-medium-star-formation-12
+    name: The initial mass function and star-formation efficiency
+  - id: ph-interstellar-medium-star-formation-13
+    name: Star-formation laws in galaxies (Kennicutt-Schmidt)
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-interstellar-medium-star-formation.json
+  sha256: 732b5cc013f02c71757cbfdda75ee469a8a5ddb43c57538d4f7799197256bee1

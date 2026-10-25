@@ -1,0 +1,47 @@
+id: hf-mens-health
+name: Men's Health
+category: Life Stages & Hormonal Health
+level: 2
+priority: important
+summary: Health topics specific to or more common in men, and why men use health services less.
+prerequisites:
+  - hf-hormonal-health
+related:
+  - be-hair-scalp-science
+  - py-body-image-self-perception
+topics:
+  - id: hf-mens-health-1
+    name: The male health gap and health-seeking behaviour
+  - id: hf-mens-health-2
+    name: "Testosterone: normal levels, decline with age and 'low T' marketing"
+  - id: hf-mens-health-3
+    name: "Testosterone therapy: an overview of indications and risks"
+  - id: hf-mens-health-4
+    name: "Prostate health: enlarged prostate, prostatitis and prostate cancer"
+  - id: hf-mens-health-5
+    name: Testicular health and self-examination
+  - id: hf-mens-health-6
+    name: Erectile dysfunction as a warning sign for heart disease
+  - id: hf-mens-health-7
+    name: Male fertility
+  - id: hf-mens-health-8
+    name: Cardiovascular risk in men
+  - id: hf-mens-health-9
+    name: Men's mental health and suicide risk
+  - id: hf-mens-health-10
+    name: "Anabolic steroid use: health harms"
+  - id: hf-mens-health-11
+    name: Hair loss
+  - id: hf-mens-health-12
+    name: Body image and muscle dysmorphia
+  - id: hf-mens-health-13
+    name: Work-related health risks
+  - id: hf-mens-health-14
+    name: Health checks for men
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-mens-health.json
+  sha256: b947a6d12fe5693daef0b8b25662cdf14467eda921eb838a6f6c5eaafa1d83b5

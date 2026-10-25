@@ -1,0 +1,53 @@
+id: bu-intermediate-financial-reporting
+name: "Financial Reporting: IFRS & US GAAP"
+category: Accounting, Audit & Tax
+level: 3
+priority: advanced
+summary: The detailed accounting rules for complex transactions and group accounts under IFRS and US GAAP.
+prerequisites:
+  - bu-financial-accounting
+related:
+  - bu-auditing-assurance
+topics:
+  - id: bu-intermediate-financial-reporting-1
+    name: Standard-setting process and convergence between IASB and FASB
+  - id: bu-intermediate-financial-reporting-2
+    name: "Revenue from contracts with customers: the five-step model (IFRS 15 / ASC 606)"
+  - id: bu-intermediate-financial-reporting-3
+    name: Inventories and construction contracts
+  - id: bu-intermediate-financial-reporting-4
+    name: "Property, plant and equipment: revaluation vs cost model"
+  - id: bu-intermediate-financial-reporting-5
+    name: Impairment of assets and cash-generating units
+  - id: bu-intermediate-financial-reporting-6
+    name: Leases (IFRS 16 / ASC 842)
+  - id: bu-intermediate-financial-reporting-7
+    name: "Financial instruments: classification, measurement and expected credit losses"
+  - id: bu-intermediate-financial-reporting-8
+    name: Provisions, contingencies and events after the reporting period
+  - id: bu-intermediate-financial-reporting-9
+    name: Income taxes and deferred tax
+  - id: bu-intermediate-financial-reporting-10
+    name: Employee benefits and share-based payment
+  - id: bu-intermediate-financial-reporting-11
+    name: Group accounts
+    sub:
+      - id: bu-intermediate-financial-reporting-11-1
+        name: Business combinations and goodwill
+      - id: bu-intermediate-financial-reporting-11-2
+        name: Consolidation procedures
+      - id: bu-intermediate-financial-reporting-11-3
+        name: Associates and joint ventures
+  - id: bu-intermediate-financial-reporting-12
+    name: Foreign currency translation
+  - id: bu-intermediate-financial-reporting-13
+    name: Earnings per share and segment reporting
+  - id: bu-intermediate-financial-reporting-14
+    name: Sustainability reporting alongside financial statements (ISSB IFRS S1/S2)
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-intermediate-financial-reporting.json
+  sha256: 2779932df6990af82c0ae5e998b14f8d3e62e6b85091d286dc03cb16c6835a57

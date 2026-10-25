@@ -1,0 +1,55 @@
+id: be-lasers-energy-devices
+name: Lasers, Light & Energy-Based Devices
+category: Aesthetic Procedures & Cosmetic Dermatology
+level: 3
+priority: important
+summary: The physics, uses, evidence and risks of lasers, intense pulsed light, radiofrequency, ultrasound and other energy-based aesthetic devices.
+prerequisites:
+  - be-cosmetic-procedures-overview
+  - be-skin-types-skin-of-colour
+related:
+  - ph-laser-physics
+  - bi-radiation-biology
+topics:
+  - id: be-lasers-energy-devices-1
+    name: "Light-tissue interaction: chromophores, wavelength and selective photothermolysis"
+  - id: be-lasers-energy-devices-2
+    name: Laser types and uses
+    sub:
+      - id: be-lasers-energy-devices-2-1
+        name: Vascular lasers for redness and veins
+      - id: be-lasers-energy-devices-2-2
+        name: "Pigment and tattoo-removal lasers: Q-switched and picosecond"
+      - id: be-lasers-energy-devices-2-3
+        name: Ablative and fractional resurfacing lasers
+      - id: be-lasers-energy-devices-2-4
+        name: Non-ablative lasers
+      - id: be-lasers-energy-devices-2-5
+        name: Hair removal lasers
+  - id: be-lasers-energy-devices-3
+    name: Intense pulsed light (IPL)
+  - id: be-lasers-energy-devices-4
+    name: Radiofrequency skin tightening
+  - id: be-lasers-energy-devices-5
+    name: High-intensity focused ultrasound (HIFU)
+  - id: be-lasers-energy-devices-6
+    name: "Fat reduction devices: cryolipolysis and others"
+  - id: be-lasers-energy-devices-7
+    name: LED and photobiomodulation
+  - id: be-lasers-energy-devices-8
+    name: "At-home devices: what they can and cannot do"
+  - id: be-lasers-energy-devices-9
+    name: "Laser safety: eye protection, burns and regulation of devices"
+  - id: be-lasers-energy-devices-10
+    name: Skin type and the risk of burns and pigment change
+  - id: be-lasers-energy-devices-11
+    name: Evidence quality for energy-based devices
+  - id: be-lasers-energy-devices-12
+    name: "Tattoo removal: process and expectations"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-lasers-energy-devices.json
+  sha256: 9de3bada94f21b0f55653c22252d9993dd1ec3bd2cfab32c353bf8e1f2537cdd

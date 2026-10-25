@@ -1,0 +1,44 @@
+id: bu-international-finance-treasury
+name: International Finance & Treasury
+category: Finance & Investment
+level: 4
+priority: advanced
+summary: "Managing money across currencies and borders: foreign exchange risk, global funding and the corporate treasury."
+prerequisites:
+  - bu-corporate-finance
+  - bu-international-economics
+related:
+  - bu-derivatives-risk-management
+  - bu-global-strategy
+topics:
+  - id: bu-international-finance-treasury-1
+    name: The foreign exchange market and exchange-rate quotes
+  - id: bu-international-finance-treasury-2
+    name: Parity conditions and forecasting exchange rates
+  - id: bu-international-finance-treasury-3
+    name: Transaction, translation and economic exposure
+  - id: bu-international-finance-treasury-4
+    name: Hedging currency risk with forwards, options and natural hedges
+  - id: bu-international-finance-treasury-5
+    name: International capital budgeting and country risk
+  - id: bu-international-finance-treasury-6
+    name: Cost of capital for foreign investments
+  - id: bu-international-finance-treasury-7
+    name: "Global funding: Eurobonds, syndicated loans and cross-listing"
+  - id: bu-international-finance-treasury-8
+    name: The corporate treasury function and cash pooling
+  - id: bu-international-finance-treasury-9
+    name: "Trade finance: letters of credit and export credit"
+  - id: bu-international-finance-treasury-10
+    name: Interest-rate risk management in the treasury
+  - id: bu-international-finance-treasury-11
+    name: Capital controls, repatriation and blocked funds
+  - id: bu-international-finance-treasury-12
+    name: Treasury technology and controls
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-international-finance-treasury.json
+  sha256: 67ba56ed0a0c2918767390d055263489fc2c3b04302b3c49f37947d51da00e02

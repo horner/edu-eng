@@ -1,0 +1,56 @@
+id: py-learning-conditioning
+name: Learning & Conditioning
+category: Learning, Memory & Cognition
+level: 2
+priority: core
+summary: How behaviour is shaped by experience through classical conditioning, operant conditioning and learning from others.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - bi-animal-behavior
+topics:
+  - id: py-learning-conditioning-1
+    name: "What learning is: habituation and sensitisation"
+  - id: py-learning-conditioning-2
+    name: Classical conditioning
+    sub:
+      - id: py-learning-conditioning-2-1
+        name: "Pavlov: acquisition, extinction and spontaneous recovery"
+      - id: py-learning-conditioning-2-2
+        name: Generalisation and discrimination
+      - id: py-learning-conditioning-2-3
+        name: Conditioned fear and taste aversion
+      - id: py-learning-conditioning-2-4
+        name: Rescorla-Wagner and prediction error
+  - id: py-learning-conditioning-3
+    name: Operant conditioning
+    sub:
+      - id: py-learning-conditioning-3-1
+        name: Thorndike's law of effect and Skinner
+      - id: py-learning-conditioning-3-2
+        name: Reinforcement and punishment
+      - id: py-learning-conditioning-3-3
+        name: Schedules of reinforcement
+      - id: py-learning-conditioning-3-4
+        name: Shaping and chaining
+  - id: py-learning-conditioning-4
+    name: Avoidance learning and the persistence of fear
+  - id: py-learning-conditioning-5
+    name: Biological constraints and preparedness
+  - id: py-learning-conditioning-6
+    name: "Cognitive learning: latent learning and cognitive maps"
+  - id: py-learning-conditioning-7
+    name: Observational learning and Bandura's Bobo doll studies
+  - id: py-learning-conditioning-8
+    name: Learned helplessness and its revisions
+  - id: py-learning-conditioning-9
+    name: Habits vs goal-directed behaviour
+  - id: py-learning-conditioning-10
+    name: "Applications: behaviour therapy, parenting and animal training"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-learning-conditioning.json
+  sha256: 3f18508ab6fb745618d8e5dbf5ff126580ea83152536f6096d8574ff6330af81

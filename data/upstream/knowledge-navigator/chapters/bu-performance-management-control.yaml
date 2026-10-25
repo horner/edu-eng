@@ -1,0 +1,43 @@
+id: bu-performance-management-control
+name: Performance Management & Management Control
+category: Accounting, Audit & Tax
+level: 3
+priority: important
+summary: Designing measures, budgets and incentives so that managers' decisions line up with the organisation's goals.
+prerequisites:
+  - bu-managerial-cost-accounting
+related:
+  - bu-business-strategy
+  - bu-total-rewards
+topics:
+  - id: bu-performance-management-control-1
+    name: "Management control systems: purpose and design"
+  - id: bu-performance-management-control-2
+    name: "Responsibility centres: cost, revenue, profit and investment centres"
+  - id: bu-performance-management-control-3
+    name: "Divisional performance: ROI, residual income and EVA"
+  - id: bu-performance-management-control-4
+    name: Transfer pricing between divisions
+  - id: bu-performance-management-control-5
+    name: "Behavioural aspects of budgeting: participation, slack and gaming"
+  - id: bu-performance-management-control-6
+    name: Beyond budgeting and rolling forecasts
+  - id: bu-performance-management-control-7
+    name: The balanced scorecard and strategy maps
+  - id: bu-performance-management-control-8
+    name: "KPIs and dashboards: choosing and avoiding perverse incentives"
+  - id: bu-performance-management-control-9
+    name: Incentive compensation linked to performance
+  - id: bu-performance-management-control-10
+    name: Performance measurement in service and nonprofit organisations
+  - id: bu-performance-management-control-11
+    name: Benchmarking and continuous improvement
+  - id: bu-performance-management-control-12
+    name: Controls in decentralised and digital organisations
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-performance-management-control.json
+  sha256: d4c07c2489717d2bda30f1f4f34b161205f8e991147e0e55a5ffc608dc71bab7

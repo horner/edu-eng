@@ -1,0 +1,68 @@
+id: be-cleansers-moisturisers-exfoliation
+name: Cleansers, Moisturisers & Exfoliation
+category: Skincare Practice & Active Ingredients
+level: 2
+priority: core
+summary: How cleansers, moisturisers, toners and exfoliants work at the ingredient level and how to choose them for different skin.
+prerequisites:
+  - be-skincare-fundamentals
+  - be-skin-barrier-hydration
+  - be-cosmetic-chemistry-basics
+related: []
+topics:
+  - id: be-cleansers-moisturisers-exfoliation-1
+    name: Cleansing
+    sub:
+      - id: be-cleansers-moisturisers-exfoliation-1-1
+        name: Surfactants and how they lift oil and dirt
+      - id: be-cleansers-moisturisers-exfoliation-1-2
+        name: Mild versus harsh surfactants and skin irritation
+      - id: be-cleansers-moisturisers-exfoliation-1-3
+        name: Soap versus syndet bars and pH
+      - id: be-cleansers-moisturisers-exfoliation-1-4
+        name: Micellar water, cleansing oils and balms
+      - id: be-cleansers-moisturisers-exfoliation-1-5
+        name: Double cleansing and makeup removal
+  - id: be-cleansers-moisturisers-exfoliation-2
+    name: "Toners, essences and mists: what they add"
+  - id: be-cleansers-moisturisers-exfoliation-3
+    name: Moisturisers
+    sub:
+      - id: be-cleansers-moisturisers-exfoliation-3-1
+        name: "Humectants: glycerin, hyaluronic acid, urea"
+      - id: be-cleansers-moisturisers-exfoliation-3-2
+        name: "Emollients: esters, oils and fatty alcohols"
+      - id: be-cleansers-moisturisers-exfoliation-3-3
+        name: "Occlusives: petrolatum, dimethicone, waxes"
+      - id: be-cleansers-moisturisers-exfoliation-3-4
+        name: Barrier-repair moisturisers with ceramides
+  - id: be-cleansers-moisturisers-exfoliation-4
+    name: Choosing textures for oily, dry and combination skin
+  - id: be-cleansers-moisturisers-exfoliation-5
+    name: "Eye creams: claims versus formulation"
+  - id: be-cleansers-moisturisers-exfoliation-6
+    name: Exfoliation
+    sub:
+      - id: be-cleansers-moisturisers-exfoliation-6-1
+        name: "Physical exfoliants: scrubs, brushes and cloths"
+      - id: be-cleansers-moisturisers-exfoliation-6-2
+        name: "Alpha-hydroxy acids: glycolic and lactic"
+      - id: be-cleansers-moisturisers-exfoliation-6-3
+        name: "Beta-hydroxy acid: salicylic"
+      - id: be-cleansers-moisturisers-exfoliation-6-4
+        name: Polyhydroxy acids and enzymes
+      - id: be-cleansers-moisturisers-exfoliation-6-5
+        name: Exfoliation frequency and over-exfoliation
+  - id: be-cleansers-moisturisers-exfoliation-7
+    name: "Masks: clay, sheet, sleeping and peel-off"
+  - id: be-cleansers-moisturisers-exfoliation-8
+    name: Body cleansers and body lotions
+  - id: be-cleansers-moisturisers-exfoliation-9
+    name: Facial oils and their place in a routine
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-cleansers-moisturisers-exfoliation.json
+  sha256: fb4eaa9760f9b1fc45d43fe7ae0228a203a1dc666cffafab8e484d3c2a147afb

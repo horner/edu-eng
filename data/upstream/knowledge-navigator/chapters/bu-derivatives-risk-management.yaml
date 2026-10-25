@@ -1,0 +1,44 @@
+id: bu-derivatives-risk-management
+name: Derivatives & Financial Risk Management
+category: Finance & Investment
+level: 4
+priority: advanced
+summary: How forwards, futures, options and swaps work and how firms use them to manage price, currency and rate risk.
+prerequisites:
+  - bu-investments-portfolio-management
+related:
+  - ma-financial-mathematics
+  - ma-stochastic-calculus
+  - bu-risk-management
+topics:
+  - id: bu-derivatives-risk-management-1
+    name: Derivative markets, exchanges and OTC trading
+  - id: bu-derivatives-risk-management-2
+    name: "Forwards and futures: pricing by no-arbitrage"
+  - id: bu-derivatives-risk-management-3
+    name: "Hedging with futures: basis risk and hedge ratios"
+  - id: bu-derivatives-risk-management-4
+    name: Interest rate and currency swaps
+  - id: bu-derivatives-risk-management-5
+    name: "Options: payoffs, strategies and put-call parity"
+  - id: bu-derivatives-risk-management-6
+    name: Binomial option pricing
+  - id: bu-derivatives-risk-management-7
+    name: "The Black-Scholes model: intuition and inputs"
+  - id: bu-derivatives-risk-management-8
+    name: The Greeks and dynamic hedging
+  - id: bu-derivatives-risk-management-9
+    name: Real options and embedded options in corporate contracts
+  - id: bu-derivatives-risk-management-10
+    name: "Corporate hedging policy: when and why to hedge"
+  - id: bu-derivatives-risk-management-11
+    name: Value at risk, stress testing and risk limits
+  - id: bu-derivatives-risk-management-12
+    name: Derivative disasters and lessons (Barings, LTCM, AIG)
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-derivatives-risk-management.json
+  sha256: be21a0412094b014f390abd3e02a5439fbd4531d9800797052f4b3fa013bc384

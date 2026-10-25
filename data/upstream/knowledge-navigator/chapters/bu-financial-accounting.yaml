@@ -1,0 +1,52 @@
+id: bu-financial-accounting
+name: Financial Accounting
+category: Accounting, Audit & Tax
+level: 2
+priority: core
+summary: How businesses record transactions and report their financial position, performance and cash flows to outsiders.
+prerequisites:
+  - bu-introduction-to-business
+  - bu-business-mathematics
+related:
+  - bu-bookkeeping-basics
+topics:
+  - id: bu-financial-accounting-1
+    name: Purpose of financial reporting and its users
+  - id: bu-financial-accounting-2
+    name: "Conceptual framework: qualitative characteristics and elements"
+  - id: bu-financial-accounting-3
+    name: "The accounting cycle: journals, ledgers and trial balance"
+  - id: bu-financial-accounting-4
+    name: Accrual accounting, adjusting entries and closing
+  - id: bu-financial-accounting-5
+    name: The income statement
+    sub:
+      - id: bu-financial-accounting-5-1
+        name: Revenue recognition basics
+      - id: bu-financial-accounting-5-2
+        name: Expenses and matching
+  - id: bu-financial-accounting-6
+    name: "The balance sheet: assets, liabilities and equity"
+  - id: bu-financial-accounting-7
+    name: "The statement of cash flows: operating, investing and financing"
+  - id: bu-financial-accounting-8
+    name: Receivables, bad debts and credit losses
+  - id: bu-financial-accounting-9
+    name: "Inventory and cost of goods sold: FIFO, weighted average and LIFO"
+  - id: bu-financial-accounting-10
+    name: Property, plant and equipment, depreciation and impairment
+  - id: bu-financial-accounting-11
+    name: "Intangible assets and goodwill: an introduction"
+  - id: bu-financial-accounting-12
+    name: "Liabilities: payables, accruals, provisions and long-term debt"
+  - id: bu-financial-accounting-13
+    name: Shareholders' equity, dividends and share capital
+  - id: bu-financial-accounting-14
+    name: "Accounting standards and standard setters: IFRS (IASB) vs US GAAP (FASB)"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-financial-accounting.json
+  sha256: 9937642be431e14de8c608a069b0275a58a6e88afa3f40a1d6190e380e20d890

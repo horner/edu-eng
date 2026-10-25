@@ -1,0 +1,51 @@
+id: mk-customer-experience-management
+name: Customer Experience & Journey Management
+category: Customers & Insight
+level: 3
+priority: important
+summary: Designing and measuring the end-to-end experience customers have with an organisation across channels and touchpoints.
+prerequisites:
+  - mk-services-marketing
+  - mk-customer-research-basics
+related:
+  - cs-ux-design
+  - cs-hci
+topics:
+  - id: mk-customer-experience-management-1
+    name: What customer experience (CX) is and why it drives loyalty
+  - id: mk-customer-experience-management-2
+    name: Customer journey mapping
+  - id: mk-customer-experience-management-3
+    name: Service blueprinting and front-stage/back-stage processes
+  - id: mk-customer-experience-management-4
+    name: Moments of truth, pain points and the peak-end rule
+  - id: mk-customer-experience-management-5
+    name: Omnichannel experience design
+  - id: mk-customer-experience-management-6
+    name: Voice of the customer programmes
+  - id: mk-customer-experience-management-7
+    name: CX metrics
+    sub:
+      - id: mk-customer-experience-management-7-1
+        name: Customer satisfaction (CSAT)
+      - id: mk-customer-experience-management-7-2
+        name: Net Promoter Score and its criticisms
+      - id: mk-customer-experience-management-7-3
+        name: Customer effort score
+  - id: mk-customer-experience-management-8
+    name: Complaint handling and service recovery
+  - id: mk-customer-experience-management-9
+    name: Personalisation and its limits
+  - id: mk-customer-experience-management-10
+    name: Employee experience and its link to customer experience
+  - id: mk-customer-experience-management-11
+    name: Linking CX to retention and revenue
+  - id: mk-customer-experience-management-12
+    name: "Organising for CX: ownership, governance and closed-loop feedback"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-customer-experience-management.json
+  sha256: f2f4a8a49b6750395f350160b6854d3bdc76f7f2df226aaebd377beb595c904a

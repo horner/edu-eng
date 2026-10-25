@@ -1,0 +1,37 @@
+id: el-power-flow-analysis
+name: Load Flow & Economic Dispatch
+category: Electrical Machines & Power Systems
+level: 3
+priority: core
+summary: "Computing the steady state of a power network and operating it economically: load flow, contingency analysis, economic dispatch and OPF."
+prerequisites:
+  - el-power-system-fundamentals
+  - ma-root-finding-algorithms
+related:
+  - ma-nonlinear-programming
+topics:
+  - id: el-power-flow-analysis-1
+    name: Bus classification (slack, PV, PQ) and power-flow equations
+  - id: el-power-flow-analysis-2
+    name: Gauss-Seidel load flow
+  - id: el-power-flow-analysis-3
+    name: Newton-Raphson load flow
+  - id: el-power-flow-analysis-4
+    name: Fast-decoupled and DC power flow
+  - id: el-power-flow-analysis-5
+    name: "Control of power flow: taps, phase shifters, reactive support"
+  - id: el-power-flow-analysis-6
+    name: Contingency analysis
+  - id: el-power-flow-analysis-7
+    name: Economic dispatch and incremental cost
+  - id: el-power-flow-analysis-8
+    name: Optimal power flow (OPF)
+  - id: el-power-flow-analysis-9
+    name: Power-flow software tools (MATPOWER, pandapower, PSS/E)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-power-flow-analysis.json
+  sha256: 805a5577c52129f7b380f96ae9eea421a0e91a6e0ae309e22dd3ca704c9f2c97

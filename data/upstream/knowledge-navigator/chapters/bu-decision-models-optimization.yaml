@@ -1,0 +1,45 @@
+id: bu-decision-models-optimization
+name: "Decision Models: Optimisation & Simulation"
+category: Analytics & Decision Sciences
+level: 3
+priority: important
+summary: Spreadsheet-based models for choosing the best decision under constraints and uncertainty.
+prerequisites:
+  - bu-spreadsheet-modelling
+  - bu-business-statistics-analytics
+related:
+  - ma-linear-programming
+  - ma-operations-research
+  - ma-integer-programming
+topics:
+  - id: bu-decision-models-optimization-1
+    name: "Modelling a decision: variables, objectives and constraints"
+  - id: bu-decision-models-optimization-2
+    name: "Linear programming: formulation and graphical intuition"
+  - id: bu-decision-models-optimization-3
+    name: Solving and interpreting LPs with spreadsheet solvers
+  - id: bu-decision-models-optimization-4
+    name: Sensitivity analysis and shadow prices
+  - id: bu-decision-models-optimization-5
+    name: "Integer and binary decisions: location, scheduling and project selection"
+  - id: bu-decision-models-optimization-6
+    name: "Network models: transportation, assignment and routing"
+  - id: bu-decision-models-optimization-7
+    name: "Nonlinear optimisation: pricing and portfolio examples"
+  - id: bu-decision-models-optimization-8
+    name: "Decision analysis under uncertainty: decision trees and value of information"
+  - id: bu-decision-models-optimization-9
+    name: Monte Carlo simulation in spreadsheets
+  - id: bu-decision-models-optimization-10
+    name: Simulation for queues and inventory
+  - id: bu-decision-models-optimization-11
+    name: Multi-criteria decision-making
+  - id: bu-decision-models-optimization-12
+    name: "Prescriptive analytics in practice: limits and implementation"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-decision-models-optimization.json
+  sha256: 9aa1cf3e7431c482eb0bec4108ef31ae2c3ba45bd424daa687c660262a5748cf

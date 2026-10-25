@@ -1,0 +1,61 @@
+id: hf-nutrition-assessment
+name: Nutritional Assessment
+category: Nutrition Science
+level: 3
+priority: important
+summary: Methods for assessing nutritional status through anthropometry, body composition, biomarkers, clinical signs and dietary intake.
+prerequisites:
+  - hf-micronutrients
+  - hf-energy-balance-metabolism
+related:
+  - ma-descriptive-statistics
+topics:
+  - id: hf-nutrition-assessment-1
+    name: "The ABCD framework: anthropometric, biochemical, clinical and dietary assessment"
+  - id: hf-nutrition-assessment-2
+    name: "Anthropometry: weight, height, BMI, waist circumference and growth charts"
+  - id: hf-nutrition-assessment-3
+    name: Body composition methods
+    sub:
+      - id: hf-nutrition-assessment-3-1
+        name: Skinfolds
+      - id: hf-nutrition-assessment-3-2
+        name: Bioelectrical impedance
+      - id: hf-nutrition-assessment-3-3
+        name: DXA
+      - id: hf-nutrition-assessment-3-4
+        name: Air displacement and hydrostatic weighing
+  - id: hf-nutrition-assessment-4
+    name: "Biochemical assessment: blood and urine biomarkers"
+  - id: hf-nutrition-assessment-5
+    name: Nutrition-focused physical examination
+  - id: hf-nutrition-assessment-6
+    name: Dietary assessment methods
+    sub:
+      - id: hf-nutrition-assessment-6-1
+        name: 24-hour recalls
+      - id: hf-nutrition-assessment-6-2
+        name: Food records and diaries
+      - id: hf-nutrition-assessment-6-3
+        name: Food frequency questionnaires
+      - id: hf-nutrition-assessment-6-4
+        name: Diet history
+  - id: hf-nutrition-assessment-7
+    name: Under-reporting and validating intake against doubly labelled water
+  - id: hf-nutrition-assessment-8
+    name: Food composition databases and nutrient analysis software
+  - id: hf-nutrition-assessment-9
+    name: "Malnutrition screening tools: MUST, MNA and Subjective Global Assessment"
+  - id: hf-nutrition-assessment-10
+    name: Measuring household food security
+  - id: hf-nutrition-assessment-11
+    name: "Comparing intakes with reference values: the EAR cut-point method"
+  - id: hf-nutrition-assessment-12
+    name: "From assessment to nutrition diagnosis: PES statements"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-nutrition-assessment.json
+  sha256: 50280158e9453d60036726f1172c68a4ed2d36292fc2799c13822eaf96ff616a

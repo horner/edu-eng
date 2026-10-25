@@ -1,0 +1,47 @@
+id: mk-b2b-marketing
+name: Business-to-Business Marketing
+category: Product, Price & Place
+level: 3
+priority: important
+summary: "Marketing to organisations: how businesses buy, how B2B segments and offers differ, and how marketing and sales work together to win accounts."
+prerequisites:
+  - mk-integrated-marketing-communications
+  - mk-sales-fundamentals
+related:
+  - mk-enterprise-b2b-sales
+topics:
+  - id: mk-b2b-marketing-1
+    name: How B2B markets differ from consumer markets
+  - id: mk-b2b-marketing-2
+    name: Organisational buying behaviour and buying situations
+  - id: mk-b2b-marketing-3
+    name: The buying centre and buying committees
+  - id: mk-b2b-marketing-4
+    name: "The modern B2B buying journey: buying jobs and digital self-education"
+  - id: mk-b2b-marketing-5
+    name: Segmenting and targeting business markets
+  - id: mk-b2b-marketing-6
+    name: B2B value propositions and value quantification
+  - id: mk-b2b-marketing-7
+    name: B2B branding and the role of emotion
+  - id: mk-b2b-marketing-8
+    name: Demand generation and lead management
+  - id: mk-b2b-marketing-9
+    name: Account-based marketing
+  - id: mk-b2b-marketing-10
+    name: B2B content, events and thought leadership
+  - id: mk-b2b-marketing-11
+    name: Channel and partner marketing
+  - id: mk-b2b-marketing-12
+    name: "Marketing and sales alignment: service-level agreements and shared metrics"
+  - id: mk-b2b-marketing-13
+    name: B2B e-commerce and procurement platforms
+  - id: mk-b2b-marketing-14
+    name: Measuring B2B marketing effectiveness
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-b2b-marketing.json
+  sha256: 58261a760c8a96323cf4218873b378e7bf9937a0ab03d7c4cba300846eedc778

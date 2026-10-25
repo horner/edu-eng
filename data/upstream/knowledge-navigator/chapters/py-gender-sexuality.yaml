@@ -1,0 +1,42 @@
+id: py-gender-sexuality
+name: Psychology of Sex, Gender & Sexuality
+category: Personality & Individual Differences
+level: 2
+priority: important
+summary: Research on sex differences and similarities, gender identity, sexual orientation, sexual behaviour and relationships, separating evidence from stereotype.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - bi-endocrinology-reproduction
+topics:
+  - id: py-gender-sexuality-1
+    name: Sex, gender and key terms
+  - id: py-gender-sexuality-2
+    name: "Sex differences and similarities: the gender similarities hypothesis"
+  - id: py-gender-sexuality-3
+    name: Biological, social and cognitive theories of gender development
+  - id: py-gender-sexuality-4
+    name: Gender stereotypes and their effects
+  - id: py-gender-sexuality-5
+    name: Gender identity, transgender and non-binary experiences
+  - id: py-gender-sexuality-6
+    name: "Sexual orientation: development and research"
+  - id: py-gender-sexuality-7
+    name: Human sexual response and desire
+  - id: py-gender-sexuality-8
+    name: Sexual behaviour across the lifespan
+  - id: py-gender-sexuality-9
+    name: Consent, sexual coercion and violence
+  - id: py-gender-sexuality-10
+    name: Sexual health, sexual dysfunctions and sex therapy in outline
+  - id: py-gender-sexuality-11
+    name: Minority stress and LGBTQ+ mental health
+  - id: py-gender-sexuality-12
+    name: "Pornography and sexual media: evidence and debates"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-gender-sexuality.json
+  sha256: 61f569da6671789a1422218d7529c52571c8fbf0ba5c83f62d63353f1e79b5a1

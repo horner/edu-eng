@@ -1,0 +1,47 @@
+id: ma-discrete-mathematics
+name: Discrete Mathematics
+category: Combinatorics & Discrete Mathematics
+level: 2
+priority: core
+summary: "First course in discrete mathematics: logic, sets, counting, relations, recurrences, graphs and trees and the groundwork for computer science and proof-based maths."
+prerequisites:
+  - ma-elementary-intermediate-algebra
+related:
+  - ma-introduction-to-proofs
+  - cs-discrete-mathematics
+topics:
+  - id: ma-discrete-mathematics-1
+    name: Propositional and predicate logic
+  - id: ma-discrete-mathematics-2
+    name: Proof techniques and induction
+  - id: ma-discrete-mathematics-3
+    name: Sets, functions and relations
+  - id: ma-discrete-mathematics-4
+    name: "Counting: product and sum rules, permutations and combinations"
+  - id: ma-discrete-mathematics-5
+    name: Pigeonhole principle and inclusion-exclusion
+  - id: ma-discrete-mathematics-6
+    name: Binomial coefficients and Pascal's triangle
+  - id: ma-discrete-mathematics-7
+    name: Recurrence relations and solving linear recurrences
+  - id: ma-discrete-mathematics-8
+    name: Discrete probability
+  - id: ma-discrete-mathematics-9
+    name: "Elementary number theory: divisibility, primes and modular arithmetic"
+  - id: ma-discrete-mathematics-10
+    name: "Graphs: paths, connectivity, Euler and Hamilton circuits"
+  - id: ma-discrete-mathematics-11
+    name: Trees and spanning trees
+  - id: ma-discrete-mathematics-12
+    name: Boolean algebra and logic circuits
+  - id: ma-discrete-mathematics-13
+    name: Partial orders and lattices
+  - id: ma-discrete-mathematics-14
+    name: Asymptotic notation and growth of functions
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-discrete-mathematics.json
+  sha256: cd87b62c1c4e669548e7248b2c9728b8705a0a29f26a8f611c8b01ea6e5aa933

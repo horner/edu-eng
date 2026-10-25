@@ -1,0 +1,52 @@
+id: bu-game-theory-competitive-strategy
+name: Game Theory & Competitive Dynamics
+category: Economics for Business
+level: 3
+priority: important
+summary: Thinking strategically about rivals, partners and customers using game theory and industrial organisation.
+prerequisites:
+  - bu-microeconomics-for-business
+  - ma-elementary-probability
+related:
+  - ma-game-theory
+  - bu-business-strategy
+  - bu-negotiation
+topics:
+  - id: bu-game-theory-competitive-strategy-1
+    name: Strategic interdependence and game representation
+  - id: bu-game-theory-competitive-strategy-2
+    name: Dominant strategies and Nash equilibrium
+  - id: bu-game-theory-competitive-strategy-3
+    name: "The prisoner's dilemma: price wars and cooperation"
+  - id: bu-game-theory-competitive-strategy-4
+    name: Sequential games, backward induction and first-mover advantage
+  - id: bu-game-theory-competitive-strategy-5
+    name: Commitment, credibility and threats
+  - id: bu-game-theory-competitive-strategy-6
+    name: Repeated games and tacit collusion
+  - id: bu-game-theory-competitive-strategy-7
+    name: Cournot and Bertrand competition
+  - id: bu-game-theory-competitive-strategy-8
+    name: Entry deterrence, limit pricing and capacity strategy
+  - id: bu-game-theory-competitive-strategy-9
+    name: Signalling and screening
+  - id: bu-game-theory-competitive-strategy-10
+    name: Auctions and bidding strategy
+    sub:
+      - id: bu-game-theory-competitive-strategy-10-1
+        name: English, Dutch and sealed-bid auctions
+      - id: bu-game-theory-competitive-strategy-10-2
+        name: The winner's curse
+  - id: bu-game-theory-competitive-strategy-11
+    name: Bargaining games and holdup
+  - id: bu-game-theory-competitive-strategy-12
+    name: Coopetition and the value net
+  - id: bu-game-theory-competitive-strategy-13
+    name: "Antitrust economics: collusion, predation and mergers"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-game-theory-competitive-strategy.json
+  sha256: 423058d096bed45a23ddd31cbc222098d74ff6ef95e5d2b0c44005c355701210

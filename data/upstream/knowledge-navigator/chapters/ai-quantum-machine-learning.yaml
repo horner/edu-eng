@@ -1,0 +1,30 @@
+id: ai-quantum-machine-learning
+name: Quantum Machine Learning
+category: Emerging & Frontier Fields
+level: 5
+priority: advanced
+summary: "Machine learning with quantum computers: variational quantum circuits, quantum kernels, quantum optimization and sampling."
+prerequisites:
+  - ai-types-of-machine-learning
+  - ph-quantum-information-science
+related:
+  - ma-quantum-computation-theory
+  - cs-quantum-computing
+topics:
+  - id: ai-quantum-machine-learning-1
+    name: Quantum Neural Networks
+  - id: ai-quantum-machine-learning-2
+    name: Variational Quantum Algorithms
+  - id: ai-quantum-machine-learning-3
+    name: Quantum Kernel Methods
+  - id: ai-quantum-machine-learning-4
+    name: Quantum Optimization
+  - id: ai-quantum-machine-learning-5
+    name: Quantum Sampling
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-quantum-machine-learning.json
+  sha256: 64c14facd8542c09ab1a7f3570838a8dc389e85bb73e2e281616d5b9aa6d9e12

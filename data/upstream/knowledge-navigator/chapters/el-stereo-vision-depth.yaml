@@ -1,0 +1,28 @@
+id: el-stereo-vision-depth
+name: Stereo Vision & Depth
+category: Machine Learning & Edge AI
+level: 4
+priority: advanced
+summary: Recovering depth from stereo cameras, structured light and time-of-flight.
+prerequisites:
+  - el-feature-detection-matching
+related:
+  - ai-3d-computer-vision
+topics:
+  - id: el-stereo-vision-depth-1
+    name: Stereo camera calibration
+  - id: el-stereo-vision-depth-2
+    name: Disparity map computation
+  - id: el-stereo-vision-depth-3
+    name: Depth estimation
+  - id: el-stereo-vision-depth-4
+    name: Structured light systems
+  - id: el-stereo-vision-depth-5
+    name: Time-of-Flight (ToF) cameras
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-stereo-vision-depth.json
+  sha256: 73c78d346808d194bee856e174f55ccf211f73ad66f98407922bef98d623ca24

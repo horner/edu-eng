@@ -1,0 +1,44 @@
+id: bu-risk-management
+name: Enterprise Risk Management & Insurance
+category: Law, Governance, Ethics & Sustainability
+level: 3
+priority: important
+summary: Identifying, assessing and managing the risks an organisation faces, including insurance, continuity and crisis planning.
+prerequisites:
+  - bu-principles-of-management
+  - bu-business-statistics-analytics
+related:
+  - bu-derivatives-risk-management
+  - bu-cybersecurity-privacy-for-managers
+topics:
+  - id: bu-risk-management-1
+    name: "Risk concepts: uncertainty, exposure, likelihood and impact"
+  - id: bu-risk-management-2
+    name: "Risk management frameworks: COSO ERM and ISO 31000"
+  - id: bu-risk-management-3
+    name: Risk appetite and tolerance
+  - id: bu-risk-management-4
+    name: "Risk identification: registers and workshops"
+  - id: bu-risk-management-5
+    name: "Risk assessment: heat maps and quantitative methods"
+  - id: bu-risk-management-6
+    name: "Risk treatment: avoid, reduce, transfer and accept"
+  - id: bu-risk-management-7
+    name: "Insurance: principles, types of business cover and claims"
+  - id: bu-risk-management-8
+    name: Operational, strategic, financial and compliance risks
+  - id: bu-risk-management-9
+    name: Business continuity planning and disaster recovery
+  - id: bu-risk-management-10
+    name: Crisis management and communication
+  - id: bu-risk-management-11
+    name: "Emerging risks: cyber, climate and geopolitical"
+  - id: bu-risk-management-12
+    name: Risk culture and the three lines model
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-risk-management.json
+  sha256: 0b46a6e98b7d476bcbf28680fbb1652752c4fe775db1bd2e3a9a634dc0a27275

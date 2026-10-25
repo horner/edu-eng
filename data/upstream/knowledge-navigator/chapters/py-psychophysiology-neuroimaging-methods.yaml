@@ -1,0 +1,58 @@
+id: py-psychophysiology-neuroimaging-methods
+name: Psychophysiology & Neuroimaging Methods
+category: Biological Bases of Behaviour
+level: 3
+priority: advanced
+summary: Hands-on methods for recording the body and brain in psychology experiments, from heart rate and skin conductance to EEG and fMRI.
+prerequisites:
+  - py-biological-psychology
+  - py-research-methods-in-psychology
+related:
+  - bi-neurotechnology-methods
+  - bi-microscopy-bioimaging
+topics:
+  - id: py-psychophysiology-neuroimaging-methods-1
+    name: Principles of psychophysiological measurement and inference
+  - id: py-psychophysiology-neuroimaging-methods-2
+    name: Electrodermal activity (skin conductance)
+  - id: py-psychophysiology-neuroimaging-methods-3
+    name: Heart rate and heart rate variability
+  - id: py-psychophysiology-neuroimaging-methods-4
+    name: Respiration, blood pressure and pupillometry
+  - id: py-psychophysiology-neuroimaging-methods-5
+    name: Facial EMG and startle
+  - id: py-psychophysiology-neuroimaging-methods-6
+    name: Eye tracking
+  - id: py-psychophysiology-neuroimaging-methods-7
+    name: EEG and event-related potentials
+    sub:
+      - id: py-psychophysiology-neuroimaging-methods-7-1
+        name: Recording, artefacts and preprocessing
+      - id: py-psychophysiology-neuroimaging-methods-7-2
+        name: "Classic components: P300, N400, ERN"
+      - id: py-psychophysiology-neuroimaging-methods-7-3
+        name: Time-frequency analysis
+  - id: py-psychophysiology-neuroimaging-methods-8
+    name: fMRI
+    sub:
+      - id: py-psychophysiology-neuroimaging-methods-8-1
+        name: BOLD signal and experimental design
+      - id: py-psychophysiology-neuroimaging-methods-8-2
+        name: Preprocessing and the general linear model
+      - id: py-psychophysiology-neuroimaging-methods-8-3
+        name: Connectivity and multivariate pattern analysis
+  - id: py-psychophysiology-neuroimaging-methods-9
+    name: Brain stimulation methods (TMS, tDCS)
+  - id: py-psychophysiology-neuroimaging-methods-10
+    name: "Hormonal and immune measures: cortisol, salivary assays and inflammation markers"
+  - id: py-psychophysiology-neuroimaging-methods-11
+    name: Wearables and ambulatory monitoring
+  - id: py-psychophysiology-neuroimaging-methods-12
+    name: Reproducibility issues in neuroimaging
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychophysiology-neuroimaging-methods.json
+  sha256: 0a7631361cfb4875d094d5a82d9e04bc7f612f0e251534f67e6e381872f486b3

@@ -1,0 +1,27 @@
+id: el-reinforcement-learning
+name: Reinforcement Learning for Embedded Control
+category: Machine Learning & Edge AI
+level: 4
+priority: advanced
+summary: Applying reinforcement learning (Q-learning, DQN, policy gradients, actor-critic) to embedded control and robotics.
+prerequisites:
+  - ai-rl-fundamentals
+  - el-tinyml-tiny-machine-learning
+related:
+  - ai-deep-reinforcement-learning
+topics:
+  - id: el-reinforcement-learning-1
+    name: Q-learning and Deep Q-Networks (DQN)
+  - id: el-reinforcement-learning-2
+    name: Policy gradient methods
+  - id: el-reinforcement-learning-3
+    name: Actor-critic algorithms
+  - id: el-reinforcement-learning-4
+    name: Applications in robotics and control
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-reinforcement-learning.json
+  sha256: 08de256130267712c49d8aaab93b64f8d2b41c303f5269ac269251e1c648d3b5

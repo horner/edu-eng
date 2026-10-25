@@ -1,0 +1,36 @@
+id: ma-harmonic-analysis
+name: Harmonic Analysis
+category: Analysis
+level: 3
+priority: important
+summary: "Fourier analysis: decomposing functions into frequencies with Fourier series and transforms, plus wavelets and modern harmonic analysis."
+prerequisites:
+  - ma-real-analysis
+related:
+  - el-signal-processing-fundamentals
+topics:
+  - id: ma-harmonic-analysis-1
+    name: Fourier series
+  - id: ma-harmonic-analysis-5
+    name: "Convergence of Fourier series: Dirichlet and Fejer kernels"
+  - id: ma-harmonic-analysis-6
+    name: L2 theory and Parseval
+  - id: ma-harmonic-analysis-2
+    name: Fourier transforms
+  - id: ma-harmonic-analysis-7
+    name: Plancherel theorem and the Schwartz space
+  - id: ma-harmonic-analysis-8
+    name: Poisson summation and sampling
+  - id: ma-harmonic-analysis-9
+    name: Maximal functions and singular integrals (Hilbert transform)
+  - id: ma-harmonic-analysis-3
+    name: Wavelet analysis
+  - id: ma-harmonic-analysis-4
+    name: Abstract harmonic analysis
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-harmonic-analysis.json
+  sha256: b83877820ef5e3b18f735d2b00d89884908fa8ab55e18f1e372be415ff87f0da

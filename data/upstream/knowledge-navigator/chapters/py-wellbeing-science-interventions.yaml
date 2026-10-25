@@ -1,0 +1,42 @@
+id: py-wellbeing-science-interventions
+name: Wellbeing Science & Positive Interventions
+category: Health, Wellbeing & Positive Psychology
+level: 3
+priority: advanced
+summary: Advanced study of how wellbeing is measured, how positive interventions are designed and tested, and how wellbeing science is applied in organisations and policy.
+prerequisites:
+  - py-positive-psychology-wellbeing
+  - py-research-methods-in-psychology
+related: []
+topics:
+  - id: py-wellbeing-science-interventions-1
+    name: "Measuring wellbeing: scales, experience sampling and day reconstruction"
+  - id: py-wellbeing-science-interventions-2
+    name: National wellbeing measurement and wellbeing economics
+  - id: py-wellbeing-science-interventions-3
+    name: "Theories of wellbeing: PERMA, Ryff's psychological wellbeing and self-determination theory"
+  - id: py-wellbeing-science-interventions-4
+    name: "Designing positive psychology interventions: fit, dosage and person-activity fit"
+  - id: py-wellbeing-science-interventions-5
+    name: Meta-analyses of positive interventions and their effect sizes
+  - id: py-wellbeing-science-interventions-6
+    name: "Critiques: replication, cultural bias and 'tyranny of positivity'"
+  - id: py-wellbeing-science-interventions-7
+    name: "Second-wave positive psychology: embracing negative emotions"
+  - id: py-wellbeing-science-interventions-8
+    name: Positive education programmes
+  - id: py-wellbeing-science-interventions-9
+    name: Positive organisational psychology
+  - id: py-wellbeing-science-interventions-10
+    name: Coaching psychology
+  - id: py-wellbeing-science-interventions-11
+    name: Character, virtue and the neuroscience of character
+  - id: py-wellbeing-science-interventions-12
+    name: Wellbeing in public policy
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-wellbeing-science-interventions.json
+  sha256: 815bb99d990461c342485a54598df441f477c8e38a0a8fb93e5197f04501b413

@@ -1,0 +1,50 @@
+id: be-personal-style-colour
+name: Personal Style, Colour Analysis & Wardrobe
+category: Personal Style & Image
+level: 1
+priority: important
+summary: How to develop a personal style that suits your body, colouring, life and budget, including colour analysis, fit and wardrobe planning.
+prerequisites:
+  - be-introduction-to-beauty-science
+related: []
+topics:
+  - id: be-personal-style-colour-1
+    name: What personal style is and how to find yours
+  - id: be-personal-style-colour-2
+    name: Body proportions and line, without "flattering" rules
+  - id: be-personal-style-colour-3
+    name: "Fit and tailoring: the biggest difference for the least money"
+  - id: be-personal-style-colour-4
+    name: Colour analysis
+    sub:
+      - id: be-personal-style-colour-4-1
+        name: Undertone, value and contrast
+      - id: be-personal-style-colour-4-2
+        name: Seasonal colour systems (4, 12 and 16 seasons)
+      - id: be-personal-style-colour-4-3
+        name: Draping and digital colour analysis
+      - id: be-personal-style-colour-4-4
+        name: Evidence and limits of colour analysis
+  - id: be-personal-style-colour-5
+    name: Using colour in clothing, hair and makeup
+  - id: be-personal-style-colour-6
+    name: Fabrics, texture and pattern
+  - id: be-personal-style-colour-7
+    name: Wardrobe audit and capsule wardrobes
+  - id: be-personal-style-colour-8
+    name: "Dress codes: work, formal and cultural occasions"
+  - id: be-personal-style-colour-9
+    name: Accessories, glasses and jewellery
+  - id: be-personal-style-colour-10
+    name: Style across ages, genders and body changes
+  - id: be-personal-style-colour-11
+    name: Shopping strategies and budgeting
+  - id: be-personal-style-colour-12
+    name: "Sustainable fashion: buying less, secondhand and caring for clothes"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-personal-style-colour.json
+  sha256: 9ecf7a98cc55fa6014aa3f78730c23855f6cf03a1747256e1313321ef1456fe5

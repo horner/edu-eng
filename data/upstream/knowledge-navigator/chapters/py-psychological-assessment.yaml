@@ -1,0 +1,46 @@
+id: py-psychological-assessment
+name: Psychological Assessment & Case Formulation
+category: Assessment, Psychotherapy & Counselling
+level: 3
+priority: important
+summary: How psychologists assess people through interviews, tests and observation, turn findings into a formulation and communicate results.
+prerequisites:
+  - py-psychopathology-foundations
+  - py-psychometrics-test-construction
+related: []
+topics:
+  - id: py-psychological-assessment-1
+    name: "Purposes of assessment: diagnosis, formulation, risk and outcome"
+  - id: py-psychological-assessment-2
+    name: "Clinical interviewing: unstructured, semi-structured and structured (SCID, MINI)"
+  - id: py-psychological-assessment-3
+    name: Mental state examination
+  - id: py-psychological-assessment-4
+    name: Symptom questionnaires and screening tools (PHQ-9, GAD-7, CORE-10)
+  - id: py-psychological-assessment-5
+    name: Cognitive and intelligence testing (WAIS, WISC)
+  - id: py-psychological-assessment-6
+    name: Personality and broadband measures (MMPI, PAI, NEO)
+  - id: py-psychological-assessment-7
+    name: Projective tests and why most lack validity
+  - id: py-psychological-assessment-8
+    name: Behavioural observation and functional analysis
+  - id: py-psychological-assessment-9
+    name: "Risk assessment: suicide, violence and safeguarding"
+  - id: py-psychological-assessment-10
+    name: "Case formulation: 5Ps and model-specific formulations"
+  - id: py-psychological-assessment-11
+    name: Clinical vs actuarial judgement
+  - id: py-psychological-assessment-12
+    name: Routine outcome monitoring and measurement-based care
+  - id: py-psychological-assessment-13
+    name: Cultural and linguistic fairness in assessment
+  - id: py-psychological-assessment-14
+    name: Writing reports and feeding back results
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychological-assessment.json
+  sha256: d894d0be4448da12d94b15f8187cd034948e52dc336a3197da0b68e0bd51fcc9

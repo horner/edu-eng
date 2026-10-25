@@ -1,0 +1,55 @@
+id: mk-marketing-law-regulation
+name: Marketing Law & Regulation
+category: Marketing Foundations
+level: 2
+priority: important
+summary: "The legal rules marketers work within: consumer protection, advertising standards, intellectual property, competition and data protection."
+prerequisites:
+  - mk-marketing-principles
+related:
+  - mk-marketing-ethics-sustainability
+  - bu-business-law
+  - be-product-testing-claims
+topics:
+  - id: mk-marketing-law-regulation-1
+    name: "How marketing is regulated: law, regulators and self-regulation"
+  - id: mk-marketing-law-regulation-2
+    name: "Consumer protection law: misleading and aggressive practices"
+  - id: mk-marketing-law-regulation-3
+    name: Advertising codes and regulators (for example ASA/CAP in the UK, FTC in the US)
+  - id: mk-marketing-law-regulation-4
+    name: "Substantiating claims: comparative, environmental and health claims"
+  - id: mk-marketing-law-regulation-5
+    name: "Pricing law: reference prices, drip pricing and hidden fees"
+  - id: mk-marketing-law-regulation-6
+    name: Promotions, prize draws and competitions
+  - id: mk-marketing-law-regulation-7
+    name: Intellectual property for marketers
+    sub:
+      - id: mk-marketing-law-regulation-7-1
+        name: Trade marks and brand protection
+      - id: mk-marketing-law-regulation-7-2
+        name: Copyright in creative work
+      - id: mk-marketing-law-regulation-7-3
+        name: Passing off and look-alike packaging
+  - id: mk-marketing-law-regulation-8
+    name: Endorsements, influencers, reviews and disclosure rules
+  - id: mk-marketing-law-regulation-9
+    name: Contracts, terms and conditions and distance-selling rights
+  - id: mk-marketing-law-regulation-10
+    name: "Competition law issues: price fixing, resale price maintenance, exclusive dealing"
+  - id: mk-marketing-law-regulation-11
+    name: Introduction to data protection and electronic marketing rules
+  - id: mk-marketing-law-regulation-12
+    name: "Sector rules: alcohol, gambling, food, financial services, children"
+  - id: mk-marketing-law-regulation-13
+    name: Product labelling and safety basics
+  - id: mk-marketing-law-regulation-14
+    name: Working with legal teams and building compliance into campaigns
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketing-law-regulation.json
+  sha256: 8102a67b688e785d56e8b970a8769eb5ffe1d47cc17e421ce9a79a18c2c1941a

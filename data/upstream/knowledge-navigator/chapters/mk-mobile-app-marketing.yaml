@@ -1,0 +1,43 @@
+id: mk-mobile-app-marketing
+name: Mobile & App Marketing
+category: Digital Marketing
+level: 3
+priority: advanced
+summary: "Marketing on mobile devices and growing apps: app store optimisation, install campaigns, engagement and measurement under privacy limits."
+prerequisites:
+  - mk-paid-social-advertising
+  - mk-web-product-analytics
+related:
+  - cs-mobile-development
+topics:
+  - id: mk-mobile-app-marketing-1
+    name: Mobile behaviour and mobile-first design
+  - id: mk-mobile-app-marketing-2
+    name: App business models and monetisation
+  - id: mk-mobile-app-marketing-3
+    name: App store optimisation
+  - id: mk-mobile-app-marketing-4
+    name: User acquisition campaigns
+  - id: mk-mobile-app-marketing-5
+    name: Mobile measurement partners and attribution
+  - id: mk-mobile-app-marketing-6
+    name: Platform privacy frameworks (for example App Tracking Transparency, SKAdNetwork)
+  - id: mk-mobile-app-marketing-7
+    name: Onboarding and activation
+  - id: mk-mobile-app-marketing-8
+    name: Push notifications and in-app messaging
+  - id: mk-mobile-app-marketing-9
+    name: Retention cohorts and engagement loops
+  - id: mk-mobile-app-marketing-10
+    name: Deep linking
+  - id: mk-mobile-app-marketing-11
+    name: Location-based and proximity marketing
+  - id: mk-mobile-app-marketing-12
+    name: Mobile ad fraud
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-mobile-app-marketing.json
+  sha256: 0e05c854aad76f8efda666e27bc79f6ed8fc39fe86736e401b5115afafdffa50

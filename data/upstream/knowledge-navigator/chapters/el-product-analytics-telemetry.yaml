@@ -1,0 +1,27 @@
+id: el-product-analytics-telemetry
+name: Product Analytics & Telemetry
+category: Professional Practice, Business & Community
+level: 3
+priority: optional
+summary: "Learning from products in use: usage analytics, performance and crash reporting, A/B tests and feature adoption."
+prerequisites:
+  - el-observability-telemetry
+related: []
+topics:
+  - id: el-product-analytics-telemetry-1
+    name: Usage analytics
+  - id: el-product-analytics-telemetry-2
+    name: Performance monitoring
+  - id: el-product-analytics-telemetry-3
+    name: Error reporting and crash analytics
+  - id: el-product-analytics-telemetry-4
+    name: A/B testing
+  - id: el-product-analytics-telemetry-5
+    name: Feature adoption tracking
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-product-analytics-telemetry.json
+  sha256: 16d551a76e47244d73b18add78a23cb054f5febe6f31bf2152d516e0b9321250

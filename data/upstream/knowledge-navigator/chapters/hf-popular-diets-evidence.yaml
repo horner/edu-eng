@@ -1,0 +1,47 @@
+id: hf-popular-diets-evidence
+name: "Popular Diets & Nutrition Trends: Claims vs Evidence"
+category: Applied Nutrition & Dietetics
+level: 2
+priority: important
+summary: A critical look at popular diets and nutrition trends, judged on evidence, safety and how well people can stick to them.
+prerequisites:
+  - hf-healthy-eating-patterns
+  - hf-macronutrients
+related:
+  - py-eating-behavior-disorders
+topics:
+  - id: hf-popular-diets-evidence-1
+    name: "How to evaluate a diet: evidence, safety, nutritional adequacy and adherence"
+  - id: hf-popular-diets-evidence-2
+    name: Low-carbohydrate and ketogenic diets
+  - id: hf-popular-diets-evidence-3
+    name: Intermittent fasting and time-restricted eating
+  - id: hf-popular-diets-evidence-4
+    name: Paleo and 'ancestral' diets
+  - id: hf-popular-diets-evidence-5
+    name: Carnivore and other elimination diets
+  - id: hf-popular-diets-evidence-6
+    name: Vegan and raw-food diets
+  - id: hf-popular-diets-evidence-7
+    name: High-protein diets
+  - id: hf-popular-diets-evidence-8
+    name: Gluten-free eating without coeliac disease
+  - id: hf-popular-diets-evidence-9
+    name: "Detox products, cleanses and juice fasts: claims vs evidence"
+  - id: hf-popular-diets-evidence-10
+    name: Alkaline, blood-type and other diets without scientific basis
+  - id: hf-popular-diets-evidence-11
+    name: "'Clean eating', orthorexia risk and when food rules become harmful"
+  - id: hf-popular-diets-evidence-12
+    name: Superfoods and wellness marketing
+  - id: hf-popular-diets-evidence-13
+    name: Commercial weight-loss programmes and meal replacements
+  - id: hf-popular-diets-evidence-14
+    name: "Head-to-head diet trials: why adherence matters more than the diet label"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-popular-diets-evidence.json
+  sha256: 77585ed4eafbf93d2fb4de032eca98b6a2601226ae3c97c400487bbc513f1e6f

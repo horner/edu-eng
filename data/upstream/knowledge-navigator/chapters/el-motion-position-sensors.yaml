@@ -1,0 +1,29 @@
+id: el-motion-position-sensors
+name: Motion & Position Sensors
+category: Sensors, Transducers & Actuators
+level: 2
+priority: important
+summary: Detecting motion and measuring position with PIR and microwave sensors, encoders, potentiometers, LVDTs and resolvers.
+prerequisites:
+  - el-intro-microcontrollers
+related: []
+topics:
+  - id: el-motion-position-sensors-1
+    name: PIR (Passive Infrared) motion sensors
+  - id: el-motion-position-sensors-2
+    name: Microwave motion sensors
+  - id: el-motion-position-sensors-3
+    name: Encoders (rotary, linear, absolute, incremental)
+  - id: el-motion-position-sensors-4
+    name: Potentiometers and rotary position sensors
+  - id: el-motion-position-sensors-5
+    name: Linear variable differential transformers (LVDT)
+  - id: el-motion-position-sensors-6
+    name: Resolver
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-motion-position-sensors.json
+  sha256: ea37a065952553d37661dcd264d2bcf0b6ed11b4e99e9cba5739d16c24fa8574

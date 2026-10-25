@@ -1,0 +1,51 @@
+id: be-fragrance-fundamentals
+name: Fragrance & Perfumery Fundamentals
+category: Fragrance & Perfumery
+level: 2
+priority: important
+summary: How smell works, how perfumes are structured and classified, how fragrance ingredients are sourced, and how to choose, wear and store scent safely.
+prerequisites:
+  - be-cosmetic-chemistry-basics
+related:
+  - bi-sensory-systems
+topics:
+  - id: be-fragrance-fundamentals-1
+    name: "The sense of smell: receptors, perception, memory and emotion"
+  - id: be-fragrance-fundamentals-2
+    name: "Individual differences in smell: anosmia, genetics and adaptation"
+  - id: be-fragrance-fundamentals-3
+    name: "Perfume structure: top, heart and base notes"
+  - id: be-fragrance-fundamentals-4
+    name: Fragrance families and the fragrance wheel
+  - id: be-fragrance-fundamentals-5
+    name: "Concentrations: parfum, eau de parfum, eau de toilette and cologne"
+  - id: be-fragrance-fundamentals-6
+    name: Raw materials
+    sub:
+      - id: be-fragrance-fundamentals-6-1
+        name: "Natural materials: essential oils, absolutes and resins"
+      - id: be-fragrance-fundamentals-6-2
+        name: Animal-derived notes and their replacements
+      - id: be-fragrance-fundamentals-6-3
+        name: Synthetic aroma molecules and why they matter
+  - id: be-fragrance-fundamentals-7
+    name: "How perfume behaves on skin: longevity, sillage and skin chemistry myths"
+  - id: be-fragrance-fundamentals-8
+    name: Choosing and testing a fragrance
+  - id: be-fragrance-fundamentals-9
+    name: Storing fragrance and recognising when it has gone off
+  - id: be-fragrance-fundamentals-10
+    name: "Fragrance in everyday products: functional fragrance"
+  - id: be-fragrance-fundamentals-11
+    name: Fragrance allergy and sensitivity
+  - id: be-fragrance-fundamentals-12
+    name: "Safety and self-regulation: IFRA standards and allergen labelling"
+  - id: be-fragrance-fundamentals-13
+    name: A short history of perfumery
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-fragrance-fundamentals.json
+  sha256: a53f081bace484de4bac8325bc2845984e5b7a897ddc91c8beffd497b7a00b12

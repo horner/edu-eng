@@ -1,0 +1,49 @@
+id: py-deception-credibility-lie-detection
+name: "Deception, Credibility & Lie Detection: The Science"
+category: Applied Psychology
+level: 3
+priority: advanced
+summary: What research shows about lying and detecting lies, from human accuracy and nonverbal cues to the polygraph and interview-based methods.
+prerequisites:
+  - py-nonverbal-communication-reading-people
+  - py-research-methods-in-psychology
+related: []
+topics:
+  - id: py-deception-credibility-lie-detection-1
+    name: "Why and how people lie: frequency and types of lies in daily life"
+  - id: py-deception-credibility-lie-detection-2
+    name: "Human lie detection accuracy: the Bond and DePaulo meta-analysis"
+  - id: py-deception-credibility-lie-detection-3
+    name: The truth bias and the 'Pinocchio's nose' myth
+  - id: py-deception-credibility-lie-detection-4
+    name: "Cues to deception: what DePaulo's meta-analysis found"
+  - id: py-deception-credibility-lie-detection-5
+    name: Can training or professionals do better?
+  - id: py-deception-credibility-lie-detection-6
+    name: "The polygraph: how it works and its scientific limits"
+  - id: py-deception-credibility-lie-detection-7
+    name: Behaviour Analysis Interview and other discredited methods
+  - id: py-deception-credibility-lie-detection-8
+    name: Interview-based approaches
+    sub:
+      - id: py-deception-credibility-lie-detection-8-1
+        name: Strategic Use of Evidence
+      - id: py-deception-credibility-lie-detection-8-2
+        name: Cognitive load and unexpected questions
+      - id: py-deception-credibility-lie-detection-8-3
+        name: Verifiability approach
+  - id: py-deception-credibility-lie-detection-9
+    name: "Verbal content analysis: CBCA and Reality Monitoring"
+  - id: py-deception-credibility-lie-detection-10
+    name: "Brain-based and technological lie detection: fMRI, EEG and AI"
+  - id: py-deception-credibility-lie-detection-11
+    name: Credibility in court and the risk of wrongful convictions
+  - id: py-deception-credibility-lie-detection-12
+    name: Ethics of lie detection
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-deception-credibility-lie-detection.json
+  sha256: 5119745a166729b774fdf55bce7104368827ae3a4227d7421b92d601c61594c3

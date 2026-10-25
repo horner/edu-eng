@@ -1,0 +1,53 @@
+id: be-makeup-artistry
+name: Makeup Artistry & Camouflage Makeup
+category: Makeup & Colour
+level: 2
+priority: important
+summary: Professional makeup techniques for different face shapes, features, skin tones, ages and occasions, plus corrective and camouflage makeup for scars and skin conditions.
+prerequisites:
+  - be-makeup-fundamentals
+  - be-skin-types-skin-of-colour
+related: []
+topics:
+  - id: be-makeup-artistry-1
+    name: "Face analysis: shape, proportions and features"
+  - id: be-makeup-artistry-2
+    name: "Corrective techniques: contouring, highlighting and balancing features"
+  - id: be-makeup-artistry-3
+    name: "Eye shapes and techniques: hooded, monolid, deep-set and more"
+  - id: be-makeup-artistry-4
+    name: "Makeup for deep skin tones: shade matching, ashiness and flash"
+  - id: be-makeup-artistry-5
+    name: Makeup for mature skin
+  - id: be-makeup-artistry-6
+    name: Men's and gender-neutral makeup
+  - id: be-makeup-artistry-7
+    name: Bridal and special-occasion makeup
+  - id: be-makeup-artistry-8
+    name: Photographic, HD, film and editorial makeup
+  - id: be-makeup-artistry-9
+    name: Airbrush makeup
+  - id: be-makeup-artistry-10
+    name: "Theatrical makeup and special effects: an overview"
+  - id: be-makeup-artistry-11
+    name: Camouflage and paramedical makeup
+    sub:
+      - id: be-makeup-artistry-11-1
+        name: Covering vitiligo, birthmarks and port-wine stains
+      - id: be-makeup-artistry-11-2
+        name: Covering scars, burns and tattoos
+      - id: be-makeup-artistry-11-3
+        name: Makeup after cosmetic procedures
+      - id: be-makeup-artistry-11-4
+        name: Makeup for people undergoing cancer treatment
+  - id: be-makeup-artistry-12
+    name: "Working with clients: consultation, kit hygiene and allergies"
+  - id: be-makeup-artistry-13
+    name: Building a professional kit and portfolio
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-makeup-artistry.json
+  sha256: 16354741656fa0632b3dc45cd7ae9d72e21059baf33723576deee74483257982

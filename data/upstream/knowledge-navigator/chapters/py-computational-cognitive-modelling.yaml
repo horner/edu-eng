@@ -1,0 +1,51 @@
+id: py-computational-cognitive-modelling
+name: Computational Models of Cognition
+category: Learning, Memory & Cognition
+level: 4
+priority: advanced
+summary: Formal and computational models of perception, learning and decision-making, and how to fit and compare them against behavioural data.
+prerequisites:
+  - py-cognitive-psychology
+  - py-advanced-statistics-glm
+related:
+  - ai-cognitive-architectures
+  - bi-computational-neuroscience
+  - ai-deep-reinforcement-learning
+  - ai-probabilistic-ai
+topics:
+  - id: py-computational-cognitive-modelling-1
+    name: Why model? Levels of analysis (Marr) and verbal vs formal theories
+  - id: py-computational-cognitive-modelling-2
+    name: Signal detection and psychophysical models
+  - id: py-computational-cognitive-modelling-3
+    name: "Sequential sampling: drift-diffusion and race models"
+  - id: py-computational-cognitive-modelling-4
+    name: Reinforcement learning models of choice
+  - id: py-computational-cognitive-modelling-5
+    name: Bayesian models of cognition
+  - id: py-computational-cognitive-modelling-6
+    name: Connectionist and neural network models
+  - id: py-computational-cognitive-modelling-7
+    name: "Cognitive architectures: ACT-R and SOAR"
+  - id: py-computational-cognitive-modelling-8
+    name: "Memory models: SAM, REM and temporal context"
+  - id: py-computational-cognitive-modelling-9
+    name: Fitting and comparing models
+    sub:
+      - id: py-computational-cognitive-modelling-9-1
+        name: Maximum likelihood and Bayesian estimation
+      - id: py-computational-cognitive-modelling-9-2
+        name: "Model comparison: AIC, BIC and cross-validation"
+      - id: py-computational-cognitive-modelling-9-3
+        name: Parameter recovery and identifiability
+  - id: py-computational-cognitive-modelling-10
+    name: Deep learning models as models of the brain and mind
+  - id: py-computational-cognitive-modelling-11
+    name: Predictive processing and active inference
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-computational-cognitive-modelling.json
+  sha256: d5aee4806cc04b2d30c587eebf2b28d676065cfd0e240694b171f7095d80f42d

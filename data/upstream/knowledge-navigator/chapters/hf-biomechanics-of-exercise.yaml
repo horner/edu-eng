@@ -1,0 +1,45 @@
+id: hf-biomechanics-of-exercise
+name: Biomechanics of Exercise & Human Movement
+category: Exercise Science
+level: 3
+priority: important
+summary: The mechanics of human movement applied to exercise technique, equipment, performance and injury.
+prerequisites:
+  - hf-functional-anatomy-kinesiology
+  - ph-introductory-mechanics
+related:
+  - bi-biomechanics
+topics:
+  - id: hf-biomechanics-of-exercise-1
+    name: Linear and angular kinematics
+  - id: hf-biomechanics-of-exercise-2
+    name: "Kinetics: forces and Newton's laws in human movement"
+  - id: hf-biomechanics-of-exercise-3
+    name: Levers, torque and moment arms in the body
+  - id: hf-biomechanics-of-exercise-4
+    name: Centre of mass, base of support and stability
+  - id: hf-biomechanics-of-exercise-5
+    name: Ground reaction forces
+  - id: hf-biomechanics-of-exercise-6
+    name: Impulse and momentum
+  - id: hf-biomechanics-of-exercise-7
+    name: Work, power and mechanical energy
+  - id: hf-biomechanics-of-exercise-8
+    name: "Strength curves and resistance types: free weights, cables, bands and machines"
+  - id: hf-biomechanics-of-exercise-9
+    name: Biomechanics of the squat, deadlift and bench press
+  - id: hf-biomechanics-of-exercise-10
+    name: Walking and running biomechanics
+  - id: hf-biomechanics-of-exercise-11
+    name: Jumping and landing mechanics
+  - id: hf-biomechanics-of-exercise-12
+    name: Tissue loading and injury mechanics
+  - id: hf-biomechanics-of-exercise-13
+    name: "Measurement tools: video analysis, motion capture and force plates"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-biomechanics-of-exercise.json
+  sha256: 7d373d136537fe10fad5242e5df767992fb4b9a4ac9d42679d641d73e6d3f1a9

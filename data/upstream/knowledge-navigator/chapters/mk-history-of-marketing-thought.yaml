@@ -1,0 +1,44 @@
+id: mk-history-of-marketing-thought
+name: History of Marketing & Marketing Thought
+category: Marketing Foundations
+level: 2
+priority: optional
+summary: How marketing practice and theory developed, from early trade and advertising to the marketing concept, relationship marketing and the digital era.
+prerequisites:
+  - mk-marketing-principles
+related:
+  - bu-history-of-business
+topics:
+  - id: mk-history-of-marketing-thought-1
+    name: Trade, markets and branding before the industrial era
+  - id: mk-history-of-marketing-thought-2
+    name: Mass production, mass media and the rise of advertising agencies
+  - id: mk-history-of-marketing-thought-3
+    name: "Early marketing thought: the functional, commodity and institutional schools"
+  - id: mk-history-of-marketing-thought-4
+    name: The marketing concept and the 4Ps (McCarthy, Borden)
+  - id: mk-history-of-marketing-thought-5
+    name: Motivation research and the growth of consumer psychology
+  - id: mk-history-of-marketing-thought-6
+    name: Kotler and the broadening of marketing to non-business settings
+  - id: mk-history-of-marketing-thought-7
+    name: Services marketing and the 7Ps
+  - id: mk-history-of-marketing-thought-8
+    name: Relationship marketing and the Nordic school
+  - id: mk-history-of-marketing-thought-9
+    name: Service-dominant logic and value co-creation
+  - id: mk-history-of-marketing-thought-10
+    name: Direct marketing, databases and CRM
+  - id: mk-history-of-marketing-thought-11
+    name: The internet, search and social media
+  - id: mk-history-of-marketing-thought-12
+    name: "Evidence-based marketing: Ehrenberg, Bass and the IPA databank"
+  - id: mk-history-of-marketing-thought-13
+    name: Critical marketing studies and macromarketing
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-history-of-marketing-thought.json
+  sha256: 90b8cfa57c7d0a5249f1f1e09602930c8a6713ac11cacfe652b160eb9ba8d79d

@@ -1,0 +1,30 @@
+id: ma-fiber-bundles
+name: Fiber Bundles
+category: Topology
+level: 4
+priority: advanced
+summary: "Spaces that locally look like products: vector and principal bundles, connections and characteristic classes, the geometry of gauge theory."
+prerequisites:
+  - ma-algebraic-topology
+  - ma-differential-topology
+related: []
+topics:
+  - id: ma-fiber-bundles-2
+    name: Vector bundles
+  - id: ma-fiber-bundles-1
+    name: Principal bundles
+  - id: ma-fiber-bundles-4
+    name: Connections and curvature on bundles
+  - id: ma-fiber-bundles-3
+    name: Characteristic classes
+  - id: ma-fiber-bundles-5
+    name: Chern-Weil theory
+  - id: ma-fiber-bundles-6
+    name: Gauge theory (overview)
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-fiber-bundles.json
+  sha256: f84dce10d042c977843de4022c3c925ff91bf251b7fb3b7e9a1881e68af7d813

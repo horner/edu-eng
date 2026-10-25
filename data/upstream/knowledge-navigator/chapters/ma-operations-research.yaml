@@ -1,0 +1,34 @@
+id: ma-operations-research
+name: Operations Research
+category: Applied & Interdisciplinary Mathematics
+level: 3
+priority: important
+summary: "Mathematics for better decisions in organisations: queues, scheduling, inventory and supply-chain models."
+prerequisites:
+  - ma-linear-programming
+  - ma-stochastic-processes
+related: []
+topics:
+  - id: ma-operations-research-5
+    name: Decision analysis
+  - id: ma-operations-research-1
+    name: Queuing theory
+  - id: ma-operations-research-2
+    name: Scheduling theory
+  - id: ma-operations-research-3
+    name: Inventory theory
+  - id: ma-operations-research-6
+    name: Simulation modelling
+  - id: ma-operations-research-7
+    name: "Project management: CPM and PERT"
+  - id: ma-operations-research-4
+    name: Supply chain optimization
+  - id: ma-operations-research-8
+    name: Reliability theory
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-operations-research.json
+  sha256: 37390334566b338ac56000b435f0b87e493e9871771ad3ff4c11e22cbdfee2c4

@@ -1,0 +1,49 @@
+id: hf-food-safety-processing
+name: Food Safety, Processing & Additives
+category: Applied Nutrition & Dietetics
+level: 2
+priority: important
+summary: How to prevent foodborne illness and how to judge food processing, additives and chemical contaminants on the evidence.
+prerequisites:
+  - hf-nutrition-fundamentals
+related:
+  - bi-microbiology
+  - ch-food-agricultural-chemistry
+topics:
+  - id: hf-food-safety-processing-1
+    name: "Foodborne illness: Salmonella, Listeria, Campylobacter, E. coli and norovirus"
+  - id: hf-food-safety-processing-2
+    name: "Groups at higher risk: pregnancy, infants, older adults and the immunocompromised"
+  - id: hf-food-safety-processing-3
+    name: "Clean, separate, cook and chill: food hygiene at home"
+  - id: hf-food-safety-processing-4
+    name: Safe temperatures, leftovers and reheating
+  - id: hf-food-safety-processing-5
+    name: HACCP and food safety management in businesses
+  - id: hf-food-safety-processing-6
+    name: "Chemical hazards: pesticide residues, mycotoxins and mercury in fish"
+  - id: hf-food-safety-processing-7
+    name: "Food processing methods: pasteurisation, canning, freezing and fermentation"
+  - id: hf-food-safety-processing-8
+    name: "Ultra-processed foods: the NOVA classification and the debate"
+  - id: hf-food-safety-processing-9
+    name: "Food additives and E-numbers: how safety is assessed (ADI)"
+  - id: hf-food-safety-processing-10
+    name: "Non-nutritive sweeteners: evidence and guidance"
+  - id: hf-food-safety-processing-11
+    name: Packaging, BPA and microplastics
+  - id: hf-food-safety-processing-12
+    name: GM foods and novel foods
+  - id: hf-food-safety-processing-13
+    name: Organic versus conventional food
+  - id: hf-food-safety-processing-14
+    name: "Risky trends: raw milk, raw flour and home canning errors"
+  - id: hf-food-safety-processing-15
+    name: "Food regulators: FDA, EFSA, FSA, FSANZ and Codex Alimentarius"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-food-safety-processing.json
+  sha256: c1c3e3338bb9b8d2adb3203fd11b51ebd058bce3520f67eaea5569e851ac7228

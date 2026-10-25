@@ -1,0 +1,46 @@
+id: mk-digital-marketing
+name: Digital Marketing Fundamentals
+category: Digital Marketing
+level: 2
+priority: core
+summary: How organisations use websites, search, social, email, mobile and data to reach and serve customers online.
+prerequisites:
+  - mk-marketing-principles
+related:
+  - cs-web-fundamentals
+topics:
+  - id: mk-digital-marketing-1
+    name: "How digital changes marketing: addressability, measurability and speed"
+  - id: mk-digital-marketing-2
+    name: The digital customer journey and funnel
+  - id: mk-digital-marketing-3
+    name: Owned, earned and paid digital media
+  - id: mk-digital-marketing-4
+    name: Websites and landing pages as the hub
+  - id: mk-digital-marketing-5
+    name: "Search: organic and paid basics"
+  - id: mk-digital-marketing-6
+    name: Social media platforms and how they differ
+  - id: mk-digital-marketing-7
+    name: Content marketing basics
+  - id: mk-digital-marketing-8
+    name: Email marketing basics
+  - id: mk-digital-marketing-9
+    name: Display and video advertising basics
+  - id: mk-digital-marketing-10
+    name: Mobile marketing and apps
+  - id: mk-digital-marketing-11
+    name: Digital analytics and tracking basics
+  - id: mk-digital-marketing-12
+    name: Cookies, consent and privacy basics
+  - id: mk-digital-marketing-13
+    name: Setting digital objectives and KPIs
+  - id: mk-digital-marketing-14
+    name: Building a simple digital marketing plan
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-digital-marketing.json
+  sha256: fd8fe41516481538179e2dfc8097d44957fab7c758cb4668d1fb0eb745283d0d

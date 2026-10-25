@@ -1,0 +1,56 @@
+id: be-acne
+name: Acne & Breakouts
+category: Skin Conditions & Concerns
+level: 2
+priority: core
+summary: What causes acne, how it differs by age, sex and skin tone, which over-the-counter options work, and when to see a doctor.
+prerequisites:
+  - be-skin-biology
+related:
+  - bi-microbiome
+  - hf-hormonal-health
+topics:
+  - id: be-acne-1
+    name: "The four drivers of acne: sebum, follicle blockage, Cutibacterium acnes and inflammation"
+  - id: be-acne-2
+    name: "Types of lesions: comedones, papules, pustules, nodules and cysts"
+  - id: be-acne-3
+    name: Grading acne severity
+  - id: be-acne-4
+    name: Teenage, adult female and hormonal acne
+  - id: be-acne-5
+    name: "Acne in skin of colour: post-inflammatory hyperpigmentation"
+  - id: be-acne-6
+    name: "Acne look-alikes: rosacea, folliculitis, perioral dermatitis and fungal acne"
+  - id: be-acne-7
+    name: Over-the-counter options and their evidence
+    sub:
+      - id: be-acne-7-1
+        name: Benzoyl peroxide
+      - id: be-acne-7-2
+        name: Salicylic acid
+      - id: be-acne-7-3
+        name: Adapalene and other retinoids
+      - id: be-acne-7-4
+        name: Azelaic acid
+      - id: be-acne-7-5
+        name: Sulphur, niacinamide and tea tree oil
+  - id: be-acne-8
+    name: "Prescription treatments: an overview of what a doctor may offer"
+  - id: be-acne-9
+    name: "Skincare and makeup for acne-prone skin: non-comedogenic claims"
+  - id: be-acne-10
+    name: "Diet, stress, sleep and acne: what the evidence says"
+  - id: be-acne-11
+    name: "Picking, popping and extraction: risks"
+  - id: be-acne-12
+    name: "Acne scars and marks: prevention and options"
+  - id: be-acne-13
+    name: When to see a dermatologist, and acne's effect on mental health
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-acne.json
+  sha256: ceabf8d4b501ecbe055317b8a61974e27218f8f9a81ee21687909a708d16a1db

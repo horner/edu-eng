@@ -1,0 +1,45 @@
+id: mk-enterprise-b2b-sales
+name: Enterprise & Complex B2B Sales
+category: Sales & Customer Relationships
+level: 3
+priority: advanced
+summary: "Winning large, multi-stakeholder deals with long cycles: account planning, buying committees, proposals and procurement."
+prerequisites:
+  - mk-consultative-selling-methods
+  - mk-b2b-marketing
+related:
+  - mk-sales-negotiation
+topics:
+  - id: mk-enterprise-b2b-sales-1
+    name: Characteristics of complex sales
+  - id: mk-enterprise-b2b-sales-2
+    name: Mapping buying committees and stakeholder roles
+  - id: mk-enterprise-b2b-sales-3
+    name: Champions, economic buyers and decision processes
+  - id: mk-enterprise-b2b-sales-4
+    name: Account planning and opportunity strategy
+  - id: mk-enterprise-b2b-sales-5
+    name: Supporting buyer consensus and buyer enablement
+  - id: mk-enterprise-b2b-sales-6
+    name: Business cases and return-on-investment models for buyers
+  - id: mk-enterprise-b2b-sales-7
+    name: Proof of concept and pilots
+  - id: mk-enterprise-b2b-sales-8
+    name: Responding to RFPs and tenders
+  - id: mk-enterprise-b2b-sales-9
+    name: Public sector selling and procurement rules
+  - id: mk-enterprise-b2b-sales-10
+    name: Partner and channel sales
+  - id: mk-enterprise-b2b-sales-11
+    name: Mutual action plans and deal reviews
+  - id: mk-enterprise-b2b-sales-12
+    name: Sales engineering and solution consulting
+  - id: mk-enterprise-b2b-sales-13
+    name: Global and strategic account selling
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-enterprise-b2b-sales.json
+  sha256: 9a6fabfa877fb83a4fe7e47796c0a7c734ead3c1336c94012c831c5a8065427f

@@ -1,0 +1,46 @@
+id: hf-metabolic-health-diabetes
+name: Blood Sugar, Diabetes & Metabolic Health
+category: Preventive Health & Lifestyle Medicine
+level: 2
+priority: important
+summary: How blood sugar is regulated, how insulin resistance and type 2 diabetes develop, and how they can be prevented or put into remission.
+prerequisites:
+  - hf-energy-balance-metabolism
+related:
+  - bi-pathophysiology-human-disease
+topics:
+  - id: hf-metabolic-health-diabetes-1
+    name: Blood glucose regulation and insulin
+  - id: hf-metabolic-health-diabetes-2
+    name: Insulin resistance
+  - id: hf-metabolic-health-diabetes-3
+    name: Prediabetes
+  - id: hf-metabolic-health-diabetes-4
+    name: "Type 2 diabetes: risk factors and screening (HbA1c and fasting glucose)"
+  - id: hf-metabolic-health-diabetes-5
+    name: "Type 1 diabetes: the basics"
+  - id: hf-metabolic-health-diabetes-6
+    name: Gestational diabetes
+  - id: hf-metabolic-health-diabetes-7
+    name: Metabolic syndrome
+  - id: hf-metabolic-health-diabetes-8
+    name: Fatty liver disease (MASLD)
+  - id: hf-metabolic-health-diabetes-9
+    name: "Eating to prevent diabetes: the Diabetes Prevention Program"
+  - id: hf-metabolic-health-diabetes-10
+    name: Physical activity and blood glucose
+  - id: hf-metabolic-health-diabetes-11
+    name: Weight loss and diabetes remission
+  - id: hf-metabolic-health-diabetes-12
+    name: "Continuous glucose monitors for people without diabetes: the evidence"
+  - id: hf-metabolic-health-diabetes-13
+    name: Diabetes complications and foot care
+  - id: hf-metabolic-health-diabetes-14
+    name: Recognising hypoglycaemia
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-metabolic-health-diabetes.json
+  sha256: 195a0bb01cb5f10b4bb608814453ee34d747d964947461d3c6a69681beb3046b

@@ -1,0 +1,45 @@
+id: ma-algebraic-topology
+name: Algebraic Topology
+category: Topology
+level: 3
+priority: important
+summary: "Algebraic invariants of shape: the fundamental group, covering spaces, homology and cohomology."
+prerequisites:
+  - ma-general-topology
+  - ma-abstract-algebra
+related: []
+topics:
+  - id: ma-algebraic-topology-8
+    name: Homotopy and homotopy equivalence
+  - id: ma-algebraic-topology-1
+    name: Fundamental group
+  - id: ma-algebraic-topology-9
+    name: Van Kampen's theorem
+  - id: ma-algebraic-topology-7
+    name: Covering spaces
+  - id: ma-algebraic-topology-5
+    name: Simplicial complexes
+  - id: ma-algebraic-topology-3
+    name: Homology theory
+    sub:
+      - id: ma-algebraic-topology-3-1
+        name: Simplicial and singular homology
+      - id: ma-algebraic-topology-3-2
+        name: Exact sequences and Mayer-Vietoris
+  - id: ma-algebraic-topology-6
+    name: CW complexes
+  - id: ma-algebraic-topology-4
+    name: Cohomology theory
+  - id: ma-algebraic-topology-10
+    name: Cup products
+  - id: ma-algebraic-topology-11
+    name: Poincare duality
+  - id: ma-algebraic-topology-2
+    name: Homotopy theory
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-algebraic-topology.json
+  sha256: d3b3ea5309aca314cef683a5d8c82d7b01538cf9f2cbd8437332143e0faeb4df

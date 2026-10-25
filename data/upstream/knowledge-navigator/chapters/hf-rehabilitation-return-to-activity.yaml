@@ -1,0 +1,45 @@
+id: hf-rehabilitation-return-to-activity
+name: Rehabilitation & Return to Activity
+category: Injury Prevention, Posture & Rehabilitation
+level: 3
+priority: important
+summary: The principles of rehabilitation and reconditioning after injury, surgery or illness, and how to decide when someone can return to activity.
+prerequisites:
+  - hf-sports-injuries-prevention
+  - hf-exercise-prescription-program-design
+related:
+  - py-sport-exercise-psychology
+topics:
+  - id: hf-rehabilitation-return-to-activity-1
+    name: Phases of tissue healing
+  - id: hf-rehabilitation-return-to-activity-2
+    name: Mechanical loading as therapy
+  - id: hf-rehabilitation-return-to-activity-3
+    name: Rehabilitation phases and criteria-based progression
+  - id: hf-rehabilitation-return-to-activity-4
+    name: Pain-monitoring models
+  - id: hf-rehabilitation-return-to-activity-5
+    name: Restoring range of motion
+  - id: hf-rehabilitation-return-to-activity-6
+    name: Restoring strength and neuromuscular control
+  - id: hf-rehabilitation-return-to-activity-7
+    name: Tendon loading programmes
+  - id: hf-rehabilitation-return-to-activity-8
+    name: "Rehabilitation after surgery: ACL reconstruction as a case study"
+  - id: hf-rehabilitation-return-to-activity-9
+    name: Return-to-sport criteria and testing
+  - id: hf-rehabilitation-return-to-activity-10
+    name: Psychological readiness to return
+  - id: hf-rehabilitation-return-to-activity-11
+    name: Scope of practice and working with physiotherapists
+  - id: hf-rehabilitation-return-to-activity-12
+    name: Reconditioning after illness or bed rest
+  - id: hf-rehabilitation-return-to-activity-13
+    name: Prehabilitation
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-rehabilitation-return-to-activity.json
+  sha256: a292d000d067bc5db0e679db94932821a02a97c0aaf8795b8b3c4c13a9f52981

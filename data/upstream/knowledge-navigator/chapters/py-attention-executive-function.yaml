@@ -1,0 +1,42 @@
+id: py-attention-executive-function
+name: Attention, Executive Function & Cognitive Control
+category: Learning, Memory & Cognition
+level: 3
+priority: important
+summary: How the mind selects what matters, resists distraction and coordinates goals, with links to ADHD, ageing and everyday focus.
+prerequisites:
+  - py-cognitive-psychology
+related:
+  - bi-cognitive-neuroscience
+topics:
+  - id: py-attention-executive-function-1
+    name: Early vs late selection theories
+  - id: py-attention-executive-function-2
+    name: Spatial attention and the Posner cueing task
+  - id: py-attention-executive-function-3
+    name: Visual search and feature integration theory
+  - id: py-attention-executive-function-4
+    name: Attentional capture and distraction
+  - id: py-attention-executive-function-5
+    name: Divided attention, multitasking and task switching
+  - id: py-attention-executive-function-6
+    name: Working memory capacity and attention control
+  - id: py-attention-executive-function-7
+    name: "Executive functions: inhibition, updating and shifting (Miyake's model)"
+  - id: py-attention-executive-function-8
+    name: "Conflict tasks: Stroop, flanker and Simon"
+  - id: py-attention-executive-function-9
+    name: Vigilance, mind-wandering and sustained attention
+  - id: py-attention-executive-function-10
+    name: "Attention in the real world: driving, screens and notifications"
+  - id: py-attention-executive-function-11
+    name: Can executive function be trained? Brain-training evidence
+  - id: py-attention-executive-function-12
+    name: Development and decline of executive control
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-attention-executive-function.json
+  sha256: af183d62fb307b19224fd17b9d69076dc56bf6771c64c6084714cb51dcda40f3

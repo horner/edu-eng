@@ -1,0 +1,29 @@
+id: ma-fractal-geometry
+name: Fractal Geometry
+category: Geometry
+level: 3
+priority: advanced
+summary: "Sets with detail at every scale: self-similarity, Hausdorff and box dimension, and iterated function systems."
+prerequisites:
+  - ma-real-analysis
+related: []
+topics:
+  - id: ma-fractal-geometry-1
+    name: Self-similar sets
+  - id: ma-fractal-geometry-4
+    name: Box-counting dimension
+  - id: ma-fractal-geometry-2
+    name: Hausdorff dimension
+  - id: ma-fractal-geometry-3
+    name: Iterated function systems
+  - id: ma-fractal-geometry-5
+    name: Julia and Mandelbrot sets
+  - id: ma-fractal-geometry-6
+    name: Random fractals and applications
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-fractal-geometry.json
+  sha256: cf6a34743d4bd5ebb6d7a68ef6f7fb412f1bb5bcadfeabf665ac986a6420b1e1

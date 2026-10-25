@@ -1,0 +1,46 @@
+id: hf-nutrition-fundamentals
+name: Nutrition Fundamentals
+category: Nutrition Science
+level: 1
+priority: core
+summary: The basics of nutrients, energy, food groups and dietary reference values that every other nutrition topic builds on.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-human-physiology
+topics:
+  - id: hf-nutrition-fundamentals-1
+    name: What nutrition is and how diet affects health
+  - id: hf-nutrition-fundamentals-2
+    name: The six classes of nutrients
+  - id: hf-nutrition-fundamentals-3
+    name: Energy, calories and kilojoules
+  - id: hf-nutrition-fundamentals-4
+    name: "Carbohydrates, proteins and fats: an overview"
+  - id: hf-nutrition-fundamentals-5
+    name: "Vitamins and minerals: an overview"
+  - id: hf-nutrition-fundamentals-6
+    name: Water and hydration basics
+  - id: hf-nutrition-fundamentals-7
+    name: Dietary fibre
+  - id: hf-nutrition-fundamentals-8
+    name: Food groups and what each provides
+  - id: hf-nutrition-fundamentals-9
+    name: "Dietary reference values: RDA, adequate intake and upper limits in plain terms"
+  - id: hf-nutrition-fundamentals-10
+    name: Nutrient density versus energy density
+  - id: hf-nutrition-fundamentals-11
+    name: "How food is digested and absorbed: an overview"
+  - id: hf-nutrition-fundamentals-12
+    name: Hunger, appetite and fullness
+  - id: hf-nutrition-fundamentals-13
+    name: "Processed, ultra-processed and whole foods: an introduction"
+  - id: hf-nutrition-fundamentals-14
+    name: Common nutrition myths and how to check them
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-nutrition-fundamentals.json
+  sha256: 25e5175a77cf034cf9902b7b1a5945f0892590d245a3fa8fa305753b16ed24e8

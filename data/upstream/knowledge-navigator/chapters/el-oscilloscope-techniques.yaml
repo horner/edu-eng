@@ -1,0 +1,31 @@
+id: el-oscilloscope-techniques
+name: Oscilloscope Techniques
+category: Measurement, Testing & Validation
+level: 2
+priority: important
+summary: "Getting trustworthy measurements from an oscilloscope: triggering, automated measurements, FFT, protocol decoding and probing."
+prerequisites:
+  - el-test-equipment
+related: []
+topics:
+  - id: el-oscilloscope-techniques-1
+    name: Time domain analysis
+  - id: el-oscilloscope-techniques-2
+    name: Frequency domain (FFT)
+  - id: el-oscilloscope-techniques-3
+    name: Triggering modes (edge, pulse, pattern)
+  - id: el-oscilloscope-techniques-4
+    name: Measurements (rise time, frequency, duty cycle)
+  - id: el-oscilloscope-techniques-5
+    name: Decoding serial protocols
+  - id: el-oscilloscope-techniques-6
+    name: Eye diagrams and jitter analysis
+  - id: el-oscilloscope-techniques-7
+    name: Differential probing
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-oscilloscope-techniques.json
+  sha256: a1bfb7210638185becbee4dbaf71de378ef1d5d56402682ae853e633589e799a

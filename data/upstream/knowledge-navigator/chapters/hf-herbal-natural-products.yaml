@@ -1,0 +1,48 @@
+id: hf-herbal-natural-products
+name: Herbal Medicines & Natural Products
+category: Complementary & Integrative Health
+level: 3
+priority: advanced
+summary: The pharmacology, evidence, quality and safety of herbal medicines and other natural products.
+prerequisites:
+  - hf-dietary-supplements
+  - bi-pharmacology
+related:
+  - ch-natural-products-chemistry
+  - hf-complementary-integrative-health
+topics:
+  - id: hf-herbal-natural-products-1
+    name: Plant medicines and the history of drug discovery
+  - id: hf-herbal-natural-products-2
+    name: Phytochemistry basics
+  - id: hf-herbal-natural-products-3
+    name: "Regulation: traditional herbal registration and dietary supplement law"
+  - id: hf-herbal-natural-products-4
+    name: Quality, standardisation and adulteration
+  - id: hf-herbal-natural-products-5
+    name: "Pharmacokinetics and herb-drug interactions: St John's wort and CYP450"
+  - id: hf-herbal-natural-products-6
+    name: "Liver injury and other harms: kava, comfrey and aristolochic acid"
+  - id: hf-herbal-natural-products-7
+    name: Turmeric and curcumin
+  - id: hf-herbal-natural-products-8
+    name: Echinacea and elderberry
+  - id: hf-herbal-natural-products-9
+    name: Ginseng and 'adaptogens' such as ashwagandha
+  - id: hf-herbal-natural-products-10
+    name: Valerian and other sleep herbs
+  - id: hf-herbal-natural-products-11
+    name: Cannabidiol (CBD) products
+  - id: hf-herbal-natural-products-12
+    name: Medicinal mushroom products
+  - id: hf-herbal-natural-products-13
+    name: Evaluating trials of herbal medicines
+  - id: hf-herbal-natural-products-14
+    name: Pharmacovigilance and reporting adverse effects
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-herbal-natural-products.json
+  sha256: 003464f30deed18be8bc1f0c37c8976d705e240a02d74a508838c53cc04c28f2

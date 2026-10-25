@@ -1,0 +1,27 @@
+id: el-physical-security
+name: Physical Security
+category: Security, Privacy & Trust
+level: 3
+priority: advanced
+summary: "Protecting hardware from physical attack: tamper detection, secure enclosures, mesh barriers and secure manufacturing."
+prerequisites:
+  - el-secure-boot-root-of-trust
+related: []
+topics:
+  - id: el-physical-security-1
+    name: Tamper detection and response
+  - id: el-physical-security-2
+    name: Secure enclosures
+  - id: el-physical-security-3
+    name: Mesh barriers and coatings
+  - id: el-physical-security-4
+    name: Environmental sensors (temperature, light)
+  - id: el-physical-security-5
+    name: Secure manufacturing and supply chain
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-physical-security.json
+  sha256: c23f2ca49720599eb2f185bec915e5fda25729c0c442c2b6a9de8cfce6fb6d72

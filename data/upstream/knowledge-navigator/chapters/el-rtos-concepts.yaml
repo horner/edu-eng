@@ -1,0 +1,32 @@
+id: el-rtos-concepts
+name: RTOS Concepts
+category: Embedded Software, Firmware & RTOS
+level: 3
+priority: core
+summary: "How an RTOS kernel schedules work: tasks, preemptive and cooperative scheduling, rate-monotonic and EDF, context switching."
+prerequisites:
+  - el-real-time-concepts
+related:
+  - cs-operating-systems
+topics:
+  - id: el-rtos-concepts-1
+    name: Task/thread management
+  - id: el-rtos-concepts-2
+    name: Scheduling algorithms (preemptive, cooperative, round-robin)
+  - id: el-rtos-concepts-3
+    name: Priority-based scheduling
+  - id: el-rtos-concepts-4
+    name: Rate-Monotonic Scheduling (RMS)
+  - id: el-rtos-concepts-5
+    name: Earliest Deadline First (EDF)
+  - id: el-rtos-concepts-6
+    name: Context switching overhead
+  - id: el-rtos-concepts-7
+    name: Idle task and hook functions
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-rtos-concepts.json
+  sha256: 641bbef90746c0eb52b06dc7104a049be7be7125bc338b86a2305d478953fb52

@@ -1,0 +1,47 @@
+id: hf-clinical-nutrition
+name: Clinical Nutrition & Medical Nutrition Therapy
+category: Applied Nutrition & Dietetics
+level: 3
+priority: important
+summary: How nutrition is used to prevent and treat disease in clinical settings, at the level of a dietetics course.
+prerequisites:
+  - hf-nutrition-assessment
+  - bi-pathophysiology-human-disease
+related:
+  - bi-pharmacology
+topics:
+  - id: hf-clinical-nutrition-1
+    name: The Nutrition Care Process in clinical practice
+  - id: hf-clinical-nutrition-2
+    name: Disease-related malnutrition and refeeding syndrome
+  - id: hf-clinical-nutrition-3
+    name: "Enteral and parenteral nutrition: principles"
+  - id: hf-clinical-nutrition-4
+    name: Medical nutrition therapy for diabetes
+  - id: hf-clinical-nutrition-5
+    name: Medical nutrition therapy for cardiovascular disease
+  - id: hf-clinical-nutrition-6
+    name: Kidney disease
+  - id: hf-clinical-nutrition-7
+    name: Liver disease, including MASLD and cirrhosis
+  - id: hf-clinical-nutrition-8
+    name: "Gastrointestinal disorders: IBD, coeliac disease and IBS"
+  - id: hf-clinical-nutrition-9
+    name: Cancer, cachexia and nutrition during treatment
+  - id: hf-clinical-nutrition-10
+    name: Managing food allergies
+  - id: hf-clinical-nutrition-11
+    name: Dysphagia and texture-modified diets (IDDSI)
+  - id: hf-clinical-nutrition-12
+    name: Nutrition in surgery and critical illness
+  - id: hf-clinical-nutrition-13
+    name: Drug-nutrient interactions
+  - id: hf-clinical-nutrition-14
+    name: "Eating disorders: the medical nutrition role within a multidisciplinary team"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-clinical-nutrition.json
+  sha256: 3c8fa3fb3cfc6c515df2f1585aa9064e584fe58225c481f82f972330b8af7bcf

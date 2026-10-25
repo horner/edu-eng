@@ -1,0 +1,34 @@
+id: ch-physical-inorganic-chemistry
+name: Physical Inorganic Chemistry
+category: Inorganic Chemistry
+level: 4
+priority: advanced
+summary: Spectroscopic and magnetic methods for probing the electronic structure of inorganic compounds.
+prerequisites:
+  - ch-coordination-chemistry
+  - ch-molecular-spectroscopy
+related: []
+topics:
+  - id: ch-physical-inorganic-chemistry-1
+    name: Angular overlap model and advanced ligand field theory
+  - id: ch-physical-inorganic-chemistry-2
+    name: EPR spectroscopy of transition-metal complexes
+  - id: ch-physical-inorganic-chemistry-3
+    name: Mössbauer spectroscopy
+  - id: ch-physical-inorganic-chemistry-4
+    name: "Magnetochemistry: susceptibility, exchange coupling and single-molecule magnets"
+  - id: ch-physical-inorganic-chemistry-5
+    name: X-ray absorption spectroscopy (XANES and EXAFS)
+  - id: ch-physical-inorganic-chemistry-6
+    name: Magnetic circular dichroism and resonance Raman
+  - id: ch-physical-inorganic-chemistry-7
+    name: Photophysics of metal complexes and luminescent materials
+  - id: ch-physical-inorganic-chemistry-8
+    name: Spin crossover and molecular switches
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-physical-inorganic-chemistry.json
+  sha256: 74d739f1eea229edb7d5bbe33f16a07e99d290a29efe2b90252895959c669a06

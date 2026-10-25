@@ -1,0 +1,38 @@
+id: ph-nanoscience-nanotechnology
+name: Nanoscience & Nanotechnology
+category: Interdisciplinary Physics
+level: 3
+priority: advanced
+summary: "The physics of matter at the nanometre scale: quantum dots, nanowires, nanotubes and how they are made."
+prerequisites:
+  - ph-solid-state-physics
+related:
+  - ph-nanophotonics-plasmonics
+  - mt-nanomaterials
+  - ch-nanochemistry
+  - el-nanoelectronics
+  - me-micro-nano-mechanics
+topics:
+  - id: ph-nanoscience-nanotechnology-1
+    name: Nanoparticles
+  - id: ph-nanoscience-nanotechnology-2
+    name: Quantum dots
+  - id: ph-nanoscience-nanotechnology-3
+    name: Nanowires
+  - id: ph-nanoscience-nanotechnology-4
+    name: Nanotubes
+  - id: ph-nanoscience-nanotechnology-5
+    name: Nanostructured materials
+  - id: ph-nanoscience-nanotechnology-6
+    name: Nanofabrication
+  - id: ph-nanoscience-nanotechnology-7
+    name: Nano-optics
+  - id: ph-nanoscience-nanotechnology-8
+    name: Nanomechanics
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-nanoscience-nanotechnology.json
+  sha256: 664bd82aafe99ec9d9d9a111810d49de32d04eb886db5d49737e7b37ba071a55

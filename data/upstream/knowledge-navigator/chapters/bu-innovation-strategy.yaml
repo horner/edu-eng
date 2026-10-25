@@ -1,0 +1,47 @@
+id: bu-innovation-strategy
+name: Innovation & Technology Strategy
+category: Strategy & Global Business
+level: 3
+priority: important
+summary: How firms create, protect and profit from new technologies and innovations, from startups to established corporations.
+prerequisites:
+  - bu-business-strategy
+related:
+  - bu-intellectual-property
+  - bu-platform-digital-strategy
+  - bu-product-management
+  - mk-new-product-development
+topics:
+  - id: bu-innovation-strategy-1
+    name: "Types of innovation: product, process, business model, incremental and radical"
+  - id: bu-innovation-strategy-2
+    name: Technology S-curves and diffusion of innovations
+  - id: bu-innovation-strategy-3
+    name: "Disruptive innovation: theory, evidence and critiques"
+  - id: bu-innovation-strategy-4
+    name: Dominant designs, standards wars and lock-in
+  - id: bu-innovation-strategy-5
+    name: "Profiting from innovation: appropriability and complementary assets"
+  - id: bu-innovation-strategy-6
+    name: "Managing R&D: portfolios, stage-gates and funding"
+  - id: bu-innovation-strategy-7
+    name: Open innovation, partnerships and ecosystems
+  - id: bu-innovation-strategy-8
+    name: Design thinking as an innovation process
+  - id: bu-innovation-strategy-9
+    name: "Organising for innovation: ambidexterity and skunkworks"
+  - id: bu-innovation-strategy-10
+    name: Corporate entrepreneurship and corporate venture capital
+  - id: bu-innovation-strategy-11
+    name: Technology commercialisation and university spin-outs
+  - id: bu-innovation-strategy-12
+    name: Innovation in regulated and deep-tech industries
+  - id: bu-innovation-strategy-13
+    name: Measuring innovation performance
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-innovation-strategy.json
+  sha256: 3d93fd0c11882b3bc074c0c744eb9e22741e9f7204bf5c27981f3dcb51a74e8e

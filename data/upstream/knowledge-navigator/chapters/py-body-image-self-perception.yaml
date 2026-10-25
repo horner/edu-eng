@@ -1,0 +1,46 @@
+id: py-body-image-self-perception
+name: Body Image, Appearance & Self-Perception
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: important
+summary: How people see and feel about their bodies, what shapes body image, and evidence-based ways to build a healthier relationship with appearance.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - be-introduction-to-beauty-science
+  - hf-weight-management-body-composition
+  - be-psychology-of-appearance
+topics:
+  - id: py-body-image-self-perception-1
+    name: "Body image: perception, thoughts, feelings and behaviour"
+  - id: py-body-image-self-perception-2
+    name: Development of body image across childhood and adolescence
+  - id: py-body-image-self-perception-3
+    name: "Sociocultural influences: media, peers and family (tripartite model)"
+  - id: py-body-image-self-perception-4
+    name: Social media, filters and appearance comparison
+  - id: py-body-image-self-perception-5
+    name: Objectification theory and self-objectification
+  - id: py-body-image-self-perception-6
+    name: Appearance ideals across gender, culture and age
+  - id: py-body-image-self-perception-7
+    name: Weight stigma and fat talk
+  - id: py-body-image-self-perception-8
+    name: "Body image and cosmetic procedures: motives and outcomes"
+  - id: py-body-image-self-perception-9
+    name: Body dissatisfaction and links to eating disorders and depression
+  - id: py-body-image-self-perception-10
+    name: "Body dysmorphic disorder: when concern becomes disorder"
+  - id: py-body-image-self-perception-11
+    name: Positive body image, body appreciation and body neutrality
+  - id: py-body-image-self-perception-12
+    name: "Interventions: media literacy, cognitive dissonance programmes (The Body Project) and self-compassion"
+  - id: py-body-image-self-perception-13
+    name: When to seek professional help
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-body-image-self-perception.json
+  sha256: 8e5bcfa0689b638e4e59065e68126f9a179a098f5193c87cde9b677de17bcce1

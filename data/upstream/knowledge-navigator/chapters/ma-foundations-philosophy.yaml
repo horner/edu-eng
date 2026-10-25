@@ -1,0 +1,27 @@
+id: ma-foundations-philosophy
+name: Foundations & Philosophy
+category: History, Philosophy & Education
+level: 3
+priority: optional
+summary: A survey chapter tying together the philosophy, history, aesthetics and metamathematics of the foundations of mathematics.
+prerequisites:
+  - ma-logic-proof-theory
+related:
+  - ma-philosophy-of-mathematics
+  - ma-history-of-mathematics
+topics:
+  - id: ma-foundations-philosophy-1
+    name: Philosophy of mathematics
+  - id: ma-foundations-philosophy-2
+    name: Mathematical aesthetics
+  - id: ma-foundations-philosophy-3
+    name: History of mathematics
+  - id: ma-foundations-philosophy-4
+    name: Metamathematics
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-foundations-philosophy.json
+  sha256: 62a0ac3daa11701feb9b59a2a7dea849114a1e59e159a995c3670a10444f3ba9

@@ -1,0 +1,27 @@
+id: ma-low-dimensional-topology
+name: Low-Dimensional Topology
+category: Topology
+level: 5
+priority: advanced
+summary: Surfaces, knots and 3- and 4-manifolds studied through modern invariants.
+prerequisites:
+  - ma-geometric-topology
+related: []
+topics:
+  - id: ma-low-dimensional-topology-1
+    name: Surface topology
+  - id: ma-low-dimensional-topology-3
+    name: Mapping class groups
+  - id: ma-low-dimensional-topology-4
+    name: Heegaard splittings
+  - id: ma-low-dimensional-topology-2
+    name: Knot invariants
+  - id: ma-low-dimensional-topology-5
+    name: Floer-theoretic invariants (overview)
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-low-dimensional-topology.json
+  sha256: 84e282eb1702cd200be2fbc15a6bb84cc84fa2f8d9161574b2e26f977cdfbd60

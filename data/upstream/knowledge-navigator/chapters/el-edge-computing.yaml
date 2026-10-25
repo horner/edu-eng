@@ -1,0 +1,30 @@
+id: el-edge-computing
+name: Edge Computing
+category: IoT Architectures, Platforms & Data
+level: 3
+priority: important
+summary: "Processing data near where it is produced: local filtering and analytics, low-latency decisions, edge servers and MEC."
+prerequisites:
+  - el-iot-architecture-layers
+related:
+  - cs-emerging-systems
+topics:
+  - id: el-edge-computing-1
+    name: Local data processing and filtering
+  - id: el-edge-computing-2
+    name: Edge analytics and ML inference
+  - id: el-edge-computing-3
+    name: Low-latency decision-making
+  - id: el-edge-computing-4
+    name: Bandwidth optimization
+  - id: el-edge-computing-5
+    name: Edge servers and mini data centers
+  - id: el-edge-computing-6
+    name: Multi-access edge computing (MEC)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-edge-computing.json
+  sha256: b127a2543ca0f22aab6c567a2c5ee3f557f118eabceb293970a5360b5c62b112

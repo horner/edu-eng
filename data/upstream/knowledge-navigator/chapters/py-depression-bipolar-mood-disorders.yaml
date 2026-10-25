@@ -1,0 +1,59 @@
+id: py-depression-bipolar-mood-disorders
+name: Depression, Bipolar & Mood Disorders
+category: Mental Health & Psychopathology
+level: 3
+priority: core
+summary: "Depression and bipolar disorder: how they present, what causes them and which treatments work."
+prerequisites:
+  - py-psychopathology-foundations
+related: []
+topics:
+  - id: py-depression-bipolar-mood-disorders-1
+    name: Symptoms and diagnosis of major depressive disorder
+  - id: py-depression-bipolar-mood-disorders-2
+    name: Persistent depressive disorder and premenstrual dysphoric disorder
+  - id: py-depression-bipolar-mood-disorders-3
+    name: Perinatal depression
+  - id: py-depression-bipolar-mood-disorders-4
+    name: Prevalence, course, recurrence and burden
+  - id: py-depression-bipolar-mood-disorders-5
+    name: Psychological models
+    sub:
+      - id: py-depression-bipolar-mood-disorders-5-1
+        name: Beck's cognitive model
+      - id: py-depression-bipolar-mood-disorders-5-2
+        name: Learned helplessness and hopelessness theories
+      - id: py-depression-bipolar-mood-disorders-5-3
+        name: Rumination and response styles
+      - id: py-depression-bipolar-mood-disorders-5-4
+        name: "Behavioural models: loss of reward"
+  - id: py-depression-bipolar-mood-disorders-6
+    name: "Biological factors: genetics, stress, inflammation and the serotonin debate"
+  - id: py-depression-bipolar-mood-disorders-7
+    name: Bipolar I and II and cyclothymia
+  - id: py-depression-bipolar-mood-disorders-8
+    name: "Mania and hypomania: features and risks"
+  - id: py-depression-bipolar-mood-disorders-9
+    name: Treatments for depression
+    sub:
+      - id: py-depression-bipolar-mood-disorders-9-1
+        name: Behavioural activation and CBT
+      - id: py-depression-bipolar-mood-disorders-9-2
+        name: Interpersonal therapy
+      - id: py-depression-bipolar-mood-disorders-9-3
+        name: Antidepressants and their limits
+      - id: py-depression-bipolar-mood-disorders-9-4
+        name: ECT, rTMS and esketamine in outline
+  - id: py-depression-bipolar-mood-disorders-10
+    name: "Treatment of bipolar disorder: mood stabilisers and psychoeducation"
+  - id: py-depression-bipolar-mood-disorders-11
+    name: Relapse prevention and MBCT
+  - id: py-depression-bipolar-mood-disorders-12
+    name: Seasonal patterns and light therapy
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-depression-bipolar-mood-disorders.json
+  sha256: d53463f6aab6fece5dd17dfb3c6d85e5f8d046b09859b34c562ad73a26f6dc99

@@ -1,0 +1,43 @@
+id: mk-media-planning-buying
+name: Media Planning & Buying
+category: Communications & Creative
+level: 3
+priority: important
+summary: Choosing where and when ads run and buying media efficiently across traditional and digital channels.
+prerequisites:
+  - mk-integrated-marketing-communications
+  - mk-marketing-maths-metrics
+related:
+  - mk-programmatic-display
+topics:
+  - id: mk-media-planning-buying-1
+    name: The media landscape and audience fragmentation
+  - id: mk-media-planning-buying-2
+    name: Audience measurement and data sources
+  - id: mk-media-planning-buying-3
+    name: Reach, frequency, gross rating points and effective frequency
+  - id: mk-media-planning-buying-4
+    name: Media weight, continuity and flighting
+  - id: mk-media-planning-buying-5
+    name: "Channel roles: TV, video, audio, out-of-home, print, digital"
+  - id: mk-media-planning-buying-6
+    name: "Cost metrics: CPM, CPP, CPV and cost per reach point"
+  - id: mk-media-planning-buying-7
+    name: Media planning process and the media plan
+  - id: mk-media-planning-buying-8
+    name: "Media buying: upfronts, spot buying, negotiation"
+  - id: mk-media-planning-buying-9
+    name: Attention metrics and viewability
+  - id: mk-media-planning-buying-10
+    name: Connected TV and addressable TV
+  - id: mk-media-planning-buying-11
+    name: Retail media networks
+  - id: mk-media-planning-buying-12
+    name: Evaluating media effectiveness
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-media-planning-buying.json
+  sha256: ecb7069b492dc3fa1b5b14280d91f64f01a895e2f8938d1e426608c17bba5208

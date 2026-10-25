@@ -1,0 +1,53 @@
+id: bu-business-strategy
+name: Business Strategy
+category: Strategy & Global Business
+level: 3
+priority: core
+summary: How a firm chooses where and how to compete so that it earns better returns than its rivals over time.
+prerequisites:
+  - bu-microeconomics-for-business
+related:
+  - bu-game-theory-competitive-strategy
+  - mk-brand-management
+  - mk-marketing-strategy-planning
+topics:
+  - id: bu-business-strategy-1
+    name: "What strategy is (and is not): mission, vision, goals and choices"
+  - id: bu-business-strategy-2
+    name: "Analysing the external environment: PESTEL and scenarios"
+  - id: bu-business-strategy-3
+    name: "Industry analysis: Porter's five forces and industry evolution"
+  - id: bu-business-strategy-4
+    name: Strategic groups and competitor analysis
+  - id: bu-business-strategy-5
+    name: "Internal analysis: resources, capabilities and the VRIO test"
+  - id: bu-business-strategy-6
+    name: The value chain and activity systems
+  - id: bu-business-strategy-7
+    name: "Generic strategies: cost leadership, differentiation and focus"
+  - id: bu-business-strategy-8
+    name: Competitive advantage and its sustainability
+    sub:
+      - id: bu-business-strategy-8-1
+        name: Imitation barriers and isolating mechanisms
+      - id: bu-business-strategy-8-2
+        name: Dynamic capabilities
+  - id: bu-business-strategy-9
+    name: "Competitive dynamics: attack, response and hypercompetition"
+  - id: bu-business-strategy-10
+    name: Strategy across the industry life cycle
+  - id: bu-business-strategy-11
+    name: Blue ocean strategy and creating new market space
+  - id: bu-business-strategy-12
+    name: Strategy formulation vs emergent strategy
+  - id: bu-business-strategy-13
+    name: "Strategy execution: alignment, resource allocation and OKRs"
+  - id: bu-business-strategy-14
+    name: Strategic foresight and scenario planning
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-strategy.json
+  sha256: 8c5b1fc2f2ab2a9d02200551aceb44e702b9afb9f9aa5026af9266e34dc1205a

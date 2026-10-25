@@ -1,0 +1,43 @@
+id: mk-growth-marketing
+name: Growth Marketing
+category: Growth & Analytics
+level: 3
+priority: important
+summary: A cross-functional, data-led approach to growing a customer base through acquisition, activation, retention, referral and revenue.
+prerequisites:
+  - mk-ab-testing-experimentation
+  - mk-retention-loyalty
+related:
+  - mk-go-to-market-startups
+topics:
+  - id: mk-growth-marketing-1
+    name: Growth models and the north-star metric
+  - id: mk-growth-marketing-2
+    name: "Funnel frameworks: AARRR and their limits"
+  - id: mk-growth-marketing-3
+    name: Growth loops versus funnels
+  - id: mk-growth-marketing-4
+    name: Acquisition channel strategy and channel saturation
+  - id: mk-growth-marketing-5
+    name: Activation and the aha moment
+  - id: mk-growth-marketing-6
+    name: Retention as the base of growth
+  - id: mk-growth-marketing-7
+    name: Referral and viral mechanics
+  - id: mk-growth-marketing-8
+    name: Monetisation experiments
+  - id: mk-growth-marketing-9
+    name: Product-led growth
+  - id: mk-growth-marketing-10
+    name: "The growth process: ideation, prioritisation (ICE), testing, learning"
+  - id: mk-growth-marketing-11
+    name: Growth team structures
+  - id: mk-growth-marketing-12
+    name: Unsustainable growth tactics and growth hacking myths
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-growth-marketing.json
+  sha256: 1a9550b59c3a9ae4eb2e21fc05fea078ecdef83f21a8c297ebf34cbc4846e08e

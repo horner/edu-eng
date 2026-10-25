@@ -1,0 +1,43 @@
+id: mk-marketplace-retail-media
+name: Marketplace & Retail Media Marketing
+category: Digital Marketing
+level: 3
+priority: advanced
+summary: Selling and advertising on online marketplaces such as Amazon and on retailers' own media networks.
+prerequisites:
+  - mk-ecommerce-marketing
+  - mk-paid-search
+related:
+  - mk-media-planning-buying
+topics:
+  - id: mk-marketplace-retail-media-1
+    name: "Marketplace models: first-party versus third-party selling"
+  - id: mk-marketplace-retail-media-2
+    name: Marketplace search ranking factors
+  - id: mk-marketplace-retail-media-3
+    name: "Listing optimisation: titles, images, content and reviews"
+  - id: mk-marketplace-retail-media-4
+    name: Pricing, buy-box and competition on marketplaces
+  - id: mk-marketplace-retail-media-5
+    name: Fulfilment options and their marketing effects
+  - id: mk-marketplace-retail-media-6
+    name: Sponsored product and sponsored brand ads
+  - id: mk-marketplace-retail-media-7
+    name: Retail media networks beyond marketplaces
+  - id: mk-marketplace-retail-media-8
+    name: Marketplace analytics and share of search
+  - id: mk-marketplace-retail-media-9
+    name: Review policies and fake-review risks
+  - id: mk-marketplace-retail-media-10
+    name: "Brand protection: counterfeits and unauthorised sellers"
+  - id: mk-marketplace-retail-media-11
+    name: Multi-marketplace and international selling
+  - id: mk-marketplace-retail-media-12
+    name: Channel conflict with direct and retail partners
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketplace-retail-media.json
+  sha256: 38fb94b1c40660270db3588f40913102d1aa0f468c190f5c8e826ab031600985

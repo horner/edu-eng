@@ -1,0 +1,54 @@
+id: hf-health-literacy-evidence
+name: Health Literacy & Judging Health Claims
+category: Foundations of Health & Wellness
+level: 1
+priority: core
+summary: How to find, understand and weigh health information, from news stories and influencers to clinical guidelines.
+prerequisites:
+  - hf-introduction-to-health-wellness
+related:
+  - bi-biological-inquiry
+  - ma-descriptive-statistics
+topics:
+  - id: hf-health-literacy-evidence-1
+    name: What health literacy is and why it matters
+  - id: hf-health-literacy-evidence-2
+    name: Types of evidence and the evidence hierarchy
+    sub:
+      - id: hf-health-literacy-evidence-2-1
+        name: Anecdotes, testimonials and expert opinion
+      - id: hf-health-literacy-evidence-2-2
+        name: Laboratory, cell and animal studies
+      - id: hf-health-literacy-evidence-2-3
+        name: "Observational studies: cohort and case-control"
+      - id: hf-health-literacy-evidence-2-4
+        name: Randomised controlled trials
+      - id: hf-health-literacy-evidence-2-5
+        name: Systematic reviews and meta-analyses
+  - id: hf-health-literacy-evidence-3
+    name: Correlation, causation and confounding
+  - id: hf-health-literacy-evidence-4
+    name: Absolute risk, relative risk and number needed to treat
+  - id: hf-health-literacy-evidence-5
+    name: Sample size, chance and what 'statistically significant' means in plain words
+  - id: hf-health-literacy-evidence-6
+    name: Placebo, nocebo and regression to the mean
+  - id: hf-health-literacy-evidence-7
+    name: Reading a health news story critically
+  - id: hf-health-literacy-evidence-8
+    name: Funding, conflicts of interest and marketing disguised as science
+  - id: hf-health-literacy-evidence-9
+    name: "Red flags of health misinformation: miracle cures, 'detox', 'toxins' and conspiracy framing"
+  - id: hf-health-literacy-evidence-10
+    name: Evaluating websites, social media influencers, podcasts and AI chatbots
+  - id: hf-health-literacy-evidence-11
+    name: "Clinical guidelines and who writes them: WHO, NICE, USPSTF and Cochrane"
+  - id: hf-health-literacy-evidence-12
+    name: Shared decision-making and questions to ask a clinician
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-health-literacy-evidence.json
+  sha256: a7710a63c62a080ddd9a67a465c1c2c778259de77ddaf14215530703f6c9109d

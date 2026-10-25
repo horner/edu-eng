@@ -1,0 +1,45 @@
+id: mk-paid-search
+name: Paid Search Advertising
+category: Digital Marketing
+level: 2
+priority: important
+summary: "Running pay-per-click search campaigns: keywords, auctions, ads, bidding, measurement and optimisation."
+prerequisites:
+  - mk-digital-marketing
+  - mk-marketing-maths-metrics
+related:
+  - mk-search-engine-optimization
+topics:
+  - id: mk-paid-search-1
+    name: "How search ad auctions work: bids, quality and ad rank"
+  - id: mk-paid-search-2
+    name: Account and campaign structure
+  - id: mk-paid-search-3
+    name: Keyword research and match types
+  - id: mk-paid-search-4
+    name: Negative keywords and search term analysis
+  - id: mk-paid-search-5
+    name: Writing search ads and using assets
+  - id: mk-paid-search-6
+    name: Landing page relevance
+  - id: mk-paid-search-7
+    name: "Bidding strategies: manual and automated"
+  - id: mk-paid-search-8
+    name: Conversion tracking and values
+  - id: mk-paid-search-9
+    name: Shopping and product listing ads
+  - id: mk-paid-search-10
+    name: Automated campaign types and their trade-offs
+  - id: mk-paid-search-11
+    name: Budgets, forecasting and pacing
+  - id: mk-paid-search-12
+    name: Optimisation and reporting
+  - id: mk-paid-search-13
+    name: Brand bidding and competitor terms
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-paid-search.json
+  sha256: 722e5f694274e1c5a707444471bc941994507348672d3bd28d2d353dac00467e

@@ -1,0 +1,60 @@
+id: be-injectables-explained
+name: "Injectable Treatments Explained: Neuromodulators & Fillers"
+category: Aesthetic Procedures & Cosmetic Dermatology
+level: 3
+priority: important
+summary: "An overview, not a how-to, of injectable cosmetic treatments: how botulinum toxin and dermal fillers work, their evidence, risks and regulation, and how to choose a safe practitioner."
+prerequisites:
+  - be-cosmetic-procedures-overview
+related:
+  - bi-pharmacology
+  - bi-human-anatomy
+  - be-advanced-skin-biology
+topics:
+  - id: be-injectables-explained-1
+    name: Facial ageing and what injectables aim to change
+  - id: be-injectables-explained-2
+    name: Botulinum toxin (neuromodulators)
+    sub:
+      - id: be-injectables-explained-2-1
+        name: How it blocks muscle activity
+      - id: be-injectables-explained-2-2
+        name: Cosmetic uses and duration of effect
+      - id: be-injectables-explained-2-3
+        name: "Medical uses: sweating, migraine and more"
+      - id: be-injectables-explained-2-4
+        name: Side effects and rare serious complications
+      - id: be-injectables-explained-2-5
+        name: Prescription-only status
+  - id: be-injectables-explained-3
+    name: Dermal fillers
+    sub:
+      - id: be-injectables-explained-3-1
+        name: Hyaluronic acid fillers and cross-linking
+      - id: be-injectables-explained-3-2
+        name: "Biostimulators: calcium hydroxylapatite and poly-L-lactic acid"
+      - id: be-injectables-explained-3-3
+        name: Permanent fillers and why they are discouraged
+  - id: be-injectables-explained-4
+    name: "Serious complications: vascular occlusion, blindness and infection"
+  - id: be-injectables-explained-5
+    name: "Reversibility: the role of hyaluronidase"
+  - id: be-injectables-explained-6
+    name: "Skin boosters, mesotherapy and fat-dissolving injections: evidence"
+  - id: be-injectables-explained-7
+    name: "Lip, cheek, jawline and nose treatments: what changes and the risks"
+  - id: be-injectables-explained-8
+    name: Counterfeit and unlicensed products
+  - id: be-injectables-explained-9
+    name: Regulation of injectables and of who may inject
+  - id: be-injectables-explained-10
+    name: Choosing a qualified medical practitioner
+  - id: be-injectables-explained-11
+    name: Trends, overfilling and the "filler face" debate
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-injectables-explained.json
+  sha256: 1956c7fbd455b7d4226adf59cef8ffbedad8cce1245f9c95394e0baedf245429

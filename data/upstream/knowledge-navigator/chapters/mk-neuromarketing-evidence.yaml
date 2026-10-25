@@ -1,0 +1,40 @@
+id: mk-neuromarketing-evidence
+name: "Consumer Neuroscience & Neuromarketing: An Evidence Check"
+category: Specialised Marketing
+level: 4
+priority: advanced
+summary: What brain and body measures can and cannot tell marketers, judged against the scientific evidence.
+prerequisites:
+  - mk-persuasion-behavioral-economics
+  - mk-marketing-research-analytics
+related:
+  - bi-cognitive-neuroscience
+  - py-affective-social-neuroscience
+topics:
+  - id: mk-neuromarketing-evidence-1
+    name: From consumer psychology to consumer neuroscience
+  - id: mk-neuromarketing-evidence-2
+    name: Brain basics for decision and reward
+  - id: mk-neuromarketing-evidence-3
+    name: "Measures: fMRI, EEG, eye tracking, facial coding, skin conductance, implicit tests"
+  - id: mk-neuromarketing-evidence-4
+    name: What academic consumer neuroscience has found
+  - id: mk-neuromarketing-evidence-5
+    name: "Predicting market outcomes from neural data: the evidence"
+  - id: mk-neuromarketing-evidence-6
+    name: Eye tracking for packaging, shelf and digital
+  - id: mk-neuromarketing-evidence-7
+    name: Implicit association and reaction-time methods
+  - id: mk-neuromarketing-evidence-8
+    name: Commercial neuromarketing claims versus evidence
+  - id: mk-neuromarketing-evidence-9
+    name: Reverse inference and other methodological pitfalls
+  - id: mk-neuromarketing-evidence-10
+    name: Ethics of neuromarketing and neural privacy
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-neuromarketing-evidence.json
+  sha256: f33dc25300dbcb61b7d3c2f52f476503bd4c9a67bff9a484847cfc0baac25d64

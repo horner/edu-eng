@@ -1,0 +1,40 @@
+id: py-environmental-psychology
+name: Environmental Psychology
+category: Applied Psychology
+level: 3
+priority: advanced
+summary: How people relate to their physical environment, from the restorative effects of nature to pro-environmental behaviour and climate change.
+prerequisites:
+  - py-social-psychology
+related:
+  - ea-environmental-policy-law-and-economics
+topics:
+  - id: py-environmental-psychology-1
+    name: Person-environment interaction and environmental perception
+  - id: py-environmental-psychology-2
+    name: "Restorative environments: attention restoration and stress reduction theories"
+  - id: py-environmental-psychology-3
+    name: Built environments, architecture and wellbeing
+  - id: py-environmental-psychology-4
+    name: Noise, crowding and environmental stressors
+  - id: py-environmental-psychology-5
+    name: Place attachment and identity
+  - id: py-environmental-psychology-6
+    name: Environmental attitudes and values
+  - id: py-environmental-psychology-7
+    name: Pro-environmental behaviour and the value-action gap
+  - id: py-environmental-psychology-8
+    name: Climate change perception, denial and communication
+  - id: py-environmental-psychology-9
+    name: Eco-anxiety and climate distress
+  - id: py-environmental-psychology-10
+    name: Interventions for sustainable behaviour
+  - id: py-environmental-psychology-11
+    name: Disasters and environmental hazards
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-environmental-psychology.json
+  sha256: cad783c698c122338018da89d11532bed98d75b30c7e144a1d6433fd59e4ed52

@@ -1,0 +1,43 @@
+id: bu-management-consulting
+name: Management Consulting & Case Problem Solving
+category: Sectors, Careers & Professional Practice
+level: 3
+priority: optional
+summary: How consultants structure and solve business problems, run client engagements and present recommendations, and how case interviews test it.
+prerequisites:
+  - bu-business-strategy
+  - bu-presentation-persuasion
+related:
+  - bu-decision-models-optimization
+topics:
+  - id: bu-management-consulting-1
+    name: "The consulting industry: strategy, operations, technology and boutique firms"
+  - id: bu-management-consulting-2
+    name: Hypothesis-driven problem solving
+  - id: bu-management-consulting-3
+    name: Issue trees and the MECE principle
+  - id: bu-management-consulting-4
+    name: Common frameworks and when not to use them
+  - id: bu-management-consulting-5
+    name: Market sizing and estimation
+  - id: bu-management-consulting-6
+    name: Profitability and growth problem solving
+  - id: bu-management-consulting-7
+    name: "Gathering data: interviews, benchmarks and quick analyses"
+  - id: bu-management-consulting-8
+    name: "The engagement life cycle: proposal, scoping, delivery and handover"
+  - id: bu-management-consulting-9
+    name: Managing client relationships and expectations
+  - id: bu-management-consulting-10
+    name: Synthesising findings and writing recommendations
+  - id: bu-management-consulting-11
+    name: "Case interviews: structure, practice and mental maths"
+  - id: bu-management-consulting-12
+    name: Independent consulting and freelancing
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-management-consulting.json
+  sha256: 1aebad4910a50b4193b49fd3964e10dc5b1979c93021cf32ac7013450f67aca7

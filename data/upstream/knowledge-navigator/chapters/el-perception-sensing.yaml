@@ -1,0 +1,30 @@
+id: el-perception-sensing
+name: Robot Perception & Sensing
+category: Control Systems & Robotics
+level: 3
+priority: important
+summary: How robots sense the world with cameras, LiDAR, radar, IMU/GPS and tactile sensors, and fuse them for localization.
+prerequisites:
+  - el-sensor-fusion
+related:
+  - ai-robot-perception
+topics:
+  - id: el-perception-sensing-1
+    name: Vision systems (cameras, stereo vision, depth cameras)
+  - id: el-perception-sensing-2
+    name: LIDAR and laser scanning
+  - id: el-perception-sensing-3
+    name: Radar and ultrasonic sensors
+  - id: el-perception-sensing-4
+    name: IMU and GPS integration
+  - id: el-perception-sensing-5
+    name: Tactile and force/torque sensors
+  - id: el-perception-sensing-6
+    name: Sensor fusion for localization
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-perception-sensing.json
+  sha256: 979b9fd4a233d8645904dfc79d77c7876d044a40a903e4a97367c3a322bfb009

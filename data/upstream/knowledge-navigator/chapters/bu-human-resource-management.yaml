@@ -1,0 +1,55 @@
+id: bu-human-resource-management
+name: Human Resource Management
+category: People, Organisations & Leadership
+level: 2
+priority: core
+summary: How organisations attract, select, develop, reward and retain people, and the legal and strategic context of HR.
+prerequisites:
+  - bu-organizational-behavior
+related:
+  - bu-employment-law
+  - bu-total-rewards
+  - py-work-organisational-psychology
+topics:
+  - id: bu-human-resource-management-1
+    name: Strategic HRM and the structure of the HR function
+  - id: bu-human-resource-management-2
+    name: Workforce planning and job analysis
+  - id: bu-human-resource-management-3
+    name: Recruitment and employer branding
+  - id: bu-human-resource-management-4
+    name: Selection methods and their validity
+  - id: bu-human-resource-management-5
+    name: Onboarding and socialisation
+  - id: bu-human-resource-management-6
+    name: Learning and development
+    sub:
+      - id: bu-human-resource-management-6-1
+        name: Training needs analysis
+      - id: bu-human-resource-management-6-2
+        name: Training design and evaluation (Kirkpatrick)
+      - id: bu-human-resource-management-6-3
+        name: Career development and succession planning
+  - id: bu-human-resource-management-7
+    name: Performance management and appraisal
+  - id: bu-human-resource-management-8
+    name: "Compensation and benefits: an overview"
+  - id: bu-human-resource-management-9
+    name: Employee engagement and retention
+  - id: bu-human-resource-management-10
+    name: Employee relations, unions and collective bargaining
+  - id: bu-human-resource-management-11
+    name: Health, safety and wellbeing at work
+  - id: bu-human-resource-management-12
+    name: HR analytics and HR technology
+  - id: bu-human-resource-management-13
+    name: Managing a global workforce
+  - id: bu-human-resource-management-14
+    name: Employment law essentials for HR (comparative overview)
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-human-resource-management.json
+  sha256: e27c5b87aec0209006d082b74838b41aa609e8f25543c570a825620faed3bfdc

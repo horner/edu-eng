@@ -1,0 +1,46 @@
+id: hf-health-wellness-coaching
+name: Health & Wellness Coaching
+category: Health Behaviour, Coaching & Digital Health
+level: 3
+priority: important
+summary: The skills and evidence base of health coaching for supporting lasting lifestyle change.
+prerequisites:
+  - hf-health-behaviour-change
+  - hf-lifestyle-medicine
+related:
+  - py-motivation-habits-behavior-change
+  - py-counselling-skills
+topics:
+  - id: hf-health-wellness-coaching-1
+    name: "Coaching, advising and therapy: how they differ"
+  - id: hf-health-wellness-coaching-2
+    name: Health coaching competencies and scope of practice (NBHWC)
+  - id: hf-health-wellness-coaching-3
+    name: Building the coaching relationship
+  - id: hf-health-wellness-coaching-4
+    name: The spirit of motivational interviewing and OARS skills
+  - id: hf-health-wellness-coaching-5
+    name: Change talk and sustain talk
+  - id: hf-health-wellness-coaching-6
+    name: Exploring values and a wellbeing vision
+  - id: hf-health-wellness-coaching-7
+    name: Goal setting and action planning
+  - id: hf-health-wellness-coaching-8
+    name: Coaching across the six pillars of lifestyle medicine
+  - id: hf-health-wellness-coaching-9
+    name: Working with ambivalence and setbacks
+  - id: hf-health-wellness-coaching-10
+    name: Group and digital coaching
+  - id: hf-health-wellness-coaching-11
+    name: Cultural humility and health equity in coaching
+  - id: hf-health-wellness-coaching-12
+    name: Ethics, confidentiality and referral for mental health concerns
+  - id: hf-health-wellness-coaching-13
+    name: Measuring coaching outcomes
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-health-wellness-coaching.json
+  sha256: 69d34677095a9a32790fb4cb056712f7add8135cefa33b4faf59fd386849b3ff

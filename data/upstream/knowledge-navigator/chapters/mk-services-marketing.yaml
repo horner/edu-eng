@@ -1,0 +1,42 @@
+id: mk-services-marketing
+name: Services Marketing
+category: Product, Price & Place
+level: 2
+priority: important
+summary: Marketing intangible offers, where people, processes and the service encounter are the product.
+prerequisites:
+  - mk-consumer-behavior
+related:
+  - mk-customer-experience-management
+topics:
+  - id: mk-services-marketing-1
+    name: "Characteristics of services: intangibility, inseparability, variability, perishability"
+  - id: mk-services-marketing-2
+    name: "The extended marketing mix: people, process, physical evidence"
+  - id: mk-services-marketing-3
+    name: Customer expectations and the zone of tolerance
+  - id: mk-services-marketing-4
+    name: The gaps model of service quality
+  - id: mk-services-marketing-5
+    name: SERVQUAL and measuring service quality
+  - id: mk-services-marketing-6
+    name: The service encounter and service scripts
+  - id: mk-services-marketing-7
+    name: Managing demand and capacity
+  - id: mk-services-marketing-8
+    name: Servicescapes and physical evidence
+  - id: mk-services-marketing-9
+    name: Service employees and internal marketing
+  - id: mk-services-marketing-10
+    name: Service failure and recovery
+  - id: mk-services-marketing-11
+    name: Pricing services
+  - id: mk-services-marketing-12
+    name: Service-dominant logic and co-creation
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-services-marketing.json
+  sha256: cb5155a617e70045ac60b2bfedc289d1abcdd5effd147bbb80b4f5c61e650c1d

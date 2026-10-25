@@ -1,0 +1,49 @@
+id: bu-business-statistics-analytics
+name: Business Statistics & Analytics
+category: Analytics & Decision Sciences
+level: 2
+priority: core
+summary: Using data, probability and statistical inference to describe business performance and make better decisions.
+prerequisites:
+  - ma-descriptive-statistics
+  - ma-elementary-probability
+related:
+  - ma-inferential-statistics
+  - ai-exploratory-data-analysis-eda
+  - cs-probability-statistics-for-cs
+topics:
+  - id: bu-business-statistics-analytics-1
+    name: "Data in business: types, sources and data quality"
+  - id: bu-business-statistics-analytics-2
+    name: "Summarising data: averages, spread and distributions"
+  - id: bu-business-statistics-analytics-3
+    name: Visualising business data
+  - id: bu-business-statistics-analytics-4
+    name: Probability for business decisions
+  - id: bu-business-statistics-analytics-5
+    name: "Probability distributions: binomial, Poisson and normal"
+  - id: bu-business-statistics-analytics-6
+    name: Sampling and sampling distributions
+  - id: bu-business-statistics-analytics-7
+    name: Confidence intervals
+  - id: bu-business-statistics-analytics-8
+    name: "Hypothesis testing: means and proportions"
+  - id: bu-business-statistics-analytics-9
+    name: "Comparing groups: two-sample tests and ANOVA"
+  - id: bu-business-statistics-analytics-10
+    name: Chi-square tests for categorical data
+  - id: bu-business-statistics-analytics-11
+    name: Correlation and simple linear regression
+  - id: bu-business-statistics-analytics-12
+    name: Introduction to multiple regression
+  - id: bu-business-statistics-analytics-13
+    name: Using spreadsheets and statistical software for analysis
+  - id: bu-business-statistics-analytics-14
+    name: Misleading statistics and common errors in business reporting
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-statistics-analytics.json
+  sha256: 61ab568e2748c4691c45a34c154bf45a689222ccbf1960c6bae8f431b4c926d5

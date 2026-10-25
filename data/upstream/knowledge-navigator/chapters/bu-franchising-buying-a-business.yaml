@@ -1,0 +1,44 @@
+id: bu-franchising-buying-a-business
+name: Franchising & Buying a Business
+category: Entrepreneurship & Startups
+level: 2
+priority: important
+summary: "Two alternative routes into ownership: buying a franchise or acquiring an existing business."
+prerequisites:
+  - bu-small-business-management
+  - bu-financial-accounting
+related:
+  - bu-valuation
+  - bu-international-business
+topics:
+  - id: bu-franchising-buying-a-business-1
+    name: "Start, buy or franchise: comparing routes to ownership"
+  - id: bu-franchising-buying-a-business-2
+    name: "How franchising works: franchisor and franchisee"
+  - id: bu-franchising-buying-a-business-3
+    name: Franchise agreements, fees and royalties
+  - id: bu-franchising-buying-a-business-4
+    name: "Evaluating a franchise: disclosure documents and talking to franchisees"
+  - id: bu-franchising-buying-a-business-5
+    name: Franchise regulation compared (US FDD rules, UK self-regulation, EU and India)
+  - id: bu-franchising-buying-a-business-6
+    name: "Becoming a franchisor: franchising your own business"
+  - id: bu-franchising-buying-a-business-7
+    name: Acquisition entrepreneurship and search funds
+  - id: bu-franchising-buying-a-business-8
+    name: Finding businesses for sale and brokers
+  - id: bu-franchising-buying-a-business-9
+    name: "Valuing a small business: earnings multiples and adjustments"
+  - id: bu-franchising-buying-a-business-10
+    name: Due diligence on a small business
+  - id: bu-franchising-buying-a-business-11
+    name: "Financing the purchase: seller notes, bank loans and investors"
+  - id: bu-franchising-buying-a-business-12
+    name: Transition and the first 100 days after buying
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-franchising-buying-a-business.json
+  sha256: d6fe1ed24c2ff8d07244da900e79409d1aa858c91e64106f0a7fea654ca6683c

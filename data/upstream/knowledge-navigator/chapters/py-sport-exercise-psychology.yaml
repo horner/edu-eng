@@ -1,0 +1,53 @@
+id: py-sport-exercise-psychology
+name: Sport & Exercise Psychology
+category: Applied Psychology
+level: 3
+priority: important
+summary: "The psychology of sport performance and physical activity: motivation, confidence, anxiety, focus, teams and getting people to exercise."
+prerequisites:
+  - py-motivation-habits-behavior-change
+related:
+  - bi-exercise-physiology
+  - hf-exercise-fundamentals
+  - hf-exercise-instruction-coaching
+topics:
+  - id: py-sport-exercise-psychology-1
+    name: "The field: performance and exercise strands"
+  - id: py-sport-exercise-psychology-2
+    name: "Motivation in sport: achievement goals and self-determination"
+  - id: py-sport-exercise-psychology-3
+    name: Self-confidence and self-efficacy
+  - id: py-sport-exercise-psychology-4
+    name: "Arousal, anxiety and performance: inverted U, catastrophe models and choking"
+  - id: py-sport-exercise-psychology-5
+    name: Attention and concentration
+  - id: py-sport-exercise-psychology-6
+    name: Psychological skills training
+    sub:
+      - id: py-sport-exercise-psychology-6-1
+        name: Goal setting
+      - id: py-sport-exercise-psychology-6-2
+        name: Imagery
+      - id: py-sport-exercise-psychology-6-3
+        name: Self-talk
+      - id: py-sport-exercise-psychology-6-4
+        name: Pre-performance routines
+  - id: py-sport-exercise-psychology-7
+    name: Team cohesion and leadership
+  - id: py-sport-exercise-psychology-8
+    name: Coaching behaviour and athlete development
+  - id: py-sport-exercise-psychology-9
+    name: Athlete mental health, burnout and injury psychology
+  - id: py-sport-exercise-psychology-10
+    name: Exercise adherence and getting people active
+  - id: py-sport-exercise-psychology-11
+    name: Exercise and mental health
+  - id: py-sport-exercise-psychology-12
+    name: Ethics and professional practice in sport psychology
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-sport-exercise-psychology.json
+  sha256: 37a071ac47cf742256dc56c4ec3ee1ab2eab13de62cb9a089ba5bb0c49113a0e

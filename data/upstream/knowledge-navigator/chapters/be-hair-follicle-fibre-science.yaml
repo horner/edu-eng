@@ -1,0 +1,52 @@
+id: be-hair-follicle-fibre-science
+name: Hair Follicle Biology & Hair Fibre Science
+category: Hair & Scalp
+level: 4
+priority: advanced
+summary: "Graduate-level hair science: the molecular control of the hair cycle, follicle stem cells and pigmentation, and the physics and chemistry of the hair fibre."
+prerequisites:
+  - be-advanced-skin-biology
+  - be-hair-scalp-science
+related:
+  - bi-stem-cells-regeneration
+  - mt-polymer-properties
+  - bi-protein-structure-function
+topics:
+  - id: be-hair-follicle-fibre-science-1
+    name: Hair follicle development and morphogenesis
+  - id: be-hair-follicle-fibre-science-2
+    name: "Signalling in the hair cycle: Wnt, BMP, FGF and androgens"
+  - id: be-hair-follicle-fibre-science-3
+    name: Follicle stem cells and the dermal papilla niche
+  - id: be-hair-follicle-fibre-science-4
+    name: Follicular melanogenesis and the biology of greying
+  - id: be-hair-follicle-fibre-science-5
+    name: Immune privilege of the hair follicle and its collapse in alopecia
+  - id: be-hair-follicle-fibre-science-6
+    name: Molecular basis of androgenetic alopecia
+  - id: be-hair-follicle-fibre-science-7
+    name: Fibre structure and chemistry
+    sub:
+      - id: be-hair-follicle-fibre-science-7-1
+        name: Keratin and keratin-associated proteins
+      - id: be-hair-follicle-fibre-science-7-2
+        name: Cuticle lipids and surface chemistry
+      - id: be-hair-follicle-fibre-science-7-3
+        name: Ethnic variation in fibre geometry and properties
+  - id: be-hair-follicle-fibre-science-8
+    name: "Mechanical properties: tensile, bending and fatigue"
+  - id: be-hair-follicle-fibre-science-9
+    name: "Surface properties: friction, static charge and lustre"
+  - id: be-hair-follicle-fibre-science-10
+    name: Chemical and photochemical damage at the molecular level
+  - id: be-hair-follicle-fibre-science-11
+    name: "Research methods: follicle organ culture, imaging and trichograms"
+  - id: be-hair-follicle-fibre-science-12
+    name: Emerging hair-loss therapies and regeneration research
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-hair-follicle-fibre-science.json
+  sha256: 73fa60f64cd85f4d008c63fb13d6bb39e7c6ab4d9a4958dfab3ce235fa3bb040

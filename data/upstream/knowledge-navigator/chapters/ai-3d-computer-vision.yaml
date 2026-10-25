@@ -1,0 +1,40 @@
+id: ai-3d-computer-vision
+name: 3D Computer Vision
+category: Computer Vision
+level: 4
+priority: important
+summary: "Recovering and representing 3D structure: multi-view geometry, stereo, depth estimation, structure from motion, SLAM, point clouds, NeRF and Gaussian splatting."
+prerequisites:
+  - ai-core-vision-tasks
+related:
+  - el-3d-vision
+  - el-stereo-vision-depth
+  - ai-robot-perception
+  - cs-computer-graphics
+  - cs-virtual-augmented-reality
+topics:
+  - id: ai-3d-computer-vision-1
+    name: Depth Estimation
+  - id: ai-3d-computer-vision-2
+    name: 3D Reconstruction
+  - id: ai-3d-computer-vision-3
+    name: Structure from Motion
+  - id: ai-3d-computer-vision-4
+    name: SLAM (Simultaneous Localization and Mapping)
+  - id: ai-3d-computer-vision-5
+    name: Point Cloud Processing
+  - id: ai-3d-computer-vision-6
+    name: Neural Radiance Fields (NeRF)
+  - id: ai-3d-computer-vision-7
+    name: Gaussian Splatting
+  - id: ai-3d-computer-vision-8
+    name: Multi-view Geometry
+  - id: ai-3d-computer-vision-9
+    name: Stereo Vision
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-3d-computer-vision.json
+  sha256: edb374ac29e8855a3da32894d56f3a9c6bb2df9a5a3fc64f0aec659bf18e6099

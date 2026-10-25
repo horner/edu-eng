@@ -1,0 +1,64 @@
+id: mk-consumer-behavior
+name: Consumer Behaviour
+category: Customers & Insight
+level: 2
+priority: core
+summary: How people choose, buy, use and dispose of products, grounded in psychology, sociology and culture.
+prerequisites:
+  - mk-marketing-principles
+related:
+  - py-introduction-to-psychology
+  - py-motivation-habits-behavior-change
+  - py-emotion-and-emotion-regulation
+  - py-consumer-psychology
+topics:
+  - id: mk-consumer-behavior-1
+    name: What consumer behaviour studies and why it matters to marketers
+  - id: mk-consumer-behavior-2
+    name: The consumer decision process
+    sub:
+      - id: mk-consumer-behavior-2-1
+        name: Need recognition
+      - id: mk-consumer-behavior-2-2
+        name: Information search
+      - id: mk-consumer-behavior-2-3
+        name: Evaluation of alternatives
+      - id: mk-consumer-behavior-2-4
+        name: Purchase
+      - id: mk-consumer-behavior-2-5
+        name: Post-purchase evaluation and dissonance
+  - id: mk-consumer-behavior-3
+    name: Involvement and habitual versus deliberate choice
+  - id: mk-consumer-behavior-4
+    name: "Perception: attention, sensory thresholds and interpretation"
+  - id: mk-consumer-behavior-5
+    name: "Learning and memory: conditioning, brand associations and recall"
+  - id: mk-consumer-behavior-6
+    name: Motivation, needs and goals
+  - id: mk-consumer-behavior-7
+    name: Attitudes and how they form and change
+  - id: mk-consumer-behavior-8
+    name: Personality, self-concept and lifestyles
+  - id: mk-consumer-behavior-9
+    name: Emotions and mood in consumption
+  - id: mk-consumer-behavior-10
+    name: "Social influence: reference groups, opinion leaders and word of mouth"
+  - id: mk-consumer-behavior-11
+    name: Family and household decision-making
+  - id: mk-consumer-behavior-12
+    name: Culture, subculture and social class
+  - id: mk-consumer-behavior-13
+    name: Diffusion of innovations and adoption categories
+  - id: mk-consumer-behavior-14
+    name: Organisational buying compared with consumer buying
+  - id: mk-consumer-behavior-15
+    name: Customer journeys and touchpoints
+  - id: mk-consumer-behavior-16
+    name: Consumer well-being, compulsive consumption and ethical limits
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-consumer-behavior.json
+  sha256: 087728ddf65f3b56901e4b4b752972cba1d2d480d8c227b1ed9707a7479cbbea

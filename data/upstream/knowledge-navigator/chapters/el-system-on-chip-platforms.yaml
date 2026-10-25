@@ -1,0 +1,33 @@
+id: el-system-on-chip-platforms
+name: System-on-Chip Platforms
+category: Microcontrollers, Processors & Architectures
+level: 2
+priority: important
+summary: Popular commercial chips and platforms (ESP32, STM32, i.MX, nRF, RP2040, Snapdragon) and their typical applications.
+prerequisites:
+  - el-microcontroller-families
+related: []
+topics:
+  - id: el-system-on-chip-platforms-1
+    name: ESP32, ESP8266 (Wi-Fi/Bluetooth)
+  - id: el-system-on-chip-platforms-2
+    name: STM32 series (STMicroelectronics)
+  - id: el-system-on-chip-platforms-3
+    name: NXP i.MX series (multimedia applications)
+  - id: el-system-on-chip-platforms-4
+    name: Qualcomm Snapdragon (mobile)
+  - id: el-system-on-chip-platforms-5
+    name: MediaTek SoCs
+  - id: el-system-on-chip-platforms-6
+    name: Raspberry Pi RP2040
+  - id: el-system-on-chip-platforms-7
+    name: Nordic nRF series (Bluetooth/wireless)
+  - id: el-system-on-chip-platforms-8
+    name: Texas Instruments CC series
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-system-on-chip-platforms.json
+  sha256: a08c701d70b7c9fe1fedb5a704aa2f68e537ffabdac35cc4952151335ae2064a

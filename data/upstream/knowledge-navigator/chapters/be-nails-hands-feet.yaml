@@ -1,0 +1,48 @@
+id: be-nails-hands-feet
+name: Nail Science & Care of Hands and Feet
+category: Nails, Hands & Feet
+level: 2
+priority: important
+summary: The biology of nails, everyday nail, hand and foot care, common problems, and the nail and foot signs that need medical attention.
+prerequisites:
+  - be-skin-biology
+related: []
+topics:
+  - id: be-nails-hands-feet-1
+    name: "Nail anatomy: plate, matrix, bed, cuticle and folds"
+  - id: be-nails-hands-feet-2
+    name: Nail growth rates and what affects them
+  - id: be-nails-hands-feet-3
+    name: "Brittle, peeling and soft nails: causes and care"
+  - id: be-nails-hands-feet-4
+    name: "Ridges, spots and colour changes: what is harmless and what is not"
+  - id: be-nails-hands-feet-5
+    name: Fungal and bacterial nail infections
+  - id: be-nails-hands-feet-6
+    name: Ingrown nails and nail injuries
+  - id: be-nails-hands-feet-7
+    name: "Manicure and pedicure basics: filing, cuticle care and hygiene"
+  - id: be-nails-hands-feet-8
+    name: "Hand care: dryness, hand eczema, frequent washing and sanitiser"
+  - id: be-nails-hands-feet-9
+    name: "Ageing hands: sun damage, spots and volume loss"
+  - id: be-nails-hands-feet-10
+    name: Foot care
+    sub:
+      - id: be-nails-hands-feet-10-1
+        name: Calluses, corns and cracked heels
+      - id: be-nails-hands-feet-10-2
+        name: Athlete's foot and sweaty feet
+      - id: be-nails-hands-feet-10-3
+        name: Footwear and foot health
+      - id: be-nails-hands-feet-10-4
+        name: "Foot care with diabetes or poor circulation: red flags"
+  - id: be-nails-hands-feet-11
+    name: When to see a dermatologist or podiatrist
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-nails-hands-feet.json
+  sha256: 3208e0da4ecfe0807319154070fdef1182368fcbeca45f4125ea43c4685e4007

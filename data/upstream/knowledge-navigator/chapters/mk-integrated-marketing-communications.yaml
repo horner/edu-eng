@@ -1,0 +1,42 @@
+id: mk-integrated-marketing-communications
+name: Integrated Marketing Communications
+category: Communications & Creative
+level: 2
+priority: core
+summary: Planning communications across channels so that messages work together to reach the right people, build the brand and drive action.
+prerequisites:
+  - mk-segmentation-targeting-positioning
+related:
+  - mk-brand-management
+topics:
+  - id: mk-integrated-marketing-communications-1
+    name: "The communication process and how advertising works: competing theories"
+  - id: mk-integrated-marketing-communications-2
+    name: Hierarchy-of-effects models and their limits
+  - id: mk-integrated-marketing-communications-3
+    name: Paid, owned, earned and shared media
+  - id: mk-integrated-marketing-communications-4
+    name: "The communications mix: advertising, PR, sales promotion, direct, personal selling, digital"
+  - id: mk-integrated-marketing-communications-5
+    name: Setting communication objectives and target audiences
+  - id: mk-integrated-marketing-communications-6
+    name: "Message strategy: rational and emotional appeals"
+  - id: mk-integrated-marketing-communications-7
+    name: Creative briefs
+  - id: mk-integrated-marketing-communications-8
+    name: Media selection and channel planning basics
+  - id: mk-integrated-marketing-communications-9
+    name: Budgeting methods for communications
+  - id: mk-integrated-marketing-communications-10
+    name: Campaign planning and integration across touchpoints
+  - id: mk-integrated-marketing-communications-11
+    name: Measuring communication effects
+  - id: mk-integrated-marketing-communications-12
+    name: Communications ethics and regulation
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-integrated-marketing-communications.json
+  sha256: e5dc9ddc3b7d815617db9ea3e717d1983bd65c983fb9774b52be3fbd5a93aec0

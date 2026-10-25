@@ -1,0 +1,42 @@
+id: py-adolescence-emerging-adulthood
+name: Adolescence & Emerging Adulthood
+category: Developmental Psychology
+level: 3
+priority: important
+summary: "Development from puberty to the late twenties: the adolescent brain, identity, relationships, risk-taking and mental health."
+prerequisites:
+  - py-lifespan-development
+related:
+  - hf-hormonal-health
+topics:
+  - id: py-adolescence-emerging-adulthood-1
+    name: "Puberty: biological changes and timing effects"
+  - id: py-adolescence-emerging-adulthood-2
+    name: "The adolescent brain: reward sensitivity and control"
+  - id: py-adolescence-emerging-adulthood-3
+    name: "Cognitive development: abstract thinking and adolescent egocentrism"
+  - id: py-adolescence-emerging-adulthood-4
+    name: "Identity formation: Marcia's statuses and ethnic and gender identity"
+  - id: py-adolescence-emerging-adulthood-5
+    name: Family relationships and autonomy
+  - id: py-adolescence-emerging-adulthood-6
+    name: Peers, friendships and peer influence
+  - id: py-adolescence-emerging-adulthood-7
+    name: Romantic relationships and sexuality
+  - id: py-adolescence-emerging-adulthood-8
+    name: Risk-taking, sensation seeking and substance use
+  - id: py-adolescence-emerging-adulthood-9
+    name: "Social media and adolescent wellbeing: what the evidence shows"
+  - id: py-adolescence-emerging-adulthood-10
+    name: Onset of mental health problems in adolescence
+  - id: py-adolescence-emerging-adulthood-11
+    name: "Emerging adulthood (Arnett): education, work and independence"
+  - id: py-adolescence-emerging-adulthood-12
+    name: Positive youth development
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-adolescence-emerging-adulthood.json
+  sha256: 7a75615ec4bf94a166b93af5b250c7134554b5e5ceee9af4046724513715562e

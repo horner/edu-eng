@@ -1,0 +1,46 @@
+id: hf-weight-management-body-composition
+name: Body Composition & Weight Management
+category: Applied Nutrition & Dietetics
+level: 2
+priority: important
+summary: An evidence-based, non-stigmatising guide to body composition, body weight and sustainable ways to change them.
+prerequisites:
+  - hf-energy-balance-metabolism
+  - hf-exercise-fundamentals
+related:
+  - py-eating-behavior-disorders
+  - py-body-image-self-perception
+topics:
+  - id: hf-weight-management-body-composition-1
+    name: "Body composition: fat mass, fat-free mass and where fat is stored"
+  - id: hf-weight-management-body-composition-2
+    name: What BMI does and does not tell you; waist measures and body-fat estimates
+  - id: hf-weight-management-body-composition-3
+    name: "Weight, health and fitness: separating the three"
+  - id: hf-weight-management-body-composition-4
+    name: Weight stigma and its harms
+  - id: hf-weight-management-body-composition-5
+    name: "Why people gain weight: biology, environment, sleep, stress and medication"
+  - id: hf-weight-management-body-composition-6
+    name: "Principles of sustainable weight loss: energy deficit, protein, fibre and food quality"
+  - id: hf-weight-management-body-composition-7
+    name: The role of physical activity in weight loss and in weight maintenance
+  - id: hf-weight-management-body-composition-8
+    name: Weight regain and the biology of maintenance
+  - id: hf-weight-management-body-composition-9
+    name: Gaining weight and muscle healthily
+  - id: hf-weight-management-body-composition-10
+    name: "Body recomposition: losing fat while gaining muscle"
+  - id: hf-weight-management-body-composition-11
+    name: Realistic goals and outcomes beyond the scale
+  - id: hf-weight-management-body-composition-12
+    name: "Eating disorder awareness: warning signs and how to get help"
+  - id: hf-weight-management-body-composition-13
+    name: When to seek a doctor or registered dietitian
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-weight-management-body-composition.json
+  sha256: 2d10f9fc4042f90f2460523377810aef8cd4baacf38fe9dfb87c009eb93d1ec7

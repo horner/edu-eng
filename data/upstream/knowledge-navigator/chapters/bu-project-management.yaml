@@ -1,0 +1,56 @@
+id: bu-project-management
+name: Project Management
+category: Operations, Supply Chain & Projects
+level: 2
+priority: core
+summary: Planning and delivering projects on time, on budget and to scope, using predictive, agile and hybrid approaches.
+prerequisites:
+  - bu-principles-of-management
+related:
+  - cs-software-engineering-process
+  - bu-managing-teams
+topics:
+  - id: bu-project-management-1
+    name: "What a project is: projects, programmes, portfolios and operations"
+  - id: bu-project-management-2
+    name: Project principles and performance domains (PMBOK)
+  - id: bu-project-management-3
+    name: "Project initiation: business case, charter and stakeholders"
+  - id: bu-project-management-4
+    name: Scope definition and the work breakdown structure
+  - id: bu-project-management-5
+    name: Scheduling
+    sub:
+      - id: bu-project-management-5-1
+        name: Activity sequencing and network diagrams
+      - id: bu-project-management-5-2
+        name: Critical path method
+      - id: bu-project-management-5-3
+        name: Gantt charts and milestones
+  - id: bu-project-management-6
+    name: Cost estimation and budgeting
+  - id: bu-project-management-7
+    name: Earned value management
+  - id: bu-project-management-8
+    name: "Project risk management: registers and responses"
+  - id: bu-project-management-9
+    name: "Agile and Scrum: roles, events and artefacts"
+  - id: bu-project-management-10
+    name: Kanban and flow-based delivery
+  - id: bu-project-management-11
+    name: Choosing predictive, agile or hybrid approaches
+  - id: bu-project-management-12
+    name: Leading project teams and stakeholder communication
+  - id: bu-project-management-13
+    name: Procurement and contracts in projects
+  - id: bu-project-management-14
+    name: Closing projects, benefits realisation and lessons learned
+  - id: bu-project-management-15
+    name: Programme and portfolio management and the PMO
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-project-management.json
+  sha256: 8754189c9627c2c241d297615c64f377cc427ba0529731a6fb6bfabea0d9f39a

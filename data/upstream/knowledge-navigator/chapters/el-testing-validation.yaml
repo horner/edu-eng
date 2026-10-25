@@ -1,0 +1,30 @@
+id: el-testing-validation
+name: Automotive Testing & Validation (XiL)
+category: Automotive, Aerospace & Defense Systems
+level: 4
+priority: advanced
+summary: Validating vehicle electronics with model-, software-, hardware- and vehicle-in-the-loop testing plus environmental and EMC tests.
+prerequisites:
+  - el-automotive-standards
+  - el-testing-strategies
+related: []
+topics:
+  - id: el-testing-validation-1
+    name: Hardware-in-the-Loop (HIL)
+  - id: el-testing-validation-2
+    name: Software-in-the-Loop (SIL)
+  - id: el-testing-validation-3
+    name: Model-in-the-Loop (MIL)
+  - id: el-testing-validation-4
+    name: Vehicle-in-the-Loop (VIL)
+  - id: el-testing-validation-5
+    name: Environmental testing
+  - id: el-testing-validation-6
+    name: EMC testing
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-testing-validation.json
+  sha256: 6293a62658092f7d1ab703590026be63fe42c43c94a3d41138a8f90e01d920dc

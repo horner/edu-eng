@@ -1,0 +1,30 @@
+id: el-performance-analysis
+name: Performance Analysis
+category: Embedded Development Practices & Debugging
+level: 3
+priority: advanced
+summary: Measuring and improving CPU load, memory use, task timing, interrupt latency and cache behaviour.
+prerequisites:
+  - el-trace-profiling
+related:
+  - cs-performance-engineering
+topics:
+  - id: el-performance-analysis-1
+    name: CPU utilization monitoring
+  - id: el-performance-analysis-2
+    name: Memory usage tracking
+  - id: el-performance-analysis-3
+    name: Task execution time
+  - id: el-performance-analysis-4
+    name: Interrupt latency measurement
+  - id: el-performance-analysis-5
+    name: Cache hit/miss analysis
+  - id: el-performance-analysis-6
+    name: Profiling tools (gprof, Valgrind)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-performance-analysis.json
+  sha256: fd2144b12cef0be85d15a36930f5efc19c103ba5ee115ba994479feeec4a73b5

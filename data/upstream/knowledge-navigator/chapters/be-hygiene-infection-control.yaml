@@ -1,0 +1,51 @@
+id: be-hygiene-infection-control
+name: Salon Hygiene, Infection Control & Client Safety
+category: Safety, Regulation & Industry
+level: 2
+priority: important
+summary: The hygiene, infection control, chemical safety and client care standards that beauty professionals are trained and licensed in.
+prerequisites:
+  - be-skin-biology
+related:
+  - bi-microbiology
+  - ch-laboratory-safety-basic-skills
+  - hf-immunity-infection-prevention
+topics:
+  - id: be-hygiene-infection-control-1
+    name: "Microbiology basics for beauty professionals: bacteria, viruses, fungi and parasites"
+  - id: be-hygiene-infection-control-2
+    name: How infections spread in salons, spas and clinics
+  - id: be-hygiene-infection-control-3
+    name: Levels of decontamination
+    sub:
+      - id: be-hygiene-infection-control-3-1
+        name: Cleaning and sanitation
+      - id: be-hygiene-infection-control-3-2
+        name: "Disinfection: products, contact time and EPA or equivalent registration"
+      - id: be-hygiene-infection-control-3-3
+        name: "Sterilisation: autoclaves and when it is required"
+  - id: be-hygiene-infection-control-4
+    name: Single-use items and disposal
+  - id: be-hygiene-infection-control-5
+    name: Standard precautions, hand hygiene and personal protective equipment
+  - id: be-hygiene-infection-control-6
+    name: Blood exposure incidents and sharps
+  - id: be-hygiene-infection-control-7
+    name: Safety data sheets and handling chemicals
+  - id: be-hygiene-infection-control-8
+    name: Ventilation, dust and fumes
+  - id: be-hygiene-infection-control-9
+    name: Ergonomics and worker health
+  - id: be-hygiene-infection-control-10
+    name: Client consultation, contraindications and record-keeping
+  - id: be-hygiene-infection-control-11
+    name: First aid and handling reactions in the salon
+  - id: be-hygiene-infection-control-12
+    name: Licensing, inspections and health regulations for premises
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-hygiene-infection-control.json
+  sha256: 0b4b852f2a0492a0af0aa573dc1770dfd6b279e5ebb54e3533197798de0b1224

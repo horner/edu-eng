@@ -1,0 +1,28 @@
+id: el-international-standards-organizations
+name: International Standards Organizations
+category: Standards, Compliance & Certifications
+level: 1
+priority: optional
+summary: "Who writes the standards electronics must follow: IEEE, IEC, ISO, ITU, ANSI and ETSI."
+prerequisites: []
+related: []
+topics:
+  - id: el-international-standards-organizations-1
+    name: IEEE (Institute of Electrical and Electronics Engineers)
+  - id: el-international-standards-organizations-2
+    name: IEC (International Electrotechnical Commission)
+  - id: el-international-standards-organizations-3
+    name: ISO (International Organization for Standardization)
+  - id: el-international-standards-organizations-4
+    name: ITU (International Telecommunication Union)
+  - id: el-international-standards-organizations-5
+    name: ANSI (American National Standards Institute)
+  - id: el-international-standards-organizations-6
+    name: ETSI (European Telecommunications Standards Institute)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-international-standards-organizations.json
+  sha256: 393771d6ca7fb8e05f9e2204b11f580ae8e0ff8da2bf895980c905af45319bcf

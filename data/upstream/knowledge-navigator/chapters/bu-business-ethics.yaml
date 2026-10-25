@@ -1,0 +1,47 @@
+id: bu-business-ethics
+name: Business Ethics
+category: Law, Governance, Ethics & Sustainability
+level: 2
+priority: core
+summary: Thinking clearly about right and wrong in business, from everyday dilemmas to the purpose of the corporation.
+prerequisites:
+  - bu-introduction-to-business
+related:
+  - cs-computing-ethics
+  - bu-organizational-culture-inclusion
+topics:
+  - id: bu-business-ethics-1
+    name: Why ethics matters in business
+  - id: bu-business-ethics-2
+    name: "Ethical theories: consequentialism, duty, virtue and justice"
+  - id: bu-business-ethics-3
+    name: Shareholder vs stakeholder views of the firm
+  - id: bu-business-ethics-4
+    name: Corporate social responsibility and shared value
+  - id: bu-business-ethics-5
+    name: "Why good people do bad things: situational pressures and rationalisation"
+  - id: bu-business-ethics-6
+    name: Honesty in marketing, sales and reporting
+  - id: bu-business-ethics-7
+    name: Conflicts of interest and gifts
+  - id: bu-business-ethics-8
+    name: Bribery and corruption
+  - id: bu-business-ethics-9
+    name: Employee rights, fairness and dignity at work
+  - id: bu-business-ethics-10
+    name: Whistleblowing and speaking up
+  - id: bu-business-ethics-11
+    name: Ethics in technology and data use
+  - id: bu-business-ethics-12
+    name: Codes of conduct and ethics programmes
+  - id: bu-business-ethics-13
+    name: "Global ethics: human rights and the UN Guiding Principles"
+  - id: bu-business-ethics-14
+    name: Case studies of corporate scandals and their lessons
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-ethics.json
+  sha256: ca138d9ef6c033c2345adb7482e844a4a05d3f0257f7303892da80321c48da34

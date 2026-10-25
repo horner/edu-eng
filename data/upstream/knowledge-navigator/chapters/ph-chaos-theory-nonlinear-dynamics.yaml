@@ -1,0 +1,37 @@
+id: ph-chaos-theory-nonlinear-dynamics
+name: Chaos Theory & Nonlinear Dynamics
+category: Nonlinear Dynamics & Complex Systems
+level: 3
+priority: important
+summary: How simple deterministic systems produce chaos, fractals, bifurcations, solitons and patterns.
+prerequisites:
+  - ph-classical-mechanics
+related:
+  - ma-dynamical-systems
+  - ma-solitons-integrable-systems
+topics:
+  - id: ph-chaos-theory-nonlinear-dynamics-1
+    name: Dynamical systems
+  - id: ph-chaos-theory-nonlinear-dynamics-2
+    name: Strange attractors
+  - id: ph-chaos-theory-nonlinear-dynamics-3
+    name: Deterministic chaos
+  - id: ph-chaos-theory-nonlinear-dynamics-4
+    name: Lyapunov exponents
+  - id: ph-chaos-theory-nonlinear-dynamics-5
+    name: Bifurcation theory
+  - id: ph-chaos-theory-nonlinear-dynamics-6
+    name: Fractals in physics
+  - id: ph-chaos-theory-nonlinear-dynamics-7
+    name: Solitons
+  - id: ph-chaos-theory-nonlinear-dynamics-8
+    name: Pattern formation
+  - id: ph-chaos-theory-nonlinear-dynamics-9
+    name: Applications to weather and climate
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-chaos-theory-nonlinear-dynamics.json
+  sha256: 4bf9028f0d1b473ef0a2cff5e75102ab37d2a7b67bf15458eb21ef0865e992d1

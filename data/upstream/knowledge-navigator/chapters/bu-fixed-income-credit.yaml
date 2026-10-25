@@ -1,0 +1,42 @@
+id: bu-fixed-income-credit
+name: Fixed Income & Credit
+category: Finance & Investment
+level: 4
+priority: advanced
+summary: Pricing, risk and strategy for bonds, loans and other debt instruments.
+prerequisites:
+  - bu-investments-portfolio-management
+related:
+  - ma-stochastic-calculus
+topics:
+  - id: bu-fixed-income-credit-1
+    name: Bond features, indentures and covenants
+  - id: bu-fixed-income-credit-2
+    name: Bond pricing, yield to maturity and spot rates
+  - id: bu-fixed-income-credit-3
+    name: The term structure of interest rates and its theories
+  - id: bu-fixed-income-credit-4
+    name: Duration, convexity and interest-rate risk
+  - id: bu-fixed-income-credit-5
+    name: "Credit risk: default probability, loss given default and spreads"
+  - id: bu-fixed-income-credit-6
+    name: Credit ratings and rating agencies
+  - id: bu-fixed-income-credit-7
+    name: Corporate bonds, high yield and leveraged loans
+  - id: bu-fixed-income-credit-8
+    name: Government, municipal and sovereign debt
+  - id: bu-fixed-income-credit-9
+    name: "Securitisation: mortgage-backed and asset-backed securities"
+  - id: bu-fixed-income-credit-10
+    name: "Credit derivatives: credit default swaps"
+  - id: bu-fixed-income-credit-11
+    name: "Fixed-income portfolio strategies: immunisation and laddering"
+  - id: bu-fixed-income-credit-12
+    name: Green, social and sustainability-linked bonds
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-fixed-income-credit.json
+  sha256: 80a918bb4c1064ff390fdcf3bffa878547f0f83af99f6c5e3bdea61a0938c70a

@@ -1,0 +1,51 @@
+id: py-clinical-neuropsychology
+name: Clinical Neuropsychology
+category: Applied Psychology
+level: 4
+priority: advanced
+summary: Assessment and rehabilitation of people with brain injury or neurological illness, linking test performance to brain function.
+prerequisites:
+  - py-cognitive-neuroscience-for-psychologists
+  - py-psychological-assessment
+related:
+  - bi-neuroanatomy
+  - bi-neurobiology-of-disease
+topics:
+  - id: py-clinical-neuropsychology-1
+    name: History and scope of clinical neuropsychology
+  - id: py-clinical-neuropsychology-2
+    name: Functional neuroanatomy for neuropsychologists
+  - id: py-clinical-neuropsychology-3
+    name: Neuropsychological assessment
+    sub:
+      - id: py-clinical-neuropsychology-3-1
+        name: Test batteries and flexible approaches
+      - id: py-clinical-neuropsychology-3-2
+        name: Premorbid estimation and norms
+      - id: py-clinical-neuropsychology-3-3
+        name: Performance validity and effort testing
+  - id: py-clinical-neuropsychology-4
+    name: "Disorders of memory: amnesic syndromes"
+  - id: py-clinical-neuropsychology-5
+    name: Disorders of language, perception and praxis
+  - id: py-clinical-neuropsychology-6
+    name: Executive dysfunction and frontal syndromes
+  - id: py-clinical-neuropsychology-7
+    name: Neglect and disorders of attention
+  - id: py-clinical-neuropsychology-8
+    name: Epilepsy and neurosurgery assessment
+  - id: py-clinical-neuropsychology-9
+    name: Paediatric neuropsychology
+  - id: py-clinical-neuropsychology-10
+    name: Neuropsychology of dementia and neurodegenerative disease
+  - id: py-clinical-neuropsychology-11
+    name: Neuropsychological rehabilitation
+  - id: py-clinical-neuropsychology-12
+    name: Capacity assessment and medico-legal work
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-clinical-neuropsychology.json
+  sha256: a75949daf94aacb23eff59ffc6d87a73d77f1b0333f0669c9ccd96ce85c06a43

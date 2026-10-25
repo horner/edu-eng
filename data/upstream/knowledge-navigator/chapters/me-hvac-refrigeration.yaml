@@ -1,0 +1,46 @@
+id: me-hvac-refrigeration
+name: HVAC & Refrigeration
+category: Energy & Power Systems
+level: 3
+priority: important
+summary: "Heating, ventilating, air-conditioning and refrigeration of buildings and processes: loads, psychrometrics, equipment, distribution and controls."
+prerequisites:
+  - me-applied-thermodynamics
+  - me-heat-transfer
+related: []
+topics:
+  - id: me-hvac-refrigeration-1
+    name: Thermal comfort and indoor air quality (ASHRAE 55 and 62.1)
+  - id: me-hvac-refrigeration-2
+    name: Psychrometric analysis of HVAC processes, including altitude effects
+  - id: me-hvac-refrigeration-3
+    name: Heating and cooling load calculations
+  - id: me-hvac-refrigeration-4
+    name: "Air distribution: air handlers, duct design, terminal units and diffusers"
+  - id: me-hvac-refrigeration-5
+    name: "Hydronic systems: piping, pumps and balancing"
+  - id: me-hvac-refrigeration-6
+    name: "Vapour-compression refrigeration components: compressors, condensers, evaporators, expansion devices"
+  - id: me-hvac-refrigeration-7
+    name: "Refrigerants: properties, environmental impact (GWP/ODP) and regulations"
+  - id: me-hvac-refrigeration-8
+    name: Chillers, cooling towers and heat rejection
+  - id: me-hvac-refrigeration-9
+    name: Heat pumps (air-, water- and ground-source) and VRF systems
+  - id: me-hvac-refrigeration-10
+    name: Boilers and furnaces
+  - id: me-hvac-refrigeration-11
+    name: "Energy recovery ventilation: enthalpy wheels, heat pipes, run-around loops"
+  - id: me-hvac-refrigeration-12
+    name: "HVAC controls: economisers, reset strategies and building automation"
+  - id: me-hvac-refrigeration-13
+    name: Commercial and industrial refrigeration, cold storage, freezing and cryogenics overview
+  - id: me-hvac-refrigeration-14
+    name: Building energy modeling and energy codes (ASHRAE 90.1)
+discipline: mechanical
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/mechanical/me-hvac-refrigeration.json
+  sha256: e7eba072e4ac3eec086f55c2f14e906faafa399506a46712ae313a0b09c65ff6

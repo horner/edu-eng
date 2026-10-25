@@ -1,0 +1,42 @@
+id: py-personality-disorders
+name: Personality Disorders
+category: Mental Health & Psychopathology
+level: 3
+priority: important
+summary: Enduring patterns of difficulty in relating to self and others, how classification is changing, and treatments that help.
+prerequisites:
+  - py-psychopathology-foundations
+  - py-personality-psychology
+related: []
+topics:
+  - id: py-personality-disorders-1
+    name: "What makes personality 'disordered': definitions and controversy"
+  - id: py-personality-disorders-2
+    name: DSM-5-TR categories and the alternative model
+  - id: py-personality-disorders-3
+    name: ICD-11 severity-based classification and trait domains
+  - id: py-personality-disorders-4
+    name: "Borderline personality disorder: features and development"
+  - id: py-personality-disorders-5
+    name: Antisocial personality disorder and psychopathy
+  - id: py-personality-disorders-6
+    name: Narcissistic personality disorder
+  - id: py-personality-disorders-7
+    name: Avoidant, dependent and obsessive-compulsive personality disorders
+  - id: py-personality-disorders-8
+    name: Schizotypal and other cluster A presentations
+  - id: py-personality-disorders-9
+    name: "Causes: temperament, attachment and adversity"
+  - id: py-personality-disorders-10
+    name: "Treatments: DBT, mentalisation-based therapy, schema therapy and transference-focused therapy"
+  - id: py-personality-disorders-11
+    name: Course and recovery
+  - id: py-personality-disorders-12
+    name: Stigma and the 'personality disorder' label
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-personality-disorders.json
+  sha256: 99febff721841346471b9001c22c49392504a60006fe7700f9b01a5906883ed7

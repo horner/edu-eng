@@ -1,0 +1,26 @@
+id: ma-quantum-topology
+name: Quantum Topology
+category: Topology
+level: 5
+priority: advanced
+summary: Knot and 3-manifold invariants that come from quantum groups and topological quantum field theory.
+prerequisites:
+  - ma-low-dimensional-topology
+  - ma-quantum-groups
+related: []
+topics:
+  - id: ma-quantum-topology-1
+    name: Quantum invariants
+  - id: ma-quantum-topology-3
+    name: Jones polynomial and skein theory
+  - id: ma-quantum-topology-2
+    name: Topological quantum field theory
+  - id: ma-quantum-topology-4
+    name: Khovanov homology (overview)
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-quantum-topology.json
+  sha256: 9b037ae354d8f31060f1b16f866bd3ca324b68562f2f1593796267bae3413b6f

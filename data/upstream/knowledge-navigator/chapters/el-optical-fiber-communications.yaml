@@ -1,0 +1,40 @@
+id: el-optical-fiber-communications
+name: Optical Fiber Communications
+category: Signal Processing & Communications
+level: 4
+priority: advanced
+summary: "How the internet backbone works: optical fibers, lasers, photodetectors, amplifiers, WDM and coherent optical links."
+prerequisites:
+  - el-digital-communications
+  - el-optoelectronic-devices
+  - el-electromagnetic-waves
+related:
+  - ph-modern-optics
+topics:
+  - id: el-optical-fiber-communications-1
+    name: Optical fiber structure, modes and numerical aperture
+  - id: el-optical-fiber-communications-2
+    name: Attenuation and dispersion (modal, chromatic, polarization-mode)
+  - id: el-optical-fiber-communications-3
+    name: "Optical transmitters: laser diodes, modulation and external modulators"
+  - id: el-optical-fiber-communications-4
+    name: Photodetectors and optical receivers, receiver sensitivity
+  - id: el-optical-fiber-communications-5
+    name: Optical amplifiers (EDFA, Raman)
+  - id: el-optical-fiber-communications-6
+    name: Wavelength-division multiplexing (CWDM, DWDM)
+  - id: el-optical-fiber-communications-7
+    name: Coherent optical communication and digital signal processing
+  - id: el-optical-fiber-communications-8
+    name: Power and rise-time budgets for optical links
+  - id: el-optical-fiber-communications-9
+    name: Passive optical networks and access networks
+  - id: el-optical-fiber-communications-10
+    name: Data-centre optical interconnects
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-optical-fiber-communications.json
+  sha256: b326ed2a699c0b601722ea694f51b32c2c5fee2f8f7415a98386a339f48a3a62

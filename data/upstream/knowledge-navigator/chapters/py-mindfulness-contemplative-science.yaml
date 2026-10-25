@@ -1,0 +1,45 @@
+id: py-mindfulness-contemplative-science
+name: Mindfulness, Meditation & Contemplative Science
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: important
+summary: What meditation and mindfulness practices are, how they are studied scientifically, what they can and cannot do, and how to practise safely.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - bi-cognitive-neuroscience
+  - hf-mind-body-movement
+topics:
+  - id: py-mindfulness-contemplative-science-1
+    name: "What mindfulness is: definitions and Buddhist origins"
+  - id: py-mindfulness-contemplative-science-2
+    name: "Types of meditation: focused attention, open monitoring, loving-kindness and body scan"
+  - id: py-mindfulness-contemplative-science-3
+    name: Mindfulness-Based Stress Reduction (MBSR)
+  - id: py-mindfulness-contemplative-science-4
+    name: Mindfulness-Based Cognitive Therapy (MBCT) and depression relapse
+  - id: py-mindfulness-contemplative-science-5
+    name: Measuring mindfulness and its problems
+  - id: py-mindfulness-contemplative-science-6
+    name: "Evidence from meta-analyses: stress, anxiety, depression and pain"
+  - id: py-mindfulness-contemplative-science-7
+    name: "Mechanisms: attention, emotion regulation and decentring"
+  - id: py-mindfulness-contemplative-science-8
+    name: "Brain changes from meditation: what is solid and what is hype"
+  - id: py-mindfulness-contemplative-science-9
+    name: "Mindfulness in schools and workplaces: mixed results"
+  - id: py-mindfulness-contemplative-science-10
+    name: Adverse effects of meditation and who should take care
+  - id: py-mindfulness-contemplative-science-11
+    name: Breathing practices, yoga and other contemplative practices
+  - id: py-mindfulness-contemplative-science-12
+    name: Compassion and loving-kindness meditation
+  - id: py-mindfulness-contemplative-science-13
+    name: "Building a practice: starting, apps and courses"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-mindfulness-contemplative-science.json
+  sha256: d16aa0e0926da15f43dcbe06d79fb88b0d505f56ca427ff359dd02fc35e25d6f

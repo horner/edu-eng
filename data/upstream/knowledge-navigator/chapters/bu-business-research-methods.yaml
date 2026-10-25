@@ -1,0 +1,44 @@
+id: bu-business-research-methods
+name: Business Research Methods
+category: Analytics & Decision Sciences
+level: 3
+priority: advanced
+summary: Designing and carrying out rigorous research on business questions, from literature review to analysis and write-up.
+prerequisites:
+  - bu-business-statistics-analytics
+related:
+  - ma-survey-sampling
+  - mk-marketing-research-analytics
+  - mk-qualitative-consumer-research
+topics:
+  - id: bu-business-research-methods-1
+    name: The research process and research questions
+  - id: bu-business-research-methods-2
+    name: "Research philosophies and approaches: deductive and inductive"
+  - id: bu-business-research-methods-3
+    name: Reviewing the literature and using academic sources
+  - id: bu-business-research-methods-4
+    name: "Research designs: experimental, survey, case study and archival"
+  - id: bu-business-research-methods-5
+    name: Sampling strategies
+  - id: bu-business-research-methods-6
+    name: Questionnaire design and measurement scales
+  - id: bu-business-research-methods-7
+    name: Qualitative interviews and focus groups
+  - id: bu-business-research-methods-8
+    name: "Qualitative analysis: coding and thematic analysis"
+  - id: bu-business-research-methods-9
+    name: Quantitative analysis plans
+  - id: bu-business-research-methods-10
+    name: Validity, reliability and generalisability
+  - id: bu-business-research-methods-11
+    name: Research ethics and data protection
+  - id: bu-business-research-methods-12
+    name: Writing a dissertation or research report
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-research-methods.json
+  sha256: ae1ddaddde93deb203fde77f7636048f2a810c5761169614e52f3f343c98c422

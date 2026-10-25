@@ -1,0 +1,30 @@
+id: el-mesh-networking
+name: Mesh Networking
+category: Communication Protocols & Connectivity
+level: 3
+priority: advanced
+summary: "Self-healing mesh networks for IoT: Zigbee, Thread, Bluetooth Mesh, Wi-Fi mesh and 6LoWPAN."
+prerequisites:
+  - el-short-range-wireless
+  - cs-computer-networks
+related: []
+topics:
+  - id: el-mesh-networking-1
+    name: Zigbee mesh
+  - id: el-mesh-networking-2
+    name: Thread mesh
+  - id: el-mesh-networking-3
+    name: Bluetooth Mesh
+  - id: el-mesh-networking-4
+    name: LoRa mesh (unofficial)
+  - id: el-mesh-networking-5
+    name: IEEE 802.11s (Wi-Fi mesh)
+  - id: el-mesh-networking-6
+    name: 6LoWPAN (IPv6 over Low-Power Wireless Personal Area Networks)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-mesh-networking.json
+  sha256: a484699506e9471990fedb2f579ad451376454280da444d4253691626678d5bf

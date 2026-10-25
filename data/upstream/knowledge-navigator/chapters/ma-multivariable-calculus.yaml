@@ -1,0 +1,42 @@
+id: ma-multivariable-calculus
+name: Multivariable Calculus
+category: Calculus
+level: 2
+priority: core
+summary: "Calculus of functions of several variables: partial derivatives, gradients, optimisation with constraints and multiple integrals."
+prerequisites:
+  - ma-calculus
+  - ma-analytic-geometry
+related: []
+topics:
+  - id: ma-multivariable-calculus-1
+    name: "Vectors and the geometry of space: dot and cross products, lines and planes"
+  - id: ma-multivariable-calculus-2
+    name: Vector-valued functions, space curves, arc length and curvature
+  - id: ma-calculus-3
+    name: "Functions of several variables (multivariable calculus): graphs, level sets, limits and continuity"
+  - id: ma-multivariable-calculus-3
+    name: Partial derivatives and tangent planes
+  - id: ma-multivariable-calculus-4
+    name: Differentiability, linearisation and the multivariable chain rule
+  - id: ma-multivariable-calculus-5
+    name: Directional derivatives and the gradient
+  - id: ma-multivariable-calculus-6
+    name: Local extrema, the second-derivative test and optimisation
+  - id: ma-multivariable-calculus-7
+    name: Lagrange multipliers for constrained optimisation
+  - id: ma-multivariable-calculus-8
+    name: Double integrals over general regions; polar coordinates
+  - id: ma-multivariable-calculus-9
+    name: Triple integrals in cylindrical and spherical coordinates
+  - id: ma-multivariable-calculus-10
+    name: Change of variables and the Jacobian
+  - id: ma-multivariable-calculus-11
+    name: "Applications: mass, centre of mass, moments and probability"
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-multivariable-calculus.json
+  sha256: 8ce96e1aae8669d007fb27dc19a32cf562255ea50d2f44f5a82e7f78724fdaa5

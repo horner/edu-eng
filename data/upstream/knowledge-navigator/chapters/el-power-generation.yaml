@@ -1,0 +1,41 @@
+id: el-power-generation
+name: Power Generation Technologies
+category: Electrical Machines & Power Systems
+level: 3
+priority: important
+summary: "How electricity is produced: thermal, nuclear, hydro, wind and solar plants, energy storage, and the economics of generation."
+prerequisites:
+  - el-electrical-machines
+  - me-engineering-thermodynamics
+related:
+  - ph-energy-physics
+  - me-power-plants-energy-conversion
+  - me-renewable-energy-systems
+topics:
+  - id: el-power-generation-1
+    name: Energy resources and the generation mix
+  - id: el-power-generation-2
+    name: "Thermal plants: Rankine, gas turbine and combined cycle"
+  - id: el-power-generation-3
+    name: Nuclear power plants
+  - id: el-power-generation-4
+    name: Hydropower and pumped storage
+  - id: el-power-generation-5
+    name: "Wind energy conversion: turbines and generator types (DFIG, PMSG)"
+  - id: el-power-generation-6
+    name: "Solar photovoltaic systems: cells, modules, arrays, MPPT"
+  - id: el-power-generation-7
+    name: "Other renewables: geothermal, tidal, biomass"
+  - id: el-power-generation-8
+    name: "Energy storage: batteries, flywheels, CAES, hydrogen"
+  - id: el-power-generation-9
+    name: "Generation economics: capacity factor and LCOE"
+  - id: el-power-generation-10
+    name: Environmental impact of generation
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-power-generation.json
+  sha256: 119a440af0f6356725d72ac7b2de28b8fbde0e4c861db4ac932c5d0c43de96e0

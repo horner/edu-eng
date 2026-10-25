@@ -1,0 +1,46 @@
+id: mk-marketing-ethics-sustainability
+name: Marketing Ethics, Sustainability & Society
+category: Marketing Foundations
+level: 2
+priority: important
+summary: The ethical questions marketing raises and how to market responsibly, sustainably and inclusively.
+prerequisites:
+  - mk-marketing-principles
+related:
+  - cs-computing-ethics
+  - bu-introduction-to-business
+  - bu-sustainability-esg
+topics:
+  - id: mk-marketing-ethics-sustainability-1
+    name: Ethical theories applied to marketing decisions
+  - id: mk-marketing-ethics-sustainability-2
+    name: "Critiques of marketing: materialism, manipulation and over-consumption"
+  - id: mk-marketing-ethics-sustainability-3
+    name: Marketing to children and other vulnerable consumers
+  - id: mk-marketing-ethics-sustainability-4
+    name: Truthful claims, puffery and deception
+  - id: mk-marketing-ethics-sustainability-5
+    name: "Manipulative design and dark patterns: recognising and avoiding them"
+  - id: mk-marketing-ethics-sustainability-6
+    name: Privacy and surveillance concerns in data-driven marketing
+  - id: mk-marketing-ethics-sustainability-7
+    name: Inclusive and representative marketing; stereotyping in advertising
+  - id: mk-marketing-ethics-sustainability-8
+    name: Sustainable marketing and the circular economy
+  - id: mk-marketing-ethics-sustainability-9
+    name: "Greenwashing: claims versus evidence"
+  - id: mk-marketing-ethics-sustainability-10
+    name: "Cause-related marketing and brand purpose: evidence and criticism"
+  - id: mk-marketing-ethics-sustainability-11
+    name: Corporate social responsibility, ESG and stakeholder marketing
+  - id: mk-marketing-ethics-sustainability-12
+    name: "Ethics in selling: pressure tactics, mis-selling and fair treatment"
+  - id: mk-marketing-ethics-sustainability-13
+    name: Professional codes of conduct (CIM, AMA, APS) and ethical decision frameworks
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketing-ethics-sustainability.json
+  sha256: 69c85256091e8aa38670f574ef8a10db5d1e81f10f7861d10fa16327de80f29e

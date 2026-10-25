@@ -1,0 +1,32 @@
+id: el-switched-mode-power-supply-smps-design
+name: Switched-Mode Power Supply (SMPS) Design
+category: Power Electronics & Power Management
+level: 3
+priority: important
+summary: "Designing a switching supply end to end: control mode, component and magnetics selection, loop compensation, soft-start and protection."
+prerequisites:
+  - el-switching-regulators
+  - el-control-theory
+related: []
+topics:
+  - id: el-switched-mode-power-supply-smps-design-1
+    name: Control modes (voltage mode, current mode)
+  - id: el-switched-mode-power-supply-smps-design-2
+    name: PWM (Pulse Width Modulation) control
+  - id: el-switched-mode-power-supply-smps-design-3
+    name: Inductor and capacitor selection
+  - id: el-switched-mode-power-supply-smps-design-4
+    name: Magnetics design
+  - id: el-switched-mode-power-supply-smps-design-5
+    name: Feedback compensation
+  - id: el-switched-mode-power-supply-smps-design-6
+    name: Soft-start and inrush current limiting
+  - id: el-switched-mode-power-supply-smps-design-7
+    name: Overcurrent and overvoltage protection
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-switched-mode-power-supply-smps-design.json
+  sha256: cc7c7c78d2c33c9b489f270fb4310216579af46d60aac6536ba0e114ef9d0d43

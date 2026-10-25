@@ -1,0 +1,34 @@
+id: ma-elliptic-curves
+name: Elliptic Curves
+category: Number Theory
+level: 4
+priority: advanced
+summary: "Cubic curves with a group law: rational points, the Mordell-Weil theorem, curves over finite fields and elliptic-curve cryptography."
+prerequisites:
+  - ma-algebraic-number-theory
+  - ma-projective-geometry
+related: []
+topics:
+  - id: ma-elliptic-curves-4
+    name: Weierstrass equations and the group law
+  - id: ma-elliptic-curves-1
+    name: Elliptic curve theory
+  - id: ma-elliptic-curves-5
+    name: Torsion points (Nagell-Lutz)
+  - id: ma-elliptic-curves-3
+    name: Mordell-Weil theorem
+  - id: ma-elliptic-curves-6
+    name: Elliptic curves over finite fields and Hasse's bound
+  - id: ma-elliptic-curves-7
+    name: Elliptic curves over the complex numbers
+  - id: ma-elliptic-curves-2
+    name: Elliptic curve cryptography
+  - id: ma-elliptic-curves-8
+    name: The Birch and Swinnerton-Dyer conjecture
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-elliptic-curves.json
+  sha256: a70d6f6d8909805cd7291033ce0c0cc11532202841f21ee51c5108d52df1c34a

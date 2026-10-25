@@ -1,0 +1,43 @@
+id: py-meaning-purpose-spirituality
+name: Meaning, Purpose & the Psychology of Spirituality
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: important
+summary: What psychological science says about meaning in life, purpose, awe, religion and spirituality, and how they relate to wellbeing.
+prerequisites:
+  - py-positive-psychology-wellbeing
+related: []
+topics:
+  - id: py-meaning-purpose-spirituality-1
+    name: "Meaning in life: presence and search (Steger)"
+  - id: py-meaning-purpose-spirituality-2
+    name: Purpose and goals across the lifespan
+  - id: py-meaning-purpose-spirituality-3
+    name: Frankl and meaning-making in suffering
+  - id: py-meaning-purpose-spirituality-4
+    name: "Psychology of religion: history (James, Allport) and APA Division 36"
+  - id: py-meaning-purpose-spirituality-5
+    name: Measuring religiousness and spirituality
+  - id: py-meaning-purpose-spirituality-6
+    name: "Religion, spirituality and health: evidence and confounds"
+  - id: py-meaning-purpose-spirituality-7
+    name: "Religious coping: positive and negative (Pargament)"
+  - id: py-meaning-purpose-spirituality-8
+    name: Mystical and peak experiences
+  - id: py-meaning-purpose-spirituality-9
+    name: Awe and self-transcendence
+  - id: py-meaning-purpose-spirituality-10
+    name: Forgiveness and gratitude in spiritual traditions and research
+  - id: py-meaning-purpose-spirituality-11
+    name: Spiritual struggles, doubt and deconversion
+  - id: py-meaning-purpose-spirituality-12
+    name: "Secular sources of meaning: nature, art, relationships and work"
+  - id: py-meaning-purpose-spirituality-13
+    name: Spiritually integrated psychotherapy and respecting client beliefs
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-meaning-purpose-spirituality.json
+  sha256: 1b82346d42c5503889f44ef8a871f4289ad95e025a72404df388a490902038a4

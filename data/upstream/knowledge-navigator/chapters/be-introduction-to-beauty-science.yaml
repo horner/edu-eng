@@ -1,0 +1,39 @@
+id: be-introduction-to-beauty-science
+name: Introduction to Beauty & Cosmetic Science
+category: Foundations of Beauty Science
+level: 1
+priority: core
+summary: A first look at what beauty and personal care products and practices do, how the science behind them works, and how to approach them sensibly.
+prerequisites: []
+related:
+  - hf-introduction-to-health-wellness
+topics:
+  - id: be-introduction-to-beauty-science-1
+    name: "What beauty and personal care cover: skin, hair, nails, body, makeup, fragrance and style"
+  - id: be-introduction-to-beauty-science-2
+    name: "Cosmetics, drugs and treatments: what the law and science mean by each"
+  - id: be-introduction-to-beauty-science-3
+    name: "The organs involved: skin, hair, nails, teeth and their visible functions"
+  - id: be-introduction-to-beauty-science-4
+    name: "How a product works: ingredients, formulation, delivery and use"
+  - id: be-introduction-to-beauty-science-5
+    name: "Hygiene, health and appearance: where self-care overlaps with medicine"
+  - id: be-introduction-to-beauty-science-6
+    name: "Diversity in beauty: skin tones, hair textures, genders, ages and cultures"
+  - id: be-introduction-to-beauty-science-7
+    name: "Who makes the science: dermatologists, cosmetic chemists, estheticians, regulators"
+  - id: be-introduction-to-beauty-science-8
+    name: "Marketing language versus measurable results: a first introduction"
+  - id: be-introduction-to-beauty-science-9
+    name: "Safety basics: patch testing, shelf life and following directions"
+  - id: be-introduction-to-beauty-science-10
+    name: "Self-care, wellbeing and appearance: why looking after yourself matters"
+  - id: be-introduction-to-beauty-science-11
+    name: Planning a personal learning path through this map
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-introduction-to-beauty-science.json
+  sha256: fc8b1015c707245db61e376e8fe2c8f45311ad67e2ca9f3d7745b986b1f1ab07

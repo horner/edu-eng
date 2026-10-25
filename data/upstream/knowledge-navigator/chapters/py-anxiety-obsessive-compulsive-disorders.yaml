@@ -1,0 +1,43 @@
+id: py-anxiety-obsessive-compulsive-disorders
+name: Anxiety, Obsessive-Compulsive & Related Disorders
+category: Mental Health & Psychopathology
+level: 3
+priority: core
+summary: "Panic, phobias, social and generalised anxiety, OCD and related conditions: their features, causes and evidence-based treatments."
+prerequisites:
+  - py-psychopathology-foundations
+related: []
+topics:
+  - id: py-anxiety-obsessive-compulsive-disorders-1
+    name: Fear vs anxiety; adaptive and disordered anxiety
+  - id: py-anxiety-obsessive-compulsive-disorders-2
+    name: Specific phobias
+  - id: py-anxiety-obsessive-compulsive-disorders-3
+    name: Social anxiety disorder
+  - id: py-anxiety-obsessive-compulsive-disorders-4
+    name: Panic disorder and agoraphobia
+  - id: py-anxiety-obsessive-compulsive-disorders-5
+    name: Generalised anxiety disorder and worry
+  - id: py-anxiety-obsessive-compulsive-disorders-6
+    name: Separation anxiety and selective mutism
+  - id: py-anxiety-obsessive-compulsive-disorders-7
+    name: Health anxiety in outline
+  - id: py-anxiety-obsessive-compulsive-disorders-8
+    name: Obsessive-compulsive disorder
+  - id: py-anxiety-obsessive-compulsive-disorders-9
+    name: Body dysmorphic disorder, hoarding, trichotillomania and skin picking
+  - id: py-anxiety-obsessive-compulsive-disorders-10
+    name: "Cognitive and behavioural models: avoidance, safety behaviours and threat appraisal"
+  - id: py-anxiety-obsessive-compulsive-disorders-11
+    name: Biological factors and neurocircuitry
+  - id: py-anxiety-obsessive-compulsive-disorders-12
+    name: "Treatments: exposure, CBT, exposure and response prevention, and medication"
+  - id: py-anxiety-obsessive-compulsive-disorders-13
+    name: NICE and APA guideline recommendations
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-anxiety-obsessive-compulsive-disorders.json
+  sha256: dce3a11bf1ee380fea690f12e977ac3ecda5d9835fcc030678670ea25d60fefd

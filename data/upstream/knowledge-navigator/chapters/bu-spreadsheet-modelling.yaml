@@ -1,0 +1,50 @@
+id: bu-spreadsheet-modelling
+name: Spreadsheets & Business Modelling
+category: Foundations of Business
+level: 2
+priority: core
+summary: Using spreadsheets to organise data, build reliable models and answer business questions.
+prerequisites:
+  - bu-business-mathematics
+related:
+  - cs-programming-fundamentals
+  - bu-financial-modelling
+topics:
+  - id: bu-spreadsheet-modelling-1
+    name: Spreadsheet layout, cell references and named ranges
+  - id: bu-spreadsheet-modelling-2
+    name: "Core functions: logical, text, date and lookup (XLOOKUP, INDEX/MATCH)"
+  - id: bu-spreadsheet-modelling-3
+    name: "Cleaning and structuring data: tables, validation and deduplication"
+  - id: bu-spreadsheet-modelling-4
+    name: Summarising data with pivot tables and charts
+  - id: bu-spreadsheet-modelling-5
+    name: "Financial functions: NPV, IRR, PMT and loan schedules"
+  - id: bu-spreadsheet-modelling-6
+    name: "Model design principles: inputs, calculations and outputs separated"
+  - id: bu-spreadsheet-modelling-7
+    name: Building a simple budget and cash flow model
+  - id: bu-spreadsheet-modelling-8
+    name: What-if analysis
+    sub:
+      - id: bu-spreadsheet-modelling-8-1
+        name: Data tables and scenario manager
+      - id: bu-spreadsheet-modelling-8-2
+        name: Goal seek
+  - id: bu-spreadsheet-modelling-9
+    name: Sensitivity analysis and tornado charts
+  - id: bu-spreadsheet-modelling-10
+    name: Introduction to Solver for optimisation
+  - id: bu-spreadsheet-modelling-11
+    name: Error checking, auditing formulas and model documentation
+  - id: bu-spreadsheet-modelling-12
+    name: "Automating repetitive work: macros, Power Query and scripting basics"
+  - id: bu-spreadsheet-modelling-13
+    name: Collaborative spreadsheets and version control
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-spreadsheet-modelling.json
+  sha256: 0ae078a08251a4d0120a2a069da0e80d2ed54476bf9f92c6dc4e454cead35b42

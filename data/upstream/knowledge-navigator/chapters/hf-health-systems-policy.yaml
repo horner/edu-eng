@@ -1,0 +1,43 @@
+id: hf-health-systems-policy
+name: Health Systems, Policy & Economics
+category: Public & Global Health
+level: 3
+priority: advanced
+summary: How health systems are organised and paid for, how health policy is made, and how economic evaluation informs decisions.
+prerequisites:
+  - hf-public-health-foundations
+related: []
+topics:
+  - id: hf-health-systems-policy-1
+    name: "Models of health systems: Beveridge, Bismarck, national health insurance and out-of-pocket"
+  - id: hf-health-systems-policy-2
+    name: The WHO health system building blocks
+  - id: hf-health-systems-policy-3
+    name: Health financing and insurance
+  - id: hf-health-systems-policy-4
+    name: Primary care and why it matters
+  - id: hf-health-systems-policy-5
+    name: The health workforce
+  - id: hf-health-systems-policy-6
+    name: "Health economics basics: demand, supply and market failure"
+  - id: hf-health-systems-policy-7
+    name: Cost-effectiveness analysis and QALYs
+  - id: hf-health-systems-policy-8
+    name: Health technology assessment, such as NICE
+  - id: hf-health-systems-policy-9
+    name: The policy process and stakeholders
+  - id: hf-health-systems-policy-10
+    name: Frameworks for health policy analysis
+  - id: hf-health-systems-policy-11
+    name: Quality of care and patient safety
+  - id: hf-health-systems-policy-12
+    name: Equity in health systems
+  - id: hf-health-systems-policy-13
+    name: "Comparing health systems: the US, UK and others"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-health-systems-policy.json
+  sha256: 4389209d021c34ff9b3fbde0bb0376166872090743a5ebecbb02abaa3040b9a9

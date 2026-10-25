@@ -1,0 +1,49 @@
+id: mk-marketing-strategy-planning
+name: Marketing Strategy & Planning
+category: Brand & Strategy
+level: 3
+priority: core
+summary: Setting marketing objectives and strategy from a situation analysis and turning them into an integrated, measurable marketing plan.
+prerequisites:
+  - mk-segmentation-targeting-positioning
+  - mk-marketing-maths-metrics
+related:
+  - bu-business-strategy
+topics:
+  - id: mk-marketing-strategy-planning-1
+    name: Marketing's role in corporate strategy and purpose
+  - id: mk-marketing-strategy-planning-2
+    name: "The marketing audit: internal and external analysis"
+  - id: mk-marketing-strategy-planning-3
+    name: Market definition and market structure
+  - id: mk-marketing-strategy-planning-4
+    name: Competitor analysis and competitive advantage
+  - id: mk-marketing-strategy-planning-5
+    name: "Growth strategies: Ansoff matrix, portfolio models (BCG, GE-McKinsey)"
+  - id: mk-marketing-strategy-planning-6
+    name: "Competitive strategies: leaders, challengers, followers and nichers"
+  - id: mk-marketing-strategy-planning-7
+    name: Setting SMART marketing objectives and KPIs
+  - id: mk-marketing-strategy-planning-8
+    name: "Planning frameworks: SOSTAC, RACE and the marketing plan structure"
+  - id: mk-marketing-strategy-planning-9
+    name: Brand building versus sales activation in the plan
+  - id: mk-marketing-strategy-planning-10
+    name: Digital and omnichannel planning
+  - id: mk-marketing-strategy-planning-11
+    name: Budget setting and resource allocation
+  - id: mk-marketing-strategy-planning-12
+    name: "Implementation: schedules, responsibilities and internal marketing"
+  - id: mk-marketing-strategy-planning-13
+    name: "Marketing control: measurement, reviews and continuous improvement"
+  - id: mk-marketing-strategy-planning-14
+    name: Scenario planning and strategy under uncertainty
+  - id: mk-marketing-strategy-planning-15
+    name: Writing and presenting a marketing plan
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketing-strategy-planning.json
+  sha256: e1e6d2d1007010f8147ebfa8ac6bf460ff483440d888c2d7dbb81943aa8d7529

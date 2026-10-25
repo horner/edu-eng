@@ -1,0 +1,55 @@
+id: mk-attribution-mix-modeling
+name: Attribution, Incrementality & Marketing Mix Modelling
+category: Growth & Analytics
+level: 4
+priority: advanced
+summary: Estimating what marketing actually causes, using attribution, incrementality experiments and econometric marketing mix models.
+prerequisites:
+  - mk-ab-testing-experimentation
+  - bu-regression-forecasting
+related:
+  - ma-regression-analysis
+  - ma-time-series-analysis
+  - ma-econometrics
+  - ma-bayesian-statistics
+  - ai-causal-inference
+  - bu-causal-inference-business
+topics:
+  - id: mk-attribution-mix-modeling-1
+    name: "The measurement problem: correlation, selection and incrementality"
+  - id: mk-attribution-mix-modeling-2
+    name: Rule-based attribution models and their biases
+  - id: mk-attribution-mix-modeling-3
+    name: Data-driven multi-touch attribution and its limits
+  - id: mk-attribution-mix-modeling-4
+    name: "Incrementality testing: conversion lift, geo lift, holdouts"
+  - id: mk-attribution-mix-modeling-5
+    name: Marketing mix modelling
+    sub:
+      - id: mk-attribution-mix-modeling-5-1
+        name: Data requirements and granularity
+      - id: mk-attribution-mix-modeling-5-2
+        name: Adstock and carryover
+      - id: mk-attribution-mix-modeling-5-3
+        name: Saturation and diminishing returns
+      - id: mk-attribution-mix-modeling-5-4
+        name: Base and incremental sales
+  - id: mk-attribution-mix-modeling-6
+    name: Bayesian MMM and open-source tools
+  - id: mk-attribution-mix-modeling-7
+    name: Calibrating models with experiments
+  - id: mk-attribution-mix-modeling-8
+    name: Long-term brand effects in models
+  - id: mk-attribution-mix-modeling-9
+    name: Budget optimisation and response curves
+  - id: mk-attribution-mix-modeling-10
+    name: Triangulating MMM, experiments and attribution
+  - id: mk-attribution-mix-modeling-11
+    name: Communicating uncertainty to decision-makers
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-attribution-mix-modeling.json
+  sha256: 97fd1d333a691fddeec74b57b511829aa116ffc2606b3de8ed775d4c457eb4a4

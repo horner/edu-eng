@@ -1,0 +1,35 @@
+id: ae-advanced-propulsion-concepts
+name: Advanced and Breakthrough Propulsion Concepts
+category: Space & Advanced Propulsion
+level: 5
+priority: advanced
+summary: "Propulsion at the frontier: sails, tethers, beamed energy, fusion and interstellar concepts, with honest assessment of their physics."
+prerequisites:
+  - ae-electric-propulsion
+related: []
+topics:
+  - id: ae-advanced-propulsion-concepts-1
+    name: "Solar sails: photon pressure, sail materials, IKAROS and LightSail"
+  - id: ae-advanced-propulsion-concepts-2
+    name: Electrodynamic and momentum-exchange tethers
+  - id: ae-advanced-propulsion-concepts-3
+    name: "Beamed-energy propulsion: laser sails and laser thermal"
+  - id: ae-advanced-propulsion-concepts-4
+    name: Magnetic sails and electric sails
+  - id: ae-advanced-propulsion-concepts-5
+    name: Fusion propulsion concepts
+  - id: ae-advanced-propulsion-concepts-6
+    name: Antimatter propulsion
+  - id: ae-advanced-propulsion-concepts-7
+    name: "Interstellar missions: Breakthrough Starshot and Project Daedalus"
+  - id: ae-advanced-propulsion-concepts-8
+    name: "Non-rocket launch: space elevators, mass drivers, skyhooks"
+  - id: ae-advanced-propulsion-concepts-9
+    name: Speculative physics and how to evaluate claims
+discipline: aerospace
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/aerospace/ae-advanced-propulsion-concepts.json
+  sha256: b2a2cd17dc00b501061a599021ce1bb66877bdc8e20cb1d6e07fd59e9ef0e73c

@@ -1,0 +1,25 @@
+id: ma-higher-dimensional-algebra
+name: Higher-Dimensional Algebra
+category: Emerging & Advanced Areas
+level: 5
+priority: advanced
+summary: "Higher categories, operads and homotopy type theory: algebra where equalities themselves have structure."
+prerequisites:
+  - ma-homotopy-theory
+related: []
+topics:
+  - id: ma-higher-dimensional-algebra-1
+    name: n-categories
+  - id: ma-higher-dimensional-algebra-4
+    name: Infinity-categories and quasi-categories
+  - id: ma-higher-dimensional-algebra-2
+    name: Operads
+  - id: ma-higher-dimensional-algebra-3
+    name: Homotopy type theory
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-higher-dimensional-algebra.json
+  sha256: 270b13187ba7b72496930f681d2963dfaae1e371a23874d754dfe7b10cdc3a05

@@ -1,0 +1,26 @@
+id: ma-sub-riemannian-geometry
+name: Sub-Riemannian Geometry
+category: Emerging & Advanced Areas
+level: 5
+priority: advanced
+summary: "Geometry where movement is restricted to certain directions: Carnot groups, the Chow-Rashevskii theorem and hypoelliptic operators."
+prerequisites:
+  - ma-riemannian-geometry
+  - ma-lie-theory
+related: []
+topics:
+  - id: ma-sub-riemannian-geometry-3
+    name: Distributions and bracket-generating conditions
+  - id: ma-sub-riemannian-geometry-4
+    name: Chow-Rashevskii theorem
+  - id: ma-sub-riemannian-geometry-1
+    name: Carnot groups
+  - id: ma-sub-riemannian-geometry-2
+    name: Hypoelliptic operators
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-sub-riemannian-geometry.json
+  sha256: 720343a751986c51ab4cc8af2040ad447970825c694ac427a3f118e3a7baf897

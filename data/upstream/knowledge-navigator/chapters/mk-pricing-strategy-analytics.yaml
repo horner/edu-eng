@@ -1,0 +1,55 @@
+id: mk-pricing-strategy-analytics
+name: Pricing Strategy & Revenue Management
+category: Product, Price & Place
+level: 3
+priority: advanced
+summary: "Advanced pricing: measuring willingness to pay, price discrimination, dynamic pricing, revenue management and pricing organisation."
+prerequisites:
+  - mk-pricing-fundamentals
+  - bu-microeconomics-for-business
+  - bu-business-statistics-analytics
+related:
+  - mk-marketing-models-choice-analytics
+  - ma-game-theory
+  - bu-managerial-economics
+topics:
+  - id: mk-pricing-strategy-analytics-1
+    name: Strategic pricing frameworks and pricing objectives
+  - id: mk-pricing-strategy-analytics-2
+    name: Measuring willingness to pay
+    sub:
+      - id: mk-pricing-strategy-analytics-2-1
+        name: Van Westendorp and Gabor-Granger
+      - id: mk-pricing-strategy-analytics-2-2
+        name: Conjoint-based price research
+      - id: mk-pricing-strategy-analytics-2-3
+        name: Price experiments
+  - id: mk-pricing-strategy-analytics-3
+    name: Estimating price elasticity from data
+  - id: mk-pricing-strategy-analytics-4
+    name: Price segmentation and price discrimination
+  - id: mk-pricing-strategy-analytics-5
+    name: Versioning, tiering and good-better-best
+  - id: mk-pricing-strategy-analytics-6
+    name: Pricing for SaaS and usage-based models
+  - id: mk-pricing-strategy-analytics-7
+    name: Dynamic pricing and algorithmic pricing
+  - id: mk-pricing-strategy-analytics-8
+    name: Revenue and yield management in airlines, hotels and events
+  - id: mk-pricing-strategy-analytics-9
+    name: Promotion and markdown optimisation
+  - id: mk-pricing-strategy-analytics-10
+    name: Competitive pricing dynamics and price wars
+  - id: mk-pricing-strategy-analytics-11
+    name: "B2B pricing: list prices, discounting discipline and price waterfalls"
+  - id: mk-pricing-strategy-analytics-12
+    name: Pricing governance and organisation
+  - id: mk-pricing-strategy-analytics-13
+    name: Ethical and legal issues in personalised pricing
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-pricing-strategy-analytics.json
+  sha256: 8cbcbd7531fe9f9d2a711db1b502d16c03f8542497d9af050b6c2917aa3b1b8b

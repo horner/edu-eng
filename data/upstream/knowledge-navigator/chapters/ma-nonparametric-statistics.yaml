@@ -1,0 +1,27 @@
+id: ma-nonparametric-statistics
+name: Nonparametric Statistics
+category: Probability & Statistics
+level: 3
+priority: advanced
+summary: "Inference with minimal distributional assumptions: rank tests, kernel density estimation and the bootstrap."
+prerequisites:
+  - ma-inferential-statistics
+related: []
+topics:
+  - id: ma-nonparametric-statistics-1
+    name: Rank tests
+  - id: ma-nonparametric-statistics-4
+    name: Permutation tests
+  - id: ma-nonparametric-statistics-2
+    name: Kernel density estimation
+  - id: ma-nonparametric-statistics-5
+    name: Nonparametric regression and smoothing
+  - id: ma-nonparametric-statistics-3
+    name: Bootstrap methods
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-nonparametric-statistics.json
+  sha256: 3ee01c96bb8be095c53cbdc330152bd93518941031e5dd4b839ac9ee31601458

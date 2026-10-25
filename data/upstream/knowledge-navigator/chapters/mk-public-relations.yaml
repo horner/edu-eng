@@ -1,0 +1,41 @@
+id: mk-public-relations
+name: Public Relations & Reputation Management
+category: Communications & Creative
+level: 2
+priority: important
+summary: Building and protecting reputation through media relations, owned channels, stakeholder communication and crisis management.
+prerequisites:
+  - mk-integrated-marketing-communications
+related: []
+topics:
+  - id: mk-public-relations-1
+    name: What PR is and how it differs from advertising
+  - id: mk-public-relations-2
+    name: Stakeholder mapping and publics
+  - id: mk-public-relations-3
+    name: "Media relations: news values, press releases and pitching"
+  - id: mk-public-relations-4
+    name: Corporate communications and executive visibility
+  - id: mk-public-relations-5
+    name: Thought leadership and owned media
+  - id: mk-public-relations-6
+    name: Digital PR and link building
+  - id: mk-public-relations-7
+    name: Community and public affairs
+  - id: mk-public-relations-8
+    name: Internal communications
+  - id: mk-public-relations-9
+    name: Issues management
+  - id: mk-public-relations-10
+    name: "Crisis communication: preparation and response"
+  - id: mk-public-relations-11
+    name: Reputation measurement and media evaluation (Barcelona Principles)
+  - id: mk-public-relations-12
+    name: PR ethics and transparency
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-public-relations.json
+  sha256: dc337d0eb8e7f8985bd51aa222be75342dafbdcbf2bce9ad3e0eec2e0af61abf

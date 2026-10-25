@@ -1,0 +1,29 @@
+id: el-blockchain-distributed-ledger
+name: Blockchain & Distributed Ledger
+category: Emerging & Advanced Topics
+level: 4
+priority: optional
+summary: "Distributed ledgers for connected devices: blockchain identity, traceability, smart contracts and tokenized IoT data."
+prerequisites:
+  - el-blockchain-for-iot
+related:
+  - cs-blockchain
+  - el-blockchain-for-iot
+topics:
+  - id: el-blockchain-distributed-ledger-1
+    name: Device identity on blockchain
+  - id: el-blockchain-distributed-ledger-2
+    name: Supply chain traceability
+  - id: el-blockchain-distributed-ledger-3
+    name: Smart contracts for IoT
+  - id: el-blockchain-distributed-ledger-4
+    name: Decentralized IoT platforms
+  - id: el-blockchain-distributed-ledger-5
+    name: Tokenization of IoT data
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-blockchain-distributed-ledger.json
+  sha256: 91d45367b87e1c4d3a686a060970133b33adf891a272b60e9a2784e47734052d

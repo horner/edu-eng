@@ -1,0 +1,27 @@
+id: ma-symbolic-dynamics
+name: Symbolic Dynamics
+category: Differential Equations & Dynamical Systems
+level: 4
+priority: advanced
+summary: "Modelling dynamics by infinite sequences of symbols: shift spaces, subshifts of finite type and coding."
+prerequisites:
+  - ma-dynamical-systems
+related: []
+topics:
+  - id: ma-symbolic-dynamics-1
+    name: Symbolic sequences
+  - id: ma-symbolic-dynamics-2
+    name: Shift spaces
+  - id: ma-symbolic-dynamics-3
+    name: Subshifts of finite type and sofic shifts
+  - id: ma-symbolic-dynamics-4
+    name: Entropy and conjugacy
+  - id: ma-symbolic-dynamics-5
+    name: Coding of dynamical systems
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-symbolic-dynamics.json
+  sha256: f95d4c032cac450caf7997e271103ac20c5103a961a218f5e81af8fc014e5ded

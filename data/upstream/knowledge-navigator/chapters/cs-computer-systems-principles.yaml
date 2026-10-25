@@ -1,0 +1,44 @@
+id: cs-computer-systems-principles
+name: Principles of Computer System Design
+category: Parallel & Distributed Computing
+level: 3
+priority: important
+summary: The cross-cutting design principles of large computer systems (modularity, naming, performance, fault tolerance, atomicity, consistency and security), taught through classic systems.
+prerequisites:
+  - cs-operating-systems
+  - cs-computer-networks
+related: []
+topics:
+  - id: cs-computer-systems-principles-1
+    name: Complexity and modularity in systems
+  - id: cs-computer-systems-principles-2
+    name: Abstraction, layering and hierarchy
+  - id: cs-computer-systems-principles-3
+    name: Naming and name resolution
+  - id: cs-computer-systems-principles-4
+    name: Client/server organization and enforced modularity
+  - id: cs-computer-systems-principles-5
+    name: Virtualization as a design principle
+  - id: cs-computer-systems-principles-6
+    name: "Performance: bottlenecks, caching, batching and pipelining"
+  - id: cs-computer-systems-principles-7
+    name: Queueing theory basics and performance evaluation
+  - id: cs-computer-systems-principles-8
+    name: "Fault tolerance: redundancy, failure models and availability"
+  - id: cs-computer-systems-principles-9
+    name: "Atomicity: transactions, logging and two-phase commit"
+  - id: cs-computer-systems-principles-10
+    name: Consistency and replication
+  - id: cs-computer-systems-principles-11
+    name: The end-to-end argument
+  - id: cs-computer-systems-principles-12
+    name: "Security principles: least privilege, complete mediation and defence in depth"
+  - id: cs-computer-systems-principles-13
+    name: Reading and analysing classic systems papers
+discipline: cs
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/cs/cs-computer-systems-principles.json
+  sha256: e6e0191138a009e525bbfa8844f2ca77df7fa5126307ac90e69aefc30c7a2c5c

@@ -1,0 +1,66 @@
+id: be-advanced-skin-biology
+name: Advanced Skin Biology & Skin Ageing
+category: Skin Science
+level: 3
+priority: important
+summary: The cell and molecular biology of skin, including keratinocyte differentiation, the dermal matrix, skin immunity and the mechanisms of intrinsic and extrinsic ageing.
+prerequisites:
+  - be-skin-barrier-hydration
+  - bi-cell-signaling
+related:
+  - bi-biology-of-aging
+  - bi-immunology
+  - bi-human-anatomy
+  - hf-healthy-aging-longevity
+topics:
+  - id: be-advanced-skin-biology-1
+    name: Histology of the epidermis, dermo-epidermal junction and dermis
+  - id: be-advanced-skin-biology-2
+    name: Keratinocyte differentiation and cornified envelope formation
+  - id: be-advanced-skin-biology-3
+    name: Epidermal stem cells and tissue renewal
+  - id: be-advanced-skin-biology-4
+    name: The dermal extracellular matrix
+    sub:
+      - id: be-advanced-skin-biology-4-1
+        name: Collagen types and synthesis
+      - id: be-advanced-skin-biology-4-2
+        name: Elastic fibres
+      - id: be-advanced-skin-biology-4-3
+        name: Glycosaminoglycans and hyaluronic acid
+      - id: be-advanced-skin-biology-4-4
+        name: Matrix metalloproteinases and matrix turnover
+  - id: be-advanced-skin-biology-5
+    name: Fibroblasts, mechanobiology and wound repair
+  - id: be-advanced-skin-biology-6
+    name: "Melanogenesis: tyrosinase, signalling and melanosome transfer"
+  - id: be-advanced-skin-biology-7
+    name: "Skin immunology: innate defences, antimicrobial peptides, T cells and inflammation"
+  - id: be-advanced-skin-biology-8
+    name: "Neurocutaneous biology: itch, pain, neurogenic inflammation and sensitive skin"
+  - id: be-advanced-skin-biology-9
+    name: "Hormones and skin: androgens, oestrogens, cortisol and the skin as an endocrine organ"
+  - id: be-advanced-skin-biology-10
+    name: Skin ageing
+    sub:
+      - id: be-advanced-skin-biology-10-1
+        name: Intrinsic (chronological) ageing
+      - id: be-advanced-skin-biology-10-2
+        name: Photoageing and the exposome
+      - id: be-advanced-skin-biology-10-3
+        name: Oxidative stress and glycation
+      - id: be-advanced-skin-biology-10-4
+        name: Cellular senescence and inflammageing
+      - id: be-advanced-skin-biology-10-5
+        name: "Facial ageing: bone, fat pads, ligaments and skin"
+  - id: be-advanced-skin-biology-11
+    name: Menopause and skin
+  - id: be-advanced-skin-biology-12
+    name: Clinical scales and biomarkers for skin ageing
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-advanced-skin-biology.json
+  sha256: ea8219cfef3812b173af47f1b8e39e89e5fb36048c32e2674e1bf03cfcb9f8a9

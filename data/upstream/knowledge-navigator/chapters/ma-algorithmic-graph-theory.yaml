@@ -1,0 +1,36 @@
+id: ma-algorithmic-graph-theory
+name: Algorithmic Graph Theory
+category: Theoretical Computer Science
+level: 3
+priority: advanced
+summary: "Efficient algorithms on graphs: search, shortest paths, spanning trees, flows and matchings."
+prerequisites:
+  - ma-graph-theory
+  - ma-algorithm-analysis
+related:
+  - ma-graph-theory
+  - cs-advanced-algorithms
+topics:
+  - id: ma-algorithmic-graph-theory-3
+    name: Graph representations
+  - id: ma-algorithmic-graph-theory-4
+    name: Breadth-first and depth-first search
+  - id: ma-algorithmic-graph-theory-5
+    name: Shortest path algorithms
+  - id: ma-algorithmic-graph-theory-6
+    name: Minimum spanning trees
+  - id: ma-algorithmic-graph-theory-1
+    name: Graph algorithms
+  - id: ma-algorithmic-graph-theory-2
+    name: Network algorithms
+  - id: ma-algorithmic-graph-theory-7
+    name: Matching algorithms
+  - id: ma-algorithmic-graph-theory-8
+    name: Graph algorithms for hard problems (parameterised and approximate)
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-algorithmic-graph-theory.json
+  sha256: 547b12acb24bf2b207fd026563185ce7107ed4b0e18f18a6b88f7e038e220392

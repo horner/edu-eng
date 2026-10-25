@@ -1,0 +1,43 @@
+id: py-social-cognition-theory-of-mind
+name: Social Cognition & Theory of Mind
+category: Social Psychology & Behavioural Science
+level: 3
+priority: important
+summary: "How people perceive, interpret and predict others: attribution, stereotypes, implicit cognition and understanding other minds."
+prerequisites:
+  - py-social-psychology
+  - py-cognitive-psychology
+related:
+  - bi-cognitive-neuroscience
+topics:
+  - id: py-social-cognition-theory-of-mind-1
+    name: Schemas, scripts and person perception
+  - id: py-social-cognition-theory-of-mind-2
+    name: "Attribution theory: Heider, Kelley and the fundamental attribution error"
+  - id: py-social-cognition-theory-of-mind-3
+    name: "Dual-process models: automatic and controlled social thought"
+  - id: py-social-cognition-theory-of-mind-4
+    name: Impression formation and warmth-competence (stereotype content model)
+  - id: py-social-cognition-theory-of-mind-5
+    name: Stereotype formation, activation and application
+  - id: py-social-cognition-theory-of-mind-6
+    name: Implicit social cognition and the IAT controversy
+  - id: py-social-cognition-theory-of-mind-7
+    name: Theory of mind and mentalising in adults
+  - id: py-social-cognition-theory-of-mind-8
+    name: Perspective-taking and egocentric bias
+  - id: py-social-cognition-theory-of-mind-9
+    name: "Empathy: cognitive and affective components"
+  - id: py-social-cognition-theory-of-mind-10
+    name: Motivated social cognition
+  - id: py-social-cognition-theory-of-mind-11
+    name: Social cognition in autism, schizophrenia and ageing
+  - id: py-social-cognition-theory-of-mind-12
+    name: Social neuroscience in outline
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-social-cognition-theory-of-mind.json
+  sha256: 91b11271c5910b59f324ae6350c19ae8bdf150a5decc62ebca860785e5911d75

@@ -1,0 +1,45 @@
+id: bu-contract-commercial-law
+name: Contract & Commercial Law
+category: Law, Governance, Ethics & Sustainability
+level: 3
+priority: important
+summary: How commercial contracts are formed, interpreted and enforced, including sales of goods, agency and secured transactions.
+prerequisites:
+  - bu-business-law
+related:
+  - bu-procurement-sourcing
+  - bu-negotiation
+topics:
+  - id: bu-contract-commercial-law-1
+    name: Offer, acceptance, consideration and intention to create legal relations
+  - id: bu-contract-commercial-law-2
+    name: Capacity, legality and formalities
+  - id: bu-contract-commercial-law-3
+    name: "Contract terms: express, implied, conditions and warranties"
+  - id: bu-contract-commercial-law-4
+    name: Exclusion and limitation clauses
+  - id: bu-contract-commercial-law-5
+    name: Misrepresentation, mistake, duress and undue influence
+  - id: bu-contract-commercial-law-6
+    name: Performance, frustration and force majeure
+  - id: bu-contract-commercial-law-7
+    name: "Breach and remedies: damages, specific performance and injunctions"
+  - id: bu-contract-commercial-law-8
+    name: Sale of goods (UCC Article 2, UK Sale of Goods Act, CISG)
+  - id: bu-contract-commercial-law-9
+    name: Commercial agency and distribution agreements
+  - id: bu-contract-commercial-law-10
+    name: Secured transactions and retention of title
+  - id: bu-contract-commercial-law-11
+    name: "Negotiable instruments and payment law: an overview"
+  - id: bu-contract-commercial-law-12
+    name: Drafting and reviewing commercial contracts
+  - id: bu-contract-commercial-law-13
+    name: E-contracts and electronic signatures
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-contract-commercial-law.json
+  sha256: cc4a88f73695c5dfed199d4de84b07488f367a0b86584573e81d3ebe1f567b09

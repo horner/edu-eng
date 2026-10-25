@@ -1,0 +1,43 @@
+id: mk-programmatic-display
+name: Programmatic, Display & Connected TV Advertising
+category: Digital Marketing
+level: 3
+priority: advanced
+summary: Automated buying of display, video and connected TV inventory, and the technology, data and quality issues behind it.
+prerequisites:
+  - mk-media-planning-buying
+  - mk-digital-marketing
+related:
+  - mk-privacy-consent-data-protection
+topics:
+  - id: mk-programmatic-display-1
+    name: Display advertising formats and standards
+  - id: mk-programmatic-display-2
+    name: "The ad tech ecosystem: DSPs, SSPs, exchanges and ad servers"
+  - id: mk-programmatic-display-3
+    name: Real-time bidding and auction mechanics
+  - id: mk-programmatic-display-4
+    name: Private marketplaces and programmatic guaranteed
+  - id: mk-programmatic-display-5
+    name: "Audience data: first-, second- and third-party data"
+  - id: mk-programmatic-display-6
+    name: Contextual targeting
+  - id: mk-programmatic-display-7
+    name: Third-party cookie decline and identity solutions
+  - id: mk-programmatic-display-8
+    name: Viewability, attention and ad fraud
+  - id: mk-programmatic-display-9
+    name: Brand safety and suitability
+  - id: mk-programmatic-display-10
+    name: Supply-path optimisation and ad tech fees
+  - id: mk-programmatic-display-11
+    name: Connected TV and digital out-of-home programmatic
+  - id: mk-programmatic-display-12
+    name: Measuring programmatic campaigns
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-programmatic-display.json
+  sha256: 1b3e53dcc4d89f12f53bc12af36a29599892f9716096d1d1752e3af74f545358

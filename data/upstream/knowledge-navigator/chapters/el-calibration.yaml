@@ -1,0 +1,25 @@
+id: el-calibration
+name: Calibration
+category: Measurement, Testing & Validation
+level: 3
+priority: advanced
+summary: "Keeping instruments and products accurate: calibration standards, traceability, intervals and in-field procedures."
+prerequisites:
+  - el-electrical-measurements
+related: []
+topics:
+  - id: el-calibration-1
+    name: Equipment calibration and traceability
+  - id: el-calibration-2
+    name: Calibration standards and references
+  - id: el-calibration-3
+    name: Calibration intervals
+  - id: el-calibration-4
+    name: In-field calibration procedures
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-calibration.json
+  sha256: 68ea8cb6a66c782aa3d36a7eca01c9032a4811c75c41b7c627fcfa2bff8a3b11

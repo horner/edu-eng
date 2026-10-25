@@ -1,0 +1,43 @@
+id: bu-fintech
+name: Fintech & Digital Finance
+category: Technology & Digital Business
+level: 3
+priority: advanced
+summary: How technology is changing payments, lending, investing, insurance and banking, and how it is regulated.
+prerequisites:
+  - bu-financial-markets-institutions
+  - bu-management-information-systems
+related:
+  - cs-blockchain
+topics:
+  - id: bu-fintech-1
+    name: The fintech landscape and business models
+  - id: bu-fintech-2
+    name: "Digital payments: cards, real-time payments (UPI, FedNow, Faster Payments) and wallets"
+  - id: bu-fintech-3
+    name: Digital banks and banking-as-a-service
+  - id: bu-fintech-4
+    name: Alternative lending, buy-now-pay-later and credit scoring with data
+  - id: bu-fintech-5
+    name: Robo-advice and digital wealth management
+  - id: bu-fintech-6
+    name: Insurtech
+  - id: bu-fintech-7
+    name: Open banking and APIs
+  - id: bu-fintech-8
+    name: "Blockchain, cryptocurrencies and stablecoins: uses and risks"
+  - id: bu-fintech-9
+    name: Central bank digital currencies
+  - id: bu-fintech-10
+    name: Regtech, KYC and anti-money laundering
+  - id: bu-fintech-11
+    name: Fintech regulation and sandboxes
+  - id: bu-fintech-12
+    name: Building and scaling a fintech venture
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-fintech.json
+  sha256: 7409860895b8538a335a947e8c7481bc7c1fa6f4cdeb63a348128fda8a3982fd

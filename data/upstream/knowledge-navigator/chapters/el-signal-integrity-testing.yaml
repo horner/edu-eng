@@ -1,0 +1,28 @@
+id: el-signal-integrity-testing
+name: Signal Integrity Testing
+category: Measurement, Testing & Validation
+level: 4
+priority: advanced
+summary: Measuring high-speed interconnects with TDR, S-parameters, crosstalk, impedance and jitter measurements.
+prerequisites:
+  - el-high-speed-digital-design
+  - el-test-equipment
+related: []
+topics:
+  - id: el-signal-integrity-testing-1
+    name: Time-domain reflectometry (TDR)
+  - id: el-signal-integrity-testing-2
+    name: S-parameters measurement
+  - id: el-signal-integrity-testing-3
+    name: Crosstalk measurement
+  - id: el-signal-integrity-testing-4
+    name: Impedance measurement
+  - id: el-signal-integrity-testing-5
+    name: Jitter measurement
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-signal-integrity-testing.json
+  sha256: c11d575a5838a3dc20e71bf379bd0cbd731e0656d4cd2b3095f717c9b7b18e00

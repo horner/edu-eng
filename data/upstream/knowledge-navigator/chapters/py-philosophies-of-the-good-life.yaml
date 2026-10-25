@@ -1,0 +1,66 @@
+id: py-philosophies-of-the-good-life
+name: "Philosophies of the Good Life: Stoicism, Virtue & Wisdom Traditions"
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: important
+summary: Ancient and modern ideas about living well, including Stoicism, Aristotle, Buddhism, Epicureanism and existentialism, and what psychological research has tested about them.
+prerequisites:
+  - py-positive-psychology-wellbeing
+related:
+  - py-mindfulness-contemplative-science
+  - py-meaning-purpose-spirituality
+topics:
+  - id: py-philosophies-of-the-good-life-1
+    name: Why philosophy of life matters to psychology
+  - id: py-philosophies-of-the-good-life-2
+    name: Stoic ethics
+    sub:
+      - id: py-philosophies-of-the-good-life-2-1
+        name: Epictetus, Seneca and Marcus Aurelius
+      - id: py-philosophies-of-the-good-life-2-2
+        name: The dichotomy of control
+      - id: py-philosophies-of-the-good-life-2-3
+        name: Virtue as the only good and the passions
+  - id: py-philosophies-of-the-good-life-3
+    name: Stoic practices
+    sub:
+      - id: py-philosophies-of-the-good-life-3-1
+        name: Negative visualisation (premeditatio malorum)
+      - id: py-philosophies-of-the-good-life-3-2
+        name: The view from above
+      - id: py-philosophies-of-the-good-life-3-3
+        name: Evening review and journalling
+      - id: py-philosophies-of-the-good-life-3-4
+        name: Voluntary discomfort
+  - id: py-philosophies-of-the-good-life-4
+    name: Stoic roots of CBT and REBT (Beck and Ellis)
+  - id: py-philosophies-of-the-good-life-5
+    name: "Research on Stoic Week and Stoic Mindfulness and Resilience Training: findings and limitations"
+  - id: py-philosophies-of-the-good-life-6
+    name: "Aristotle: eudaimonia, virtue and the golden mean"
+  - id: py-philosophies-of-the-good-life-7
+    name: "Buddhist psychology: suffering, impermanence, non-self and links to mindfulness"
+  - id: py-philosophies-of-the-good-life-8
+    name: "Epicureanism: pleasure, simplicity and friendship"
+  - id: py-philosophies-of-the-good-life-9
+    name: "Existentialism and meaning: Kierkegaard, Camus and Frankl's logotherapy"
+  - id: py-philosophies-of-the-good-life-10
+    name: Confucian and other wisdom traditions
+  - id: py-philosophies-of-the-good-life-11
+    name: Wisdom research
+    sub:
+      - id: py-philosophies-of-the-good-life-11-1
+        name: The Berlin Wisdom Paradigm
+      - id: py-philosophies-of-the-good-life-11-2
+        name: Grossmann's wise reasoning and evidence-based wisdom
+  - id: py-philosophies-of-the-good-life-12
+    name: "What has been tested and what has not: separating philosophy from evidence"
+  - id: py-philosophies-of-the-good-life-13
+    name: Building a personal philosophy of life
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-philosophies-of-the-good-life.json
+  sha256: 54f22c1426226d574864b47dc44876446157eaeba5e4e523e1955daac4a88363

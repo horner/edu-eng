@@ -1,0 +1,43 @@
+id: hf-youth-athletic-development
+name: Youth Athletic Development
+category: Sports Performance & Conditioning
+level: 3
+priority: important
+summary: How to develop young athletes safely, accounting for growth, maturation and long-term wellbeing.
+prerequisites:
+  - hf-resistance-training
+  - hf-motor-learning-control
+related:
+  - py-sport-exercise-psychology
+topics:
+  - id: hf-youth-athletic-development-1
+    name: "Growth and maturation: peak height velocity and maturity offset"
+  - id: hf-youth-athletic-development-2
+    name: Fundamental movement skills
+  - id: hf-youth-athletic-development-3
+    name: Models of long-term development and their critiques
+  - id: hf-youth-athletic-development-4
+    name: "Resistance training for young people: safety and benefits"
+  - id: hf-youth-athletic-development-5
+    name: Early specialisation versus sampling many sports
+  - id: hf-youth-athletic-development-6
+    name: "Injury risk in youth sport: growth plates, Osgood-Schlatter and Sever's disease"
+  - id: hf-youth-athletic-development-7
+    name: Training load and burnout
+  - id: hf-youth-athletic-development-8
+    name: The relative age effect
+  - id: hf-youth-athletic-development-9
+    name: Talent identification and its problems
+  - id: hf-youth-athletic-development-10
+    name: Girls in youth sport
+  - id: hf-youth-athletic-development-11
+    name: Psychosocial development and enjoyment
+  - id: hf-youth-athletic-development-12
+    name: Safeguarding young athletes
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-youth-athletic-development.json
+  sha256: 57cdd74fdfc37b52371542ac1a5b473ac220477f3b7483d102f63a6fb19a24e8

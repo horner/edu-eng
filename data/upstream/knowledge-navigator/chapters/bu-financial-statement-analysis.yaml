@@ -1,0 +1,52 @@
+id: bu-financial-statement-analysis
+name: Financial Statement Analysis
+category: Accounting, Audit & Tax
+level: 3
+priority: core
+summary: Reading company accounts critically to judge profitability, risk, cash generation and earnings quality.
+prerequisites:
+  - bu-financial-accounting
+related:
+  - bu-valuation
+  - bu-corporate-finance
+topics:
+  - id: bu-financial-statement-analysis-1
+    name: "Sources of information: annual reports, filings and notes"
+  - id: bu-financial-statement-analysis-2
+    name: Business strategy analysis before the numbers
+  - id: bu-financial-statement-analysis-3
+    name: Common-size and trend analysis
+  - id: bu-financial-statement-analysis-4
+    name: Profitability ratios and DuPont decomposition of ROE
+  - id: bu-financial-statement-analysis-5
+    name: "Efficiency and working capital ratios: the cash conversion cycle"
+  - id: bu-financial-statement-analysis-6
+    name: Liquidity and solvency ratios
+  - id: bu-financial-statement-analysis-7
+    name: Cash flow analysis and free cash flow
+  - id: bu-financial-statement-analysis-8
+    name: Accounting quality
+    sub:
+      - id: bu-financial-statement-analysis-8-1
+        name: Accruals and earnings management
+      - id: bu-financial-statement-analysis-8-2
+        name: Red flags in revenue and expenses
+      - id: bu-financial-statement-analysis-8-3
+        name: Non-GAAP and alternative performance measures
+  - id: bu-financial-statement-analysis-9
+    name: "Adjusting statements for comparability: leases, one-offs and pensions"
+  - id: bu-financial-statement-analysis-10
+    name: Segment and geographic analysis
+  - id: bu-financial-statement-analysis-11
+    name: Forecasting financial statements
+  - id: bu-financial-statement-analysis-12
+    name: Credit analysis and bankruptcy prediction (Altman Z-score)
+  - id: bu-financial-statement-analysis-13
+    name: "Industry-specific analysis: banks, retailers, tech and SaaS"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-financial-statement-analysis.json
+  sha256: bfcd73180556cf4849ada237e8b2dfbfcd38e2bc31a706473f8ac329bb5a4bdc

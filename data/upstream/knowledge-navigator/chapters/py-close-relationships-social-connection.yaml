@@ -1,0 +1,43 @@
+id: py-close-relationships-social-connection
+name: Close Relationships, Love & Social Connection
+category: Social Psychology & Behavioural Science
+level: 2
+priority: important
+summary: The science of attraction, friendship, love and loneliness, and what research shows about building and keeping healthy relationships.
+prerequisites:
+  - py-social-psychology
+related: []
+topics:
+  - id: py-close-relationships-social-connection-1
+    name: The need to belong and why social connection matters for health
+  - id: py-close-relationships-social-connection-2
+    name: "Attraction: proximity, similarity and physical attractiveness"
+  - id: py-close-relationships-social-connection-3
+    name: Friendship across the lifespan
+  - id: py-close-relationships-social-connection-4
+    name: "Theories of love: Sternberg's triangle and attachment styles in adults"
+  - id: py-close-relationships-social-connection-5
+    name: Interdependence and investment model
+  - id: py-close-relationships-social-connection-6
+    name: "Communication in relationships: responsiveness and capitalisation"
+  - id: py-close-relationships-social-connection-7
+    name: "Conflict: Gottman's research and the 'four horsemen'"
+  - id: py-close-relationships-social-connection-8
+    name: Trust, commitment and forgiveness
+  - id: py-close-relationships-social-connection-9
+    name: Online dating and technology-mediated relationships
+  - id: py-close-relationships-social-connection-10
+    name: Relationship breakdown and recovery
+  - id: py-close-relationships-social-connection-11
+    name: "Unhealthy relationships: jealousy, control and abuse warning signs"
+  - id: py-close-relationships-social-connection-12
+    name: "Loneliness: causes, consequences and evidence-based interventions"
+  - id: py-close-relationships-social-connection-13
+    name: "Building social connection: practical evidence-based strategies"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-close-relationships-social-connection.json
+  sha256: c41dfcbff9c4fb8049c232608404ac71f62e8087252cdf5a50e5474f4ddcf58e

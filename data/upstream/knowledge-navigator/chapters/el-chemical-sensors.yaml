@@ -1,0 +1,30 @@
+id: el-chemical-sensors
+name: Chemical Sensors
+category: Sensors, Transducers & Actuators
+level: 3
+priority: advanced
+summary: Detecting chemical species with pH, ion-selective, electrochemical, chemiresistive and spectroscopic sensors.
+prerequisites:
+  - el-sensor-interfacing
+  - ch-redox-electrochemistry-basics
+related:
+  - ch-electroanalytical-chemistry
+  - ch-bioanalytical-chemistry-sensors
+topics:
+  - id: el-chemical-sensors-1
+    name: pH sensors
+  - id: el-chemical-sensors-2
+    name: Ion-selective electrodes
+  - id: el-chemical-sensors-3
+    name: Electrochemical sensors
+  - id: el-chemical-sensors-4
+    name: Chemical resistance sensors
+  - id: el-chemical-sensors-5
+    name: Spectroscopy-based sensors
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-chemical-sensors.json
+  sha256: 20d71ba878a8f40cc7e1960e04a66d08c009d53e9ac6f068f934db312b6a1d0a

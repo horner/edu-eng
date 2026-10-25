@@ -1,0 +1,331 @@
+id: digital-marketer
+name: Digital Marketer & Growth
+icon: 📈
+tagline: Reach, convert and keep customers online, and show what actually worked.
+description: "For people starting or building a career in digital marketing, founders who do their own marketing, and marketers moving from traditional to digital work. You start with marketing principles, consumer behaviour and customer research, then cover each digital channel in turn: search, content, email, social, video and paid media. The route then moves on to conversion, analytics and experiments, CRM and privacy, brand and growth, and ends with the sales and customer-success end of the funnel."
+outcomes:
+  - Write a segmentation, targeting and positioning statement for a product and turn it into a channel plan with objectives and KPIs
+  - Carry out keyword research and an on-page and technical SEO audit, and plan content that matches search intent and the customer journey
+  - Set up, run and optimise paid search and paid social campaigns within a budget, including conversion tracking, bidding and creative tests
+  - Build a measurement plan with event tracking and UTM parameters, and read funnels and cohorts in a web analytics tool
+  - Design an A/B test with a sample size calculation, analyse it without peeking, and explain why conversions reported by ad platforms are not the same as incremental effect
+  - Build a consented email list and automated lifecycle journeys that follow GDPR, PECR and CAN-SPAM
+  - Calculate customer acquisition cost, ROAS, retention and customer lifetime value, and explain to sales and finance how marketing contributes to revenue
+stages:
+  - name: Marketing principles and the customer
+    description: "The ideas that every channel depends on: customer value, the numbers of marketing, how people choose, and whom to target."
+    items:
+      - chapter: mk-marketing-principles
+        why: Customer value, the marketing mix and the marketing environment, which every digital tactic rests on.
+        depth: full
+      - chapter: ma-arithmetic-pre-algebra
+        why: Percentages, ratios and estimation, which you will use all the time for conversion rates, budgets and growth figures.
+        depth: selected
+        focus:
+          - ma-arithmetic-pre-algebra-4
+          - ma-arithmetic-pre-algebra-5
+          - ma-arithmetic-pre-algebra-6
+          - ma-arithmetic-pre-algebra-7
+          - ma-arithmetic-pre-algebra-11
+      - chapter: mk-marketing-maths-metrics
+        why: "Margins, funnel metrics, acquisition cost, ROAS versus ROI and customer lifetime value: the numbers your work will be judged on."
+        depth: full
+      - chapter: mk-consumer-behavior
+        why: How people notice, choose, buy and talk about products, and how customer journeys and touchpoints work.
+        depth: full
+      - chapter: mk-persuasion-behavioral-economics
+        why: Heuristics, social proof and framing, which effects have survived replication, and where persuasion becomes a dark pattern.
+        depth: full
+      - chapter: mk-segmentation-targeting-positioning
+        why: Choosing whom to target and how to position the product, so that channel choices follow from strategy and not the other way round.
+        depth: full
+  - name: Insight, message and creative
+    description: Finding out what customers need and turning it into words and visuals that work across channels.
+    items:
+      - chapter: ma-descriptive-statistics
+        why: Averages, distributions and correlation, which you need to read any analytics report or survey.
+        depth: selected
+        focus:
+          - ma-descriptive-statistics-4
+          - ma-descriptive-statistics-3
+          - ma-descriptive-statistics-1
+          - ma-descriptive-statistics-2
+          - ma-descriptive-statistics-5
+          - ma-descriptive-statistics-6
+          - ma-descriptive-statistics-7
+      - chapter: mk-customer-research-basics
+        why: Interviews, surveys, review mining and competitor analysis, to find out what customers need before you write any copy.
+        depth: full
+      - chapter: mk-copywriting-storytelling
+        why: "Headlines, benefits, calls to action and brand voice: writing is a core skill in every digital channel."
+        depth: full
+      - chapter: mk-design-for-marketers
+        why: Enough design to brief designers, judge creative work and produce accessible social and display assets yourself.
+        depth: selected
+        focus:
+          - mk-design-for-marketers-1
+          - mk-design-for-marketers-2
+          - mk-design-for-marketers-3
+          - mk-design-for-marketers-4
+          - mk-design-for-marketers-6
+          - mk-design-for-marketers-8
+          - mk-design-for-marketers-10
+          - mk-design-for-marketers-11
+      - chapter: mk-integrated-marketing-communications
+        why: Paid, owned, earned and shared media, campaign planning and communication objectives, so that channels work together.
+        depth: full
+  - name: Owned and earned channels
+    description: The channels you control or earn (search, content, email, social and video), which build an audience over time.
+    items:
+      - chapter: mk-digital-marketing
+        why: A tour of the digital channels and the digital customer journey, and how to write a simple digital marketing plan.
+        depth: full
+      - chapter: mk-search-engine-optimization
+        why: How search engines crawl and rank pages, keyword research, technical SEO, and how AI-generated answers are changing search.
+        depth: full
+      - chapter: mk-content-marketing
+        why: Content strategy, editorial calendars, distribution, and measuring whether content brings in customers.
+        depth: full
+      - chapter: mk-email-lifecycle-marketing
+        why: Permission-based lists, lifecycle programmes, deliverability and consent rules for a channel you own outright.
+        depth: full
+      - chapter: mk-social-media-marketing
+        why: Platform cultures, feed algorithms, community management and social listening for organic social media.
+        depth: full
+      - chapter: mk-video-creator-platforms
+        why: Short-form and long-form video, scripting the first seconds, low-cost production and the metrics that show whether people watch.
+        depth: selected
+        focus:
+          - mk-video-creator-platforms-1
+          - mk-video-creator-platforms-2
+          - mk-video-creator-platforms-3
+          - mk-video-creator-platforms-4
+          - mk-video-creator-platforms-5
+          - mk-video-creator-platforms-6
+          - mk-video-creator-platforms-9
+          - mk-video-creator-platforms-10
+          - mk-video-creator-platforms-11
+  - name: Paid media
+    description: Buying attention through search, social, media plans and partners, and spending a budget without wasting it.
+    items:
+      - chapter: mk-paid-search
+        why: Search ad auctions, keywords, match types, bidding and conversion tracking; paid search is often the first paid channel a business runs.
+        depth: full
+      - chapter: mk-paid-social-advertising
+        why: Audiences, creative testing, pixels and conversion APIs, and the limits of what platform reports can tell you.
+        depth: full
+      - chapter: mk-media-planning-buying
+        why: Reach, frequency, CPMs and media plans, so you can weigh digital channels against TV, audio and out-of-home.
+        depth: selected
+        focus:
+          - mk-media-planning-buying-1
+          - mk-media-planning-buying-3
+          - mk-media-planning-buying-4
+          - mk-media-planning-buying-5
+          - mk-media-planning-buying-6
+          - mk-media-planning-buying-7
+          - mk-media-planning-buying-9
+          - mk-media-planning-buying-12
+      - chapter: mk-influencer-affiliate-partnerships
+        why: Working with creators and affiliates, disclosure rules, affiliate fraud, and paying partners for real results.
+        depth: full
+  - name: Conversion, analytics and experiments
+    description: Measuring what happens after the click, improving it, and testing changes properly.
+    items:
+      - chapter: mk-web-product-analytics
+        why: "Measurement plans, event tracking, UTM tags, funnels and cohorts: how to see what visitors actually do."
+        depth: full
+      - chapter: mk-conversion-rate-optimization
+        why: Landing pages, forms, page speed and conversion research, to turn more visitors into customers.
+        depth: full
+      - chapter: ma-elementary-intermediate-algebra
+        why: "The algebra the probability and statistics below rely on: expressions, linear equations and graphs."
+        depth: selected
+        focus:
+          - ma-elementary-intermediate-algebra-5
+          - ma-elementary-intermediate-algebra-6
+          - ma-elementary-intermediate-algebra-7
+          - ma-elementary-intermediate-algebra-11
+      - chapter: ma-elementary-probability
+        why: Conditional probability, expected value and the normal distribution, the basis of significance tests and sample sizes.
+        depth: selected
+        focus:
+          - ma-elementary-probability-1
+          - ma-elementary-probability-3
+          - ma-elementary-probability-4
+          - ma-elementary-probability-6
+          - ma-elementary-probability-7
+          - ma-elementary-probability-8
+          - ma-elementary-probability-9
+      - chapter: bu-business-statistics-analytics
+        why: Confidence intervals, hypothesis tests and correlation, so you can judge whether a change in the numbers is real.
+        depth: selected
+        focus:
+          - bu-business-statistics-analytics-1
+          - bu-business-statistics-analytics-2
+          - bu-business-statistics-analytics-3
+          - bu-business-statistics-analytics-6
+          - bu-business-statistics-analytics-7
+          - bu-business-statistics-analytics-8
+          - bu-business-statistics-analytics-9
+          - bu-business-statistics-analytics-10
+          - bu-business-statistics-analytics-11
+          - bu-business-statistics-analytics-14
+      - chapter: mk-ab-testing-experimentation
+        why: "Hypotheses, sample sizes, peeking, holdout groups and geo experiments: testing changes so the results can be trusted, and measuring incremental effect."
+        depth: full
+      - chapter: mk-marketing-research-analytics
+        why: Questionnaire design, sampling, cross-tabulation and regression for brand tracking and customer research that goes beyond quick polls.
+        depth: selected
+        focus:
+          - mk-marketing-research-analytics-1
+          - mk-marketing-research-analytics-2
+          - mk-marketing-research-analytics-5
+          - mk-marketing-research-analytics-6
+          - mk-marketing-research-analytics-7
+          - mk-marketing-research-analytics-10
+          - mk-marketing-research-analytics-11
+          - mk-marketing-research-analytics-13
+          - mk-marketing-research-analytics-14
+      - chapter: bu-regression-forecasting
+        why: "Regression and forecasting without calculus: the statistical engine behind marketing mix models and demand forecasts."
+        depth: full
+      - chapter: mk-attribution-mix-modeling
+        why: Work out which channels actually drive sales, using attribution, lift tests and marketing mix models, and know the limits of each.
+        depth: full
+  - name: Retention, CRM and privacy
+    description: Keeping customers once you have them, automating communication with them, and staying within data protection law.
+    items:
+      - chapter: mk-retention-loyalty
+        why: Why customers stay or leave, loyalty programmes, win-back and cohort analysis, with a check on which retention claims are overstated.
+        depth: full
+      - chapter: mk-crm-marketing-automation
+        why: CRM data, lead scoring, triggered journeys and the handover from marketing to sales.
+        depth: full
+      - chapter: mk-marketing-law-regulation
+        why: "Advertising codes, misleading claims, pricing rules and influencer disclosure: the rules your campaigns have to meet."
+        depth: selected
+        focus:
+          - mk-marketing-law-regulation-1
+          - mk-marketing-law-regulation-2
+          - mk-marketing-law-regulation-3
+          - mk-marketing-law-regulation-4
+          - mk-marketing-law-regulation-5
+          - mk-marketing-law-regulation-6
+          - mk-marketing-law-regulation-8
+          - mk-marketing-law-regulation-11
+      - chapter: mk-privacy-consent-data-protection
+        why: GDPR, PECR, cookie consent and US privacy law, and how to build privacy into tracking and marketing tools.
+        depth: full
+  - name: Brand, strategy and growth
+    description: Connecting short-term performance marketing to long-term brand building, and running growth as a disciplined process.
+    items:
+      - chapter: mk-brand-management
+        why: Brand positioning, distinctive assets and brand equity, the long-term effects that performance metrics tend to miss.
+        depth: selected
+        focus:
+          - mk-brand-management-1
+          - mk-brand-management-2
+          - mk-brand-management-4
+          - mk-brand-management-5
+          - mk-brand-management-6
+          - mk-brand-management-7
+          - mk-brand-management-9
+          - mk-brand-management-10
+          - mk-brand-management-13
+          - mk-brand-management-16
+      - chapter: mk-brand-growth-marketing-science
+        why: Ehrenberg-Bass and IPA evidence on reach, mental availability and the balance between brand building and sales activation.
+        depth: full
+      - chapter: mk-marketing-strategy-planning
+        why: Situation analysis, objectives, budget and channel plan, written up as a marketing plan you can defend.
+        depth: full
+      - chapter: mk-growth-marketing
+        why: Growth loops, activation, referral and a structured experiment process across acquisition, retention and revenue.
+        depth: full
+      - chapter: mk-ai-in-marketing
+        why: Generative AI for content, automated bidding, AI search, and the quality, copyright and bias risks that come with them.
+        depth: full
+      - chapter: mk-martech-data-stack
+        why: How customer data platforms, warehouses, identity and integrations fit together, so you can choose tools and work with data teams.
+        depth: selected
+        focus:
+          - mk-martech-data-stack-1
+          - mk-martech-data-stack-2
+          - mk-martech-data-stack-3
+          - mk-martech-data-stack-5
+          - mk-martech-data-stack-7
+          - mk-martech-data-stack-9
+          - mk-martech-data-stack-10
+  - name: Sales and customer success
+    description: "The rest of the funnel after marketing hands over a lead: selling, how businesses buy, and keeping and growing accounts."
+    items:
+      - chapter: mk-sales-fundamentals
+        why: How salespeople work the leads marketing generates, so you can design handovers that sales teams accept.
+        depth: full
+      - chapter: mk-prospecting-lead-generation
+        why: Ideal customer profiles, qualification frameworks and the definitions of marketing- and sales-qualified leads, where marketing and sales most often disagree.
+        depth: selected
+        focus:
+          - mk-prospecting-lead-generation-1
+          - mk-prospecting-lead-generation-2
+          - mk-prospecting-lead-generation-7
+          - mk-prospecting-lead-generation-8
+          - mk-prospecting-lead-generation-9
+          - mk-prospecting-lead-generation-11
+      - chapter: mk-b2b-marketing
+        why: Buying committees, demand generation, account-based marketing and marketing-sales alignment in business markets.
+        depth: full
+      - chapter: mk-account-management-customer-success
+        why: Onboarding, health scores, renewals and expansion; revenue from existing customers is part of the growth funnel too.
+        depth: selected
+        focus:
+          - mk-account-management-customer-success-1
+          - mk-account-management-customer-success-4
+          - mk-account-management-customer-success-5
+          - mk-account-management-customer-success-6
+          - mk-account-management-customer-success-9
+          - mk-account-management-customer-success-10
+          - mk-account-management-customer-success-11
+          - mk-account-management-customer-success-12
+  - name: Electives
+    description: Specialist channels and deeper analytics, to choose from according to the business you work in.
+    items:
+      - chapter: mk-ecommerce-marketing
+        why: "Elective: product pages, shopping feeds, checkout and e-commerce unit economics for online retail."
+        depth: full
+      - chapter: mk-marketplace-retail-media
+        why: "Elective: selling and advertising on online marketplaces such as Amazon and on retailers' media networks."
+        depth: full
+      - chapter: mk-programmatic-display
+        why: "Elective: automated buying of display, video and connected TV, ad tech fees, ad fraud and brand safety."
+        depth: full
+      - chapter: mk-mobile-app-marketing
+        why: "Elective: app store optimisation, install campaigns and measurement under mobile privacy rules."
+        depth: full
+      - chapter: mk-public-relations
+        why: "Elective: media relations, digital PR and crisis communication, which overlap with link building and social media."
+        depth: full
+      - chapter: mk-pricing-fundamentals
+        why: "Elective: value-based pricing, discounts and subscription pricing, for marketers who own pricing or promotions."
+        depth: full
+      - chapter: mk-customer-analytics
+        why: "Elective: lifetime value models, RFM, churn prediction and uplift modelling for marketing teams that work with a lot of customer data."
+        depth: full
+      - chapter: mk-sales-management
+        why: "Elective: territories, quotas, compensation and forecasting, for marketers moving towards revenue leadership."
+        depth: full
+      - chapter: mk-revenue-operations
+        why: "Elective: shared funnel definitions, lead routing and forecasting across marketing, sales and customer success."
+        depth: full
+related:
+  - startup-founder
+  - business-fundamentals
+  - data-scientist
+  - understanding-people
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/roadmaps/digital-marketer.json
+  sha256: e7af406ce8849b469b9dedeca3d379016580ed70fe8626f579f6b8348df40a82

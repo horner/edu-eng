@@ -1,0 +1,46 @@
+id: py-positive-psychology-wellbeing
+name: Positive Psychology & Wellbeing
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: core
+summary: "The science of happiness and flourishing: what wellbeing is, what predicts it and which activities reliably improve it."
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - hf-introduction-to-health-wellness
+topics:
+  - id: py-positive-psychology-wellbeing-1
+    name: "Positive psychology: origins, aims and critiques"
+  - id: py-positive-psychology-wellbeing-2
+    name: Hedonic and eudaimonic wellbeing
+  - id: py-positive-psychology-wellbeing-3
+    name: Subjective wellbeing and life satisfaction
+  - id: py-positive-psychology-wellbeing-4
+    name: "PERMA: positive emotion, engagement, relationships, meaning and accomplishment"
+  - id: py-positive-psychology-wellbeing-5
+    name: "What does and does not make us happy: money, possessions and circumstances"
+  - id: py-positive-psychology-wellbeing-6
+    name: Hedonic adaptation and the happiness set point
+  - id: py-positive-psychology-wellbeing-7
+    name: Affective forecasting and why we mispredict happiness
+  - id: py-positive-psychology-wellbeing-8
+    name: "Positive emotions: broaden-and-build theory"
+  - id: py-positive-psychology-wellbeing-9
+    name: Flow and engagement
+  - id: py-positive-psychology-wellbeing-10
+    name: Character strengths and the VIA classification
+  - id: py-positive-psychology-wellbeing-11
+    name: Gratitude, kindness and savouring
+  - id: py-positive-psychology-wellbeing-12
+    name: Optimism, hope and explanatory style
+  - id: py-positive-psychology-wellbeing-13
+    name: Time affluence, social connection and experiential purchases
+  - id: py-positive-psychology-wellbeing-14
+    name: "Positive psychology interventions: what works and how much"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-positive-psychology-wellbeing.json
+  sha256: f997502ac49c3adf24dbc48cad99dc0045c3b14a7345602ab259bee47e13bc34

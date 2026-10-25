@@ -1,0 +1,43 @@
+id: py-intelligence-cognitive-abilities
+name: Intelligence & Cognitive Abilities
+category: Personality & Individual Differences
+level: 2
+priority: important
+summary: What intelligence is, how it is measured, what predicts it and the controversies around IQ testing.
+prerequisites:
+  - py-cognitive-psychology
+  - ma-descriptive-statistics
+related:
+  - bi-human-genetics
+topics:
+  - id: py-intelligence-cognitive-abilities-1
+    name: "Defining intelligence: lay and expert views"
+  - id: py-intelligence-cognitive-abilities-2
+    name: "History of testing: Binet, Terman, Wechsler and misuse in eugenics"
+  - id: py-intelligence-cognitive-abilities-3
+    name: "g and the structure of abilities: CHC theory"
+  - id: py-intelligence-cognitive-abilities-4
+    name: "Multiple intelligences and triarchic theory: claims and evidence"
+  - id: py-intelligence-cognitive-abilities-5
+    name: "IQ tests: construction, norms and reliability"
+  - id: py-intelligence-cognitive-abilities-6
+    name: "What IQ predicts: education, work and health"
+  - id: py-intelligence-cognitive-abilities-7
+    name: Genes, environment and the Flynn effect
+  - id: py-intelligence-cognitive-abilities-8
+    name: Group differences and the debate around them
+  - id: py-intelligence-cognitive-abilities-9
+    name: Intellectual disability and giftedness
+  - id: py-intelligence-cognitive-abilities-10
+    name: Can intelligence be raised? Education, training and nutrition
+  - id: py-intelligence-cognitive-abilities-11
+    name: "Emotional intelligence: ability vs trait models"
+  - id: py-intelligence-cognitive-abilities-12
+    name: Rationality, wisdom and other abilities IQ misses
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-intelligence-cognitive-abilities.json
+  sha256: 1b0d87bd40cf6c94a27773971225fe311f0a95b9945c00ab41ab57dcf39105bb

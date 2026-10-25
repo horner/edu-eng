@@ -1,0 +1,44 @@
+id: bu-digital-transformation
+name: Digital Transformation & IT Strategy
+category: Technology & Digital Business
+level: 3
+priority: important
+summary: Aligning technology investments with strategy and leading the organisational change that digital transformation requires.
+prerequisites:
+  - bu-management-information-systems
+  - bu-business-strategy
+related:
+  - bu-organizational-design-change
+  - bu-platform-digital-strategy
+topics:
+  - id: bu-digital-transformation-1
+    name: What digital transformation means (and why most programmes struggle)
+  - id: bu-digital-transformation-2
+    name: Aligning IT and business strategy
+  - id: bu-digital-transformation-3
+    name: Building a digital operating model
+  - id: bu-digital-transformation-4
+    name: Legacy systems, technical debt and modernisation
+  - id: bu-digital-transformation-5
+    name: Data strategy, data platforms and data governance
+  - id: bu-digital-transformation-6
+    name: Cloud migration strategy and economics
+  - id: bu-digital-transformation-7
+    name: Automation, RPA and AI in business processes
+  - id: bu-digital-transformation-8
+    name: IT portfolio management and business cases for technology
+  - id: bu-digital-transformation-9
+    name: Measuring the value of IT investments
+  - id: bu-digital-transformation-10
+    name: Skills, talent and culture for digital organisations
+  - id: bu-digital-transformation-11
+    name: Leading transformation programmes
+  - id: bu-digital-transformation-12
+    name: Case studies of digital transformation in traditional industries
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-digital-transformation.json
+  sha256: 717ea147a4f42dd1335aca1ae39864e8991212097d3280390116e9c912f4e686

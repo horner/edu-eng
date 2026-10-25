@@ -1,0 +1,44 @@
+id: hf-manual-therapies-massage
+name: "Massage & Manual Therapies: Evidence Review"
+category: Complementary & Integrative Health
+level: 2
+priority: optional
+summary: The main hands-on and device-based therapies, what they are claimed to do, and what the evidence supports.
+prerequisites:
+  - hf-complementary-integrative-health
+related:
+  - hf-recovery-overtraining
+topics:
+  - id: hf-manual-therapies-massage-1
+    name: Types of massage
+  - id: hf-manual-therapies-massage-2
+    name: "Claimed effects versus evidence: circulation, 'toxins' and muscle knots"
+  - id: hf-manual-therapies-massage-3
+    name: Evidence for pain, anxiety and cancer care
+  - id: hf-manual-therapies-massage-4
+    name: Massage in sport and recovery
+  - id: hf-manual-therapies-massage-5
+    name: Spinal manipulation and mobilisation
+  - id: hf-manual-therapies-massage-6
+    name: Dry needling
+  - id: hf-manual-therapies-massage-7
+    name: Cupping
+  - id: hf-manual-therapies-massage-8
+    name: Instrument-assisted soft-tissue work and gua sha
+  - id: hf-manual-therapies-massage-9
+    name: Kinesiology taping
+  - id: hf-manual-therapies-massage-10
+    name: Reflexology
+  - id: hf-manual-therapies-massage-11
+    name: Craniosacral therapy
+  - id: hf-manual-therapies-massage-12
+    name: Safety and contraindications
+  - id: hf-manual-therapies-massage-13
+    name: Choosing a qualified practitioner
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-manual-therapies-massage.json
+  sha256: faef850c531d0809fee0a0de2ed7f874e6931c01589eab6dba989dd46621c4a3

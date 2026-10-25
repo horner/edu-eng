@@ -1,0 +1,50 @@
+id: bu-quality-management
+name: Quality Management, Lean & Six Sigma
+category: Operations, Supply Chain & Projects
+level: 3
+priority: important
+summary: Methods for measuring, controlling and continuously improving the quality and efficiency of processes.
+prerequisites:
+  - bu-operations-management
+  - bu-business-statistics-analytics
+related:
+  - ma-inferential-statistics
+topics:
+  - id: bu-quality-management-1
+    name: Quality gurus and the evolution of quality management (Deming, Juran, Crosby)
+  - id: bu-quality-management-2
+    name: Total quality management and continuous improvement (kaizen)
+  - id: bu-quality-management-3
+    name: Statistical process control and control charts
+  - id: bu-quality-management-4
+    name: Process capability indices
+  - id: bu-quality-management-5
+    name: "Acceptance sampling: uses and limits"
+  - id: bu-quality-management-6
+    name: Six Sigma and the DMAIC cycle
+  - id: bu-quality-management-7
+    name: "Root cause analysis: fishbone diagrams, 5 whys and Pareto analysis"
+  - id: bu-quality-management-8
+    name: Lean tools
+    sub:
+      - id: bu-quality-management-8-1
+        name: Value stream mapping
+      - id: bu-quality-management-8-2
+        name: 5S and visual management
+      - id: bu-quality-management-8-3
+        name: Standard work and SMED
+  - id: bu-quality-management-9
+    name: Failure mode and effects analysis (FMEA)
+  - id: bu-quality-management-10
+    name: Design of experiments for process improvement
+  - id: bu-quality-management-11
+    name: "Quality standards and certification: ISO 9001"
+  - id: bu-quality-management-12
+    name: "Service quality measurement: SERVQUAL and customer feedback"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-quality-management.json
+  sha256: 5b70f041eb10a2d41931fd7f8fdfc4cecf3cb6edfa523383ff486dde7d036e2b

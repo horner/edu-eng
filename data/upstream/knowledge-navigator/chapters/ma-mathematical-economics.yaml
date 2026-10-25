@@ -1,0 +1,32 @@
+id: ma-mathematical-economics
+name: Mathematical Economics
+category: Applied & Interdisciplinary Mathematics
+level: 3
+priority: advanced
+summary: "Economic theory in mathematical form: utility, optimisation, general equilibrium and input-output models."
+prerequisites:
+  - ma-nonlinear-programming
+  - ma-real-analysis
+related: []
+topics:
+  - id: ma-mathematical-economics-4
+    name: Utility theory
+  - id: ma-mathematical-economics-5
+    name: Consumer and producer theory
+  - id: ma-mathematical-economics-3
+    name: Optimization in economics
+  - id: ma-mathematical-economics-1
+    name: General equilibrium theory
+  - id: ma-mathematical-economics-6
+    name: Fixed-point theorems in economics
+  - id: ma-mathematical-economics-2
+    name: Input-output models
+  - id: ma-mathematical-economics-7
+    name: Dynamic optimisation and growth models
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-mathematical-economics.json
+  sha256: 1892b82ca0b408b4ff150ea6e12d3874db4633ff7e327c5434cdbb70421de286

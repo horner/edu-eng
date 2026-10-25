@@ -1,0 +1,43 @@
+id: bu-competition-regulatory-law
+name: Competition, Consumer & Regulatory Law
+category: Law, Governance, Ethics & Sustainability
+level: 3
+priority: advanced
+summary: The rules that keep markets competitive and protect consumers, and how firms comply with them.
+prerequisites:
+  - bu-business-law
+related:
+  - bu-game-theory-competitive-strategy
+  - bu-nonmarket-strategy
+topics:
+  - id: bu-competition-regulatory-law-1
+    name: Goals of competition law
+  - id: bu-competition-regulatory-law-2
+    name: Cartels and anti-competitive agreements
+  - id: bu-competition-regulatory-law-3
+    name: Abuse of dominance and monopolisation
+  - id: bu-competition-regulatory-law-4
+    name: Merger control and filing thresholds
+  - id: bu-competition-regulatory-law-5
+    name: "Vertical agreements: distribution, resale price maintenance and exclusivity"
+  - id: bu-competition-regulatory-law-6
+    name: "Competition enforcement compared: US DOJ/FTC, EU Commission, UK CMA and India CCI"
+  - id: bu-competition-regulatory-law-7
+    name: Digital markets regulation and platform rules
+  - id: bu-competition-regulatory-law-8
+    name: "Consumer protection: unfair practices and product safety"
+  - id: bu-competition-regulatory-law-9
+    name: Advertising and marketing regulation
+  - id: bu-competition-regulatory-law-10
+    name: "Sector regulation: utilities, telecoms and financial services"
+  - id: bu-competition-regulatory-law-11
+    name: "Anti-bribery laws: FCPA, UK Bribery Act and others"
+  - id: bu-competition-regulatory-law-12
+    name: Building a compliance programme
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-competition-regulatory-law.json
+  sha256: 813d703c8551caef933f1f4e92494b7ddf002cc13b69256b9a261f7f5fd1180c

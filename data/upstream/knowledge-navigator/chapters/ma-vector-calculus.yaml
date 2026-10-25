@@ -1,0 +1,41 @@
+id: ma-vector-calculus
+name: Vector Calculus
+category: Calculus
+level: 2
+priority: core
+summary: Vector fields, line and surface integrals, divergence and curl, and the theorems of Green, Stokes and Gauss that underpin physics and engineering.
+prerequisites:
+  - ma-multivariable-calculus
+related: []
+topics:
+  - id: ma-calculus-4
+    name: "Vector fields (vector calculus): conservative fields and potential functions"
+  - id: ma-vector-calculus-1
+    name: Line integrals of scalar functions and vector fields; work
+  - id: ma-vector-calculus-2
+    name: Fundamental theorem for line integrals and path independence
+  - id: ma-vector-calculus-3
+    name: Green's theorem in the plane
+  - id: ma-vector-calculus-4
+    name: Parametric surfaces and surface area
+  - id: ma-vector-calculus-5
+    name: Surface integrals and flux
+  - id: ma-vector-calculus-6
+    name: "Divergence and curl: meaning and identities"
+  - id: ma-vector-calculus-7
+    name: Stokes' theorem
+  - id: ma-vector-calculus-8
+    name: Divergence (Gauss's) theorem
+  - id: ma-vector-calculus-9
+    name: "Curvilinear coordinates: grad, div, curl and Laplacian in cylindrical and spherical coordinates"
+  - id: ma-vector-calculus-10
+    name: Applications to fluid flow, electromagnetism and conservation laws
+  - id: ma-vector-calculus-11
+    name: Preview of differential forms and the generalised Stokes theorem
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-vector-calculus.json
+  sha256: fbc026e901c89bc0a7cca31c580f31e7dea34757fd5aec68ddd9406076036f63

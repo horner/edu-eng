@@ -1,0 +1,36 @@
+id: ea-geomagnetism-and-paleomagnetism
+name: Geomagnetism & Paleomagnetism
+category: Solid-Earth Geophysics
+level: 3
+priority: advanced
+summary: Earth's magnetic field, how it is generated, and how magnetised rocks record plate motions and field reversals.
+prerequisites:
+  - ea-solid-earth-geophysics
+  - ph-classical-electromagnetism
+related:
+  - ph-geophysics
+  - ph-space-physics
+topics:
+  - id: ea-geomagnetism-and-paleomagnetism-1
+    name: "Description of the geomagnetic field: elements, dipole and IGRF"
+  - id: ea-geomagnetism-and-paleomagnetism-2
+    name: Secular variation, excursions and polarity reversals
+  - id: ea-geomagnetism-and-paleomagnetism-3
+    name: "The geodynamo: magnetohydrodynamics of the outer core"
+  - id: ea-geomagnetism-and-paleomagnetism-4
+    name: "Rock magnetism: magnetic minerals and remanence acquisition"
+  - id: ea-geomagnetism-and-paleomagnetism-5
+    name: Palaeomagnetic sampling, demagnetisation and statistics
+  - id: ea-geomagnetism-and-paleomagnetism-6
+    name: Apparent polar wander paths and palaeogeographic reconstruction
+  - id: ea-geomagnetism-and-paleomagnetism-7
+    name: Magnetostratigraphy and the geomagnetic polarity time scale
+  - id: ea-geomagnetism-and-paleomagnetism-8
+    name: Environmental magnetism
+discipline: earth
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/earth/ea-geomagnetism-and-paleomagnetism.json
+  sha256: bfc80447f74e91a494683151dbe918e67daa9eb4a684afce16e5dea1f4ed25cc

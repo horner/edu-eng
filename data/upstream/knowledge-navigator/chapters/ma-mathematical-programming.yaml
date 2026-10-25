@@ -1,0 +1,28 @@
+id: ma-mathematical-programming
+name: Mathematical Programming
+category: Applied & Interdisciplinary Mathematics
+level: 3
+priority: advanced
+summary: Formulating real problems as optimisation models, from network optimisation to production planning.
+prerequisites:
+  - ma-linear-programming
+related:
+  - ma-linear-programming
+topics:
+  - id: ma-mathematical-programming-3
+    name: Modelling languages and solvers
+  - id: ma-mathematical-programming-1
+    name: Linear programming applications
+  - id: ma-mathematical-programming-2
+    name: Network optimization
+  - id: ma-mathematical-programming-4
+    name: Production planning and transportation models
+  - id: ma-mathematical-programming-5
+    name: Goal and multi-objective programming
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-mathematical-programming.json
+  sha256: 4a39fe027bf281d838ecea238aab775c37fa43ab01daa5d9a8594c8956ff322b

@@ -1,0 +1,45 @@
+id: mk-international-marketing
+name: International & Global Marketing
+category: Brand & Strategy
+level: 3
+priority: important
+summary: "Taking products and brands across borders: market selection, entry modes, cultural adaptation and global marketing management."
+prerequisites:
+  - mk-marketing-strategy-planning
+related:
+  - bu-business-strategy
+  - bu-international-business
+topics:
+  - id: mk-international-marketing-1
+    name: Why firms internationalise; stages and born-global firms
+  - id: mk-international-marketing-2
+    name: "Analysing the international environment: economic, political, legal, cultural"
+  - id: mk-international-marketing-3
+    name: Cultural frameworks (Hofstede, GLOBE) and their limits
+  - id: mk-international-marketing-4
+    name: Selecting and prioritising foreign markets
+  - id: mk-international-marketing-5
+    name: "Entry modes: exporting, licensing, franchising, joint ventures, subsidiaries"
+  - id: mk-international-marketing-6
+    name: Standardisation versus adaptation of the marketing mix
+  - id: mk-international-marketing-7
+    name: International product and brand decisions
+  - id: mk-international-marketing-8
+    name: "International pricing: transfer pricing, grey markets, currency"
+  - id: mk-international-marketing-9
+    name: Global distribution and logistics
+  - id: mk-international-marketing-10
+    name: Cross-cultural advertising and localisation
+  - id: mk-international-marketing-11
+    name: Marketing in emerging markets and the base of the pyramid
+  - id: mk-international-marketing-12
+    name: Cross-border e-commerce and global platforms
+  - id: mk-international-marketing-13
+    name: Organising for global marketing
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-international-marketing.json
+  sha256: 56750e79b8cc33fd07a48e9be7d8413604421c15031d6cd902813e0c7a737e23

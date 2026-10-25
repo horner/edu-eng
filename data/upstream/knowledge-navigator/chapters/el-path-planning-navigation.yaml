@@ -1,0 +1,31 @@
+id: el-path-planning-navigation
+name: Path Planning & Navigation
+category: Control Systems & Robotics
+level: 3
+priority: important
+summary: "Finding collision-free paths: graph search, sampling-based planners, trajectory optimization and obstacle avoidance."
+prerequisites:
+  - el-kinematics-dynamics
+  - cs-algorithms
+related:
+  - ai-motion-planning-navigation
+topics:
+  - id: el-path-planning-navigation-1
+    name: Graph search algorithms (A, Dijkstra, D)
+  - id: el-path-planning-navigation-2
+    name: Sampling-based planning (RRT, PRM)
+  - id: el-path-planning-navigation-3
+    name: Trajectory optimization
+  - id: el-path-planning-navigation-4
+    name: Obstacle avoidance (potential fields, dynamic window approach)
+  - id: el-path-planning-navigation-5
+    name: Local and global planning
+  - id: el-path-planning-navigation-6
+    name: Waypoint navigation
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-path-planning-navigation.json
+  sha256: 424321511c1cd95def5c131f3fa91a66f4f507034c1a744614f7586ddb4aff4f

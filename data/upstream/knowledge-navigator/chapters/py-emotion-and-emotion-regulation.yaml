@@ -1,0 +1,62 @@
+id: py-emotion-and-emotion-regulation
+name: Emotion & Emotion Regulation
+category: Emotion & Motivation
+level: 2
+priority: core
+summary: What emotions are, why we have them and the evidence-based ways people can understand and manage their feelings.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - bi-behavioral-neuroscience
+topics:
+  - id: py-emotion-and-emotion-regulation-1
+    name: "What an emotion is: feelings, bodily changes, thoughts and action tendencies"
+  - id: py-emotion-and-emotion-regulation-2
+    name: "Functions of emotions: why even 'negative' emotions are useful"
+  - id: py-emotion-and-emotion-regulation-3
+    name: Theories of emotion
+    sub:
+      - id: py-emotion-and-emotion-regulation-3-1
+        name: James-Lange, Cannon-Bard and two-factor theory
+      - id: py-emotion-and-emotion-regulation-3-2
+        name: Appraisal theories
+      - id: py-emotion-and-emotion-regulation-3-3
+        name: Basic emotions vs constructed emotion
+  - id: py-emotion-and-emotion-regulation-4
+    name: "Emotions and the body: arousal, the autonomic nervous system and interoception"
+  - id: py-emotion-and-emotion-regulation-5
+    name: Mood vs emotion; affect and its dimensions
+  - id: py-emotion-and-emotion-regulation-6
+    name: Emotional awareness and labelling feelings (emotional granularity)
+  - id: py-emotion-and-emotion-regulation-7
+    name: Gross's process model of emotion regulation
+    sub:
+      - id: py-emotion-and-emotion-regulation-7-1
+        name: Situation selection and modification
+      - id: py-emotion-and-emotion-regulation-7-2
+        name: Attentional deployment and distraction
+      - id: py-emotion-and-emotion-regulation-7-3
+        name: Cognitive reappraisal
+      - id: py-emotion-and-emotion-regulation-7-4
+        name: Response modulation and suppression
+  - id: py-emotion-and-emotion-regulation-8
+    name: Rumination and worry as unhelpful regulation
+  - id: py-emotion-and-emotion-regulation-9
+    name: Acceptance and allowing emotions
+  - id: py-emotion-and-emotion-regulation-10
+    name: "Regulating emotions through other people: co-regulation and support"
+  - id: py-emotion-and-emotion-regulation-11
+    name: Development of emotion regulation from childhood
+  - id: py-emotion-and-emotion-regulation-12
+    name: Culture, gender and emotional expression
+  - id: py-emotion-and-emotion-regulation-13
+    name: Emotion regulation difficulties across mental health problems
+  - id: py-emotion-and-emotion-regulation-14
+    name: "Practical skills: naming feelings, breathing, reappraisal and opposite action"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-emotion-and-emotion-regulation.json
+  sha256: c769688d16bd93c8505abbfab79ffb157c4a3cd4b7cc082d30ccadc1edb36799

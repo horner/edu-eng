@@ -1,0 +1,26 @@
+id: el-learning-platforms
+name: Learning Platforms
+category: Professional Practice, Business & Community
+level: 1
+priority: optional
+summary: "Where to learn electronics: online courses, university programmes, certifications, webinars and tutorials."
+prerequisites: []
+related: []
+topics:
+  - id: el-learning-platforms-1
+    name: Online courses (Coursera, edX, Udemy)
+  - id: el-learning-platforms-2
+    name: University programs (BS, MS, PhD in ECE/CS)
+  - id: el-learning-platforms-3
+    name: Professional certifications
+  - id: el-learning-platforms-4
+    name: Technical webinars and workshops
+  - id: el-learning-platforms-5
+    name: Documentation and tutorials
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-learning-platforms.json
+  sha256: 925b32cdd4e4c5cdd76bb96b0a7d2103efb391e41b4f4e170f893ec3940bc8e3

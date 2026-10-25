@@ -1,0 +1,27 @@
+id: health
+name: Health, Fitness & Nutrition
+icon: 💪
+color: "#22d3ee"
+prefix: hf
+description: "The science and practice of physical wellbeing: nutrition, exercise and training, sleep and recovery, injury prevention, preventive health and lifestyle medicine, health across the life course, and public health."
+categories:
+  - Foundations of Health & Wellness
+  - Nutrition Science
+  - Applied Nutrition & Dietetics
+  - Exercise Science
+  - Fitness Training & Programme Design
+  - Sports Performance & Conditioning
+  - Sleep, Recovery & Stress
+  - Injury Prevention, Posture & Rehabilitation
+  - Preventive Health & Lifestyle Medicine
+  - Life Stages & Hormonal Health
+  - Health Behaviour, Coaching & Digital Health
+  - Public & Global Health
+  - Complementary & Integrative Health
+  - Professional Practice & Careers
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/discipline.json
+  sha256: 9b3c8d7dfabeaeffe23cdf592ba0ed2c27df44219f037c55ac574c55babe6e4e

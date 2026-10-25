@@ -1,0 +1,52 @@
+id: be-textured-curly-hair
+name: Textured, Curly & Coily Hair
+category: Hair & Scalp
+level: 2
+priority: important
+summary: The biology and care of curly and coily hair, from its structure and moisture needs to protective styling, traction alopecia and the cultural history of textured hair.
+prerequisites:
+  - be-hair-scalp-science
+related: []
+topics:
+  - id: be-textured-curly-hair-1
+    name: "Why hair curls: follicle shape and keratin distribution"
+  - id: be-textured-curly-hair-2
+    name: Curl typing systems and their limits
+  - id: be-textured-curly-hair-3
+    name: Fragility, breakage and knotting in tightly coiled hair
+  - id: be-textured-curly-hair-4
+    name: Porosity and moisture retention
+  - id: be-textured-curly-hair-5
+    name: "Wash routines: low-poo, co-washing and clarifying"
+  - id: be-textured-curly-hair-6
+    name: "Layering methods (LOC, LCO) and product choice: evidence and practice"
+  - id: be-textured-curly-hair-7
+    name: "Defining curls: gels, creams, diffusing and plopping"
+  - id: be-textured-curly-hair-8
+    name: Detangling and reducing mechanical damage
+  - id: be-textured-curly-hair-9
+    name: "Protective styles: braids, twists, locs and wigs"
+  - id: be-textured-curly-hair-10
+    name: "Heat and chemical straightening of textured hair: risks"
+  - id: be-textured-curly-hair-11
+    name: Scalp and hair-loss concerns
+    sub:
+      - id: be-textured-curly-hair-11-1
+        name: "Traction alopecia: prevention"
+      - id: be-textured-curly-hair-11-2
+        name: "Central centrifugal cicatricial alopecia: early signs"
+      - id: be-textured-curly-hair-11-3
+        name: Scalp care under protective styles
+  - id: be-textured-curly-hair-12
+    name: Caring for children's textured hair
+  - id: be-textured-curly-hair-13
+    name: History, culture and the natural hair movement
+  - id: be-textured-curly-hair-14
+    name: "Textured hair in research and product development: gaps and progress"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-textured-curly-hair.json
+  sha256: 98ec33c8938bced3944534f3a2542017c2b1c10cc1029796073764a8c449988a

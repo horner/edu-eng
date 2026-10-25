@@ -1,0 +1,34 @@
+id: el-ml-algorithms-for-resource-constrained-devices
+name: ML Algorithms for Resource-Constrained Devices
+category: Machine Learning & Edge AI
+level: 3
+priority: important
+summary: "Classical ML algorithms that fit on small devices: decision trees and forests, k-NN, SVM, regression, naive Bayes and anomaly detection."
+prerequisites:
+  - ai-core-ml-concepts
+  - el-embedded-systems-fundamentals
+related:
+  - ai-types-of-machine-learning
+  - ai-ensemble-methods
+topics:
+  - id: el-ml-algorithms-for-resource-constrained-devices-1
+    name: Decision trees and random forests
+  - id: el-ml-algorithms-for-resource-constrained-devices-2
+    name: K-Nearest Neighbors (K-NN)
+  - id: el-ml-algorithms-for-resource-constrained-devices-3
+    name: Support Vector Machines (SVM)
+  - id: el-ml-algorithms-for-resource-constrained-devices-4
+    name: Linear and logistic regression
+  - id: el-ml-algorithms-for-resource-constrained-devices-5
+    name: Naive Bayes
+  - id: el-ml-algorithms-for-resource-constrained-devices-6
+    name: Ensemble methods
+  - id: el-ml-algorithms-for-resource-constrained-devices-7
+    name: Anomaly detection algorithms
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-ml-algorithms-for-resource-constrained-devices.json
+  sha256: 01049f87b9d6b23a894a05a27a53cf1f5ab53274534497e101594b123f92449b

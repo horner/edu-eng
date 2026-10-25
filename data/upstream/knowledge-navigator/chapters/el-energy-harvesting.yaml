@@ -1,0 +1,30 @@
+id: el-energy-harvesting
+name: Energy Harvesting
+category: Power Electronics & Power Management
+level: 3
+priority: advanced
+summary: Powering devices from ambient solar, thermal, vibration and RF energy and storing it efficiently.
+prerequisites:
+  - el-switching-regulators
+related:
+  - ph-energy-physics
+topics:
+  - id: el-energy-harvesting-1
+    name: Solar energy harvesting
+  - id: el-energy-harvesting-2
+    name: Thermal energy (thermoelectric generators)
+  - id: el-energy-harvesting-3
+    name: Vibration energy (piezoelectric, electromagnetic)
+  - id: el-energy-harvesting-4
+    name: RF energy harvesting
+  - id: el-energy-harvesting-5
+    name: Ambient light harvesting
+  - id: el-energy-harvesting-6
+    name: Energy storage for harvesting systems
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-energy-harvesting.json
+  sha256: 16a2feac0053f39ecf1b3e45cd558605349943106d2f01da71f87b541f25d79c

@@ -1,0 +1,44 @@
+id: hf-training-principles-adaptations
+name: Training Principles & How the Body Adapts
+category: Exercise Science
+level: 2
+priority: core
+summary: The principles behind effective training and the changes exercise produces in the heart, lungs, muscles and bones.
+prerequisites:
+  - hf-exercise-fundamentals
+related:
+  - bi-exercise-physiology
+topics:
+  - id: hf-training-principles-adaptations-1
+    name: Stress, recovery and adaptation
+  - id: hf-training-principles-adaptations-2
+    name: "Training principles: overload, progression, specificity, individuality, variation and reversibility"
+  - id: hf-training-principles-adaptations-3
+    name: Energy systems in plain terms
+  - id: hf-training-principles-adaptations-4
+    name: "Acute responses: heart rate, breathing and blood flow"
+  - id: hf-training-principles-adaptations-5
+    name: Cardiorespiratory adaptations to endurance training
+  - id: hf-training-principles-adaptations-6
+    name: "Muscular adaptations: neural changes and hypertrophy"
+  - id: hf-training-principles-adaptations-7
+    name: Bone, tendon and connective tissue adaptations
+  - id: hf-training-principles-adaptations-8
+    name: Metabolic adaptations
+  - id: hf-training-principles-adaptations-9
+    name: How quickly adaptations happen and trainability
+  - id: hf-training-principles-adaptations-10
+    name: Individual differences in response to training
+  - id: hf-training-principles-adaptations-11
+    name: Minimum effective dose for health and fitness
+  - id: hf-training-principles-adaptations-12
+    name: "Detraining: what is lost and how fast"
+  - id: hf-training-principles-adaptations-13
+    name: Measuring progress
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-training-principles-adaptations.json
+  sha256: 431c5d86291450ce15c192de268bfa13609855fa1af5b7999a940ad4ae73327c

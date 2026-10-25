@@ -1,0 +1,43 @@
+id: mk-distribution-channels
+name: Distribution & Channel Management
+category: Product, Price & Place
+level: 2
+priority: important
+summary: How products reach customers through intermediaries and direct routes, and how to design and manage channels.
+prerequisites:
+  - mk-marketing-principles
+related:
+  - bu-introduction-to-business
+  - bu-supply-chain-management
+topics:
+  - id: mk-distribution-channels-1
+    name: "What channels do: functions and flows"
+  - id: mk-distribution-channels-2
+    name: "Channel levels and intermediaries: wholesalers, distributors, agents, retailers"
+  - id: mk-distribution-channels-3
+    name: Direct-to-consumer versus indirect distribution
+  - id: mk-distribution-channels-4
+    name: "Channel design: coverage, intensity and selection"
+  - id: mk-distribution-channels-5
+    name: Channel power, conflict and cooperation
+  - id: mk-distribution-channels-6
+    name: Franchising and vertical marketing systems
+  - id: mk-distribution-channels-7
+    name: Multichannel and omnichannel distribution
+  - id: mk-distribution-channels-8
+    name: Trade marketing and channel incentives
+  - id: mk-distribution-channels-9
+    name: Physical distribution and logistics basics
+  - id: mk-distribution-channels-10
+    name: Marketplaces and platforms as channels
+  - id: mk-distribution-channels-11
+    name: Channel partner programmes in technology markets
+  - id: mk-distribution-channels-12
+    name: Measuring channel performance
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-distribution-channels.json
+  sha256: 8a045ad4c79cd6a6bbb6e48ad8e054f5b9bb31f331df6c608dc70abe5c553804

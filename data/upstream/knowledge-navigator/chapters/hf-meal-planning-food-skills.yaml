@@ -1,0 +1,45 @@
+id: hf-meal-planning-food-skills
+name: Meal Planning, Shopping, Cooking & Food Labels
+category: Applied Nutrition & Dietetics
+level: 1
+priority: important
+summary: Practical skills for planning, buying, reading labels on and cooking healthy, affordable meals.
+prerequisites:
+  - hf-healthy-eating-patterns
+related: []
+topics:
+  - id: hf-meal-planning-food-skills-1
+    name: Planning balanced meals and a weekly menu
+  - id: hf-meal-planning-food-skills-2
+    name: Budgeting and shopping lists
+  - id: hf-meal-planning-food-skills-3
+    name: Reading the nutrition facts panel
+  - id: hf-meal-planning-food-skills-4
+    name: Ingredient lists and allergen declarations
+  - id: hf-meal-planning-food-skills-5
+    name: "Front-of-pack labels: traffic lights, Nutri-Score and warning labels"
+  - id: hf-meal-planning-food-skills-6
+    name: Nutrition and health claims and how they are regulated
+  - id: hf-meal-planning-food-skills-7
+    name: Use-by and best-before dates, and reducing food waste
+  - id: hf-meal-planning-food-skills-8
+    name: Basic kitchen skills and equipment
+  - id: hf-meal-planning-food-skills-9
+    name: Healthy cooking methods
+  - id: hf-meal-planning-food-skills-10
+    name: Batch cooking, storage and freezing
+  - id: hf-meal-planning-food-skills-11
+    name: Quick healthy meals and snacks
+  - id: hf-meal-planning-food-skills-12
+    name: Eating out, takeaways and reading menus
+  - id: hf-meal-planning-food-skills-13
+    name: Cooking for families and children
+  - id: hf-meal-planning-food-skills-14
+    name: Cooking with cultural and traditional foods
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-meal-planning-food-skills.json
+  sha256: 063bca5febd8d2ae560709c5c7b6717ce23c4838c16a6722689adbb2f4443df0

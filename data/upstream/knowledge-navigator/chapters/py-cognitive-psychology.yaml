@@ -1,0 +1,52 @@
+id: py-cognitive-psychology
+name: Cognitive Psychology
+category: Learning, Memory & Cognition
+level: 2
+priority: core
+summary: The science of how people attend, perceive, remember, use language, think and solve problems.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - ai-cognitive-architectures
+  - bi-cognitive-neuroscience
+topics:
+  - id: py-cognitive-psychology-1
+    name: The cognitive revolution and the information-processing approach
+  - id: py-cognitive-psychology-2
+    name: Perception and pattern recognition
+  - id: py-cognitive-psychology-3
+    name: "Attention: selective, divided and limited capacity"
+  - id: py-cognitive-psychology-4
+    name: Memory
+    sub:
+      - id: py-cognitive-psychology-4-1
+        name: Sensory, short-term and working memory
+      - id: py-cognitive-psychology-4-2
+        name: "Long-term memory: episodic, semantic and procedural"
+      - id: py-cognitive-psychology-4-3
+        name: Encoding, retrieval and forgetting
+      - id: py-cognitive-psychology-4-4
+        name: Memory errors and false memories
+  - id: py-cognitive-psychology-5
+    name: "Knowledge and concepts: categories, prototypes and schemas"
+  - id: py-cognitive-psychology-6
+    name: Mental imagery
+  - id: py-cognitive-psychology-7
+    name: "Language: comprehension and production in outline"
+  - id: py-cognitive-psychology-8
+    name: Problem solving and insight
+  - id: py-cognitive-psychology-9
+    name: Reasoning and decision-making in outline
+  - id: py-cognitive-psychology-10
+    name: Automatic and controlled processing
+  - id: py-cognitive-psychology-11
+    name: Cognition, emotion and embodiment
+  - id: py-cognitive-psychology-12
+    name: Cognitive science and artificial intelligence links
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-cognitive-psychology.json
+  sha256: 903a919d976e373b88b88b0d21132cf1e78325fde54b390cf38541472da023a4

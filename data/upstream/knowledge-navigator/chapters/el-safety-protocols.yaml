@@ -1,0 +1,26 @@
+id: el-safety-protocols
+name: Safety Protocols
+category: Communication Protocols & Connectivity
+level: 4
+priority: advanced
+summary: "Functional-safety communication layers: FSoE, PROFIsafe, CIP Safety and openSAFETY."
+prerequisites:
+  - el-industrial-ethernet
+  - el-safety-standards
+related: []
+topics:
+  - id: el-safety-protocols-1
+    name: Safety over EtherCAT (FSoE)
+  - id: el-safety-protocols-2
+    name: PROFIsafe
+  - id: el-safety-protocols-3
+    name: CIP Safety
+  - id: el-safety-protocols-4
+    name: openSAFETY
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-safety-protocols.json
+  sha256: a4b7fd4e2ba7cbb52c3bb7b0bc28d87c273da0d116e642eeace06f39a1ca7704

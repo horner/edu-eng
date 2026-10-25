@@ -1,0 +1,43 @@
+id: py-social-psychology
+name: Social Psychology
+category: Social Psychology & Behavioural Science
+level: 2
+priority: core
+summary: How other people, real or imagined, shape our thoughts, feelings and actions.
+prerequisites:
+  - py-introduction-to-psychology
+related: []
+topics:
+  - id: py-social-psychology-1
+    name: What social psychology studies and how
+  - id: py-social-psychology-2
+    name: "The social self: self-concept, self-esteem and self-presentation"
+  - id: py-social-psychology-3
+    name: Social perception and attribution
+  - id: py-social-psychology-4
+    name: Attitudes and cognitive dissonance
+  - id: py-social-psychology-5
+    name: Conformity, obedience and compliance
+  - id: py-social-psychology-6
+    name: Persuasion
+  - id: py-social-psychology-7
+    name: "Group behaviour: social facilitation, social loafing and groupthink"
+  - id: py-social-psychology-8
+    name: Prejudice, stereotypes and discrimination
+  - id: py-social-psychology-9
+    name: Attraction and close relationships
+  - id: py-social-psychology-10
+    name: Helping behaviour and the bystander effect
+  - id: py-social-psychology-11
+    name: Aggression
+  - id: py-social-psychology-12
+    name: Culture and social behaviour
+  - id: py-social-psychology-13
+    name: "Classic studies revisited: Milgram, Stanford prison experiment and their critiques"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-social-psychology.json
+  sha256: 967fdade98cdecabb361472e3bdf544879620d4dc3ee77d2a25dfea4feac7de9

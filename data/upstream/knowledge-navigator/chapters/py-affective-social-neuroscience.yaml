@@ -1,0 +1,48 @@
+id: py-affective-social-neuroscience
+name: Affective & Social Neuroscience
+category: Biological Bases of Behaviour
+level: 4
+priority: advanced
+summary: The brain systems behind emotion, reward, stress, empathy and social connection, and what they tell us about mental health.
+prerequisites:
+  - py-cognitive-neuroscience-for-psychologists
+  - bi-behavioral-neuroscience
+related:
+  - bi-cognitive-neuroscience
+  - bi-systems-neuroscience
+  - bi-neurobiology-of-disease
+  - mk-neuromarketing-evidence
+topics:
+  - id: py-affective-social-neuroscience-1
+    name: "Theories of emotion in neural terms: basic circuits vs constructionist views"
+  - id: py-affective-social-neuroscience-2
+    name: Amygdala, threat and fear learning
+  - id: py-affective-social-neuroscience-3
+    name: "Reward systems: dopamine, wanting and liking"
+  - id: py-affective-social-neuroscience-4
+    name: Interoception, the insula and bodily feelings
+  - id: py-affective-social-neuroscience-5
+    name: Prefrontal regulation of emotion
+  - id: py-affective-social-neuroscience-6
+    name: "Stress neurobiology: HPA axis, allostatic load and the brain"
+  - id: py-affective-social-neuroscience-7
+    name: Social brain networks and mentalising
+  - id: py-affective-social-neuroscience-8
+    name: Empathy, pain and compassion in the brain
+  - id: py-affective-social-neuroscience-9
+    name: "Neuropeptides and social bonding: oxytocin and vasopressin, evidence and hype"
+  - id: py-affective-social-neuroscience-10
+    name: Social pain, rejection and loneliness
+  - id: py-affective-social-neuroscience-11
+    name: Neuroscience of morality and decision-making
+  - id: py-affective-social-neuroscience-12
+    name: Affective neuroscience of depression, anxiety and addiction
+  - id: py-affective-social-neuroscience-13
+    name: "Developmental affective neuroscience: adolescence and early adversity"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-affective-social-neuroscience.json
+  sha256: 0ca58c501ace1df1dfba49b0e21e3da54b4c13bcfff2e527acb92d1826ca41bd

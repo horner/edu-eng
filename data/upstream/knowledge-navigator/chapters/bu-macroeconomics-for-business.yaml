@@ -1,0 +1,49 @@
+id: bu-macroeconomics-for-business
+name: Macroeconomics for Business
+category: Economics for Business
+level: 2
+priority: core
+summary: How the whole economy works (output, jobs, inflation, interest rates and exchange rates) and what it means for firms.
+prerequisites:
+  - bu-microeconomics-for-business
+related:
+  - bu-financial-markets-institutions
+topics:
+  - id: bu-macroeconomics-for-business-1
+    name: "Measuring the economy: GDP, GNI and their limits"
+  - id: bu-macroeconomics-for-business-2
+    name: "Unemployment: types and measurement"
+  - id: bu-macroeconomics-for-business-3
+    name: "Inflation: measurement, causes and costs"
+  - id: bu-macroeconomics-for-business-4
+    name: "Long-run growth: productivity, capital, technology and institutions"
+  - id: bu-macroeconomics-for-business-5
+    name: Aggregate demand and aggregate supply
+  - id: bu-macroeconomics-for-business-6
+    name: Business cycles and leading indicators
+  - id: bu-macroeconomics-for-business-7
+    name: Money, banks and money creation
+  - id: bu-macroeconomics-for-business-8
+    name: Central banks and monetary policy
+    sub:
+      - id: bu-macroeconomics-for-business-8-1
+        name: Interest-rate setting and transmission
+      - id: bu-macroeconomics-for-business-8-2
+        name: Quantitative easing and tightening
+      - id: bu-macroeconomics-for-business-8-3
+        name: Inflation targeting
+  - id: bu-macroeconomics-for-business-9
+    name: Fiscal policy, budget deficits and public debt
+  - id: bu-macroeconomics-for-business-10
+    name: "Exchange rates and the balance of payments: an introduction"
+  - id: bu-macroeconomics-for-business-11
+    name: "Financial crises and recessions: case studies (1929, 2008, 2020)"
+  - id: bu-macroeconomics-for-business-12
+    name: Reading economic data and forecasts for business planning
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-macroeconomics-for-business.json
+  sha256: 36a24ecd7c262282c3feeb484e41a9f9c8db027182e9c624686844569369a603

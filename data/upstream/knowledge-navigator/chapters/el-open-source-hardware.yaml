@@ -1,0 +1,33 @@
+id: el-open-source-hardware
+name: Open-Source Hardware
+category: Professional Practice, Business & Community
+level: 1
+priority: optional
+summary: "The open hardware ecosystem: Arduino, Raspberry Pi, ESP32, BeagleBone, Adafruit/SparkFun breakouts, Teensy and RISC-V boards."
+prerequisites: []
+related:
+  - el-development-kits-evaluation-boards
+topics:
+  - id: el-open-source-hardware-1
+    name: Arduino (Uno, Mega, Nano, ESP32-based)
+  - id: el-open-source-hardware-2
+    name: Raspberry Pi (Zero, 3, 4, 5, Pico)
+  - id: el-open-source-hardware-3
+    name: ESP8266 / ESP32
+  - id: el-open-source-hardware-4
+    name: BeagleBone (Black, AI)
+  - id: el-open-source-hardware-5
+    name: Adafruit and SparkFun breakout boards
+  - id: el-open-source-hardware-6
+    name: micro:bit, Teensy
+  - id: el-open-source-hardware-7
+    name: STM32 Nucleo and Discovery boards
+  - id: el-open-source-hardware-8
+    name: RISC-V development boards
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-open-source-hardware.json
+  sha256: 368c2b10b01129acd9db9c10d47948f7c56769e36f67e397cea29902b30b60b7

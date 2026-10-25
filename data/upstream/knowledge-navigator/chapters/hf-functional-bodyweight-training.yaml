@@ -1,0 +1,53 @@
+id: hf-functional-bodyweight-training
+name: Bodyweight, Calisthenics, Balance & Functional Training
+category: Fitness Training & Programme Design
+level: 2
+priority: important
+summary: Training with bodyweight and simple equipment for strength, skill, balance and everyday function.
+prerequisites:
+  - hf-resistance-training
+related:
+  - hf-functional-anatomy-kinesiology
+topics:
+  - id: hf-functional-bodyweight-training-1
+    name: What 'functional training' means and its limits
+  - id: hf-functional-bodyweight-training-2
+    name: "Bodyweight fundamentals: push-ups, squats, lunges and planks"
+  - id: hf-functional-bodyweight-training-3
+    name: Progressions and regressions
+  - id: hf-functional-bodyweight-training-4
+    name: Calisthenics skills
+    sub:
+      - id: hf-functional-bodyweight-training-4-1
+        name: Pull-ups and chin-ups
+      - id: hf-functional-bodyweight-training-4-2
+        name: Dips
+      - id: hf-functional-bodyweight-training-4-3
+        name: Handstands
+      - id: hf-functional-bodyweight-training-4-4
+        name: L-sits and levers
+      - id: hf-functional-bodyweight-training-4-5
+        name: Muscle-ups
+  - id: hf-functional-bodyweight-training-5
+    name: "Core training: anti-extension, anti-rotation and anti-lateral flexion"
+  - id: hf-functional-bodyweight-training-6
+    name: Balance and proprioception training
+  - id: hf-functional-bodyweight-training-7
+    name: "Unstable-surface training: the evidence"
+  - id: hf-functional-bodyweight-training-8
+    name: Kettlebells, suspension trainers and resistance bands
+  - id: hf-functional-bodyweight-training-9
+    name: Home and minimal-equipment workouts
+  - id: hf-functional-bodyweight-training-10
+    name: Circuit training
+  - id: hf-functional-bodyweight-training-11
+    name: Training for everyday tasks
+  - id: hf-functional-bodyweight-training-12
+    name: Balance training for falls prevention
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-functional-bodyweight-training.json
+  sha256: b3650651b034ce30034b8e5777dba63012489c29d4207236f9f09af438dab905

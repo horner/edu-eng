@@ -1,0 +1,47 @@
+id: hf-back-neck-pain
+name: Back, Neck & Persistent Pain
+category: Injury Prevention, Posture & Rehabilitation
+level: 2
+priority: important
+summary: Understanding and self-managing common back and neck pain, recognising red flags, and the science of persistent pain.
+prerequisites:
+  - hf-posture-ergonomics
+related:
+  - py-health-psychology
+  - bi-sensory-systems
+topics:
+  - id: hf-back-neck-pain-1
+    name: How common back and neck pain are and their usual course
+  - id: hf-back-neck-pain-2
+    name: Non-specific versus specific back pain
+  - id: hf-back-neck-pain-3
+    name: Red flags such as cauda equina syndrome and when to seek urgent care
+  - id: hf-back-neck-pain-4
+    name: Why scans often do not help
+  - id: hf-back-neck-pain-5
+    name: "Pain science basics: nociception, pain and sensitisation"
+  - id: hf-back-neck-pain-6
+    name: The biopsychosocial model of pain
+  - id: hf-back-neck-pain-7
+    name: Self-managing acute low back pain
+  - id: hf-back-neck-pain-8
+    name: "Exercise therapy: the evidence"
+  - id: hf-back-neck-pain-9
+    name: "Manual therapy: the evidence"
+  - id: hf-back-neck-pain-10
+    name: "Pain medicines: an overview of benefits and risks"
+  - id: hf-back-neck-pain-11
+    name: Sciatica and disc problems
+  - id: hf-back-neck-pain-12
+    name: Neck pain and headaches
+  - id: hf-back-neck-pain-13
+    name: "Living with persistent pain: pacing and graded activity"
+  - id: hf-back-neck-pain-14
+    name: Returning to work and activity
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-back-neck-pain.json
+  sha256: 73f6b0d2a8d157db57d5bec67b4fda54f3f9ce0b1c6e138d5c4bb7ca704f1d88

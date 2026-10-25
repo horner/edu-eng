@@ -1,0 +1,31 @@
+id: ai-cognitive-ai
+name: Cognitive AI
+category: Cognitive & Nature-Inspired AI
+level: 5
+priority: advanced
+summary: "Human-like reasoning capabilities for AI: common sense, theory of mind, causal, analogical and abstract reasoning."
+prerequisites:
+  - ai-knowledge-representation-reasoning
+  - ai-large-language-models-llms
+related:
+  - ai-cognitive-architectures
+topics:
+  - id: ai-cognitive-ai-1
+    name: Cognitive Simulation
+  - id: ai-cognitive-ai-2
+    name: Common Sense Reasoning
+  - id: ai-cognitive-ai-3
+    name: Theory of Mind
+  - id: ai-cognitive-ai-4
+    name: Causal Reasoning
+  - id: ai-cognitive-ai-5
+    name: Analogical Reasoning
+  - id: ai-cognitive-ai-6
+    name: Abstract Reasoning
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-cognitive-ai.json
+  sha256: 30fa13d9d05c45f8acc3850bbd6c09a62ed7afaf4200ce80f0f96c1d7959c5c1

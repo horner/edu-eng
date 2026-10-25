@@ -1,0 +1,43 @@
+id: mk-product-management
+name: Product & Portfolio Management
+category: Product, Price & Place
+level: 2
+priority: core
+summary: "Deciding what to sell: product levels, lines and portfolios, packaging, life-cycle management and the role of the product manager."
+prerequisites:
+  - mk-segmentation-targeting-positioning
+related:
+  - mk-brand-management
+  - bu-product-management
+topics:
+  - id: mk-product-management-1
+    name: "Products and services: levels of a product"
+  - id: mk-product-management-2
+    name: "Product classifications: convenience, shopping, specialty, industrial"
+  - id: mk-product-management-3
+    name: "Product attributes: quality, features, design"
+  - id: mk-product-management-4
+    name: Packaging and labelling decisions
+  - id: mk-product-management-5
+    name: "Product lines: length, stretching and filling"
+  - id: mk-product-management-6
+    name: Product mix and portfolio decisions
+  - id: mk-product-management-7
+    name: The product life cycle and strategies at each stage
+  - id: mk-product-management-8
+    name: Introduction to new product development
+  - id: mk-product-management-9
+    name: Product management roles in consumer and technology firms
+  - id: mk-product-management-10
+    name: Product roadmaps and prioritisation
+  - id: mk-product-management-11
+    name: Pruning and retiring products
+  - id: mk-product-management-12
+    name: Sustainable product design and life-cycle thinking
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-product-management.json
+  sha256: ae4539ec23b06768d5ff2f9582bebc712b4b9eec5953399f2bec614fe5240dea

@@ -1,0 +1,29 @@
+id: el-fpga-architectures
+name: FPGA Architectures
+category: FPGA, ASIC & VLSI Design
+level: 3
+priority: important
+summary: "What is inside an FPGA: logic blocks, interconnect, I/O and transceivers, block RAM, DSP slices and clock management."
+prerequisites:
+  - el-hardware-description-languages-hdl
+related: []
+topics:
+  - id: el-fpga-architectures-1
+    name: Logic blocks and configurable logic elements
+  - id: el-fpga-architectures-2
+    name: Programmable interconnects
+  - id: el-fpga-architectures-3
+    name: I/O blocks and transceivers
+  - id: el-fpga-architectures-4
+    name: Embedded memory blocks (BRAM, URAM)
+  - id: el-fpga-architectures-5
+    name: DSP slices and hard IP
+  - id: el-fpga-architectures-6
+    name: Clock management (PLL, MMCM, DLL)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-fpga-architectures.json
+  sha256: ca8dbbbb53faf1877bc52fbd6bf18e0d69289f42507bfbeca967931988c780e9

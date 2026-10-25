@@ -1,0 +1,36 @@
+id: ea-fluvial-processes-and-sediment-transport
+name: Fluvial Processes & Sediment Transport
+category: Earth Surface Processes
+level: 4
+priority: advanced
+summary: The mechanics of flowing water and sediment in rivers, and how channels, floodplains and deltas form and change.
+prerequisites:
+  - ea-geomorphology
+  - ph-fluid-mechanics
+related: []
+topics:
+  - id: ea-fluvial-processes-and-sediment-transport-1
+    name: "Open-channel flow: uniform flow, Manning and the Froude number"
+  - id: ea-fluvial-processes-and-sediment-transport-2
+    name: Turbulence and boundary shear stress
+  - id: ea-fluvial-processes-and-sediment-transport-3
+    name: Threshold of motion and the Shields criterion
+  - id: ea-fluvial-processes-and-sediment-transport-4
+    name: Bedload and suspended-load transport
+  - id: ea-fluvial-processes-and-sediment-transport-5
+    name: Bedforms and flow resistance
+  - id: ea-fluvial-processes-and-sediment-transport-6
+    name: "Channel patterns: straight, meandering, braided and anabranching"
+  - id: ea-fluvial-processes-and-sediment-transport-7
+    name: Bedrock incision and stream-power models
+  - id: ea-fluvial-processes-and-sediment-transport-8
+    name: Floodplains, avulsion and deltas
+  - id: ea-fluvial-processes-and-sediment-transport-9
+    name: River management and restoration
+discipline: earth
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/earth/ea-fluvial-processes-and-sediment-transport.json
+  sha256: 8f7c037a594de412e6938153f70dc367437b42cf568f195384fd166d5358de0a

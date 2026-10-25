@@ -1,0 +1,45 @@
+id: bu-auditing-assurance
+name: Auditing, Assurance & Internal Control
+category: Accounting, Audit & Tax
+level: 3
+priority: advanced
+summary: How auditors test financial statements, how internal controls prevent errors and fraud, and how fraud is investigated.
+prerequisites:
+  - bu-financial-accounting
+related:
+  - bu-corporate-governance
+  - bu-risk-management
+topics:
+  - id: bu-auditing-assurance-1
+    name: Purpose of audit, assurance engagements and the expectation gap
+  - id: bu-auditing-assurance-2
+    name: "Auditing standards and regulators: ISA, PCAOB and national oversight"
+  - id: bu-auditing-assurance-3
+    name: Professional ethics and auditor independence
+  - id: bu-auditing-assurance-4
+    name: Audit planning, materiality and risk assessment
+  - id: bu-auditing-assurance-5
+    name: "Internal control frameworks: COSO and control activities"
+  - id: bu-auditing-assurance-6
+    name: Internal control over financial reporting and SOX-style regimes
+  - id: bu-auditing-assurance-7
+    name: Audit evidence, sampling and analytical procedures
+  - id: bu-auditing-assurance-8
+    name: "Auditing key areas: revenue, receivables, inventory and payables"
+  - id: bu-auditing-assurance-9
+    name: IT general controls and auditing in an automated environment
+  - id: bu-auditing-assurance-10
+    name: Completion, going concern and the audit report
+  - id: bu-auditing-assurance-11
+    name: "Internal audit: role, independence and the three lines model"
+  - id: bu-auditing-assurance-12
+    name: "Fraud: the fraud triangle, common schemes and forensic accounting"
+  - id: bu-auditing-assurance-13
+    name: Data analytics in audit
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-auditing-assurance.json
+  sha256: e2cc8fca3fa24f559b91782ef3d6aeb63f913cb736b3232d18324da2f053b6bf

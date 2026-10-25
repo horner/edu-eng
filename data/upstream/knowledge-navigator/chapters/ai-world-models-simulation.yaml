@@ -1,0 +1,28 @@
+id: ai-world-models-simulation
+name: World Models & Simulation
+category: Emerging & Frontier Fields
+level: 5
+priority: advanced
+summary: Learned models of how the world evolves, video prediction, physics simulation, embodied AI environments and synthetic data.
+prerequisites:
+  - ai-advanced-rl-topics
+  - ai-generative-models
+related: []
+topics:
+  - id: ai-world-models-simulation-1
+    name: Learned World Models
+  - id: ai-world-models-simulation-2
+    name: Video Prediction
+  - id: ai-world-models-simulation-3
+    name: Physical Simulation
+  - id: ai-world-models-simulation-4
+    name: Embodied AI Environments
+  - id: ai-world-models-simulation-5
+    name: Synthetic Data Generation
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-world-models-simulation.json
+  sha256: 561e27bdebb1f7c9662dc4460317499bac63a5b82fcbcc044fa9f5dcfacd7d84

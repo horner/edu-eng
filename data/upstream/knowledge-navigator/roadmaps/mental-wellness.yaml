@@ -1,0 +1,262 @@
+id: mental-wellness
+name: Mental Wellness
+icon: 🌿
+tagline: Understand how your mind works and look after it with methods that have evidence behind them.
+description: For anyone who wants to understand their own mind and look after it, with no background in psychology needed. You start with how the mind and brain work and how to judge psychological claims, then work through stress, emotions, habits, sleep, movement, relationships and meaning, and finish by learning to recognise when a problem needs professional help and how to find it.
+outcomes:
+  - Explain in plain terms how thoughts, emotions, the body and behaviour affect each other, and why stress is not always harmful
+  - Use at least three evidence-based skills, such as reappraisal, behavioural activation and slow breathing, to manage stress, low mood, worry or anger
+  - Build a new habit and drop an unwanted one using cues, friction, implementation intentions and self-monitoring
+  - Improve your own sleep with the principles of CBT for insomnia, and plan activity, food and alcohol use with their effects on mood in mind
+  - Tell evidence-based self-help, apps and wellbeing claims apart from myths and pseudoscience
+  - Recognise the warning signs of common mental health problems and of a crisis, start a supportive conversation, and know which professional to turn to
+stages:
+  - name: How the mind works
+    description: A first map of psychology, the brain and the body, plus the critical thinking needed to judge what you read about mental health.
+    items:
+      - chapter: py-introduction-to-psychology
+        why: "The overview everything else hangs on: how psychologists study thought, feeling and behaviour, and what they have found."
+        depth: full
+      - chapter: py-psychological-literacy-critical-thinking
+        why: Self-help and social media are full of psychology myths; this is how to tell good evidence from a persuasive story.
+        depth: full
+      - chapter: py-mental-health-literacy
+        why: Mental health as a continuum, early warning signs, and who does what (GP, psychologist, psychiatrist, counsellor), so you know the landscape from the start.
+        depth: full
+      - chapter: bi-introductory-biology
+        why: Just enough biology (cells, homeostasis and evolution) to follow how the brain and body produce feelings.
+        depth: selected
+        focus:
+          - bi-introductory-biology-2
+          - bi-introductory-biology-3
+          - bi-introductory-biology-5
+          - bi-introductory-biology-10
+      - chapter: hf-human-body-basics
+        why: The nervous and hormone systems and homeostasis, which explain how stress and sleep work in the body.
+        depth: selected
+        focus:
+          - hf-human-body-basics-1
+          - hf-human-body-basics-3
+          - hf-human-body-basics-6
+          - hf-human-body-basics-7
+          - hf-human-body-basics-16
+      - chapter: py-biological-psychology
+        why: Neurons, neurotransmitters, stress hormones and plasticity, without the myths about "dopamine detoxes" and "chemical imbalances".
+        depth: selected
+        focus:
+          - py-biological-psychology-1
+          - py-biological-psychology-2
+          - py-biological-psychology-4
+          - py-biological-psychology-6
+          - py-biological-psychology-7
+          - py-biological-psychology-8
+          - py-biological-psychology-12
+      - chapter: py-cognitive-psychology
+        why: "Attention, memory and automatic versus controlled thinking: why your mind wanders, forgets and runs on autopilot."
+        depth: selected
+        focus:
+          - py-cognitive-psychology-3
+          - py-cognitive-psychology-4
+          - py-cognitive-psychology-10
+          - py-cognitive-psychology-11
+  - name: Stress, emotions and anger
+    description: What stress and emotions are for, what they do to the body, and the regulation skills that research supports.
+    items:
+      - chapter: py-stress-coping-resilience
+        why: How stress works, which ways of coping help, why burnout happens and how people recover from hard times.
+        depth: full
+      - chapter: hf-stress-physiology-health
+        why: What chronic stress does to the heart, gut, immunity and sleep, and which relaxation methods have evidence.
+        depth: full
+      - chapter: py-emotion-and-emotion-regulation
+        why: Emotions as useful signals, and practical ways to name, allow and reshape them instead of suppressing them.
+        depth: full
+      - chapter: py-anger-aggression-management
+        why: "Why venting makes anger worse and what does help: noticing triggers, cooling down, assertiveness and de-escalation."
+        depth: full
+      - chapter: py-self-compassion-inner-critic
+        why: Replacing harsh self-criticism and perfectionism with self-compassion, which is linked to better mood and motivation.
+        depth: full
+  - name: Habits, mindfulness and self-help skills
+    description: "The tools you use day to day: building habits, training attention and practising skills taken from tested therapies."
+    items:
+      - chapter: py-motivation-habits-behavior-change
+        why: How habits form and break, why willpower is overrated, and how to plan changes that last.
+        depth: full
+      - chapter: py-learning-conditioning
+        why: The learning principles behind habits, cravings and avoidance, which explain why some patterns are so hard to drop.
+        depth: selected
+        focus:
+          - py-learning-conditioning-1
+          - py-learning-conditioning-2
+          - py-learning-conditioning-3
+          - py-learning-conditioning-4
+          - py-learning-conditioning-9
+      - chapter: py-mindfulness-contemplative-science
+        why: What meditation can and cannot do, how to start a practice, and the side effects worth knowing about.
+        depth: full
+      - chapter: py-evidence-based-self-help
+        why: "Behavioural activation, worry time, problem solving and graded exposure: self-help skills that work in trials."
+        depth: full
+  - name: Sleep, movement and lifestyle
+    description: "The everyday habits with the strongest links to mood: sleep, physical activity, food and substances."
+    items:
+      - chapter: hf-sleep-science
+        why: How sleep and the body clock work, how much sleep you need, and what light, caffeine and screens do to it.
+        depth: full
+      - chapter: py-sleep-insomnia-mental-health
+        why: The two-way link between sleep and mood, and why CBT for insomnia beats sleeping pills and sleep hygiene alone.
+        depth: full
+      - chapter: hf-exercise-fundamentals
+        why: How much activity health needs and how to start safely, because movement is one of the best-tested mood treatments.
+        depth: full
+      - chapter: py-lifestyle-mental-health
+        why: What trials show about exercise, diet, nature, alcohol and routine for depression and anxiety, and where the hype starts.
+        depth: full
+      - chapter: hf-substance-use-harm-reduction
+        why: How alcohol, nicotine, cannabis and caffeine affect mood and sleep, and how to cut down or get support.
+        depth: selected
+        focus:
+          - hf-substance-use-harm-reduction-1
+          - hf-substance-use-harm-reduction-2
+          - hf-substance-use-harm-reduction-3
+          - hf-substance-use-harm-reduction-5
+          - hf-substance-use-harm-reduction-7
+          - hf-substance-use-harm-reduction-8
+          - hf-substance-use-harm-reduction-11
+          - hf-substance-use-harm-reduction-12
+          - hf-substance-use-harm-reduction-13
+  - name: Relationships and social connection
+    description: Other people are the strongest single influence on wellbeing, so this stage covers belonging, relationships, identity and loss.
+    items:
+      - chapter: py-social-psychology
+        why: How other people shape what we think, feel and do, including the classic studies and their critiques.
+        depth: selected
+        focus:
+          - py-social-psychology-1
+          - py-social-psychology-2
+          - py-social-psychology-3
+          - py-social-psychology-4
+          - py-social-psychology-5
+          - py-social-psychology-9
+          - py-social-psychology-10
+          - py-social-psychology-12
+      - chapter: py-close-relationships-social-connection
+        why: Why loneliness harms health and what research says about building and keeping friendships and partnerships.
+        depth: full
+      - chapter: py-self-and-identity
+        why: "Self-esteem, social comparison and identity: why chasing high self-esteem can backfire."
+        depth: full
+      - chapter: py-counselling-skills
+        why: Listening, reflecting and asking good questions, so you can support friends and family without taking over.
+        depth: selected
+        focus:
+          - py-counselling-skills-1
+          - py-counselling-skills-2
+          - py-counselling-skills-3
+          - py-counselling-skills-4
+          - py-counselling-skills-5
+          - py-counselling-skills-6
+          - py-counselling-skills-10
+          - py-counselling-skills-12
+      - chapter: py-grief-loss-bereavement
+        why: How people grieve, why the "five stages" mislead, and how to support yourself or someone else after a loss.
+        depth: full
+  - name: Meaning, purpose and a good life
+    description: The science of wellbeing alongside the philosophies, such as Stoicism, that people have long used to live well.
+    items:
+      - chapter: py-positive-psychology-wellbeing
+        why: What happiness is, why we mispredict it, and which activities (gratitude, kindness, savouring) reliably raise it.
+        depth: full
+      - chapter: py-meaning-purpose-spirituality
+        why: Meaning, purpose, awe and spirituality, and what research says about their links to wellbeing.
+        depth: full
+      - chapter: py-philosophies-of-the-good-life
+        why: Stoic, Aristotelian, Buddhist and existentialist ideas about living well, and which of their claims research has tested.
+        depth: full
+  - name: Body image and digital life
+    description: "Two modern pressures on mental health: how we see our bodies and how we use phones and social media."
+    items:
+      - chapter: py-body-image-self-perception
+        why: How media, filters and comparison shape body image, and what builds a healthier relationship with your appearance.
+        depth: full
+      - chapter: py-digital-wellbeing-cyberpsychology
+        why: What the large studies on screen time and social media actually show, and practical ways to use technology on purpose.
+        depth: full
+  - name: Knowing when and how to get help
+    description: Spotting when self-help is not enough, responding to a crisis, and finding the right professional and therapy.
+    items:
+      - chapter: py-psychopathology-foundations
+        why: How mental disorders are defined and treated, and why diagnosis is useful but not the whole story.
+        depth: selected
+        focus:
+          - py-psychopathology-foundations-1
+          - py-psychopathology-foundations-3
+          - py-psychopathology-foundations-5
+          - py-psychopathology-foundations-6
+          - py-psychopathology-foundations-8
+          - py-psychopathology-foundations-9
+          - py-psychopathology-foundations-12
+      - chapter: py-suicide-prevention-crisis-support
+        why: Warning signs, why asking directly about suicide helps, and how to connect someone to crisis support.
+        depth: full
+      - chapter: py-psychotherapy-foundations
+        why: Whether therapy works, what the main types are, what can go wrong, and how to choose a therapist.
+        depth: selected
+        focus:
+          - py-psychotherapy-foundations-1
+          - py-psychotherapy-foundations-2
+          - py-psychotherapy-foundations-3
+          - py-psychotherapy-foundations-9
+          - py-psychotherapy-foundations-11
+          - py-psychotherapy-foundations-12
+  - name: Electives
+    description: Optional chapters for going deeper into specific problems, therapies or parts of life.
+    items:
+      - chapter: py-anxiety-obsessive-compulsive-disorders
+        why: "Elective: panic, phobias, social anxiety, generalised anxiety and OCD, and the exposure-based treatments that work."
+        depth: full
+      - chapter: py-depression-bipolar-mood-disorders
+        why: "Elective: depression and bipolar disorder, their causes and the treatments with good evidence."
+        depth: full
+      - chapter: py-trauma-stress-dissociative-disorders
+        why: "Elective: normal recovery after trauma, PTSD and prolonged grief, and why most people prove resilient."
+        depth: full
+      - chapter: py-cognitive-behavioural-therapy
+        why: "Elective: how CBT works in detail, for anyone who wants to use its techniques more fully or is about to start it."
+        depth: full
+      - chapter: py-low-intensity-digital-interventions
+        why: "Elective: guided self-help, apps and internet CBT, and how to judge whether one is any good."
+        depth: full
+      - chapter: py-health-psychology
+        why: "Elective: how stress, beliefs and behaviour affect physical illness, pain and recovery."
+        depth: full
+      - chapter: py-sport-exercise-psychology
+        why: "Elective: staying motivated to exercise and the psychology of confidence, nerves and focus in sport."
+        depth: full
+      - chapter: hf-flexibility-mobility
+        why: "Elective: groundwork for yoga and tai chi; what stretching does and how to build a short routine."
+        depth: full
+      - chapter: hf-mind-body-movement
+        why: "Elective: yoga, tai chi and qigong, which combine movement, breathing and attention, and what their evidence shows."
+        depth: full
+      - chapter: py-lifespan-development
+        why: "Elective: how people change from childhood to old age, which helps make sense of your own history."
+        depth: full
+      - chapter: py-attachment-parenting-family
+        why: "Elective: attachment, parenting and family life, for parents and anyone curious about how early relationships shape us."
+        depth: full
+      - chapter: py-judgement-decision-making
+        why: "Elective: the biases that affect everyday choices about money, health and time, and how to make better ones."
+        depth: full
+related:
+  - whole-person-wellbeing
+  - fitness-physical-wellness
+  - understanding-people
+  - psychologist
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/roadmaps/mental-wellness.json
+  sha256: 18132edc738fe78edc38e009560e1f317582e7cc30f9c382a9632706c2bed6e7

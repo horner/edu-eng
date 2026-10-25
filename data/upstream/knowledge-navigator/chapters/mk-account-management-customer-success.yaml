@@ -1,0 +1,43 @@
+id: mk-account-management-customer-success
+name: Key Account Management & Customer Success
+category: Sales & Customer Relationships
+level: 3
+priority: important
+summary: "Keeping and growing existing customers: key account management, customer success, renewals and expansion."
+prerequisites:
+  - mk-sales-fundamentals
+  - mk-retention-loyalty
+related:
+  - mk-customer-experience-management
+topics:
+  - id: mk-account-management-customer-success-1
+    name: "Why existing customers matter: retention economics"
+  - id: mk-account-management-customer-success-2
+    name: Key account selection and classification
+  - id: mk-account-management-customer-success-3
+    name: Key account plans and relationship mapping
+  - id: mk-account-management-customer-success-4
+    name: Customer success as a function
+  - id: mk-account-management-customer-success-5
+    name: Onboarding and time to value
+  - id: mk-account-management-customer-success-6
+    name: Customer health scores
+  - id: mk-account-management-customer-success-7
+    name: Adoption and value realisation
+  - id: mk-account-management-customer-success-8
+    name: Business reviews with customers
+  - id: mk-account-management-customer-success-9
+    name: Renewals and churn prevention
+  - id: mk-account-management-customer-success-10
+    name: "Expansion: upsell and cross-sell"
+  - id: mk-account-management-customer-success-11
+    name: Advocacy, references and customer communities
+  - id: mk-account-management-customer-success-12
+    name: "Customer success metrics: gross and net revenue retention"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-account-management-customer-success.json
+  sha256: 27bd4519246c0acfd32b4f94f7631a7bf2935b6c5f32431d98310ea2c2411adb

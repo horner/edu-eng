@@ -1,0 +1,45 @@
+id: ch-medicinal-chemistry
+name: Medicinal Chemistry & Drug Design
+category: Medicinal & Pharmaceutical Chemistry
+level: 3
+priority: important
+summary: Discovering, designing and optimising drug molecules, from target and hit to clinical candidate and manufacture.
+prerequisites:
+  - ch-pharmacology-toxicology
+  - ch-organic-synthesis
+related:
+  - bi-pharmacology
+topics:
+  - id: ch-medicinal-chemistry-1
+    name: "Drug targets: receptors, enzymes, ion channels, transporters and nucleic acids"
+  - id: ch-medicinal-chemistry-2
+    name: Drug-target interactions and binding thermodynamics
+  - id: ch-medicinal-chemistry-3
+    name: "Hit identification: high-throughput, fragment-based and virtual screening"
+  - id: ch-medicinal-chemistry-4
+    name: Structure-activity relationships and lead optimization
+  - id: ch-medicinal-chemistry-5
+    name: Bioisosteres and privileged scaffolds
+  - id: ch-medicinal-chemistry-6
+    name: "Physicochemical properties: lipophilicity, solubility and Lipinski's rules"
+  - id: ch-medicinal-chemistry-7
+    name: Prodrugs and drug delivery
+  - id: ch-medicinal-chemistry-8
+    name: Structure-based and computer-aided drug design
+  - id: ch-medicinal-chemistry-9
+    name: Stereochemistry in drug design
+  - id: ch-medicinal-chemistry-10
+    name: Biologics, peptides and oligonucleotide drugs
+  - id: ch-medicinal-chemistry-11
+    name: "Case studies: antibiotics, antivirals, anticancer and CNS drugs"
+  - id: ch-medicinal-chemistry-12
+    name: Process chemistry and scale-up of active pharmaceutical ingredients
+  - id: ch-medicinal-chemistry-13
+    name: "The drug development pipeline: clinical trials and regulation"
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-medicinal-chemistry.json
+  sha256: 01492b5aba3843a522b539112e1d6e87c14dcca8a799541c855e78f54186c3eb

@@ -1,0 +1,27 @@
+id: el-certification-regulatory-strategy
+name: Certification & Regulatory Strategy
+category: Professional Practice, Business & Community
+level: 3
+priority: optional
+summary: "Planning a product's route to market approval: regulatory pathways, pre-compliance, choosing test labs, documentation and post-market duties."
+prerequisites:
+  - el-regulatory-compliance-testing
+related: []
+topics:
+  - id: el-certification-regulatory-strategy-1
+    name: Regulatory pathway planning
+  - id: el-certification-regulatory-strategy-2
+    name: Pre-compliance testing
+  - id: el-certification-regulatory-strategy-3
+    name: Certification body selection
+  - id: el-certification-regulatory-strategy-4
+    name: Documentation preparation
+  - id: el-certification-regulatory-strategy-5
+    name: Post-market surveillance
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-certification-regulatory-strategy.json
+  sha256: 9f9c5c7e5b6f5aba4722551f15400468499d9d5aa2c64503cfeb9436e8bcbc84

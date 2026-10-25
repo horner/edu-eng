@@ -1,0 +1,46 @@
+id: py-digital-wellbeing-cyberpsychology
+name: Digital Wellbeing & Cyberpsychology
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: important
+summary: How smartphones, social media, games and online life affect attention, mood and relationships, and evidence-based ways to use technology well.
+prerequisites:
+  - py-motivation-habits-behavior-change
+related:
+  - cs-hci
+  - cs-ux-design
+  - ai-recommender-systems
+topics:
+  - id: py-digital-wellbeing-cyberpsychology-1
+    name: "Cyberpsychology: the online self and online behaviour"
+  - id: py-digital-wellbeing-cyberpsychology-2
+    name: "Screen time and wellbeing: what the large studies show"
+  - id: py-digital-wellbeing-cyberpsychology-3
+    name: Social media, social comparison and mood
+  - id: py-digital-wellbeing-cyberpsychology-4
+    name: "Attention economy: persuasive design, notifications and variable rewards"
+  - id: py-digital-wellbeing-cyberpsychology-5
+    name: "Problematic smartphone and internet use: is it addiction?"
+  - id: py-digital-wellbeing-cyberpsychology-6
+    name: "Gaming: benefits, harms and gaming disorder"
+  - id: py-digital-wellbeing-cyberpsychology-7
+    name: Online disinhibition, trolling and cyberbullying
+  - id: py-digital-wellbeing-cyberpsychology-8
+    name: Online relationships and loneliness
+  - id: py-digital-wellbeing-cyberpsychology-9
+    name: "Children, teenagers and screens: guidance and debates"
+  - id: py-digital-wellbeing-cyberpsychology-10
+    name: Algorithms, filter bubbles and misinformation
+  - id: py-digital-wellbeing-cyberpsychology-11
+    name: "Digital detox: evidence vs claims"
+  - id: py-digital-wellbeing-cyberpsychology-12
+    name: "Practical strategies: notification control, phone-free times and intentional use"
+  - id: py-digital-wellbeing-cyberpsychology-13
+    name: "AI companions and chatbots: psychological effects"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-digital-wellbeing-cyberpsychology.json
+  sha256: 9e51e06f75929d7d6630bb88a3dc636c45ba184288e76c285319d877f9165068

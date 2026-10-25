@@ -1,0 +1,43 @@
+id: py-trauma-stress-dissociative-disorders
+name: Trauma, Stress-Related & Dissociative Disorders
+category: Mental Health & Psychopathology
+level: 3
+priority: important
+summary: How people respond to trauma and loss, from normal recovery to PTSD, complex PTSD, prolonged grief and dissociative disorders.
+prerequisites:
+  - py-psychopathology-foundations
+related: []
+topics:
+  - id: py-trauma-stress-dissociative-disorders-1
+    name: Traumatic events and the range of human responses
+  - id: py-trauma-stress-dissociative-disorders-2
+    name: Resilience and natural recovery after trauma
+  - id: py-trauma-stress-dissociative-disorders-3
+    name: Acute stress reactions and acute stress disorder
+  - id: py-trauma-stress-dissociative-disorders-4
+    name: "Post-traumatic stress disorder: symptoms and diagnosis"
+  - id: py-trauma-stress-dissociative-disorders-5
+    name: Complex PTSD in ICD-11
+  - id: py-trauma-stress-dissociative-disorders-6
+    name: "Models of PTSD: fear conditioning, cognitive model (Ehlers and Clark) and memory"
+  - id: py-trauma-stress-dissociative-disorders-7
+    name: Adjustment disorder
+  - id: py-trauma-stress-dissociative-disorders-8
+    name: Prolonged grief disorder
+  - id: py-trauma-stress-dissociative-disorders-9
+    name: Childhood trauma, abuse and its long-term effects
+  - id: py-trauma-stress-dissociative-disorders-10
+    name: "Dissociation and dissociative disorders: depersonalisation, amnesia and DID debates"
+  - id: py-trauma-stress-dissociative-disorders-11
+    name: Psychological first aid and why single-session debriefing is not recommended
+  - id: py-trauma-stress-dissociative-disorders-12
+    name: Evidence-based treatments in outline
+  - id: py-trauma-stress-dissociative-disorders-13
+    name: Moral injury and trauma in first responders and the military
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-trauma-stress-dissociative-disorders.json
+  sha256: 6f2e85937217adb7309505acff85e2d2c95948b67895812987fa73c9596602bb

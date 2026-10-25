@@ -1,0 +1,46 @@
+id: py-forensic-psychology
+name: Forensic & Criminal Psychology
+category: Applied Psychology
+level: 3
+priority: important
+summary: "Psychology in the legal and justice system: why people offend, police investigation, the courtroom, risk assessment and rehabilitation."
+prerequisites:
+  - py-psychopathology-foundations
+  - py-social-psychology
+related: []
+topics:
+  - id: py-forensic-psychology-1
+    name: Scope of forensic psychology and the expert witness
+  - id: py-forensic-psychology-2
+    name: "Theories of offending: biological, psychological and social"
+  - id: py-forensic-psychology-3
+    name: Psychopathy and violent offending
+  - id: py-forensic-psychology-4
+    name: Sexual offending and its treatment
+  - id: py-forensic-psychology-5
+    name: "Investigative interviewing: PEACE model and the cognitive interview"
+  - id: py-forensic-psychology-6
+    name: False confessions and interrogation methods
+  - id: py-forensic-psychology-7
+    name: Eyewitness testimony and identification
+  - id: py-forensic-psychology-8
+    name: "Offender profiling: claims and evidence"
+  - id: py-forensic-psychology-9
+    name: Jury decision-making
+  - id: py-forensic-psychology-10
+    name: "Mental health and the law: fitness to plead and insanity defence"
+  - id: py-forensic-psychology-11
+    name: Violence risk assessment (HCR-20)
+  - id: py-forensic-psychology-12
+    name: "Rehabilitation: risk-need-responsivity and the Good Lives Model"
+  - id: py-forensic-psychology-13
+    name: Victims, domestic abuse and trauma-informed justice
+  - id: py-forensic-psychology-14
+    name: Prisons, mental health and desistance
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-forensic-psychology.json
+  sha256: 58e5109302961bc3176eb96dc7c21e0efce1a2b486c0bc08e3e768fbb2a04ec7

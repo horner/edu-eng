@@ -1,0 +1,48 @@
+id: hf-lifestyle-medicine
+name: Lifestyle Medicine
+category: Preventive Health & Lifestyle Medicine
+level: 2
+priority: core
+summary: Using everyday behaviours, organised as the six pillars of lifestyle medicine, to prevent and treat chronic disease.
+prerequisites:
+  - hf-healthy-eating-patterns
+  - hf-exercise-fundamentals
+related:
+  - py-positive-psychology-wellbeing
+  - py-health-psychology
+  - py-lifestyle-mental-health
+  - be-lifestyle-appearance
+topics:
+  - id: hf-lifestyle-medicine-1
+    name: What lifestyle medicine is and how it relates to conventional care
+  - id: hf-lifestyle-medicine-2
+    name: The burden of chronic disease and its lifestyle causes
+  - id: hf-lifestyle-medicine-3
+    name: "The six pillars: an overview"
+  - id: hf-lifestyle-medicine-4
+    name: Eating patterns based on whole, minimally processed foods
+  - id: hf-lifestyle-medicine-5
+    name: Prescribing physical activity
+  - id: hf-lifestyle-medicine-6
+    name: Restorative sleep
+  - id: hf-lifestyle-medicine-7
+    name: Managing stress
+  - id: hf-lifestyle-medicine-8
+    name: Social connection and loneliness
+  - id: hf-lifestyle-medicine-9
+    name: Avoiding risky substances
+  - id: hf-lifestyle-medicine-10
+    name: "Evidence for remission and reversal: DiRECT, the Lifestyle Heart Trial and others"
+  - id: hf-lifestyle-medicine-11
+    name: Behaviour change in clinical settings
+  - id: hf-lifestyle-medicine-12
+    name: Group visits and shared medical appointments
+  - id: hf-lifestyle-medicine-13
+    name: Limits and critiques of lifestyle medicine
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-lifestyle-medicine.json
+  sha256: d853fc5abc6f71ff8fbf3eded7a1a43665135a772b19a7ca35159a90d192b261

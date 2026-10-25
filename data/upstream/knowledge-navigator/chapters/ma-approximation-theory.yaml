@@ -1,0 +1,32 @@
+id: ma-approximation-theory
+name: Approximation Theory
+category: Analysis
+level: 3
+priority: advanced
+summary: How well functions can be approximated by polynomials, rational functions and splines, and how fast the error shrinks.
+prerequisites:
+  - ma-real-analysis
+  - ma-interpolation-approximation
+related: []
+topics:
+  - id: ma-approximation-theory-4
+    name: Weierstrass approximation theorem
+  - id: ma-approximation-theory-1
+    name: Polynomial approximation
+  - id: ma-approximation-theory-5
+    name: Best approximation and Chebyshev alternation
+  - id: ma-approximation-theory-6
+    name: Chebyshev polynomials and expansions
+  - id: ma-approximation-theory-2
+    name: Rational approximation
+  - id: ma-approximation-theory-3
+    name: Spline approximation
+  - id: ma-approximation-theory-7
+    name: Trigonometric approximation and Jackson theorems
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-approximation-theory.json
+  sha256: 5df2cb5bf97ee8597b19c4c3e570372d1f539067b40526b169a8c613d3d119d7

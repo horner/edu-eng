@@ -1,0 +1,54 @@
+id: be-brows-lashes
+name: "Brows & Lashes: Shaping, Tinting, Extensions & Semi-Permanent Makeup"
+category: Makeup & Colour
+level: 2
+priority: important
+summary: Brow and lash services from shaping and tinting to lifts and extensions, plus microblading and semi-permanent makeup, with their safety risks.
+prerequisites:
+  - be-makeup-fundamentals
+  - be-hygiene-infection-control
+related: []
+topics:
+  - id: be-brows-lashes-1
+    name: Brow mapping and face proportions
+  - id: be-brows-lashes-2
+    name: "Brow shaping: tweezing, waxing and threading"
+  - id: be-brows-lashes-3
+    name: "Brow and lash tinting: products and eye safety"
+  - id: be-brows-lashes-4
+    name: "Brow lamination and lash lifts: chemistry and risks"
+  - id: be-brows-lashes-5
+    name: Lash extensions
+    sub:
+      - id: be-brows-lashes-5-1
+        name: Classic, hybrid and volume
+      - id: be-brows-lashes-5-2
+        name: "Adhesives: cyanoacrylate allergy and fumes"
+      - id: be-brows-lashes-5-3
+        name: Lash health and natural lash damage
+  - id: be-brows-lashes-6
+    name: False lashes and magnetic lashes
+  - id: be-brows-lashes-7
+    name: "Lash and brow growth serums: prostaglandin analogues and side effects"
+  - id: be-brows-lashes-8
+    name: Semi-permanent makeup
+    sub:
+      - id: be-brows-lashes-8-1
+        name: Microblading and powder brows
+      - id: be-brows-lashes-8-2
+        name: Lip blush and eyeliner tattooing
+      - id: be-brows-lashes-8-3
+        name: Pigment safety and regulation
+      - id: be-brows-lashes-8-4
+        name: Healing, fading and removal
+  - id: be-brows-lashes-9
+    name: Infection control for eye-area services
+  - id: be-brows-lashes-10
+    name: Contraindications and when to refer
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-brows-lashes.json
+  sha256: 0dc0fa9ff26f0108e1e8b3cbbe0536cbcc729bd0ca0d1985d9e4180b873ca84c

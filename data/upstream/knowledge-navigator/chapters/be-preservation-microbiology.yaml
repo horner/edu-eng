@@ -1,0 +1,52 @@
+id: be-preservation-microbiology
+name: Cosmetic Microbiology & Preservation
+category: Cosmetic Chemistry & Formulation
+level: 3
+priority: important
+summary: How microbes contaminate cosmetics, how products are preserved and tested, and how hygiene in manufacturing and use keeps products safe.
+prerequisites:
+  - be-cosmetic-ingredients
+  - bi-microbiology
+related:
+  - bi-microbiome
+topics:
+  - id: be-preservation-microbiology-1
+    name: "Microorganisms of concern in cosmetics: bacteria, yeasts and moulds"
+  - id: be-preservation-microbiology-2
+    name: "Sources of contamination: raw materials, water, equipment, people and consumers"
+  - id: be-preservation-microbiology-3
+    name: "Consequences of contamination: spoilage and infection, with recall case studies"
+  - id: be-preservation-microbiology-4
+    name: Preservatives
+    sub:
+      - id: be-preservation-microbiology-4-1
+        name: Parabens
+      - id: be-preservation-microbiology-4-2
+        name: Phenoxyethanol and organic acids
+      - id: be-preservation-microbiology-4-3
+        name: Isothiazolinones and the sensitisation problem
+      - id: be-preservation-microbiology-4-4
+        name: Formaldehyde releasers
+      - id: be-preservation-microbiology-4-5
+        name: Multifunctional and "preservative-free" systems
+  - id: be-preservation-microbiology-5
+    name: "Factors affecting preservative efficacy: pH, water activity, partitioning and packaging"
+  - id: be-preservation-microbiology-6
+    name: "Preservative efficacy (challenge) testing: ISO 11930 and other methods"
+  - id: be-preservation-microbiology-7
+    name: Microbial limits and testing of finished products
+  - id: be-preservation-microbiology-8
+    name: Water systems and cleaning and sanitisation in the plant
+  - id: be-preservation-microbiology-9
+    name: Self-preserving formulas and hurdle technology
+  - id: be-preservation-microbiology-10
+    name: "Packaging that protects: airless pumps, tubes and single-dose formats"
+  - id: be-preservation-microbiology-11
+    name: Preserving products with a reduced microbiome impact
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-preservation-microbiology.json
+  sha256: 25ecb99570dacf03c642107a8a0cffeb3a321e5e89e163aefaf5bb7a6bd641d7

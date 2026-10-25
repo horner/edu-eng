@@ -1,0 +1,25 @@
+id: el-data-exchange-standards
+name: Data Exchange Standards
+category: IoT Architectures, Platforms & Data
+level: 4
+priority: advanced
+summary: "Industrial data-exchange standards: OPC UA information models, AutomationML, FDI and MTConnect."
+prerequisites:
+  - el-iot-data-models
+related: []
+topics:
+  - id: el-data-exchange-standards-1
+    name: OPC UA information models
+  - id: el-data-exchange-standards-2
+    name: AutomationML
+  - id: el-data-exchange-standards-3
+    name: FDI (Field Device Integration)
+  - id: el-data-exchange-standards-4
+    name: MTConnect (manufacturing data)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-data-exchange-standards.json
+  sha256: 9b95a8b3970d537d84b4c5157abbbfdbeeb2ead2d6a10ad90cea6f21f7470845

@@ -1,0 +1,43 @@
+id: mk-social-media-marketing
+name: Social Media Marketing
+category: Digital Marketing
+level: 2
+priority: important
+summary: Building audiences and relationships on social platforms through organic content, community management and social listening.
+prerequisites:
+  - mk-digital-marketing
+related: []
+topics:
+  - id: mk-social-media-marketing-1
+    name: The social media landscape and platform cultures
+  - id: mk-social-media-marketing-2
+    name: How feed algorithms rank content
+  - id: mk-social-media-marketing-3
+    name: Social media strategy and objectives
+  - id: mk-social-media-marketing-4
+    name: "Content formats: short video, images, text, live, stories"
+  - id: mk-social-media-marketing-5
+    name: Content calendars and publishing workflows
+  - id: mk-social-media-marketing-6
+    name: Community management and responding to customers
+  - id: mk-social-media-marketing-7
+    name: Social customer service
+  - id: mk-social-media-marketing-8
+    name: Social listening and sentiment analysis
+  - id: mk-social-media-marketing-9
+    name: Employee advocacy
+  - id: mk-social-media-marketing-10
+    name: Brand communities and user-generated content
+  - id: mk-social-media-marketing-11
+    name: Social media metrics that matter
+  - id: mk-social-media-marketing-12
+    name: Social media crises and moderation
+  - id: mk-social-media-marketing-13
+    name: Wellbeing, misinformation and platform responsibility
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-social-media-marketing.json
+  sha256: e660117263ce80ec1620bba30934bba1c78c34b5ab3069302a6b7d32b498a094

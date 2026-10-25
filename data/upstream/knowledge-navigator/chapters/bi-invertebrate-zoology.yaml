@@ -1,0 +1,37 @@
+id: bi-invertebrate-zoology
+name: Invertebrate Zoology
+category: Biodiversity & Systematics
+level: 3
+priority: advanced
+summary: An in-depth look at the invertebrate phyla, which make up over 95% of animal species, including insects and other arthropods.
+prerequisites:
+  - bi-animal-diversity
+related: []
+topics:
+  - id: bi-invertebrate-zoology-1
+    name: "Early-branching animals: sponges, placozoans, ctenophores"
+  - id: bi-invertebrate-zoology-2
+    name: "Cnidarians: polyps, medusae, corals and nematocysts"
+  - id: bi-invertebrate-zoology-3
+    name: Flatworms, rotifers and other small lophotrochozoans
+  - id: bi-invertebrate-zoology-4
+    name: "Molluscs: body plan, diversity and cephalopod intelligence"
+  - id: bi-invertebrate-zoology-5
+    name: "Annelids: segmentation and diversity"
+  - id: bi-invertebrate-zoology-6
+    name: Nematodes and other ecdysozoans
+  - id: bi-invertebrate-zoology-7
+    name: Arthropod body plan, exoskeleton and moulting
+  - id: bi-invertebrate-zoology-8
+    name: "Entomology: insect anatomy, metamorphosis, diversity and ecological roles"
+  - id: bi-invertebrate-zoology-9
+    name: Crustaceans, chelicerates and myriapods
+  - id: bi-invertebrate-zoology-10
+    name: Echinoderms and invertebrate chordates
+discipline: biology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/biology/bi-invertebrate-zoology.json
+  sha256: 60ef1c3550383ca33cb1642aa582d3c254ecb4f7d76f583d7d10999e8725ffc2

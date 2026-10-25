@@ -1,0 +1,45 @@
+id: bu-ai-for-business
+name: AI for Business
+category: Technology & Digital Business
+level: 2
+priority: important
+summary: What AI and generative AI can and cannot do for a business, and how to choose, implement and govern AI projects.
+prerequisites:
+  - bu-management-information-systems
+related:
+  - ai-introduction-to-ai-ml
+  - ai-ai-governance-policy
+  - ai-prompt-engineering
+  - mk-ai-in-marketing
+topics:
+  - id: bu-ai-for-business-1
+    name: AI, machine learning and generative AI explained for managers
+  - id: bu-ai-for-business-2
+    name: "Where AI creates value: prediction, automation and generation"
+  - id: bu-ai-for-business-3
+    name: Identifying and prioritising AI use cases
+  - id: bu-ai-for-business-4
+    name: Data readiness and data quality
+  - id: bu-ai-for-business-5
+    name: "Build, buy or partner: AI vendors and platforms"
+  - id: bu-ai-for-business-6
+    name: "Using generative AI tools at work: productivity and limits"
+  - id: bu-ai-for-business-7
+    name: Designing human-AI workflows
+  - id: bu-ai-for-business-8
+    name: Measuring AI project ROI and running pilots
+  - id: bu-ai-for-business-9
+    name: "Risks: errors, hallucinations, bias, IP and security"
+  - id: bu-ai-for-business-10
+    name: AI regulation and governance (EU AI Act, US and other approaches)
+  - id: bu-ai-for-business-11
+    name: "AI and the workforce: reskilling and job redesign"
+  - id: bu-ai-for-business-12
+    name: AI strategy and competitive advantage
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-ai-for-business.json
+  sha256: f505ebe6612d4c3dfabe6a0f7a69851741e1524aba7adc306b6175f46c696b87

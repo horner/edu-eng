@@ -1,0 +1,46 @@
+id: bu-regression-forecasting
+name: Regression & Forecasting for Business
+category: Analytics & Decision Sciences
+level: 3
+priority: important
+summary: Building and interpreting regression and time-series models to explain and forecast business outcomes.
+prerequisites:
+  - bu-business-statistics-analytics
+related:
+  - ma-regression-analysis
+  - ma-time-series-analysis
+  - ai-time-series-forecasting
+topics:
+  - id: bu-regression-forecasting-1
+    name: "Multiple regression: estimation and interpretation"
+  - id: bu-regression-forecasting-2
+    name: Dummy variables and interaction terms
+  - id: bu-regression-forecasting-3
+    name: Nonlinear relationships and transformations
+  - id: bu-regression-forecasting-4
+    name: "Model diagnostics: residuals, multicollinearity and outliers"
+  - id: bu-regression-forecasting-5
+    name: Model selection and overfitting
+  - id: bu-regression-forecasting-6
+    name: Correlation vs causation in observational data
+  - id: bu-regression-forecasting-7
+    name: Logistic regression for yes/no outcomes
+  - id: bu-regression-forecasting-8
+    name: "Time-series components: trend, seasonality and cycles"
+  - id: bu-regression-forecasting-9
+    name: Smoothing and exponential smoothing methods
+  - id: bu-regression-forecasting-10
+    name: "ARIMA models: an applied introduction"
+  - id: bu-regression-forecasting-11
+    name: Forecast evaluation and accuracy metrics
+  - id: bu-regression-forecasting-12
+    name: Judgemental forecasting and combining forecasts
+  - id: bu-regression-forecasting-13
+    name: "Applications: demand, sales, pricing and HR analytics"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-regression-forecasting.json
+  sha256: 670c28fef294e41a987b5fbbb9970f6a7e43104809f4e5f419fd1b72226364de

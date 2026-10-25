@@ -1,0 +1,31 @@
+id: el-high-speed-interfaces
+name: High-Speed Interfaces
+category: Communication Protocols & Connectivity
+level: 3
+priority: advanced
+summary: "Multi-gigabit interfaces: PCIe, SATA and NVMe, MIPI CSI/DSI, DisplayPort, HDMI and Thunderbolt."
+prerequisites:
+  - el-high-speed-digital-design
+related: []
+topics:
+  - id: el-high-speed-interfaces-1
+    name: PCIe (PCI Express) - lanes, endpoints, switches
+  - id: el-high-speed-interfaces-2
+    name: SATA (Serial ATA) - for storage
+  - id: el-high-speed-interfaces-3
+    name: NVMe (Non-Volatile Memory Express)
+  - id: el-high-speed-interfaces-4
+    name: MIPI (CSI, DSI) - camera and display interfaces
+  - id: el-high-speed-interfaces-5
+    name: DisplayPort and eDP
+  - id: el-high-speed-interfaces-6
+    name: HDMI (High-Definition Multimedia Interface)
+  - id: el-high-speed-interfaces-7
+    name: Thunderbolt
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-high-speed-interfaces.json
+  sha256: 04725491ee1a8cbbd505f09283eb61644cec2a78df53e879c759317713b3f6af

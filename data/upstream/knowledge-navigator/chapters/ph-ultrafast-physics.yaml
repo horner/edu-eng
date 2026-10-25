@@ -1,0 +1,27 @@
+id: ph-ultrafast-physics
+name: Ultrafast Physics
+category: Optics & Photonics
+level: 4
+priority: advanced
+summary: Femtosecond and attosecond light pulses and what they reveal about electron and molecular motion.
+prerequisites:
+  - ph-modern-optics
+  - ph-atomic-physics
+related:
+  - ch-ultrafast-nonlinear-spectroscopy
+topics:
+  - id: ph-ultrafast-physics-1
+    name: Attosecond science
+  - id: ph-ultrafast-physics-2
+    name: Femtosecond physics
+  - id: ph-ultrafast-physics-3
+    name: Ultrafast spectroscopy
+  - id: ph-ultrafast-physics-4
+    name: High harmonic generation
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-ultrafast-physics.json
+  sha256: 0fb7630989c1957491b65773938d0548b18c44a0c4595bad7e312b212e60aaa4

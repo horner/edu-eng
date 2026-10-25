@@ -1,0 +1,45 @@
+id: bu-corporate-governance
+name: Corporate Governance
+category: Law, Governance, Ethics & Sustainability
+level: 3
+priority: important
+summary: "How companies are directed and controlled: boards, shareholders, executive pay and accountability."
+prerequisites:
+  - bu-company-law
+related:
+  - bu-auditing-assurance
+  - bu-general-management
+topics:
+  - id: bu-corporate-governance-1
+    name: Agency theory and the separation of ownership and control
+  - id: bu-corporate-governance-2
+    name: Shareholder and stakeholder models of governance
+  - id: bu-corporate-governance-3
+    name: "The board of directors: roles, composition and independence"
+  - id: bu-corporate-governance-4
+    name: "Board committees: audit, remuneration and nomination"
+  - id: bu-corporate-governance-5
+    name: Executive compensation and incentives
+  - id: bu-corporate-governance-6
+    name: Shareholder rights, voting and engagement
+  - id: bu-corporate-governance-7
+    name: Institutional investors, stewardship and proxy advisers
+  - id: bu-corporate-governance-8
+    name: Shareholder activism
+  - id: bu-corporate-governance-9
+    name: "Governance codes compared: UK Corporate Governance Code, US SOX and listing rules, India SEBI LODR"
+  - id: bu-corporate-governance-10
+    name: Governance in startups, family firms and state-owned enterprises
+  - id: bu-corporate-governance-11
+    name: Risk oversight and internal control
+  - id: bu-corporate-governance-12
+    name: ESG and sustainability governance at board level
+  - id: bu-corporate-governance-13
+    name: Governance failures and reforms
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-corporate-governance.json
+  sha256: fe5581a16572aa10afe42e63897b5d4d11a3926cbfffff2aecf9240007faba9d

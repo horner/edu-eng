@@ -1,0 +1,45 @@
+id: hf-sports-nutrition
+name: Sports & Exercise Nutrition
+category: Applied Nutrition & Dietetics
+level: 3
+priority: important
+summary: Evidence-based nutrition strategies for training, competition and recovery in athletes.
+prerequisites:
+  - hf-nutrition-for-active-living
+  - hf-applied-exercise-physiology
+related:
+  - bi-exercise-physiology
+topics:
+  - id: hf-sports-nutrition-1
+    name: Energy availability and relative energy deficiency in sport (RED-S)
+  - id: hf-sports-nutrition-2
+    name: "Periodised carbohydrate: carbohydrate loading and 'train low' approaches"
+  - id: hf-sports-nutrition-3
+    name: "Protein and muscle protein synthesis: dose, leucine and distribution"
+  - id: hf-sports-nutrition-4
+    name: "Nutrient timing: what the ISSN position stands conclude"
+  - id: hf-sports-nutrition-5
+    name: Fat adaptation and ketogenic diets in athletes
+  - id: hf-sports-nutrition-6
+    name: Hydration strategies, sweat testing and exercise-associated hyponatraemia
+  - id: hf-sports-nutrition-7
+    name: Nutrition for endurance, team, strength and power sports
+  - id: hf-sports-nutrition-8
+    name: "Weight-category sports: making weight safely and the dangers of rapid weight cutting"
+  - id: hf-sports-nutrition-9
+    name: Nutrition for travel, heat and altitude
+  - id: hf-sports-nutrition-10
+    name: Gut training and gastrointestinal problems in athletes
+  - id: hf-sports-nutrition-11
+    name: "Evidence-based performance supplements: caffeine, creatine, nitrate, beta-alanine and bicarbonate"
+  - id: hf-sports-nutrition-12
+    name: Assessing an athlete's diet and body composition responsibly
+  - id: hf-sports-nutrition-13
+    name: "Disordered eating in sport: recognising it and referring"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-sports-nutrition.json
+  sha256: 19da3ccefef102c15526f13ad028b75259dc82595caeee0e558fc426e331107e

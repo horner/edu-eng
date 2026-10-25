@@ -1,0 +1,32 @@
+id: el-build-systems
+name: Build Systems
+category: Embedded Development Practices & Debugging
+level: 2
+priority: important
+summary: Automating builds with Make, CMake, Ninja, Meson, Bazel and other build tools.
+prerequisites:
+  - el-programming-languages
+related:
+  - cs-command-line-shell
+topics:
+  - id: el-build-systems-1
+    name: Make and Makefiles
+  - id: el-build-systems-2
+    name: CMake (cross-platform build)
+  - id: el-build-systems-3
+    name: Bazel (Google's build system)
+  - id: el-build-systems-4
+    name: Ninja (fast build tool)
+  - id: el-build-systems-5
+    name: Meson
+  - id: el-build-systems-6
+    name: SCons
+  - id: el-build-systems-7
+    name: GNU Autotools
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-build-systems.json
+  sha256: d62974deb3ad0ed540a904ebd75db8dc8a5917c4be6430c935c83dc48c73f5f3

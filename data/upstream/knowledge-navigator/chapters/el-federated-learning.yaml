@@ -1,0 +1,26 @@
+id: el-federated-learning
+name: Federated Learning
+category: Machine Learning & Edge AI
+level: 4
+priority: advanced
+summary: "Training models across many devices without centralizing data: on-device updates, aggregation and privacy."
+prerequisites:
+  - el-deep-learning-on-edge
+related:
+  - ai-privacy-in-ai
+topics:
+  - id: el-federated-learning-1
+    name: Distributed training across devices
+  - id: el-federated-learning-2
+    name: Privacy-preserving ML
+  - id: el-federated-learning-3
+    name: On-device model updates
+  - id: el-federated-learning-4
+    name: Aggregation strategies
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-federated-learning.json
+  sha256: 6abe1de5d8dc6d7ca1facc59d9b8b1df8e324c6029ff3ba0b75eedb6f07ccd9e

@@ -1,0 +1,30 @@
+id: ma-formal-languages
+name: Formal Languages
+category: Theoretical Computer Science
+level: 3
+priority: important
+summary: "Grammars and languages: regular and context-free languages, pumping lemmas and the Chomsky hierarchy."
+prerequisites:
+  - ma-automata-theory
+related:
+  - cs-compilers
+topics:
+  - id: ma-formal-languages-1
+    name: Regular languages
+  - id: ma-formal-languages-4
+    name: Pumping lemmas
+  - id: ma-formal-languages-2
+    name: Context-free languages
+  - id: ma-formal-languages-5
+    name: Parsing and normal forms
+  - id: ma-formal-languages-6
+    name: Context-sensitive and recursively enumerable languages
+  - id: ma-formal-languages-3
+    name: Chomsky hierarchy
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-formal-languages.json
+  sha256: 8b551803e6cac77ec9c83ea65b2009d1f0d3c7d74957a4cb4a97d4b0011f551f

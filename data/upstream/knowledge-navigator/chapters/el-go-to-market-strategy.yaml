@@ -1,0 +1,27 @@
+id: el-go-to-market-strategy
+name: Go-to-Market Strategy
+category: Professional Practice, Business & Community
+level: 3
+priority: optional
+summary: "Taking a hardware product to market: target markets, competition, pricing, sales channels and marketing material."
+prerequisites:
+  - el-product-development
+related: []
+topics:
+  - id: el-go-to-market-strategy-1
+    name: Target market identification
+  - id: el-go-to-market-strategy-2
+    name: Competitive analysis
+  - id: el-go-to-market-strategy-3
+    name: Pricing strategy
+  - id: el-go-to-market-strategy-4
+    name: Sales channels (direct, distributors, online)
+  - id: el-go-to-market-strategy-5
+    name: Marketing materials and collateral
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-go-to-market-strategy.json
+  sha256: 4f6102c65f6bf30d3f8a41ea872741dacf49d9763d4395808315b3f9bb96c699

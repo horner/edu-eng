@@ -1,0 +1,43 @@
+id: hf-posture-ergonomics
+name: Posture, Ergonomics & Sedentary Living
+category: Injury Prevention, Posture & Rehabilitation
+level: 1
+priority: important
+summary: What the evidence says about posture, sitting and workstation set-up, and how to move more during the day.
+prerequisites:
+  - hf-human-body-basics
+related: []
+topics:
+  - id: hf-posture-ergonomics-1
+    name: "What 'good posture' means: myths and evidence"
+  - id: hf-posture-ergonomics-2
+    name: "Posture and pain: how strong is the link?"
+  - id: hf-posture-ergonomics-3
+    name: The spine's natural curves
+  - id: hf-posture-ergonomics-4
+    name: Setting up a workstation
+  - id: hf-posture-ergonomics-5
+    name: Laptops, phones and 'tech neck'
+  - id: hf-posture-ergonomics-6
+    name: Sitting time and health
+  - id: hf-posture-ergonomics-7
+    name: "Sit-stand desks: the evidence"
+  - id: hf-posture-ergonomics-8
+    name: Movement breaks and microbreaks
+  - id: hf-posture-ergonomics-9
+    name: "Lifting and manual handling: what the evidence says"
+  - id: hf-posture-ergonomics-10
+    name: Sleep positions, pillows and mattresses
+  - id: hf-posture-ergonomics-11
+    name: Carrying bags and children
+  - id: hf-posture-ergonomics-12
+    name: Ergonomics for students and home workers
+  - id: hf-posture-ergonomics-13
+    name: Driving posture
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-posture-ergonomics.json
+  sha256: b8b31b3c00cef16771ddb0d414d1ea6411713bdc4dc0c5fce907842fcc001ffe

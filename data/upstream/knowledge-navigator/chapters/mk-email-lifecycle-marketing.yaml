@@ -1,0 +1,60 @@
+id: mk-email-lifecycle-marketing
+name: Email & Lifecycle Marketing
+category: Digital Marketing
+level: 2
+priority: important
+summary: Using email and other direct messages across the customer life cycle, from welcome to win-back, with good deliverability and consent.
+prerequisites:
+  - mk-digital-marketing
+related:
+  - mk-crm-marketing-automation
+topics:
+  - id: mk-email-lifecycle-marketing-1
+    name: "Why email still matters: owned, direct, measurable"
+  - id: mk-email-lifecycle-marketing-2
+    name: Building a permission-based list
+  - id: mk-email-lifecycle-marketing-3
+    name: "Email consent rules: GDPR, PECR soft opt-in, CAN-SPAM"
+  - id: mk-email-lifecycle-marketing-4
+    name: Segmentation and personalisation
+  - id: mk-email-lifecycle-marketing-5
+    name: Email design and copy for mobile
+  - id: mk-email-lifecycle-marketing-6
+    name: Lifecycle programmes
+    sub:
+      - id: mk-email-lifecycle-marketing-6-1
+        name: Welcome and onboarding
+      - id: mk-email-lifecycle-marketing-6-2
+        name: Abandoned cart and browse
+      - id: mk-email-lifecycle-marketing-6-3
+        name: Post-purchase and review
+      - id: mk-email-lifecycle-marketing-6-4
+        name: Re-engagement and win-back
+  - id: mk-email-lifecycle-marketing-7
+    name: Newsletters and editorial email
+  - id: mk-email-lifecycle-marketing-8
+    name: Deliverability
+    sub:
+      - id: mk-email-lifecycle-marketing-8-1
+        name: Sender reputation and engagement
+      - id: mk-email-lifecycle-marketing-8-2
+        name: SPF, DKIM and DMARC authentication
+      - id: mk-email-lifecycle-marketing-8-3
+        name: Bulk-sender requirements and one-click unsubscribe
+      - id: mk-email-lifecycle-marketing-8-4
+        name: List hygiene and bounces
+  - id: mk-email-lifecycle-marketing-9
+    name: Testing subject lines, content and timing
+  - id: mk-email-lifecycle-marketing-10
+    name: Email metrics and their limits (open-rate distortion)
+  - id: mk-email-lifecycle-marketing-11
+    name: SMS, push and messaging apps
+  - id: mk-email-lifecycle-marketing-12
+    name: Email platform selection
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-email-lifecycle-marketing.json
+  sha256: 60ab87fc5b68ad7e65f0523e2da9d416b3749fa972cb4226f1cfdbf8f8a979be

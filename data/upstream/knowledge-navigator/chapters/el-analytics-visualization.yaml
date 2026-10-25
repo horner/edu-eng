@@ -1,0 +1,31 @@
+id: el-analytics-visualization
+name: IoT Analytics & Visualization
+category: IoT Architectures, Platforms & Data
+level: 3
+priority: important
+summary: "Turning device data into insight: dashboards, BI tools, anomaly detection and predictive analytics."
+prerequisites:
+  - el-data-management
+related:
+  - ai-exploratory-data-analysis-eda
+  - cs-information-visualization
+topics:
+  - id: el-analytics-visualization-1
+    name: Real-time dashboards (Grafana, Kibana)
+  - id: el-analytics-visualization-2
+    name: Business intelligence tools
+  - id: el-analytics-visualization-3
+    name: Machine learning and AI analytics
+  - id: el-analytics-visualization-4
+    name: Anomaly detection
+  - id: el-analytics-visualization-5
+    name: Predictive analytics
+  - id: el-analytics-visualization-6
+    name: Custom reporting
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-analytics-visualization.json
+  sha256: 65109d91ad696ef5c9c48adca28da5e3ac5ab50d513ff1ec1aefae4e293f67bc

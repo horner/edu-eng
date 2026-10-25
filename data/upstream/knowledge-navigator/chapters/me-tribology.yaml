@@ -1,0 +1,42 @@
+id: me-tribology
+name: "Tribology: Friction, Wear & Lubrication"
+category: Machine Design & Machine Elements
+level: 4
+priority: advanced
+summary: "The science of interacting surfaces in relative motion: contact, friction, wear, lubrication and surface engineering of machine elements."
+prerequisites:
+  - me-shafts-bearings-seals
+  - me-advanced-mechanics-of-materials
+  - me-fluid-mechanics
+related:
+  - mt-tribology
+topics:
+  - id: me-tribology-1
+    name: Surface topography and roughness characterisation
+  - id: me-tribology-2
+    name: Contact mechanics of rough surfaces (Greenwood-Williamson)
+  - id: me-tribology-3
+    name: Friction mechanisms and friction models
+  - id: me-tribology-4
+    name: "Wear mechanisms: adhesive, abrasive, fatigue, corrosive, fretting and erosion"
+  - id: me-tribology-5
+    name: "Lubricants: oils, greases, additives and solid lubricants"
+  - id: me-tribology-6
+    name: Lubrication regimes and the Stribeck curve
+  - id: me-tribology-7
+    name: Hydrodynamic lubrication and the Reynolds equation
+  - id: me-tribology-8
+    name: Elastohydrodynamic lubrication in gears and rolling bearings
+  - id: me-tribology-9
+    name: Surface engineering and coatings (DLC, nitriding, hard coatings)
+  - id: me-tribology-10
+    name: Tribological testing and tribology of seals, gears and bearings
+  - id: me-tribology-11
+    name: Tribology of polymers and biomedical implants
+discipline: mechanical
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/mechanical/me-tribology.json
+  sha256: 50fbe93139b8801e2c30769a223e73b65d5fc7aca52c3ea909bac15e5936fff1

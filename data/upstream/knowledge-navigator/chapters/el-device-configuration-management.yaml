@@ -1,0 +1,30 @@
+id: el-device-configuration-management
+name: Device Configuration Management
+category: Embedded Software, Firmware & RTOS
+level: 3
+priority: advanced
+summary: "Managing settings on deployed devices: factory defaults, user parameters, file formats, versioning, remote updates and backup."
+prerequisites:
+  - el-firmware-development
+related:
+  - el-configuration-management
+topics:
+  - id: el-device-configuration-management-1
+    name: Factory defaults
+  - id: el-device-configuration-management-2
+    name: User-configurable parameters
+  - id: el-device-configuration-management-3
+    name: Configuration file formats
+  - id: el-device-configuration-management-4
+    name: Configuration versioning
+  - id: el-device-configuration-management-5
+    name: Over-the-air configuration updates
+  - id: el-device-configuration-management-6
+    name: Configuration backup and restore
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-device-configuration-management.json
+  sha256: 8355fa1066531b7bc92ebf526893046b9c037b5bdf303b0590d8ff039add2d6a

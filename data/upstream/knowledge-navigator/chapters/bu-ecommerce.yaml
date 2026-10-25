@@ -1,0 +1,44 @@
+id: bu-ecommerce
+name: E-commerce & Online Business
+category: Technology & Digital Business
+level: 2
+priority: important
+summary: Setting up and running a business that sells online, from storefront and payments to fulfilment and compliance.
+prerequisites:
+  - bu-management-information-systems
+related:
+  - mk-digital-marketing
+  - bu-platform-digital-strategy
+  - mk-ecommerce-marketing
+topics:
+  - id: bu-ecommerce-1
+    name: "E-commerce models: B2C, B2B, D2C, C2C and marketplaces"
+  - id: bu-ecommerce-2
+    name: "Choosing a sales channel: own store vs marketplaces vs social commerce"
+  - id: bu-ecommerce-3
+    name: Storefront platforms and site essentials
+  - id: bu-ecommerce-4
+    name: Online payments, payment gateways and fraud prevention
+  - id: bu-ecommerce-5
+    name: Product listing, merchandising and conversion basics
+  - id: bu-ecommerce-6
+    name: "Fulfilment options: in-house, third-party logistics and dropshipping"
+  - id: bu-ecommerce-7
+    name: Shipping, returns and customer service
+  - id: bu-ecommerce-8
+    name: "Cross-border e-commerce: duties, taxes and localisation"
+  - id: bu-ecommerce-9
+    name: "E-commerce metrics: conversion rate, average order value and repeat rate"
+  - id: bu-ecommerce-10
+    name: Consumer protection, distance selling and data protection rules
+  - id: bu-ecommerce-11
+    name: Subscription e-commerce and digital products
+  - id: bu-ecommerce-12
+    name: Scaling an online business and omnichannel retail
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-ecommerce.json
+  sha256: 6c381e542052bed981398d4a1efa5990443bac182953e968139b17ea09e37ba7

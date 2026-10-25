@@ -1,0 +1,45 @@
+id: hf-public-health-nutrition
+name: Public Health & Community Nutrition
+category: Public & Global Health
+level: 3
+priority: important
+summary: Nutrition problems at population level and the programmes and policies used to tackle them.
+prerequisites:
+  - hf-healthy-eating-patterns
+  - hf-public-health-foundations
+related:
+  - hf-nutritional-epidemiology
+topics:
+  - id: hf-public-health-nutrition-1
+    name: Malnutrition in all its forms and the double burden
+  - id: hf-public-health-nutrition-2
+    name: "Undernutrition: stunting, wasting and micronutrient deficiencies"
+  - id: hf-public-health-nutrition-3
+    name: The epidemiology of obesity
+  - id: hf-public-health-nutrition-4
+    name: Food insecurity and food banks
+  - id: hf-public-health-nutrition-5
+    name: "National nutrition surveys: NHANES, NDNS and others"
+  - id: hf-public-health-nutrition-6
+    name: "Food policy: sugar taxes, marketing to children and reformulation"
+  - id: hf-public-health-nutrition-7
+    name: Front-of-pack labelling policy
+  - id: hf-public-health-nutrition-8
+    name: Fortification and supplementation programmes
+  - id: hf-public-health-nutrition-9
+    name: School meals and food assistance programmes such as WIC and SNAP
+  - id: hf-public-health-nutrition-10
+    name: "Promoting breastfeeding: the Baby-Friendly Initiative"
+  - id: hf-public-health-nutrition-11
+    name: Community nutrition interventions
+  - id: hf-public-health-nutrition-12
+    name: Commercial determinants of diet
+  - id: hf-public-health-nutrition-13
+    name: Evaluating nutrition programmes
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-public-health-nutrition.json
+  sha256: 4a0cef03302ccad4f073538c56b94ca70b55877ed0eca7a516aabfd24904742d

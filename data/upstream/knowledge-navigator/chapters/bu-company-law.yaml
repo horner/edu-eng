@@ -1,0 +1,43 @@
+id: bu-company-law
+name: Company & Partnership Law
+category: Law, Governance, Ethics & Sustainability
+level: 3
+priority: important
+summary: "The law of business organisations: forming companies and partnerships, directors' duties, shareholder rights and insolvency."
+prerequisites:
+  - bu-business-law
+related:
+  - bu-legal-foundations-for-founders
+  - bu-corporate-governance
+topics:
+  - id: bu-company-law-1
+    name: Partnerships and limited liability partnerships
+  - id: bu-company-law-2
+    name: Incorporation and the company's constitution
+  - id: bu-company-law-3
+    name: Separate legal personality and lifting the corporate veil
+  - id: bu-company-law-4
+    name: "Types of companies: private, public, listed and limited by guarantee"
+  - id: bu-company-law-5
+    name: Share capital, classes of shares and capital maintenance
+  - id: bu-company-law-6
+    name: "Directors: appointment, powers and removal"
+  - id: bu-company-law-7
+    name: Directors' duties and liabilities
+  - id: bu-company-law-8
+    name: Shareholder rights, meetings and resolutions
+  - id: bu-company-law-9
+    name: Minority protection and derivative claims
+  - id: bu-company-law-10
+    name: "Securities regulation and listing requirements: an overview"
+  - id: bu-company-law-11
+    name: Insolvency, administration and liquidation
+  - id: bu-company-law-12
+    name: "Comparative company law: US (Delaware), UK Companies Act, EU and India Companies Act"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-company-law.json
+  sha256: fc4d13d55a70892fda82bfdfe396cbbe8b2e2c08a32b94273a1d8d3252ede02a

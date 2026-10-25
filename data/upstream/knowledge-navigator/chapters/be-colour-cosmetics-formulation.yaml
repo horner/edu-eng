@@ -1,0 +1,52 @@
+id: be-colour-cosmetics-formulation
+name: Colour Cosmetics Formulation & Colour Measurement
+category: Cosmetic Chemistry & Formulation
+level: 3
+priority: advanced
+summary: The science of formulating makeup, including pigments and colour additives, powders, lipsticks, mascaras and foundations, and how colour is measured and matched.
+prerequisites:
+  - be-formulation-science
+  - be-makeup-fundamentals
+related:
+  - mt-optical-photonic-materials
+topics:
+  - id: be-colour-cosmetics-formulation-1
+    name: "Colour physics: light, absorption, scattering and the perception of colour"
+  - id: be-colour-cosmetics-formulation-2
+    name: "Colour measurement: CIELAB, spectrophotometry and colour difference"
+  - id: be-colour-cosmetics-formulation-3
+    name: Colourants
+    sub:
+      - id: be-colour-cosmetics-formulation-3-1
+        name: Organic dyes and lakes
+      - id: be-colour-cosmetics-formulation-3-2
+        name: "Inorganic pigments: iron oxides, titanium dioxide, ultramarines"
+      - id: be-colour-cosmetics-formulation-3-3
+        name: "Effect pigments: mica, synthetic fluorphlogopite and glass flakes"
+      - id: be-colour-cosmetics-formulation-3-4
+        name: Permitted colour additive lists and regulation
+  - id: be-colour-cosmetics-formulation-4
+    name: Pigment dispersion and surface treatment
+  - id: be-colour-cosmetics-formulation-5
+    name: "Pressed and loose powders: eyeshadows, blushes and setting powders"
+  - id: be-colour-cosmetics-formulation-6
+    name: "Foundations and concealers: coverage, finish and wear"
+  - id: be-colour-cosmetics-formulation-7
+    name: Shade range development and matching for all skin tones
+  - id: be-colour-cosmetics-formulation-8
+    name: Lipsticks, glosses and lip stains
+  - id: be-colour-cosmetics-formulation-9
+    name: "Mascaras and eyeliners: waterproof and tubing formulas"
+  - id: be-colour-cosmetics-formulation-10
+    name: Long-wear, transfer-resistant and hybrid skincare makeup
+  - id: be-colour-cosmetics-formulation-11
+    name: "Testing colour cosmetics: payoff, wear and stability"
+  - id: be-colour-cosmetics-formulation-12
+    name: "Safety: heavy metal impurities, talc and asbestos testing"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-colour-cosmetics-formulation.json
+  sha256: f8a232624f6db0de92295e38c68ad6a2f4f415c86a4015190775e6eb4e44873a

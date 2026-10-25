@@ -1,0 +1,41 @@
+id: py-grief-loss-bereavement
+name: Grief, Loss & Bereavement
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: important
+summary: How people grieve and adapt to loss, what helps, and when grief becomes prolonged and needs professional support.
+prerequisites:
+  - py-stress-coping-resilience
+related: []
+topics:
+  - id: py-grief-loss-bereavement-1
+    name: Grief as a normal response to loss
+  - id: py-grief-loss-bereavement-2
+    name: "Models of grief: stages (and why they mislead), dual process model and continuing bonds"
+  - id: py-grief-loss-bereavement-3
+    name: Trajectories of grief and resilience (Bonanno)
+  - id: py-grief-loss-bereavement-4
+    name: "Types of loss: death, divorce, miscarriage, pets and non-death losses"
+  - id: py-grief-loss-bereavement-5
+    name: Traumatic and sudden bereavement, including suicide bereavement
+  - id: py-grief-loss-bereavement-6
+    name: Disenfranchised and anticipatory grief
+  - id: py-grief-loss-bereavement-7
+    name: Grief in children and adolescents
+  - id: py-grief-loss-bereavement-8
+    name: Culture, ritual and mourning
+  - id: py-grief-loss-bereavement-9
+    name: Supporting a grieving person
+  - id: py-grief-loss-bereavement-10
+    name: Prolonged grief disorder and grief-focused treatment
+  - id: py-grief-loss-bereavement-11
+    name: Does grief counselling help? The evidence
+  - id: py-grief-loss-bereavement-12
+    name: Meaning reconstruction after loss
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-grief-loss-bereavement.json
+  sha256: 30cdba573d9d246005036407b0d5f9f790b83a9a8e99ab3dec8c5a2bd9f586a3

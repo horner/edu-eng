@@ -1,0 +1,55 @@
+id: mk-marketing-maths-metrics
+name: Marketing Maths & Metrics
+category: Marketing Foundations
+level: 1
+priority: core
+summary: The everyday numbers of marketing and sales, from margins and break-even to conversion rates, customer acquisition cost and lifetime value.
+prerequisites:
+  - mk-marketing-principles
+  - ma-arithmetic-pre-algebra
+related:
+  - bu-financial-accounting
+  - bu-business-statistics-analytics
+topics:
+  - id: mk-marketing-maths-metrics-1
+    name: Percentages, percentage points and index numbers
+  - id: mk-marketing-maths-metrics-2
+    name: Unit margin, margin percentage and mark-up
+  - id: mk-marketing-maths-metrics-3
+    name: Channel margins and the price chain from maker to shelf
+  - id: mk-marketing-maths-metrics-4
+    name: Break-even volume and target profit
+  - id: mk-marketing-maths-metrics-5
+    name: Market size, market share and relative share
+  - id: mk-marketing-maths-metrics-6
+    name: Penetration, purchase frequency and share of requirements
+  - id: mk-marketing-maths-metrics-7
+    name: Funnel metrics
+    sub:
+      - id: mk-marketing-maths-metrics-7-1
+        name: Impressions, reach and frequency
+      - id: mk-marketing-maths-metrics-7-2
+        name: Click-through and conversion rates
+      - id: mk-marketing-maths-metrics-7-3
+        name: Cost per click, cost per lead and cost per acquisition
+  - id: mk-marketing-maths-metrics-8
+    name: Customer acquisition cost (CAC) and payback period
+  - id: mk-marketing-maths-metrics-9
+    name: Retention rate, churn and a simple customer lifetime value (CLV) model
+  - id: mk-marketing-maths-metrics-10
+    name: Return on ad spend (ROAS) versus return on investment (ROI)
+  - id: mk-marketing-maths-metrics-11
+    name: "Sales metrics: pipeline, win rate, average deal size, sales cycle length"
+  - id: mk-marketing-maths-metrics-12
+    name: "Promotion maths: discounts, baseline and incremental sales"
+  - id: mk-marketing-maths-metrics-13
+    name: Reading a marketing dashboard and spotting misleading numbers
+  - id: mk-marketing-maths-metrics-14
+    name: "Spreadsheet skills for marketers: formulas, pivot tables and charts"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketing-maths-metrics.json
+  sha256: 61646de14f4484f6e14da047f50fc5043ddda5e62384e754ea4895691f24eb0a

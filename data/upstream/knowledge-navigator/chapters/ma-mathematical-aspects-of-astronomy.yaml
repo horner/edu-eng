@@ -1,0 +1,36 @@
+id: ma-mathematical-aspects-of-astronomy
+name: Mathematical Aspects of Astronomy
+category: Mathematical Physics
+level: 3
+priority: advanced
+summary: "Celestial mechanics: the two-body and N-body problems, orbital elements and perturbations."
+prerequisites:
+  - ma-classical-mechanics
+related:
+  - ph-astrophysics
+  - ph-planetary-science
+  - ph-celestial-mechanics
+  - ae-orbital-mechanics
+  - ae-orbital-perturbations
+  - ae-three-body-problem
+  - ph-positional-astronomy
+topics:
+  - id: ma-mathematical-aspects-of-astronomy-4
+    name: Two-body problem and Kepler orbits
+  - id: ma-mathematical-aspects-of-astronomy-1
+    name: Celestial mechanics
+  - id: ma-mathematical-aspects-of-astronomy-2
+    name: Orbital dynamics
+  - id: ma-mathematical-aspects-of-astronomy-5
+    name: Orbital perturbations
+  - id: ma-mathematical-aspects-of-astronomy-6
+    name: Restricted three-body problem and Lagrange points
+  - id: ma-mathematical-aspects-of-astronomy-3
+    name: N-body problem
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-mathematical-aspects-of-astronomy.json
+  sha256: 5d7ddb09c79fbf24a891d2e3fffd31ada167de5c423e85747be22be83eea14f7

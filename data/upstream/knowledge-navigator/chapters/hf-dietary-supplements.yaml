@@ -1,0 +1,47 @@
+id: hf-dietary-supplements
+name: "Dietary Supplements: Evidence, Regulation & Safety"
+category: Applied Nutrition & Dietetics
+level: 2
+priority: important
+summary: When supplements help, when they are a waste of money or a risk, and how to judge a product.
+prerequisites:
+  - hf-micronutrients
+related:
+  - bi-pharmacology
+  - be-nutrition-appearance
+topics:
+  - id: hf-dietary-supplements-1
+    name: What counts as a dietary supplement and how supplements are regulated (US DSHEA, EU, UK)
+  - id: hf-dietary-supplements-2
+    name: Weighing the evidence for a supplement
+  - id: hf-dietary-supplements-3
+    name: "When supplements are recommended: folic acid, vitamin D, B12 and iron"
+  - id: hf-dietary-supplements-4
+    name: "Multivitamins: what trials show"
+  - id: hf-dietary-supplements-5
+    name: Fish oil and omega-3 supplements
+  - id: hf-dietary-supplements-6
+    name: Protein powders
+  - id: hf-dietary-supplements-7
+    name: Creatine
+  - id: hf-dietary-supplements-8
+    name: Probiotic supplements
+  - id: hf-dietary-supplements-9
+    name: "Herbal and botanical supplements: an overview"
+  - id: hf-dietary-supplements-10
+    name: "Weight-loss, 'testosterone booster' and 'detox' supplements: claims vs evidence"
+  - id: hf-dietary-supplements-11
+    name: Contamination, adulteration and third-party testing
+  - id: hf-dietary-supplements-12
+    name: Supplement-drug interactions
+  - id: hf-dietary-supplements-13
+    name: Reading a supplement label
+  - id: hf-dietary-supplements-14
+    name: Reporting side effects and adverse events
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-dietary-supplements.json
+  sha256: 672c923cdcc9e0866234531cae1e4ae058d3202f2cb6878daa1cddd5f3cbdbfb

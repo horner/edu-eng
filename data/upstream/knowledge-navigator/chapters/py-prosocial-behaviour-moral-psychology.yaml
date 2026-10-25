@@ -1,0 +1,42 @@
+id: py-prosocial-behaviour-moral-psychology
+name: Prosocial Behaviour & Moral Psychology
+category: Social Psychology & Behavioural Science
+level: 3
+priority: important
+summary: Why people help, cooperate and judge right from wrong, from the bystander effect to moral intuitions.
+prerequisites:
+  - py-social-psychology
+related:
+  - ma-game-theory
+topics:
+  - id: py-prosocial-behaviour-moral-psychology-1
+    name: "Explanations of helping: kin selection, reciprocity and empathy-altruism"
+  - id: py-prosocial-behaviour-moral-psychology-2
+    name: The bystander effect and its modern re-examination
+  - id: py-prosocial-behaviour-moral-psychology-3
+    name: Volunteering, generosity and the 'warm glow'
+  - id: py-prosocial-behaviour-moral-psychology-4
+    name: "Cooperation and social dilemmas: public goods and tragedy of the commons"
+  - id: py-prosocial-behaviour-moral-psychology-5
+    name: Trust and reputation
+  - id: py-prosocial-behaviour-moral-psychology-6
+    name: Moral development and moral reasoning
+  - id: py-prosocial-behaviour-moral-psychology-7
+    name: Moral intuitions and the social intuitionist model
+  - id: py-prosocial-behaviour-moral-psychology-8
+    name: Moral foundations theory and its critiques
+  - id: py-prosocial-behaviour-moral-psychology-9
+    name: Trolley problems and moral dilemmas
+  - id: py-prosocial-behaviour-moral-psychology-10
+    name: "Moral emotions: guilt, shame, disgust and elevation"
+  - id: py-prosocial-behaviour-moral-psychology-11
+    name: Moral licensing, hypocrisy and moral identity
+  - id: py-prosocial-behaviour-moral-psychology-12
+    name: Effective altruism and the psychology of giving
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-prosocial-behaviour-moral-psychology.json
+  sha256: 1f91bdcd7ce1e9a3af25adb19c119ede31b94c1babdc0ff68730b27d259e987b

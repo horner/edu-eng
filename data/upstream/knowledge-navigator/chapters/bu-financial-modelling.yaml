@@ -1,0 +1,43 @@
+id: bu-financial-modelling
+name: Financial Modelling
+category: Finance & Investment
+level: 3
+priority: important
+summary: Building integrated spreadsheet models of a company's statements, valuation and scenarios that others can trust.
+prerequisites:
+  - bu-valuation
+  - bu-spreadsheet-modelling
+related:
+  - bu-business-plans-financial-projections
+topics:
+  - id: bu-financial-modelling-1
+    name: Modelling standards and best practice (structure, colour coding, checks)
+  - id: bu-financial-modelling-2
+    name: Historical analysis and setting assumptions
+  - id: bu-financial-modelling-3
+    name: "Revenue build-ups: top-down vs bottom-up drivers"
+  - id: bu-financial-modelling-4
+    name: Operating cost and headcount schedules
+  - id: bu-financial-modelling-5
+    name: Working capital, capex and depreciation schedules
+  - id: bu-financial-modelling-6
+    name: Debt schedules, interest and circularity
+  - id: bu-financial-modelling-7
+    name: The integrated three-statement model
+  - id: bu-financial-modelling-8
+    name: DCF model build and valuation outputs
+  - id: bu-financial-modelling-9
+    name: Scenarios, sensitivities and Monte Carlo simulation
+  - id: bu-financial-modelling-10
+    name: Merger and LBO model structures
+  - id: bu-financial-modelling-11
+    name: "Startup and SaaS models: cohorts, churn and runway"
+  - id: bu-financial-modelling-12
+    name: Model review, stress testing and presenting results
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-financial-modelling.json
+  sha256: 97d9af2a8a83b783453440b29ca445ad768d19829dde1666ce15bc5fa9d6f327

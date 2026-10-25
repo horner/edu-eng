@@ -1,0 +1,28 @@
+id: ma-difference-equations
+name: Difference Equations
+category: Differential Equations & Dynamical Systems
+level: 2
+priority: advanced
+summary: "Discrete-time analogues of differential equations: linear recurrences, stability and nonlinear maps."
+prerequisites:
+  - ma-calculus
+  - ma-linear-algebra
+related: []
+topics:
+  - id: ma-difference-equations-3
+    name: First-order difference equations and equilibria
+  - id: ma-difference-equations-1
+    name: Linear difference equations
+  - id: ma-difference-equations-4
+    name: Generating functions and the z-transform
+  - id: ma-difference-equations-5
+    name: Systems of difference equations and stability
+  - id: ma-difference-equations-2
+    name: Nonlinear difference equations
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-difference-equations.json
+  sha256: af5016cfb73876712fe7d071329ddefebbbbbc018fa024b566fa72259b0548f0

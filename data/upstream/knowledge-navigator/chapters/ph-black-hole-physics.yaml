@@ -1,0 +1,32 @@
+id: ph-black-hole-physics
+name: Black Hole Physics
+category: Relativity & Gravitation
+level: 4
+priority: advanced
+summary: "Black holes as theoretical laboratories: thermodynamics, Hawking radiation and the information paradox."
+prerequisites:
+  - ph-general-relativity
+  - ph-thermodynamics-statistical-mechanics
+related:
+  - ph-compact-objects
+  - ph-quantum-field-theory-qft
+topics:
+  - id: ph-black-hole-physics-4
+    name: Black hole entropy
+  - id: ph-black-hole-physics-1
+    name: Black hole thermodynamics
+  - id: ph-black-hole-physics-2
+    name: Hawking radiation
+  - id: ph-black-hole-physics-3
+    name: Information paradox
+  - id: ph-black-hole-physics-6
+    name: Penrose process and superradiance
+  - id: ph-black-hole-physics-5
+    name: Black hole mergers
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-black-hole-physics.json
+  sha256: 5d9fd59ef0f12aa7cf25309d713ca27fd1da780e401011850c874e9a94302e86

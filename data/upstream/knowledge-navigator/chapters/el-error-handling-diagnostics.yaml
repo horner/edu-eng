@@ -1,0 +1,30 @@
+id: el-error-handling-diagnostics
+name: Error Handling & Diagnostics
+category: Embedded Development Practices & Debugging
+level: 3
+priority: important
+summary: "Handling and diagnosing failures: reset-cause detection, fault handlers, core dumps, crash reporting and health monitoring."
+prerequisites:
+  - el-firmware-development
+  - el-software-debugging
+related: []
+topics:
+  - id: el-error-handling-diagnostics-1
+    name: Watchdog timer diagnostics
+  - id: el-error-handling-diagnostics-2
+    name: Reset cause detection
+  - id: el-error-handling-diagnostics-3
+    name: Fault handlers (hard fault, bus fault)
+  - id: el-error-handling-diagnostics-4
+    name: Core dump analysis
+  - id: el-error-handling-diagnostics-5
+    name: Crash reporting and analytics
+  - id: el-error-handling-diagnostics-6
+    name: Health monitoring and telemetry
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-error-handling-diagnostics.json
+  sha256: 45718fcee4952eae9fa5bcf8f8b6a199a7d73ba92c07a4ccf298a264be91f319

@@ -1,0 +1,46 @@
+id: be-beauty-science-frontiers
+name: Frontiers in Beauty & Cosmetic Science
+category: Aesthetic Procedures & Cosmetic Dermatology
+level: 5
+priority: advanced
+summary: Emerging research and technology in cosmetic science and aesthetic medicine, from regenerative treatments and microbiome products to AI, personalisation and new testing methods.
+prerequisites:
+  - be-skin-delivery-penetration
+  - be-hair-follicle-fibre-science
+related:
+  - bi-microbiome
+  - bi-stem-cells-regeneration
+  - bi-machine-learning-biology
+  - bi-biology-of-aging
+topics:
+  - id: be-beauty-science-frontiers-1
+    name: "Regenerative aesthetics: exosomes, growth factors, PRP and stem-cell-derived products"
+  - id: be-beauty-science-frontiers-2
+    name: Senescence and longevity targets in skin
+  - id: be-beauty-science-frontiers-3
+    name: Microbiome-based cosmetics and live biotherapeutics
+  - id: be-beauty-science-frontiers-4
+    name: "Biotechnology ingredients: precision fermentation, recombinant collagen and synthetic biology"
+  - id: be-beauty-science-frontiers-5
+    name: "Personalised skincare: genomics, biomarkers and diagnostics"
+  - id: be-beauty-science-frontiers-6
+    name: "AI in beauty: skin analysis, shade matching, formulation and virtual try-on"
+  - id: be-beauty-science-frontiers-7
+    name: Smart devices and wearable skin sensors
+  - id: be-beauty-science-frontiers-8
+    name: "New approach methodologies: organ-on-chip and in silico safety"
+  - id: be-beauty-science-frontiers-9
+    name: 3D-printed skin and advanced skin models
+  - id: be-beauty-science-frontiers-10
+    name: Next-generation UV filters and photoprotection
+  - id: be-beauty-science-frontiers-11
+    name: Hair regeneration and follicle bioengineering
+  - id: be-beauty-science-frontiers-12
+    name: "Evaluating hype: translating early research into credible claims"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-beauty-science-frontiers.json
+  sha256: f9c966e6b89131db115d07caffdde63a65d4472c2c935c6b8f7fd441913aab56

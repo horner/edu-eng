@@ -1,0 +1,45 @@
+id: be-sustainability-ethics
+name: Sustainability, Clean Beauty & Ethics
+category: Safety, Regulation & Industry
+level: 2
+priority: important
+summary: 'The environmental and ethical questions in beauty: ingredient sourcing, packaging, natural and "clean" claims, animal testing, labour and inclusivity.'
+prerequisites:
+  - be-cosmetic-ingredients
+related:
+  - ch-green-chemistry
+  - mt-sustainability-lca
+topics:
+  - id: be-sustainability-ethics-1
+    name: "Life-cycle thinking: where a product's environmental impact comes from"
+  - id: be-sustainability-ethics-2
+    name: "Natural and organic standards: ISO 16128 and certification schemes"
+  - id: be-sustainability-ethics-3
+    name: '"Clean beauty": origins, claims and criticism'
+  - id: be-sustainability-ethics-4
+    name: Greenwashing and how to spot it
+  - id: be-sustainability-ethics-5
+    name: "Ingredient sourcing: palm oil, mica, sandalwood and biodiversity"
+  - id: be-sustainability-ethics-6
+    name: Biodegradability, wash-off ingredients and microplastics
+  - id: be-sustainability-ethics-7
+    name: "Packaging: plastics, refill, recycling and waterless formats"
+  - id: be-sustainability-ethics-8
+    name: Green chemistry and biotech in cosmetics
+  - id: be-sustainability-ethics-9
+    name: Animal testing, cruelty-free and vegan labels
+  - id: be-sustainability-ethics-10
+    name: Labour and human rights in beauty supply chains
+  - id: be-sustainability-ethics-11
+    name: Inclusive shade ranges and products for all hair and skin types
+  - id: be-sustainability-ethics-12
+    name: Ethics of skin lightening and appearance marketing
+  - id: be-sustainability-ethics-13
+    name: "Consuming less: minimalism and product waste"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-sustainability-ethics.json
+  sha256: 8638ce19f5adf4fdf41ba50f53ce06576f6c5fa50a7e7d81463262b903afd1fb

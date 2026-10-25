@@ -1,0 +1,36 @@
+id: ch-material-energy-balances
+name: Material & Energy Balances
+category: Chemical Engineering Fundamentals
+level: 2
+priority: important
+summary: The accounting of mass and energy through chemical processes, the starting point of chemical engineering.
+prerequisites:
+  - ch-thermochemistry
+  - ma-calculus
+related: []
+topics:
+  - id: ch-material-energy-balances-1
+    name: Process variables, units and flowsheets
+  - id: ch-material-energy-balances-2
+    name: Material balances on non-reactive systems
+  - id: ch-material-energy-balances-3
+    name: "Material balances with reaction: extent, conversion and selectivity"
+  - id: ch-material-energy-balances-4
+    name: Recycle, bypass and purge
+  - id: ch-material-energy-balances-5
+    name: "Multiphase systems: vapor pressure, humidity and phase-equilibrium basics"
+  - id: ch-material-energy-balances-6
+    name: Energy balances on closed and open systems
+  - id: ch-material-energy-balances-7
+    name: Energy balances on reactive processes
+  - id: ch-material-energy-balances-8
+    name: Transient (unsteady-state) balances
+  - id: ch-material-energy-balances-9
+    name: Computer-aided balances and introductory process simulation
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-material-energy-balances.json
+  sha256: 634f2cae82a4648c466cbc382f783490e15d3923cd557543cee1e21fe6430f28

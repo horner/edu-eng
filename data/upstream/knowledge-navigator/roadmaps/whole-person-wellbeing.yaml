@@ -1,0 +1,293 @@
+id: whole-person-wellbeing
+name: "Whole-Person Wellbeing: Body, Mind & Soul"
+icon: 🧘
+tagline: Look after body, mind and spirit together, one evidence-based pillar at a time.
+description: For anyone who wants one joined-up route to looking after themselves rather than separate courses on fitness, mental health and self-care. After a foundation in how the body and mind work and how to judge health claims, you work through the pillars of wellbeing in turn (moving, eating, resting, managing emotions, connecting with others, finding meaning and caring for your appearance) and finish by turning them into habits that last.
+outcomes:
+  - Explain how physical health, mental health, relationships and meaning affect each other, using the biopsychosocial model
+  - Plan a week that meets the activity guidelines, includes strength and mobility work, and follows an evidence-based eating pattern
+  - Improve your sleep and manage stress with methods that have trial evidence, such as CBT-I principles, slow breathing and reappraisal
+  - Use self-compassion, mindfulness and listening skills to handle difficult emotions and support the people around you
+  - Describe what research says about purpose, gratitude, spirituality and Stoic practice, and choose practices that fit your values
+  - Keep a simple skincare and hygiene routine with sun protection, and recognise how beauty ideals and social media affect body image
+  - Write a personal wellbeing plan across all pillars, with habits, early-warning signs and when to seek professional help
+stages:
+  - name: "Foundations: how body and mind work"
+    description: "The shared groundwork for every pillar: what health is, how the body and mind work, and how to judge what you read."
+    items:
+      - chapter: hf-introduction-to-health-wellness
+        why: What health and wellness mean, what most affects how long and how well we live, and how the pillars fit together.
+        depth: full
+      - chapter: hf-health-literacy-evidence
+        why: Wellness is a crowded market; this is how to weigh studies, risk figures and influencer claims.
+        depth: full
+      - chapter: bi-introductory-biology
+        why: Cells, energy and homeostasis in brief, as groundwork for the body chapter.
+        depth: selected
+        focus:
+          - bi-introductory-biology-2
+          - bi-introductory-biology-3
+          - bi-introductory-biology-5
+          - bi-introductory-biology-6
+      - chapter: hf-human-body-basics
+        why: The organ systems and how they cooperate during exercise, eating, stress and sleep.
+        depth: full
+      - chapter: py-introduction-to-psychology
+        why: How thoughts, emotions and behaviour work, and the biopsychosocial view that joins mind and body.
+        depth: full
+      - chapter: py-mental-health-literacy
+        why: Mental health as a continuum, early warning signs and where to get help, so you know the limits of self-care from the start.
+        depth: full
+  - name: Move
+    description: Physical activity is the pillar with the widest benefits, for the heart, muscles, bones, mood and sleep.
+    items:
+      - chapter: hf-exercise-fundamentals
+        why: Activity guidelines, intensity, starting safely and a first weekly plan.
+        depth: full
+      - chapter: hf-walking-running
+        why: Walking and running as the simplest way to build daily movement into life.
+        depth: full
+      - chapter: hf-training-principles-adaptations
+        why: "Overload, progression and recovery: how the body gets fitter, and the minimum dose that still works."
+        depth: selected
+        focus:
+          - hf-training-principles-adaptations-1
+          - hf-training-principles-adaptations-2
+          - hf-training-principles-adaptations-6
+          - hf-training-principles-adaptations-9
+          - hf-training-principles-adaptations-11
+          - hf-training-principles-adaptations-13
+      - chapter: hf-resistance-training
+        why: The basics of strength training, which protects muscle, bone and independence as you age.
+        depth: selected
+        focus:
+          - hf-resistance-training-1
+          - hf-resistance-training-2
+          - hf-resistance-training-3
+          - hf-resistance-training-4
+          - hf-resistance-training-6
+          - hf-resistance-training-9
+          - hf-resistance-training-13
+          - hf-resistance-training-14
+      - chapter: hf-flexibility-mobility
+        why: What stretching and mobility work actually do, and a short routine to keep you moving freely.
+        depth: selected
+        focus:
+          - hf-flexibility-mobility-1
+          - hf-flexibility-mobility-3
+          - hf-flexibility-mobility-6
+          - hf-flexibility-mobility-8
+          - hf-flexibility-mobility-11
+          - hf-flexibility-mobility-13
+      - chapter: hf-mind-body-movement
+        why: Yoga, tai chi and qigong, which train body, breath and attention together.
+        depth: full
+  - name: Nourish
+    description: Eating well for body and mind, from nutrients and dietary patterns to cooking and food and mood.
+    items:
+      - chapter: hf-nutrition-fundamentals
+        why: "Nutrients, energy and food groups: the basis of every eating decision."
+        depth: full
+      - chapter: hf-healthy-eating-patterns
+        why: The Mediterranean, DASH and plant-predominant patterns, and how to adapt them to your culture and budget.
+        depth: full
+      - chapter: hf-meal-planning-food-skills
+        why: Planning, shopping, reading labels and cooking, where healthy eating becomes routine.
+        depth: full
+      - chapter: py-lifestyle-mental-health
+        why: What trials show about food, exercise, nature and routine as ways to protect mood, and where the hype starts.
+        depth: full
+  - name: Rest and recover
+    description: "Sleep and stress management: how the body and mind recover, and what to do when they cannot."
+    items:
+      - chapter: hf-sleep-science
+        why: How sleep and the body clock work and what helps you sleep better.
+        depth: full
+      - chapter: py-sleep-insomnia-mental-health
+        why: How sleep and mood affect each other, and why CBT for insomnia works better than pills or sleep hygiene alone.
+        depth: full
+      - chapter: py-stress-coping-resilience
+        why: How stress works, which ways of coping help, burnout and resilience.
+        depth: full
+      - chapter: hf-stress-physiology-health
+        why: What chronic stress does to the body and which relaxation methods, such as slow breathing, have evidence.
+        depth: full
+  - name: Regulate emotions
+    description: Understanding and managing feelings, quieting the inner critic and training attention.
+    items:
+      - chapter: py-emotion-and-emotion-regulation
+        why: What emotions are for and the practical skills (naming, allowing, reappraising) that help manage them.
+        depth: full
+      - chapter: py-anger-aggression-management
+        why: Why venting backfires and how to handle anger and conflict calmly.
+        depth: selected
+        focus:
+          - py-anger-aggression-management-1
+          - py-anger-aggression-management-3
+          - py-anger-aggression-management-5
+          - py-anger-aggression-management-8
+          - py-anger-aggression-management-9
+          - py-anger-aggression-management-10
+          - py-anger-aggression-management-11
+          - py-anger-aggression-management-12
+      - chapter: py-self-compassion-inner-critic
+        why: Treating yourself with the kindness you would show a friend, and why it works better than self-criticism.
+        depth: full
+      - chapter: py-mindfulness-contemplative-science
+        why: "Meditation and mindfulness: how to practise, what the evidence supports and who should take care."
+        depth: full
+      - chapter: py-evidence-based-self-help
+        why: Skills from tested therapies for low mood and worry, and how to tell when self-help is not enough.
+        depth: full
+  - name: Connect
+    description: Relationships and belonging, which are linked to health and length of life about as strongly as several well-known physical risk factors.
+    items:
+      - chapter: py-social-psychology
+        why: How other people shape our thoughts and behaviour, from first impressions to helping and culture.
+        depth: selected
+        focus:
+          - py-social-psychology-1
+          - py-social-psychology-2
+          - py-social-psychology-3
+          - py-social-psychology-9
+          - py-social-psychology-10
+          - py-social-psychology-12
+      - chapter: py-close-relationships-social-connection
+        why: Friendship, love, conflict and loneliness, and practical ways to build connection.
+        depth: full
+      - chapter: py-counselling-skills
+        why: Listening and responding well, so you can support the people you care about.
+        depth: selected
+        focus:
+          - py-counselling-skills-1
+          - py-counselling-skills-2
+          - py-counselling-skills-3
+          - py-counselling-skills-4
+          - py-counselling-skills-5
+          - py-counselling-skills-6
+          - py-counselling-skills-10
+          - py-counselling-skills-12
+  - name: Find meaning
+    description: "The part of wellbeing often called spirit or soul: purpose, values, awe, spirituality and a philosophy of life."
+    items:
+      - chapter: py-positive-psychology-wellbeing
+        why: "What makes life go well beyond feeling good: engagement, relationships, meaning and accomplishment."
+        depth: full
+      - chapter: py-meaning-purpose-spirituality
+        why: Meaning, purpose, awe, religion and spirituality, and what research says about each.
+        depth: full
+      - chapter: py-philosophies-of-the-good-life
+        why: Stoicism, Aristotle, Buddhism and existentialism as practical guides, and what has and has not been tested.
+        depth: full
+  - name: Care for your appearance
+    description: Looking after skin, hygiene and body image as part of self-care, without chasing ideals.
+    items:
+      - chapter: be-introduction-to-beauty-science
+        why: What personal-care products do and how to approach them sensibly.
+        depth: selected
+        focus:
+          - be-introduction-to-beauty-science-1
+          - be-introduction-to-beauty-science-2
+          - be-introduction-to-beauty-science-4
+          - be-introduction-to-beauty-science-5
+          - be-introduction-to-beauty-science-8
+          - be-introduction-to-beauty-science-9
+          - be-introduction-to-beauty-science-10
+      - chapter: be-skin-biology
+        why: How skin works as an organ, so care choices make sense.
+        depth: selected
+        focus:
+          - be-skin-biology-1
+          - be-skin-biology-2
+          - be-skin-biology-3
+          - be-skin-biology-5
+          - be-skin-biology-8
+          - be-skin-biology-12
+          - be-skin-biology-13
+      - chapter: be-skincare-fundamentals
+        why: A simple cleanse, moisturise and protect routine that suits your skin and budget.
+        depth: full
+      - chapter: be-sun-protection-photoaging
+        why: "Sun protection for every skin tone: the step with the strongest evidence for skin health."
+        depth: full
+      - chapter: be-hygiene-body-odour
+        why: Sensible everyday hygiene, and what deodorants and antiperspirants do.
+        depth: full
+      - chapter: be-lifestyle-appearance
+        why: How sleep, stress, exercise and smoking show in skin and hair, linking this pillar to the others.
+        depth: full
+      - chapter: py-body-image-self-perception
+        why: How media and comparison shape body image, and how to build body appreciation and neutrality.
+        depth: full
+  - name: Sustain it for life
+    description: Turning the pillars into habits, using technology on purpose, and using health services well.
+    items:
+      - chapter: py-motivation-habits-behavior-change
+        why: How habits form and break, goal setting and getting back on track after a lapse.
+        depth: full
+      - chapter: hf-health-behaviour-change
+        why: The COM-B model and behaviour change techniques, ending with a written plan for your own changes.
+        depth: selected
+        focus:
+          - hf-health-behaviour-change-5
+          - hf-health-behaviour-change-6
+          - hf-health-behaviour-change-7
+          - hf-health-behaviour-change-8
+          - hf-health-behaviour-change-9
+          - hf-health-behaviour-change-13
+          - hf-health-behaviour-change-14
+      - chapter: py-digital-wellbeing-cyberpsychology
+        why: What screens and social media do to attention and mood, and how to use them intentionally.
+        depth: full
+      - chapter: hf-substance-use-harm-reduction
+        why: "Alcohol, smoking, vaping and cannabis: effects on body and mind, and how to cut down."
+        depth: selected
+        focus:
+          - hf-substance-use-harm-reduction-2
+          - hf-substance-use-harm-reduction-3
+          - hf-substance-use-harm-reduction-4
+          - hf-substance-use-harm-reduction-5
+          - hf-substance-use-harm-reduction-7
+          - hf-substance-use-harm-reduction-11
+          - hf-substance-use-harm-reduction-12
+          - hf-substance-use-harm-reduction-13
+      - chapter: hf-lifestyle-medicine
+        why: The six pillars of lifestyle medicine as one system, and the evidence that changing them prevents and reverses disease.
+        depth: full
+      - chapter: hf-self-care-checkups-screening
+        why: Knowing your numbers, which checks are worth having, and when self-care is enough or a professional is needed.
+        depth: full
+  - name: Electives
+    description: Optional chapters for going deeper on one pillar or for supporting others.
+    items:
+      - chapter: hf-musculoskeletal-health
+        why: "Elective: keeping bones, joints and muscles healthy, and what helps osteoporosis and arthritis."
+        depth: full
+      - chapter: hf-healthy-aging-longevity
+        why: "Elective: staying healthy and independent in later life, and judging longevity claims."
+        depth: full
+      - chapter: hf-health-wellness-coaching
+        why: "Elective: the skills of health coaching, for helping others make lasting lifestyle changes."
+        depth: full
+      - chapter: py-health-psychology
+        why: "Elective: how stress, beliefs and behaviour affect physical illness, pain and recovery."
+        depth: full
+      - chapter: py-grief-loss-bereavement
+        why: "Elective: how people grieve and adapt to loss, and how to support someone who is grieving."
+        depth: full
+      - chapter: py-suicide-prevention-crisis-support
+        why: "Elective: recognising a crisis, asking about suicide safely and connecting someone to help."
+        depth: full
+      - chapter: be-personal-style-colour
+        why: "Elective: a personal style that suits your body, life and budget, including buying less and buying well."
+        depth: full
+related:
+  - mental-wellness
+  - fitness-physical-wellness
+  - beauty-self-care
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/roadmaps/whole-person-wellbeing.json
+  sha256: b3a59536fec34291b69566e3a19dfc40170c9001033ed2136ccf6986a455c89d

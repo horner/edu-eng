@@ -1,0 +1,28 @@
+id: beauty
+name: Beauty & Personal Care
+icon: ✨
+color: "#fda4af"
+prefix: be
+description: "Evidence-based beauty and self-care: skin, hair and nail science, skincare, cosmetic chemistry and formulation, makeup, fragrance, grooming and personal style, professional aesthetic treatments, and the safety and regulation of cosmetics."
+categories:
+  - Foundations of Beauty Science
+  - Skin Science
+  - Skin Conditions & Concerns
+  - Skincare Practice & Active Ingredients
+  - Sun Protection
+  - Cosmetic Chemistry & Formulation
+  - Hair & Scalp
+  - Nails, Hands & Feet
+  - Makeup & Colour
+  - Fragrance & Perfumery
+  - Body Care & Grooming
+  - Personal Style & Image
+  - Aesthetic Procedures & Cosmetic Dermatology
+  - Lifestyle, Wellbeing & Appearance
+  - Safety, Regulation & Industry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/discipline.json
+  sha256: dcc6b2793862226b52fb30af9ca5cce5542915a57a5c736afe45c9adeedcb694

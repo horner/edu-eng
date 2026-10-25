@@ -1,0 +1,58 @@
+id: be-hair-loss-scalp-conditions
+name: Hair Loss, Thinning & Scalp Conditions
+category: Hair & Scalp
+level: 2
+priority: core
+summary: Why hair is lost or thins in people of all ages and genders, which treatments have evidence, how to spot scalp problems, and when to see a doctor.
+prerequisites:
+  - be-hair-scalp-science
+related:
+  - hf-hormonal-health
+  - bi-immunology
+topics:
+  - id: be-hair-loss-scalp-conditions-1
+    name: Normal shedding versus hair loss
+  - id: be-hair-loss-scalp-conditions-2
+    name: Androgenetic alopecia in men and women
+  - id: be-hair-loss-scalp-conditions-3
+    name: "Telogen effluvium: stress, illness, childbirth and diet"
+  - id: be-hair-loss-scalp-conditions-4
+    name: Alopecia areata
+  - id: be-hair-loss-scalp-conditions-5
+    name: Traction alopecia and hairstyle-related loss
+  - id: be-hair-loss-scalp-conditions-6
+    name: "Scarring alopecias: why early referral matters"
+  - id: be-hair-loss-scalp-conditions-7
+    name: Hair loss from medication, chemotherapy and thyroid or iron problems
+  - id: be-hair-loss-scalp-conditions-8
+    name: Treatment options and evidence
+    sub:
+      - id: be-hair-loss-scalp-conditions-8-1
+        name: "Topical and oral minoxidil: an overview"
+      - id: be-hair-loss-scalp-conditions-8-2
+        name: "Finasteride and anti-androgens: an overview of prescription options"
+      - id: be-hair-loss-scalp-conditions-8-3
+        name: Low-level light therapy
+      - id: be-hair-loss-scalp-conditions-8-4
+        name: Platelet-rich plasma
+      - id: be-hair-loss-scalp-conditions-8-5
+        name: "Hair transplantation: FUT and FUE"
+  - id: be-hair-loss-scalp-conditions-9
+    name: "Supplements, shampoos and serums for hair loss: claims versus evidence"
+  - id: be-hair-loss-scalp-conditions-10
+    name: "Camouflage: fibres, scalp micropigmentation, toppers and wigs"
+  - id: be-hair-loss-scalp-conditions-11
+    name: "Scalp conditions: dandruff, psoriasis, folliculitis and itchy scalp"
+  - id: be-hair-loss-scalp-conditions-12
+    name: "Excess hair: hirsutism and hypertrichosis"
+  - id: be-hair-loss-scalp-conditions-13
+    name: Psychological impact of hair loss
+  - id: be-hair-loss-scalp-conditions-14
+    name: When to see a dermatologist or trichologist
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-hair-loss-scalp-conditions.json
+  sha256: e85be6853986f9a677bbb95c36e1006619ef432b16c115d7dedd44829bd382bd

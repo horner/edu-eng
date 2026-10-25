@@ -1,0 +1,47 @@
+id: hf-functional-anatomy-kinesiology
+name: Functional Anatomy & Kinesiology for Training
+category: Exercise Science
+level: 2
+priority: core
+summary: The muscles, joints and movement patterns that exercise is built on, studied region by region.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-human-anatomy
+  - bi-muscle-biology
+topics:
+  - id: hf-functional-anatomy-kinesiology-1
+    name: Planes and axes of movement
+  - id: hf-functional-anatomy-kinesiology-2
+    name: Joint types and joint movements
+  - id: hf-functional-anatomy-kinesiology-3
+    name: Skeletal muscle structure and fibre types
+  - id: hf-functional-anatomy-kinesiology-4
+    name: "Muscle actions: concentric, eccentric and isometric"
+  - id: hf-functional-anatomy-kinesiology-5
+    name: Agonists, antagonists, synergists and stabilisers
+  - id: hf-functional-anatomy-kinesiology-6
+    name: Length-tension and force-velocity relationships (conceptual)
+  - id: hf-functional-anatomy-kinesiology-7
+    name: The shoulder complex
+  - id: hf-functional-anatomy-kinesiology-8
+    name: Elbow, wrist and hand
+  - id: hf-functional-anatomy-kinesiology-9
+    name: The spine and trunk musculature
+  - id: hf-functional-anatomy-kinesiology-10
+    name: Hip and pelvis
+  - id: hf-functional-anatomy-kinesiology-11
+    name: The knee
+  - id: hf-functional-anatomy-kinesiology-12
+    name: Ankle and foot
+  - id: hf-functional-anatomy-kinesiology-13
+    name: "Fundamental movement patterns: squat, hinge, push, pull, lunge, carry and rotate"
+  - id: hf-functional-anatomy-kinesiology-14
+    name: "Analysing an exercise: which muscles do what"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-functional-anatomy-kinesiology.json
+  sha256: 593f3514b984ab1aab302d06443d0c4c88ab72c1d3f2d51ac0b4cf946918b5d8

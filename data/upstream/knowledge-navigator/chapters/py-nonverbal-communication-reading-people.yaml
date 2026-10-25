@@ -1,0 +1,54 @@
+id: py-nonverbal-communication-reading-people
+name: Nonverbal Communication, Facial Expressions & Reading People
+category: Social Psychology & Behavioural Science
+level: 2
+priority: important
+summary: What faces, bodies and voices really reveal about emotions and intentions, how accurate people are at reading others, and which popular claims do not hold up.
+prerequisites:
+  - py-emotion-and-emotion-regulation
+related: []
+topics:
+  - id: py-nonverbal-communication-reading-people-1
+    name: Channels of nonverbal communication and how they work with words
+  - id: py-nonverbal-communication-reading-people-2
+    name: Facial expressions of emotion
+    sub:
+      - id: py-nonverbal-communication-reading-people-2-1
+        name: Ekman's basic emotions and cross-cultural studies
+      - id: py-nonverbal-communication-reading-people-2-2
+        name: The Facial Action Coding System (FACS)
+      - id: py-nonverbal-communication-reading-people-2-3
+        name: Genuine vs posed smiles
+  - id: py-nonverbal-communication-reading-people-3
+    name: "Universality vs constructed emotion: Barrett, context, culture and display rules"
+  - id: py-nonverbal-communication-reading-people-4
+    name: "Microexpressions: claims and what the evidence actually shows"
+  - id: py-nonverbal-communication-reading-people-5
+    name: "Body language: posture, gestures and the power-posing controversy"
+  - id: py-nonverbal-communication-reading-people-6
+    name: Gaze, eye contact and attention
+  - id: py-nonverbal-communication-reading-people-7
+    name: "Touch and proxemics: personal space across cultures"
+  - id: py-nonverbal-communication-reading-people-8
+    name: "Voice and prosody: what tone of voice conveys"
+  - id: py-nonverbal-communication-reading-people-9
+    name: "First impressions and thin slices: accuracy and bias"
+  - id: py-nonverbal-communication-reading-people-10
+    name: "Empathic accuracy and mentalising: reading thoughts and feelings"
+  - id: py-nonverbal-communication-reading-people-11
+    name: "Emotional intelligence: ability vs trait models and their criticisms"
+  - id: py-nonverbal-communication-reading-people-12
+    name: "Deception detection in brief: why people are near chance (about 54%)"
+  - id: py-nonverbal-communication-reading-people-13
+    name: Cold reading and 'mind-reading' illusions
+  - id: py-nonverbal-communication-reading-people-14
+    name: Neurodivergence, culture and nonverbal differences
+  - id: py-nonverbal-communication-reading-people-15
+    name: Using nonverbal skills ethically
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-nonverbal-communication-reading-people.json
+  sha256: df93b3649b366de021b1d2da04890655648f1025488ae2073783a8062292db3e

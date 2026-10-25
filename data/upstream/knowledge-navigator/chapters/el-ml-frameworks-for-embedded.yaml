@@ -1,0 +1,36 @@
+id: el-ml-frameworks-for-embedded
+name: ML Frameworks for Embedded
+category: Machine Learning & Edge AI
+level: 3
+priority: important
+summary: "The toolchains for deploying models to devices: TensorFlow Lite (Micro), PyTorch Mobile, ONNX Runtime, TVM and Edge Impulse."
+prerequisites:
+  - el-tinyml-tiny-machine-learning
+related:
+  - ai-deep-learning-frameworks
+topics:
+  - id: el-ml-frameworks-for-embedded-1
+    name: TensorFlow Lite for Microcontrollers
+  - id: el-ml-frameworks-for-embedded-2
+    name: TensorFlow Lite
+  - id: el-ml-frameworks-for-embedded-3
+    name: PyTorch Mobile
+  - id: el-ml-frameworks-for-embedded-4
+    name: ONNX Runtime
+  - id: el-ml-frameworks-for-embedded-5
+    name: Apache TVM
+  - id: el-ml-frameworks-for-embedded-6
+    name: microTVM
+  - id: el-ml-frameworks-for-embedded-7
+    name: Edge Impulse
+  - id: el-ml-frameworks-for-embedded-8
+    name: SensiML
+  - id: el-ml-frameworks-for-embedded-9
+    name: Neural Network on Microcontroller (NNoM)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-ml-frameworks-for-embedded.json
+  sha256: a59756c53ee147ed27dfe891d33dde341e03985d39d2bad0499515ed1911e472

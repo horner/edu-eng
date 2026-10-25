@@ -1,0 +1,30 @@
+id: ph-quantum-sensing-metrology
+name: Quantum Sensing & Metrology
+category: Atomic, Molecular & Optical Physics
+level: 4
+priority: advanced
+summary: Using quantum systems to measure time, fields and gravity with record precision, and how the SI is defined.
+prerequisites:
+  - ph-atom-light-interaction-laser-cooling
+  - ph-quantum-information-science
+related:
+  - el-advanced-sensing
+  - el-quantum-technologies
+topics:
+  - id: ph-quantum-sensing-metrology-1
+    name: Atomic clocks
+  - id: ph-quantum-sensing-metrology-2
+    name: Quantum magnetometry
+  - id: ph-quantum-sensing-metrology-3
+    name: Quantum gravimetry
+  - id: ph-quantum-sensing-metrology-4
+    name: Precision measurements
+  - id: ph-quantum-sensing-metrology-5
+    name: Fundamental constants
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-quantum-sensing-metrology.json
+  sha256: d12ee44b02d82aeec46c52bd0b83efda0ff6dd812eec0daa7351177593aa28fe

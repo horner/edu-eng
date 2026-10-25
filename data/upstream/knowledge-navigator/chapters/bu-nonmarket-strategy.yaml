@@ -1,0 +1,45 @@
+id: bu-nonmarket-strategy
+name: Business, Government & Nonmarket Strategy
+category: Strategy & Global Business
+level: 3
+priority: advanced
+summary: How firms deal with governments, regulators, activists and the media, and how public policy shapes markets.
+prerequisites:
+  - bu-business-strategy
+  - bu-macroeconomics-for-business
+related:
+  - bu-competition-regulatory-law
+  - bu-sustainability-esg
+  - ea-environmental-policy-law-and-economics
+topics:
+  - id: bu-nonmarket-strategy-1
+    name: "The nonmarket environment: issues, interests, institutions and information"
+  - id: bu-nonmarket-strategy-2
+    name: "Why governments regulate: market failure and public interest"
+  - id: bu-nonmarket-strategy-3
+    name: Regulatory capture and the political economy of regulation
+  - id: bu-nonmarket-strategy-4
+    name: "Corporate political activity: lobbying, campaign finance and disclosure"
+  - id: bu-nonmarket-strategy-5
+    name: Industrial policy, subsidies and state-owned enterprises
+  - id: bu-nonmarket-strategy-6
+    name: Activists, NGOs and private politics
+  - id: bu-nonmarket-strategy-7
+    name: Media, reputation and crisis management
+  - id: bu-nonmarket-strategy-8
+    name: Corporate responses to social issues and stakeholder pressure
+  - id: bu-nonmarket-strategy-9
+    name: "Doing business with government: procurement and public-private partnerships"
+  - id: bu-nonmarket-strategy-10
+    name: "Comparative capitalism: varieties of business-government relations"
+  - id: bu-nonmarket-strategy-11
+    name: "Country analysis: macroeconomic and political assessment for investment"
+  - id: bu-nonmarket-strategy-12
+    name: Integrating market and nonmarket strategy
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-nonmarket-strategy.json
+  sha256: d83c627077e464621c9b2de1f77f236ca9246ed672bf5fd3cfa2806578b272cf

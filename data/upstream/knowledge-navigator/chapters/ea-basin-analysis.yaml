@@ -1,0 +1,34 @@
+id: ea-basin-analysis
+name: Basin Analysis & Sequence Stratigraphy
+category: Sedimentary Geology & Earth History
+level: 4
+priority: advanced
+summary: How sedimentary basins form and fill, and how sea level, subsidence and sediment supply are read from their stratigraphy.
+prerequisites:
+  - ea-sedimentology-and-stratigraphy
+  - ea-tectonics-and-orogeny
+related: []
+topics:
+  - id: ea-basin-analysis-1
+    name: Basin classification by tectonic setting
+  - id: ea-basin-analysis-2
+    name: "Mechanics of subsidence: rift, flexural and thermal basins"
+  - id: ea-basin-analysis-3
+    name: Subsidence analysis and backstripping
+  - id: ea-basin-analysis-4
+    name: Accommodation, sediment supply and relative sea level
+  - id: ea-basin-analysis-5
+    name: "Sequence stratigraphy: systems tracts, sequence boundaries and parasequences"
+  - id: ea-basin-analysis-6
+    name: Seismic stratigraphy
+  - id: ea-basin-analysis-7
+    name: Source-to-sink sediment routing
+  - id: ea-basin-analysis-8
+    name: Basin thermal history and burial
+discipline: earth
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/earth/ea-basin-analysis.json
+  sha256: e6608d9fafead8338398580a97d7d1074d3200f9d476b59e0da6aa12a66eb5df

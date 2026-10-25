@@ -1,0 +1,52 @@
+id: be-hair-scalp-science
+name: Hair & Scalp Science
+category: Hair & Scalp
+level: 2
+priority: core
+summary: The biology of hair and scalp, from the follicle and growth cycle to the structure of the hair fibre, and how this explains hair types, damage and care.
+prerequisites:
+  - be-skin-biology
+related:
+  - bi-human-anatomy
+  - bi-protein-structure-function
+topics:
+  - id: be-hair-scalp-science-1
+    name: "The hair follicle: structure and the dermal papilla"
+  - id: be-hair-scalp-science-2
+    name: "The hair growth cycle: anagen, catagen, telogen and exogen"
+  - id: be-hair-scalp-science-3
+    name: "Types of hair: vellus, terminal, scalp and body hair"
+  - id: be-hair-scalp-science-4
+    name: The hair fibre
+    sub:
+      - id: be-hair-scalp-science-4-1
+        name: Cuticle, cortex and medulla
+      - id: be-hair-scalp-science-4-2
+        name: Keratin proteins and disulfide bonds
+      - id: be-hair-scalp-science-4-3
+        name: Hydrogen bonds, water and why wet hair behaves differently
+      - id: be-hair-scalp-science-4-4
+        name: The lipid layer (18-MEA)
+  - id: be-hair-scalp-science-5
+    name: "Hair colour: eumelanin, pheomelanin and greying"
+  - id: be-hair-scalp-science-6
+    name: "Hair shape and texture: straight, wavy, curly and coily"
+  - id: be-hair-scalp-science-7
+    name: "Hair properties: strength, elasticity, porosity and static"
+  - id: be-hair-scalp-science-8
+    name: "The scalp: sebum, microbiome and its skin"
+  - id: be-hair-scalp-science-9
+    name: "Dandruff and seborrhoeic dermatitis: causes and anti-dandruff ingredients"
+  - id: be-hair-scalp-science-10
+    name: "Hair damage: mechanical, thermal, chemical and UV"
+  - id: be-hair-scalp-science-11
+    name: How hair changes with age, hormones and health
+  - id: be-hair-scalp-science-12
+    name: "Hair myths: cutting makes it grow, brushing 100 strokes and more"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-hair-scalp-science.json
+  sha256: cfe3b42ae90a3dc3bf78b4aa1833c649e03e9d9b5aa3a588d4b20e7e9def27b2

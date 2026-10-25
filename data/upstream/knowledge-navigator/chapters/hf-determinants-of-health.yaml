@@ -1,0 +1,44 @@
+id: hf-determinants-of-health
+name: Determinants of Health & Health Equity
+category: Foundations of Health & Wellness
+level: 2
+priority: important
+summary: "Why health differs between people and places: the biological, behavioural, social, economic, environmental and health-care factors that shape it."
+prerequisites:
+  - hf-introduction-to-health-wellness
+related:
+  - py-health-psychology
+topics:
+  - id: hf-determinants-of-health-1
+    name: "Categories of health determinants: biology, behaviour, environment, society and health care"
+  - id: hf-determinants-of-health-2
+    name: The Dahlgren-Whitehead model of the layers of influence on health
+  - id: hf-determinants-of-health-3
+    name: "The social gradient in health: the Whitehall studies and the Marmot reviews"
+  - id: hf-determinants-of-health-4
+    name: Income, education and employment as determinants
+  - id: hf-determinants-of-health-5
+    name: Housing, neighbourhoods and the built environment
+  - id: hf-determinants-of-health-6
+    name: Food environments, food deserts and food swamps
+  - id: hf-determinants-of-health-7
+    name: Access to and quality of health care
+  - id: hf-determinants-of-health-8
+    name: Racism, discrimination and health disparities
+  - id: hf-determinants-of-health-9
+    name: Gender, sex and health
+  - id: hf-determinants-of-health-10
+    name: Adverse childhood experiences and the life-course approach
+  - id: hf-determinants-of-health-11
+    name: "Commercial determinants of health: tobacco, alcohol, food and gambling industries"
+  - id: hf-determinants-of-health-12
+    name: Measuring health inequalities
+  - id: hf-determinants-of-health-13
+    name: "Policy responses: Health in All Policies and proportionate universalism"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-determinants-of-health.json
+  sha256: 20bb4e498d7514af269651aa41ca9c10aedc8fefe5142438a32f42a42d29e0e9

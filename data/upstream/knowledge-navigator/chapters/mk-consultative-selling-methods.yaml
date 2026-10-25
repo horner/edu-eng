@@ -1,0 +1,42 @@
+id: mk-consultative-selling-methods
+name: Consultative Selling Methodologies
+category: Sales & Customer Relationships
+level: 3
+priority: important
+summary: Comparing the main structured selling methods and the evidence behind them, for complex and higher-value sales.
+prerequisites:
+  - mk-sales-fundamentals
+related:
+  - mk-enterprise-b2b-sales
+topics:
+  - id: mk-consultative-selling-methods-1
+    name: From transactional to consultative and insight selling
+  - id: mk-consultative-selling-methods-2
+    name: "SPIN Selling: situation, problem, implication, need-payoff"
+  - id: mk-consultative-selling-methods-3
+    name: Solution Selling
+  - id: mk-consultative-selling-methods-4
+    name: "The Challenger Sale: teach, tailor, take control"
+  - id: mk-consultative-selling-methods-5
+    name: Value selling and business cases
+  - id: mk-consultative-selling-methods-6
+    name: Sandler selling system
+  - id: mk-consultative-selling-methods-7
+    name: MEDDIC and MEDDPICC qualification
+  - id: mk-consultative-selling-methods-8
+    name: Command of the Message and value frameworks
+  - id: mk-consultative-selling-methods-9
+    name: Gap selling and problem-centric discovery
+  - id: mk-consultative-selling-methods-10
+    name: Discovery calls and demos that work
+  - id: mk-consultative-selling-methods-11
+    name: "Comparing methods: research evidence and fit to context"
+  - id: mk-consultative-selling-methods-12
+    name: Building a company sales methodology and playbook
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-consultative-selling-methods.json
+  sha256: fb5312a4cbab269b3edc7ab0819d7cb8519e7e6a12cd3c9ccb8c9f7aa0e87cee

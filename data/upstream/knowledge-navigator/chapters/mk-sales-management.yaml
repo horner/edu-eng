@@ -1,0 +1,43 @@
+id: mk-sales-management
+name: Sales Management & Leadership
+category: Sales & Customer Relationships
+level: 3
+priority: important
+summary: "Building and leading a sales team: structure, hiring, territories, quotas, compensation, coaching and forecasting."
+prerequisites:
+  - mk-sales-fundamentals
+  - mk-marketing-maths-metrics
+related:
+  - bu-organizational-behavior
+topics:
+  - id: mk-sales-management-1
+    name: Sales strategy and the sales manager's role
+  - id: mk-sales-management-2
+    name: Sales force structure and specialisation
+  - id: mk-sales-management-3
+    name: Sales force sizing and territory design
+  - id: mk-sales-management-4
+    name: Recruiting and selecting salespeople
+  - id: mk-sales-management-5
+    name: Onboarding and sales training
+  - id: mk-sales-management-6
+    name: Quotas and target setting
+  - id: mk-sales-management-7
+    name: Compensation plans and incentives
+  - id: mk-sales-management-8
+    name: Coaching and performance management
+  - id: mk-sales-management-9
+    name: Motivation and retention of salespeople
+  - id: mk-sales-management-10
+    name: Pipeline reviews and sales forecasting
+  - id: mk-sales-management-11
+    name: Sales analytics and performance metrics
+  - id: mk-sales-management-12
+    name: Sales culture and ethics
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-sales-management.json
+  sha256: ba7157e541b534c4bd46f2ea258c40bd59884843b7d9c56694643a3d4f57144e

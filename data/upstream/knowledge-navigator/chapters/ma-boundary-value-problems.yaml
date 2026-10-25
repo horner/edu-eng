@@ -1,0 +1,30 @@
+id: ma-boundary-value-problems
+name: Boundary Value Problems
+category: Differential Equations & Dynamical Systems
+level: 3
+priority: important
+summary: "Differential equations with conditions at the edges of a domain: Sturm-Liouville theory, eigenfunction expansions and Green's functions."
+prerequisites:
+  - ma-mathematical-methods
+related:
+  - ph-mathematical-physics
+topics:
+  - id: ma-boundary-value-problems-4
+    name: Two-point boundary value problems
+  - id: ma-boundary-value-problems-3
+    name: Eigenvalue problems
+  - id: ma-boundary-value-problems-1
+    name: Sturm-Liouville theory
+  - id: ma-boundary-value-problems-5
+    name: Eigenfunction expansions and completeness
+  - id: ma-boundary-value-problems-2
+    name: Green's functions
+  - id: ma-boundary-value-problems-6
+    name: Boundary value problems in higher dimensions
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-boundary-value-problems.json
+  sha256: eaad0470acd5fe6556044c5951bf1f449f4799aebc0723082626a27f1f73720b

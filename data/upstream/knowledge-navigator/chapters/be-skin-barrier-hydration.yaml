@@ -1,0 +1,55 @@
+id: be-skin-barrier-hydration
+name: Skin Barrier, Hydration & the Skin Microbiome
+category: Skin Science
+level: 2
+priority: core
+summary: How the outer layer of skin holds water and keeps irritants out, what damages it, and how the skin's microbes fit in.
+prerequisites:
+  - be-skin-biology
+related:
+  - bi-microbiome
+  - bi-biochemistry
+topics:
+  - id: be-skin-barrier-hydration-1
+    name: The "bricks and mortar" model of the stratum corneum
+  - id: be-skin-barrier-hydration-2
+    name: Barrier lipids
+    sub:
+      - id: be-skin-barrier-hydration-2-1
+        name: Ceramides, cholesterol and free fatty acids
+      - id: be-skin-barrier-hydration-2-2
+        name: Lipid lamellae and their organisation
+  - id: be-skin-barrier-hydration-3
+    name: Natural moisturising factor (NMF) and filaggrin
+  - id: be-skin-barrier-hydration-4
+    name: Transepidermal water loss (TEWL) and how it is measured
+  - id: be-skin-barrier-hydration-5
+    name: "Desquamation: how skin cells shed and why it goes wrong"
+  - id: be-skin-barrier-hydration-6
+    name: Skin pH and its effect on barrier enzymes
+  - id: be-skin-barrier-hydration-7
+    name: "What damages the barrier: over-cleansing, harsh surfactants, climate and over-exfoliation"
+  - id: be-skin-barrier-hydration-8
+    name: Dry versus dehydrated skin
+  - id: be-skin-barrier-hydration-9
+    name: "Barrier repair: how moisturisers restore function"
+  - id: be-skin-barrier-hydration-10
+    name: The skin microbiome
+    sub:
+      - id: be-skin-barrier-hydration-10-1
+        name: "Main microbes: Cutibacterium, Staphylococcus, Malassezia"
+      - id: be-skin-barrier-hydration-10-2
+        name: Microbiome and barrier interactions
+      - id: be-skin-barrier-hydration-10-3
+        name: Microbiome in acne, eczema and dandruff
+      - id: be-skin-barrier-hydration-10-4
+        name: "Probiotic and postbiotic skincare: evidence so far"
+  - id: be-skin-barrier-hydration-11
+    name: "Seasonal and environmental effects: humidity, cold, heating and air conditioning"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-skin-barrier-hydration.json
+  sha256: f54153e476f924e01003c50f0206077fa65c66874f5362815522732bce122462

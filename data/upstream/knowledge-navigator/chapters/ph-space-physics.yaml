@@ -1,0 +1,44 @@
+id: ph-space-physics
+name: Space Physics
+category: Stars, the Sun & Interstellar Medium
+level: 4
+priority: advanced
+summary: "The plasma environment of space: the solar wind, magnetospheres, radiation belts, aurorae and space weather."
+prerequisites:
+  - ph-sun-heliophysics
+related:
+  - ph-plasma-physics
+  - ae-space-environment
+  - ea-geomagnetism-and-paleomagnetism
+topics:
+  - id: ph-space-physics-1
+    name: Solar physics
+  - id: ph-space-physics-4
+    name: Heliophysics
+  - id: ph-space-physics-2
+    name: Solar wind
+  - id: ph-space-physics-7
+    name: The interplanetary magnetic field and the edge of the heliosphere
+  - id: ph-space-physics-3
+    name: Magnetospheres
+  - id: ph-space-physics-8
+    name: Radiation belts and trapped particles
+  - id: ph-space-physics-9
+    name: Aurorae and magnetosphere-ionosphere coupling
+  - id: ph-space-physics-6
+    name: Ionosphere physics
+  - id: ph-space-physics-5
+    name: Space weather
+  - id: ph-space-physics-10
+    name: Planetary magnetospheres beyond Earth
+  - id: ph-space-physics-11
+    name: "Spacecraft environment effects: charging and radiation damage"
+  - id: ph-space-physics-12
+    name: In-situ space plasma measurements
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-space-physics.json
+  sha256: 2af1af8fd65a0e02e92877f247b512820d8c009962b5556020a1491edec35897

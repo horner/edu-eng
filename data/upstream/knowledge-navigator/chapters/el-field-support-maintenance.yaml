@@ -1,0 +1,27 @@
+id: el-field-support-maintenance
+name: Field Support & Maintenance
+category: Professional Practice, Business & Community
+level: 3
+priority: optional
+summary: "Supporting products after sale: technical support, warranty and RMA, spare parts, field service and customer training."
+prerequisites:
+  - el-product-development
+related: []
+topics:
+  - id: el-field-support-maintenance-1
+    name: Technical support infrastructure
+  - id: el-field-support-maintenance-2
+    name: Warranty and RMA processes
+  - id: el-field-support-maintenance-3
+    name: Spare parts management
+  - id: el-field-support-maintenance-4
+    name: Field service procedures
+  - id: el-field-support-maintenance-5
+    name: Customer training
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-field-support-maintenance.json
+  sha256: a49c0bd3843390a488c010e2da67a31c122ea16fd5f33adc158a653a85eb9f1f

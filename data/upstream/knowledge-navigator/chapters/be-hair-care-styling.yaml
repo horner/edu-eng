@@ -1,0 +1,57 @@
+id: be-hair-care-styling
+name: Hair Care, Styling, Cutting & Hair Additions
+category: Hair & Scalp
+level: 2
+priority: important
+summary: "Everyday and professional hair care: washing, conditioning, heat and styling, the principles of cutting, and wigs, extensions and hairpieces."
+prerequisites:
+  - be-hair-scalp-science
+related: []
+topics:
+  - id: be-hair-care-styling-1
+    name: Washing frequency, shampoo choice and conditioner use
+  - id: be-hair-care-styling-2
+    name: "Choosing products for hair type: fine, thick, oily, dry, coloured"
+  - id: be-hair-care-styling-3
+    name: "Hair masks, oils and leave-in treatments: what they do"
+  - id: be-hair-care-styling-4
+    name: "Brushes, combs, towels and silk: reducing mechanical damage"
+  - id: be-hair-care-styling-5
+    name: Heat styling
+    sub:
+      - id: be-hair-care-styling-5-1
+        name: Blow-drying, straighteners and curling tools
+      - id: be-hair-care-styling-5-2
+        name: Heat damage and heat protectants
+      - id: be-hair-care-styling-5-3
+        name: Air-drying and heat-free styling
+  - id: be-hair-care-styling-6
+    name: "Styling products: gels, mousses, creams, sprays and dry shampoo"
+  - id: be-hair-care-styling-7
+    name: Face shape, hair density and choosing a haircut
+  - id: be-hair-care-styling-8
+    name: "Principles of haircutting: elevation, sections, layers and graduation"
+  - id: be-hair-care-styling-9
+    name: "Barbering basics: clipper cuts, fades and beard shaping"
+  - id: be-hair-care-styling-10
+    name: Updos, braiding and protective styles
+  - id: be-hair-care-styling-11
+    name: Hair additions
+    sub:
+      - id: be-hair-care-styling-11-1
+        name: "Wigs and toppers: human and synthetic hair"
+      - id: be-hair-care-styling-11-2
+        name: "Extensions: clip-in, tape, sew-in and bonded"
+      - id: be-hair-care-styling-11-3
+        name: Traction risk and safe wear
+  - id: be-hair-care-styling-12
+    name: Hair care for children
+  - id: be-hair-care-styling-13
+    name: Choosing and communicating with a hairdresser
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-hair-care-styling.json
+  sha256: 8e16fcf749286bac837b6d60bfc6d3903669f833f5af3e8aee46a32605c0533a

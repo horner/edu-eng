@@ -1,0 +1,62 @@
+id: be-skin-hair-product-formulation
+name: Formulating Skin, Hair & Personal Care Products
+category: Cosmetic Chemistry & Formulation
+level: 3
+priority: important
+summary: How the main product categories are formulated, from creams, serums and cleansers to shampoos, conditioners, styling, oral care and deodorants.
+prerequisites:
+  - be-formulation-science
+  - be-hair-scalp-science
+  - be-cleansers-moisturisers-exfoliation
+related:
+  - ch-polymer-chemistry
+topics:
+  - id: be-skin-hair-product-formulation-1
+    name: Skin care
+    sub:
+      - id: be-skin-hair-product-formulation-1-1
+        name: Facial creams and lotions
+      - id: be-skin-hair-product-formulation-1-2
+        name: Serums and delivering actives
+      - id: be-skin-hair-product-formulation-1-3
+        name: Facial and body cleansers
+      - id: be-skin-hair-product-formulation-1-4
+        name: Toners, essences and masks
+      - id: be-skin-hair-product-formulation-1-5
+        name: Formulating for sensitive and acne-prone skin
+  - id: be-skin-hair-product-formulation-2
+    name: Hair care
+    sub:
+      - id: be-skin-hair-product-formulation-2-1
+        name: "Shampoos: surfactant systems and mildness"
+      - id: be-skin-hair-product-formulation-2-2
+        name: "Conditioners: cationic surfactants and polymers"
+      - id: be-skin-hair-product-formulation-2-3
+        name: Leave-in products, masks and oils
+      - id: be-skin-hair-product-formulation-2-4
+        name: "Styling products: gels, mousses, sprays and heat protectants"
+      - id: be-skin-hair-product-formulation-2-5
+        name: Anti-dandruff shampoos
+  - id: be-skin-hair-product-formulation-3
+    name: Formulating for textured and curly hair
+  - id: be-skin-hair-product-formulation-4
+    name: Bar products and waterless formats
+  - id: be-skin-hair-product-formulation-5
+    name: Deodorants and antiperspirants
+  - id: be-skin-hair-product-formulation-6
+    name: "Oral care: toothpastes and mouthwashes"
+  - id: be-skin-hair-product-formulation-7
+    name: Shaving products and men's grooming formulas
+  - id: be-skin-hair-product-formulation-8
+    name: Baby and children's products
+  - id: be-skin-hair-product-formulation-9
+    name: Natural and organic formulation constraints
+  - id: be-skin-hair-product-formulation-10
+    name: Benchmarking competitor products and reverse engineering
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-skin-hair-product-formulation.json
+  sha256: c36cd0ccfbff10332d955f0d10cb85c25e0d48083fe55054a099955b003ee9d0

@@ -1,0 +1,42 @@
+id: bu-history-of-business
+name: History of Business & Management Thought
+category: Sectors, Careers & Professional Practice
+level: 1
+priority: optional
+summary: How trade, companies, management ideas and capitalism developed, and what history teaches today's managers.
+prerequisites: []
+related:
+  - bu-principles-of-management
+  - mk-history-of-marketing-thought
+topics:
+  - id: bu-history-of-business-1
+    name: Ancient and medieval trade, merchants and guilds
+  - id: bu-history-of-business-2
+    name: Double-entry bookkeeping and early banking
+  - id: bu-history-of-business-3
+    name: Chartered trading companies and the joint-stock company
+  - id: bu-history-of-business-4
+    name: The industrial revolution and the factory system
+  - id: bu-history-of-business-5
+    name: Railways, big business and the managerial revolution
+  - id: bu-history-of-business-6
+    name: Scientific management, mass production and Fordism
+  - id: bu-history-of-business-7
+    name: The rise of the multinational corporation
+  - id: bu-history-of-business-8
+    name: "Post-war management thought: Drucker, quality and strategy"
+  - id: bu-history-of-business-9
+    name: Japanese management and lean production
+  - id: bu-history-of-business-10
+    name: Globalisation, deregulation and financialisation
+  - id: bu-history-of-business-11
+    name: "The digital economy: from the dot-com boom to platforms"
+  - id: bu-history-of-business-12
+    name: "Business history in emerging economies: India, China and beyond"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-history-of-business.json
+  sha256: 8ee7fa02f1ea66daa846f5b375e4f6784c64ae7dfa52225f1bcb3ceafa9c0829

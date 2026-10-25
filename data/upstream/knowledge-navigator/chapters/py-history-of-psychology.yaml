@@ -1,0 +1,44 @@
+id: py-history-of-psychology
+name: History of Psychology
+category: History, Philosophy & Professional Ethics
+level: 2
+priority: optional
+summary: How psychology grew from philosophy and physiology into a science and a profession, and the people, schools and controversies along the way.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - bi-history-philosophy-of-biology
+topics:
+  - id: py-history-of-psychology-1
+    name: "Philosophical roots: Descartes, the empiricists and associationism"
+  - id: py-history-of-psychology-2
+    name: "Physiological roots: psychophysics and the reflex"
+  - id: py-history-of-psychology-3
+    name: Wundt, Titchener and structuralism
+  - id: py-history-of-psychology-4
+    name: William James and functionalism
+  - id: py-history-of-psychology-5
+    name: Freud and the psychoanalytic movement
+  - id: py-history-of-psychology-6
+    name: Gestalt psychology
+  - id: py-history-of-psychology-7
+    name: "Behaviourism: Watson and Skinner"
+  - id: py-history-of-psychology-8
+    name: Humanistic psychology
+  - id: py-history-of-psychology-9
+    name: The cognitive revolution
+  - id: py-history-of-psychology-10
+    name: Biological and evolutionary turns; the rise of neuroscience
+  - id: py-history-of-psychology-11
+    name: Psychology outside the West and forgotten contributors
+  - id: py-history-of-psychology-12
+    name: "Psychology's dark chapters: eugenics, unethical experiments and complicity in torture"
+  - id: py-history-of-psychology-13
+    name: The growth of clinical and applied psychology as professions
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-history-of-psychology.json
+  sha256: 1afc7d1ee6cd0a23f8001517a79e7ed5451f7decfb41c7005933655dfaf2a1eb

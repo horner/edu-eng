@@ -1,0 +1,43 @@
+id: mk-influencer-affiliate-partnerships
+name: Influencer, Affiliate & Partnership Marketing
+category: Digital Marketing
+level: 2
+priority: important
+summary: Working with creators, affiliates and partner brands who reach customers on your behalf, and paying them fairly and transparently.
+prerequisites:
+  - mk-social-media-marketing
+  - mk-marketing-maths-metrics
+related:
+  - mk-marketing-law-regulation
+topics:
+  - id: mk-influencer-affiliate-partnerships-1
+    name: The creator economy and influencer tiers
+  - id: mk-influencer-affiliate-partnerships-2
+    name: "Finding and vetting influencers: audience quality and fake followers"
+  - id: mk-influencer-affiliate-partnerships-3
+    name: Influencer briefs, contracts and usage rights
+  - id: mk-influencer-affiliate-partnerships-4
+    name: Disclosure rules for paid endorsements
+  - id: mk-influencer-affiliate-partnerships-5
+    name: Measuring influencer campaigns
+  - id: mk-influencer-affiliate-partnerships-6
+    name: "Affiliate marketing models: CPA, revenue share, coupon and content sites"
+  - id: mk-influencer-affiliate-partnerships-7
+    name: Affiliate networks and tracking
+  - id: mk-influencer-affiliate-partnerships-8
+    name: Affiliate fraud and attribution conflicts
+  - id: mk-influencer-affiliate-partnerships-9
+    name: Referral programmes
+  - id: mk-influencer-affiliate-partnerships-10
+    name: Brand partnerships and co-marketing
+  - id: mk-influencer-affiliate-partnerships-11
+    name: Ambassador and community programmes
+  - id: mk-influencer-affiliate-partnerships-12
+    name: "Risks: creator controversies and brand fit"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-influencer-affiliate-partnerships.json
+  sha256: f46a51666bb5a8c07ebea684d5fbed7014d320b29da92accbb3e3353910b3091

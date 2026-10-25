@@ -1,0 +1,32 @@
+id: el-industrial-ethernet
+name: Industrial Ethernet
+category: Communication Protocols & Connectivity
+level: 3
+priority: advanced
+summary: "Real-time Ethernet variants for automation: PROFINET, EtherCAT, EtherNet/IP, POWERLINK, SERCOS III, Modbus TCP and CC-Link IE."
+prerequisites:
+  - el-industrial-protocols
+related:
+  - el-industrial-protocols
+topics:
+  - id: el-industrial-ethernet-1
+    name: PROFINET (IEC 61158, IEC 61784)
+  - id: el-industrial-ethernet-2
+    name: EtherCAT (IEC 61158)
+  - id: el-industrial-ethernet-3
+    name: Ethernet/IP (CIP over Ethernet)
+  - id: el-industrial-ethernet-4
+    name: POWERLINK
+  - id: el-industrial-ethernet-5
+    name: SERCOS III
+  - id: el-industrial-ethernet-6
+    name: Modbus TCP
+  - id: el-industrial-ethernet-7
+    name: CC-Link IE
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-industrial-ethernet.json
+  sha256: 893f17b4252c73aca0c012306ed8576146ca02339485ac7c68aac529885899c3

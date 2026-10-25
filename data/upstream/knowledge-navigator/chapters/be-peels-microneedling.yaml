@@ -1,0 +1,54 @@
+id: be-peels-microneedling
+name: Chemical Peels, Microdermabrasion & Microneedling
+category: Aesthetic Procedures & Cosmetic Dermatology
+level: 3
+priority: important
+summary: How resurfacing treatments work, what each depth of treatment can achieve, the evidence behind them, and the risks, especially for darker skin.
+prerequisites:
+  - be-cosmetic-procedures-overview
+  - be-active-ingredients
+  - be-skin-types-skin-of-colour
+related: []
+topics:
+  - id: be-peels-microneedling-1
+    name: "Controlled injury and repair: the principle of resurfacing"
+  - id: be-peels-microneedling-2
+    name: Chemical peels
+    sub:
+      - id: be-peels-microneedling-2-1
+        name: "Superficial peels: AHAs, BHAs and Jessner's"
+      - id: be-peels-microneedling-2-2
+        name: "Medium-depth peels: TCA"
+      - id: be-peels-microneedling-2-3
+        name: "Deep peels: phenol, and why they are medical procedures"
+      - id: be-peels-microneedling-2-4
+        name: Choosing peel depth for the concern
+  - id: be-peels-microneedling-3
+    name: Microdermabrasion and dermaplaning
+  - id: be-peels-microneedling-4
+    name: Dermabrasion
+  - id: be-peels-microneedling-5
+    name: "Microneedling: mechanism and evidence"
+  - id: be-peels-microneedling-6
+    name: Radiofrequency microneedling
+  - id: be-peels-microneedling-7
+    name: "Combining resurfacing with topical actives and PRP: evidence"
+  - id: be-peels-microneedling-8
+    name: "Indications: acne scars, pigmentation, texture and photoageing"
+  - id: be-peels-microneedling-9
+    name: "Risks: post-inflammatory hyperpigmentation, infection and scarring"
+  - id: be-peels-microneedling-10
+    name: Treating darker skin types safely
+  - id: be-peels-microneedling-11
+    name: Pre-treatment preparation and aftercare principles
+  - id: be-peels-microneedling-12
+    name: "At-home peels and dermarollers: risks and limits"
+  - id: be-peels-microneedling-13
+    name: "Scope of practice: esthetician versus medical treatments"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-peels-microneedling.json
+  sha256: ce21433527283e69f48567ddbcc21ed6ad7bbd8393a6291f689a609a0c68b6ab

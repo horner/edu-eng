@@ -1,0 +1,46 @@
+id: hf-mind-body-movement
+name: "Mind-Body Movement: Yoga, Pilates, Tai Chi & Qigong"
+category: Complementary & Integrative Health
+level: 2
+priority: important
+summary: The practices, principles and evidence behind yoga, Pilates, tai chi and qigong.
+prerequisites:
+  - hf-flexibility-mobility
+related:
+  - py-mindfulness-contemplative-science
+topics:
+  - id: hf-mind-body-movement-1
+    name: Origins and styles of yoga
+  - id: hf-mind-body-movement-2
+    name: "Yoga's components: postures, breathing and meditation"
+  - id: hf-mind-body-movement-3
+    name: "Evidence for yoga: back pain, balance, stress and fitness"
+  - id: hf-mind-body-movement-4
+    name: Yoga safety and injuries
+  - id: hf-mind-body-movement-5
+    name: Pilates principles and equipment
+  - id: hf-mind-body-movement-6
+    name: Evidence for Pilates
+  - id: hf-mind-body-movement-7
+    name: "Tai chi: forms and principles"
+  - id: hf-mind-body-movement-8
+    name: "Evidence for tai chi: falls, balance, osteoarthritis and blood pressure"
+  - id: hf-mind-body-movement-9
+    name: Qigong
+  - id: hf-mind-body-movement-10
+    name: Adapting mind-body practices for older adults and chronic conditions
+  - id: hf-mind-body-movement-11
+    name: Choosing a class and a qualified instructor
+  - id: hf-mind-body-movement-12
+    name: Claims vs evidence, such as 'detoxifying' twists
+  - id: hf-mind-body-movement-13
+    name: Dance as a health activity
+  - id: hf-mind-body-movement-14
+    name: Fitting mind-body practice into a weekly plan
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-mind-body-movement.json
+  sha256: 4f8ecc15b3369d379d5fdc135511af233521cd2dfc713844967ee170927a92a3

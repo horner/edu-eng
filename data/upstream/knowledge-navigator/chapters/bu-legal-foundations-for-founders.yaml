@@ -1,0 +1,44 @@
+id: bu-legal-foundations-for-founders
+name: Legal Foundations for Founders
+category: Entrepreneurship & Startups
+level: 2
+priority: important
+summary: The legal decisions founders face (entity, founder agreements, IP, contracts and compliance), compared across countries.
+prerequisites:
+  - bu-entrepreneurship-startups
+related:
+  - bu-company-law
+  - bu-intellectual-property
+  - bu-business-taxation
+topics:
+  - id: bu-legal-foundations-for-founders-1
+    name: "Choosing a legal entity: sole proprietorship, partnership, LLC/LLP and company"
+  - id: bu-legal-foundations-for-founders-2
+    name: "Comparing common startup structures: US Delaware C-corp, UK Ltd, EU GmbH/SAS and India Pvt Ltd"
+  - id: bu-legal-foundations-for-founders-3
+    name: Incorporation steps, registers and ongoing filings
+  - id: bu-legal-foundations-for-founders-4
+    name: "Founder agreements: equity split, vesting and roles"
+  - id: bu-legal-foundations-for-founders-5
+    name: Assigning intellectual property to the company
+  - id: bu-legal-foundations-for-founders-6
+    name: "Protecting the name: trademarks and domain names"
+  - id: bu-legal-foundations-for-founders-7
+    name: "Contracts every startup needs: terms of service, NDAs and customer agreements"
+  - id: bu-legal-foundations-for-founders-8
+    name: "Employees vs contractors: classification and paperwork"
+  - id: bu-legal-foundations-for-founders-9
+    name: Privacy policies and data protection basics (GDPR, CCPA, India DPDP Act)
+  - id: bu-legal-foundations-for-founders-10
+    name: Licences, permits and sector regulation
+  - id: bu-legal-foundations-for-founders-11
+    name: Securities law basics when raising money
+  - id: bu-legal-foundations-for-founders-12
+    name: Working with lawyers cost-effectively
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-legal-foundations-for-founders.json
+  sha256: 7b6971e9954c7c298fcecd3454ffaf8ee35605a4e099adc35b78824174ecd5a0

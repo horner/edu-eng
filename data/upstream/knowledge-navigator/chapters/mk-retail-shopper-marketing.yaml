@@ -1,0 +1,45 @@
+id: mk-retail-shopper-marketing
+name: Retail & Shopper Marketing
+category: Product, Price & Place
+level: 3
+priority: important
+summary: How retailers compete and how brands influence shoppers at the point of purchase, in stores and online.
+prerequisites:
+  - mk-distribution-channels
+  - mk-consumer-behavior
+related:
+  - mk-ecommerce-marketing
+topics:
+  - id: mk-retail-shopper-marketing-1
+    name: Types of retailers and retail formats
+  - id: mk-retail-shopper-marketing-2
+    name: "Retail strategy: target market, positioning and the retail mix"
+  - id: mk-retail-shopper-marketing-3
+    name: Store location and catchment analysis
+  - id: mk-retail-shopper-marketing-4
+    name: Merchandising and assortment planning
+  - id: mk-retail-shopper-marketing-5
+    name: Category management and retailer-supplier collaboration
+  - id: mk-retail-shopper-marketing-6
+    name: Store layout, atmospherics and visual merchandising
+  - id: mk-retail-shopper-marketing-7
+    name: Shopper behaviour and the path to purchase
+  - id: mk-retail-shopper-marketing-8
+    name: In-store promotion and point-of-sale materials
+  - id: mk-retail-shopper-marketing-9
+    name: Private labels and retailer brands
+  - id: mk-retail-shopper-marketing-10
+    name: "Retail pricing: everyday low price versus high-low"
+  - id: mk-retail-shopper-marketing-11
+    name: Loyalty cards and retail data
+  - id: mk-retail-shopper-marketing-12
+    name: "Omnichannel retail: click and collect, returns, inventory visibility"
+  - id: mk-retail-shopper-marketing-13
+    name: "Retail metrics: sales per square metre, basket size, footfall conversion"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-retail-shopper-marketing.json
+  sha256: c7b626d7b120c53d6972f5f07ac8c4ae9964bac6c8fc54503a77c9db6efd0e43

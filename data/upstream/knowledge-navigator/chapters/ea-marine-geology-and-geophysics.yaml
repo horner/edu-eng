@@ -1,0 +1,34 @@
+id: ea-marine-geology-and-geophysics
+name: Marine Geology & Geophysics
+category: Oceanography
+level: 3
+priority: important
+summary: "The geology of the ocean floor: its structure, sediments and history, and how they are studied from ships and drill cores."
+prerequisites:
+  - ea-introductory-oceanography
+  - ea-plate-tectonics
+related: []
+topics:
+  - id: ea-marine-geology-and-geophysics-1
+    name: "Seafloor mapping: bathymetry, sonar and satellite altimetry"
+  - id: ea-marine-geology-and-geophysics-2
+    name: Mid-ocean ridges and oceanic crust formation
+  - id: ea-marine-geology-and-geophysics-3
+    name: Hydrothermal systems and seafloor mineral deposits
+  - id: ea-marine-geology-and-geophysics-4
+    name: Seamounts, oceanic plateaus and hotspot chains
+  - id: ea-marine-geology-and-geophysics-5
+    name: "Continental margins: active and passive"
+  - id: ea-marine-geology-and-geophysics-6
+    name: Submarine canyons, turbidity currents and slope stability
+  - id: ea-marine-geology-and-geophysics-7
+    name: Pelagic sediments and the carbonate compensation depth
+  - id: ea-marine-geology-and-geophysics-8
+    name: Scientific ocean drilling and the sediment record
+discipline: earth
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/earth/ea-marine-geology-and-geophysics.json
+  sha256: db7509b6f801582a124f23f12b1aa9e8d46ec461e6b53e799b4de843c782abf5

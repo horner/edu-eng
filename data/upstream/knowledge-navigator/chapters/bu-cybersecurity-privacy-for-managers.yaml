@@ -1,0 +1,44 @@
+id: bu-cybersecurity-privacy-for-managers
+name: Cybersecurity & Data Privacy for Managers
+category: Technology & Digital Business
+level: 2
+priority: important
+summary: What managers and founders need to know to protect systems and data, meet privacy law and respond to incidents.
+prerequisites:
+  - bu-management-information-systems
+related:
+  - cs-computer-security
+  - cs-security-governance-privacy
+  - mk-privacy-consent-data-protection
+topics:
+  - id: bu-cybersecurity-privacy-for-managers-1
+    name: "The threat landscape: phishing, ransomware, fraud and insider risk"
+  - id: bu-cybersecurity-privacy-for-managers-2
+    name: "Security basics: passwords, MFA, patching and backups"
+  - id: bu-cybersecurity-privacy-for-managers-3
+    name: "Security frameworks: NIST CSF and ISO 27001 at a glance"
+  - id: bu-cybersecurity-privacy-for-managers-4
+    name: Cyber risk assessment and prioritisation
+  - id: bu-cybersecurity-privacy-for-managers-5
+    name: Securing a small business and a startup
+  - id: bu-cybersecurity-privacy-for-managers-6
+    name: Third-party and supply chain security
+  - id: bu-cybersecurity-privacy-for-managers-7
+    name: Incident response and breach notification
+  - id: bu-cybersecurity-privacy-for-managers-8
+    name: "Privacy principles: lawful basis, minimisation and consent"
+  - id: bu-cybersecurity-privacy-for-managers-9
+    name: "Privacy laws compared: GDPR, UK GDPR, CCPA/CPRA and India DPDP Act"
+  - id: bu-cybersecurity-privacy-for-managers-10
+    name: Cyber insurance
+  - id: bu-cybersecurity-privacy-for-managers-11
+    name: Security culture and staff training
+  - id: bu-cybersecurity-privacy-for-managers-12
+    name: Board oversight of cyber risk
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-cybersecurity-privacy-for-managers.json
+  sha256: eb2f7c623009e0d7cd6594935bd994942ac61335e7afb3c9c5cea8dfeb4e92bd

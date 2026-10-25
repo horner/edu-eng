@@ -1,0 +1,29 @@
+id: ma-high-dimensional-probability
+name: High-Dimensional Probability
+category: Probability & Statistics
+level: 4
+priority: advanced
+summary: "Probability when the dimension is large: concentration of measure, random vectors and matrices, and high-dimensional statistics."
+prerequisites:
+  - ma-probability-theory
+  - ma-matrix-analysis
+related:
+  - ma-measure-concentration
+topics:
+  - id: ma-high-dimensional-probability-1
+    name: Concentration of measure
+  - id: ma-high-dimensional-probability-4
+    name: Sub-Gaussian and sub-exponential random variables
+  - id: ma-high-dimensional-probability-5
+    name: Random vectors in high dimensions
+  - id: ma-high-dimensional-probability-2
+    name: Random matrix theory
+  - id: ma-high-dimensional-probability-3
+    name: High-dimensional statistics
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-high-dimensional-probability.json
+  sha256: 4bb2535cf22d0a220f7a8839273656c66bbb3c6a0965bd14a29a86615bc2ce56

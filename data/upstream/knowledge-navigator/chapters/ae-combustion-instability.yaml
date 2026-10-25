@@ -1,0 +1,41 @@
+id: ae-combustion-instability
+name: Combustion Instability in Rocket Engines
+category: Rocket Propulsion
+level: 4
+priority: advanced
+summary: Coupling between combustion and chamber acoustics that can destroy rocket engines, and how engineers predict, test for and suppress it.
+prerequisites:
+  - ae-liquid-rocket-engines
+related:
+  - me-combustion-engineering
+  - me-acoustics-noise-control
+  - ph-acoustics
+  - ch-combustion-chemistry
+topics:
+  - id: ae-combustion-instability-1
+    name: "Types of instability: chugging, buzzing and screeching"
+  - id: ae-combustion-instability-2
+    name: "Chamber acoustic modes: longitudinal, tangential and radial"
+  - id: ae-combustion-instability-3
+    name: Rayleigh criterion and driving mechanisms
+  - id: ae-combustion-instability-4
+    name: Feed-system coupled (low-frequency) instabilities
+  - id: ae-combustion-instability-5
+    name: Sensitive time-lag (Crocco) model
+  - id: ae-combustion-instability-6
+    name: "Damping devices: baffles, acoustic cavities and resonators"
+  - id: ae-combustion-instability-7
+    name: "Stability rating: bomb tests and pulse guns"
+  - id: ae-combustion-instability-8
+    name: The F-1 engine instability programme
+  - id: ae-combustion-instability-9
+    name: Instabilities in solid rocket motors and gas turbine combustors
+  - id: ae-combustion-instability-10
+    name: "Modern analysis: CFD-based and reduced-order models"
+discipline: aerospace
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/aerospace/ae-combustion-instability.json
+  sha256: 4c57b4414ec75d93479653fe2e75ffac92add253b01c8e4486062faa38cd912d

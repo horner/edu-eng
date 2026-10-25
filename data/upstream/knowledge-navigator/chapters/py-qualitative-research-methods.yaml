@@ -1,0 +1,42 @@
+id: py-qualitative-research-methods
+name: Qualitative Research Methods in Psychology
+category: Research Methods, Statistics & Measurement
+level: 3
+priority: important
+summary: Interviews, focus groups and the main qualitative approaches psychologists use to study experience and meaning.
+prerequisites:
+  - py-research-methods-in-psychology
+related:
+  - mk-qualitative-consumer-research
+topics:
+  - id: py-qualitative-research-methods-1
+    name: "Epistemology: positivist, critical realist and constructionist positions"
+  - id: py-qualitative-research-methods-2
+    name: "Designing a qualitative study: questions, sampling and saturation"
+  - id: py-qualitative-research-methods-3
+    name: Interviewing and focus groups
+  - id: py-qualitative-research-methods-4
+    name: Thematic analysis (Braun and Clarke)
+  - id: py-qualitative-research-methods-5
+    name: Interpretative phenomenological analysis (IPA)
+  - id: py-qualitative-research-methods-6
+    name: Grounded theory
+  - id: py-qualitative-research-methods-7
+    name: Discourse and conversation analysis
+  - id: py-qualitative-research-methods-8
+    name: Narrative analysis
+  - id: py-qualitative-research-methods-9
+    name: Ethnography and participant observation
+  - id: py-qualitative-research-methods-10
+    name: "Quality and rigour: reflexivity, credibility and transferability"
+  - id: py-qualitative-research-methods-11
+    name: Mixed-methods designs
+  - id: py-qualitative-research-methods-12
+    name: Participatory and co-produced research with service users
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-qualitative-research-methods.json
+  sha256: 808432099e194b030c4970a099b14c117e076591690cc2d1457e03614ef556cb

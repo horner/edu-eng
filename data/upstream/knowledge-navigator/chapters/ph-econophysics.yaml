@@ -1,0 +1,26 @@
+id: ph-econophysics
+name: Econophysics
+category: Interdisciplinary Physics
+level: 4
+priority: optional
+summary: Statistical-physics models of markets and economies.
+prerequisites:
+  - ph-complex-systems-networks
+related:
+  - ma-financial-mathematics
+topics:
+  - id: ph-econophysics-1
+    name: Statistical approaches to economic systems
+  - id: ph-econophysics-2
+    name: Financial market physics
+  - id: ph-econophysics-3
+    name: Complex systems in economics
+  - id: ph-econophysics-4
+    name: Agent-based modeling
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-econophysics.json
+  sha256: e10665906654c97e02b463e3bd7ea9c26b7ed7efbe16d66fb8afd7b79cd480d0

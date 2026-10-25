@@ -1,0 +1,42 @@
+id: be-hygiene-body-odour
+name: Personal Hygiene, Body Odour & Deodorants
+category: Body Care & Grooming
+level: 1
+priority: core
+summary: The science of sweat and body odour, how deodorants and antiperspirants work, and sensible everyday hygiene for the whole body.
+prerequisites:
+  - be-skin-biology
+related:
+  - bi-microbiome
+topics:
+  - id: be-hygiene-body-odour-1
+    name: Sweat glands and why we sweat
+  - id: be-hygiene-body-odour-2
+    name: "How body odour forms: skin bacteria and sweat"
+  - id: be-hygiene-body-odour-3
+    name: "Genetics and odour: the ABCC11 gene"
+  - id: be-hygiene-body-odour-4
+    name: "Deodorants versus antiperspirants: how each works"
+  - id: be-hygiene-body-odour-5
+    name: "Aluminium, breast cancer and other antiperspirant myths: the evidence"
+  - id: be-hygiene-body-odour-6
+    name: "Excessive sweating (hyperhidrosis): options and when to see a doctor"
+  - id: be-hygiene-body-odour-7
+    name: "Bathing and showering: how often, water temperature and products"
+  - id: be-hygiene-body-odour-8
+    name: "Intimate hygiene: what is needed and what is not, including douching"
+  - id: be-hygiene-body-odour-9
+    name: Foot odour and footwear
+  - id: be-hygiene-body-odour-10
+    name: Bad breath in brief
+  - id: be-hygiene-body-odour-11
+    name: Hygiene during illness, exercise and hot weather
+  - id: be-hygiene-body-odour-12
+    name: Hygiene for people with limited mobility or carers
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-hygiene-body-odour.json
+  sha256: 47449f68890af9fc97a5eb0bee0a806208da9fe0b8de315fa2a7a7d655376983

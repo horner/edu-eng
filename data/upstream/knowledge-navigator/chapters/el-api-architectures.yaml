@@ -1,0 +1,31 @@
+id: el-api-architectures
+name: API Architectures
+category: IoT Architectures, Platforms & Data
+level: 3
+priority: important
+summary: "Designing the interfaces between devices, services and apps: REST, gRPC, GraphQL, SOAP and WebSocket."
+prerequisites:
+  - el-data-serialization-formats
+  - cs-web-fundamentals
+related:
+  - cs-backend-development
+topics:
+  - id: el-api-architectures-1
+    name: REST (Representational State Transfer)
+  - id: el-api-architectures-2
+    name: RESTful API design principles
+  - id: el-api-architectures-3
+    name: gRPC (Google Remote Procedure Call)
+  - id: el-api-architectures-4
+    name: GraphQL
+  - id: el-api-architectures-5
+    name: SOAP (legacy web services)
+  - id: el-api-architectures-6
+    name: WebSocket (full-duplex communication)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-api-architectures.json
+  sha256: c71af6b602334d1165e604523f735a3b5e66f85ad31cf4b17b24cd6f896eeec5

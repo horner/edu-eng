@@ -1,0 +1,42 @@
+id: hf-strength-power-development
+name: Strength & Power Development
+category: Sports Performance & Conditioning
+level: 3
+priority: important
+summary: Methods for developing maximal strength, power and rate of force development in athletes.
+prerequisites:
+  - hf-resistance-training
+  - hf-biomechanics-of-exercise
+related: []
+topics:
+  - id: hf-strength-power-development-1
+    name: The force-velocity curve and power
+  - id: hf-strength-power-development-2
+    name: Maximal strength methods
+  - id: hf-strength-power-development-3
+    name: Velocity-based training
+  - id: hf-strength-power-development-4
+    name: "Olympic weightlifting: snatch, clean and jerk, and their derivatives"
+  - id: hf-strength-power-development-5
+    name: Powerlifting
+  - id: hf-strength-power-development-6
+    name: Strongman and implement training
+  - id: hf-strength-power-development-7
+    name: Complex and contrast training (post-activation performance enhancement)
+  - id: hf-strength-power-development-8
+    name: Ballistic training
+  - id: hf-strength-power-development-9
+    name: Rate of force development
+  - id: hf-strength-power-development-10
+    name: Strength training for endurance athletes
+  - id: hf-strength-power-development-11
+    name: "Testing strength and power: countermovement jump and isometric mid-thigh pull"
+  - id: hf-strength-power-development-12
+    name: Technical progression and safety
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-strength-power-development.json
+  sha256: b4ddd7a87cb0c0083a28ab4397d7fb231745a90b6c07ecf1836780cd78347fdc

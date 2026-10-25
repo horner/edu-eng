@@ -1,0 +1,33 @@
+id: el-boot-startup
+name: Boot & Startup
+category: Microcontrollers, Processors & Architectures
+level: 3
+priority: important
+summary: "What happens from reset to main(): bootloaders, startup code and C runtime initialization, vector tables and chains of trust."
+prerequisites:
+  - el-bare-metal-programming
+  - el-processor-architecture-concepts
+related:
+  - cs-advanced-operating-systems
+topics:
+  - id: el-boot-startup-1
+    name: Boot process and initialization
+  - id: el-boot-startup-2
+    name: Bootloaders (U-Boot, GRUB, custom)
+  - id: el-boot-startup-3
+    name: Startup code and C runtime initialization
+  - id: el-boot-startup-4
+    name: Vector table and exception handlers
+  - id: el-boot-startup-5
+    name: Memory initialization
+  - id: el-boot-startup-6
+    name: Peripheral initialization
+  - id: el-boot-startup-7
+    name: Secure boot and chain of trust
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-boot-startup.json
+  sha256: 4ff5c45dbf82290eb7b26508527ce0aba5f569732b89a000978d9cca298e93a3

@@ -1,0 +1,33 @@
+id: el-software-testing
+name: Software Testing
+category: Embedded Development Practices & Debugging
+level: 3
+priority: important
+summary: "Core software-testing practice: unit, integration, system and regression testing, coverage, static analysis and leak detection."
+prerequisites:
+  - el-testing-strategies
+related:
+  - el-testing-strategies
+  - cs-software-testing
+topics:
+  - id: el-software-testing-1
+    name: Unit testing frameworks
+  - id: el-software-testing-2
+    name: Integration testing
+  - id: el-software-testing-3
+    name: System testing
+  - id: el-software-testing-4
+    name: Regression testing
+  - id: el-software-testing-5
+    name: Code coverage analysis
+  - id: el-software-testing-6
+    name: Static analysis
+  - id: el-software-testing-7
+    name: Memory leak detection
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-software-testing.json
+  sha256: b172b6e0b875f798a3193ae4c06dd1807602285ad6a7028d5aed9e1efbaa294e

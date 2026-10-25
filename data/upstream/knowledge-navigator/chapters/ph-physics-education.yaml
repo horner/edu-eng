@@ -1,0 +1,26 @@
+id: ph-physics-education
+name: Physics Education
+category: Foundations, History & Education
+level: 2
+priority: optional
+summary: "How physics is learned and taught: conceptual understanding, demonstrations and lab education."
+prerequisites:
+  - ph-introductory-electricity-magnetism
+related:
+  - ma-mathematics-education
+topics:
+  - id: ph-physics-education-1
+    name: Pedagogy of physics
+  - id: ph-physics-education-2
+    name: Conceptual physics
+  - id: ph-physics-education-3
+    name: Physics demonstrations
+  - id: ph-physics-education-4
+    name: Laboratory education
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-physics-education.json
+  sha256: 8e3b9c808329277323312aaf4207cba314690b1d822b69084c1b657b41707646

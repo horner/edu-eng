@@ -1,0 +1,28 @@
+id: el-digital-twins
+name: Digital Twins
+category: IoT Architectures, Platforms & Data
+level: 4
+priority: advanced
+summary: Virtual replicas of physical assets kept in sync with real data for simulation, what-if analysis and predictive maintenance.
+prerequisites:
+  - el-iot-cloud-platforms
+related:
+  - me-machine-learning-digital-twins
+topics:
+  - id: el-digital-twins-1
+    name: Virtual representation of physical devices
+  - id: el-digital-twins-2
+    name: Real-time synchronization
+  - id: el-digital-twins-3
+    name: Simulation and modeling
+  - id: el-digital-twins-4
+    name: Predictive maintenance and what-if analysis
+  - id: el-digital-twins-5
+    name: Azure Digital Twins, AWS IoT TwinMaker
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-digital-twins.json
+  sha256: 4aae00a62a1678edbff125f9ad83ff6fe71ea59b3aef8eedaca191ff5b320965

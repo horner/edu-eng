@@ -1,0 +1,50 @@
+id: hf-research-methods-health-exercise
+name: Research Methods in Health, Nutrition & Exercise Science
+category: Foundations of Health & Wellness
+level: 3
+priority: important
+summary: How studies in nutrition, exercise and health are designed, analysed and critically appraised.
+prerequisites:
+  - hf-health-literacy-evidence
+  - ma-inferential-statistics
+related:
+  - bi-epidemiology
+  - ma-biostatistics
+  - cs-research-methods
+  - py-research-methods-in-psychology
+topics:
+  - id: hf-research-methods-health-exercise-1
+    name: Framing a research question with PICO
+  - id: hf-research-methods-health-exercise-2
+    name: "Study designs and their strengths: cross-sectional, cohort, case-control, crossover and parallel trials"
+  - id: hf-research-methods-health-exercise-3
+    name: "Randomised trials in nutrition and exercise: blinding, control conditions and adherence"
+  - id: hf-research-methods-health-exercise-4
+    name: Measurement validity, reliability and typical error
+  - id: hf-research-methods-health-exercise-5
+    name: Effect sizes, confidence intervals and the smallest worthwhile change
+  - id: hf-research-methods-health-exercise-6
+    name: Sample size and statistical power
+  - id: hf-research-methods-health-exercise-7
+    name: "Individual response variability: responders and non-responders"
+  - id: hf-research-methods-health-exercise-8
+    name: "Systematic reviews and meta-analysis: PRISMA and heterogeneity"
+  - id: hf-research-methods-health-exercise-9
+    name: Risk of bias tools and GRADE certainty ratings
+  - id: hf-research-methods-health-exercise-10
+    name: Qualitative and mixed-methods research
+  - id: hf-research-methods-health-exercise-11
+    name: Research ethics, consent and data protection
+  - id: hf-research-methods-health-exercise-12
+    name: Pre-registration, replication and open science in sport and exercise science
+  - id: hf-research-methods-health-exercise-13
+    name: Critically appraising a published paper
+  - id: hf-research-methods-health-exercise-14
+    name: Writing evidence summaries for practitioners and the public
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-research-methods-health-exercise.json
+  sha256: 88a3ec30af425871e74a2fbfcc85d53cefcc1ba74e2114b0b35b7d1a87ab8fcb

@@ -1,0 +1,41 @@
+id: ai-data-engineering
+name: Data Engineering
+category: Data Science
+level: 3
+priority: important
+summary: "Building reliable data infrastructure: pipelines, ETL/ELT, warehouses, lakes and lakehouses, data modelling, orchestration and data quality."
+prerequisites:
+  - ai-databases
+related:
+  - el-data-management
+  - cs-data-engineering
+topics:
+  - id: ai-data-engineering-1
+    name: Data Pipelines
+  - id: ai-data-engineering-2
+    name: ETL/ELT Processes
+  - id: ai-data-engineering-3
+    name: Data Warehousing
+  - id: ai-data-engineering-4
+    name: Data Lakes
+  - id: ai-data-engineering-5
+    name: Data Modeling
+  - id: ai-data-engineering-6
+    name: Data Quality
+  - id: ai-data-engineering-7
+    name: Master Data Management
+  - id: ai-data-engineering-8
+    name: Batch versus streaming pipelines
+  - id: ai-data-engineering-9
+    name: Workflow orchestration (Airflow, Dagster)
+  - id: ai-data-engineering-10
+    name: Lakehouse table formats (Delta Lake, Iceberg)
+  - id: ai-data-engineering-11
+    name: Data governance and lineage
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-data-engineering.json
+  sha256: a06923d23ad2ea3f4306b5361b9a183a294352ddc09a113dd017c7b7ac26a3eb

@@ -1,0 +1,45 @@
+id: py-human-memory
+name: Human Memory
+category: Learning, Memory & Cognition
+level: 3
+priority: important
+summary: Memory systems, why we forget and misremember, and what memory research means for learning, the law and everyday life.
+prerequisites:
+  - py-cognitive-psychology
+related:
+  - bi-cognitive-neuroscience
+  - bi-behavioral-neuroscience
+topics:
+  - id: py-human-memory-1
+    name: Multi-store and working memory models (Atkinson-Shiffrin, Baddeley)
+  - id: py-human-memory-2
+    name: Levels of processing and encoding specificity
+  - id: py-human-memory-3
+    name: Episodic and semantic memory
+  - id: py-human-memory-4
+    name: "Implicit memory: priming, skills and habits"
+  - id: py-human-memory-5
+    name: "Forgetting: decay, interference and retrieval failure"
+  - id: py-human-memory-6
+    name: Consolidation, reconsolidation and the role of sleep
+  - id: py-human-memory-7
+    name: Autobiographical memory and the reminiscence bump
+  - id: py-human-memory-8
+    name: "Emotion and memory: flashbulb memories and trauma"
+  - id: py-human-memory-9
+    name: False memories, misinformation effect and the memory wars
+  - id: py-human-memory-10
+    name: Eyewitness memory and line-ups
+  - id: py-human-memory-11
+    name: Prospective memory
+  - id: py-human-memory-12
+    name: Memory across the lifespan and in dementia
+  - id: py-human-memory-13
+    name: "Improving memory: mnemonics and memory champions"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-human-memory.json
+  sha256: d13694e279d1fd3563ce571ec8fa826d2125a2f8400052f9a7b226f008c169bb

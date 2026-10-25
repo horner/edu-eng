@@ -1,0 +1,44 @@
+id: mk-sales-negotiation
+name: Sales Negotiation & Closing
+category: Sales & Customer Relationships
+level: 3
+priority: important
+summary: Negotiating deals that create and capture value, from preparation to concessions, pricing pressure and closing.
+prerequisites:
+  - mk-sales-fundamentals
+related:
+  - ma-game-theory
+  - mk-pricing-strategy-analytics
+  - bu-negotiation
+topics:
+  - id: mk-sales-negotiation-1
+    name: "Negotiation basics: positions, interests and value"
+  - id: mk-sales-negotiation-2
+    name: "Preparation: BATNA, reservation price and ZOPA"
+  - id: mk-sales-negotiation-3
+    name: Distributive versus integrative negotiation
+  - id: mk-sales-negotiation-4
+    name: Anchoring and first offers
+  - id: mk-sales-negotiation-5
+    name: Trading concessions and avoiding discounting
+  - id: mk-sales-negotiation-6
+    name: Handling procurement and purchasing tactics
+  - id: mk-sales-negotiation-7
+    name: Multi-party and multi-issue negotiation
+  - id: mk-sales-negotiation-8
+    name: Psychology and emotion in negotiation
+  - id: mk-sales-negotiation-9
+    name: Cross-cultural negotiation
+  - id: mk-sales-negotiation-10
+    name: "Closing techniques: evidence and ethics"
+  - id: mk-sales-negotiation-11
+    name: Contracts and commercial terms
+  - id: mk-sales-negotiation-12
+    name: Negotiation ethics and walking away
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-sales-negotiation.json
+  sha256: 0c5ef0347739cc01c866441c6aea352d8ad69f7f7665f3d1bd4e4b66187c2e2d

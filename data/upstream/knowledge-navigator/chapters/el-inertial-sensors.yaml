@@ -1,0 +1,29 @@
+id: el-inertial-sensors
+name: Inertial Sensors
+category: Sensors, Transducers & Actuators
+level: 2
+priority: important
+summary: "Accelerometers, gyroscopes, magnetometers and IMUs: how they work and how to use them for motion and orientation."
+prerequisites:
+  - el-intro-microcontrollers
+related: []
+topics:
+  - id: el-inertial-sensors-1
+    name: Accelerometers (MEMS, piezoelectric, capacitive)
+  - id: el-inertial-sensors-2
+    name: Gyroscopes (MEMS, ring laser, fiber optic)
+  - id: el-inertial-sensors-3
+    name: Inertial Measurement Units (IMU) - 6-axis, 9-axis
+  - id: el-inertial-sensors-4
+    name: Magnetometers (Hall effect, magnetoresistive, fluxgate)
+  - id: el-inertial-sensors-5
+    name: Tilt sensors and inclinometers
+  - id: el-inertial-sensors-6
+    name: Compass modules
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-inertial-sensors.json
+  sha256: 45a19f9386ed6122df37c1f3a8244a327823a4f76f01b37457fdbfe9b410fd96

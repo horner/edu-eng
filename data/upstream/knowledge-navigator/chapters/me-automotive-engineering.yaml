@@ -1,0 +1,46 @@
+id: me-automotive-engineering
+name: Automotive Engineering
+category: Automotive & Vehicle Engineering
+level: 3
+priority: important
+summary: "The engineering of road vehicles as integrated machines: performance, powertrains, driveline, brakes, suspension, steering, structures and electric vehicles."
+prerequisites:
+  - me-internal-combustion-engines
+  - me-gears-power-transmission
+related:
+  - el-electric-vehicle-ev-systems
+  - el-chassis-safety-systems
+topics:
+  - id: me-automotive-engineering-1
+    name: Vehicle architectures and packaging
+  - id: me-automotive-engineering-2
+    name: "Vehicle performance: tractive effort, resistance forces, acceleration and gradeability"
+  - id: me-automotive-engineering-3
+    name: "Powertrains: combustion engines, electric motors and hybrids"
+  - id: me-automotive-engineering-4
+    name: "Transmissions: manual, automatic, CVT and dual-clutch"
+  - id: me-automotive-engineering-5
+    name: "Driveline: clutches, propeller shafts, differentials and axles"
+  - id: me-automotive-engineering-6
+    name: Braking systems and brake design
+  - id: me-automotive-engineering-7
+    name: Suspension systems and components
+  - id: me-automotive-engineering-8
+    name: Steering systems and geometry (Ackermann, wheel alignment)
+  - id: me-automotive-engineering-9
+    name: "Tyres: construction and basic mechanics"
+  - id: me-automotive-engineering-10
+    name: Body structures, materials and crashworthiness
+  - id: me-automotive-engineering-11
+    name: Vehicle aerodynamics
+  - id: me-automotive-engineering-12
+    name: Vehicle noise, vibration and harshness (NVH)
+  - id: me-automotive-engineering-13
+    name: "Electric vehicle design: battery packs, e-axles and thermal systems"
+discipline: mechanical
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/mechanical/me-automotive-engineering.json
+  sha256: c895b89e544015c721ae27f48706e3818942f4220987dad796048026039ad888

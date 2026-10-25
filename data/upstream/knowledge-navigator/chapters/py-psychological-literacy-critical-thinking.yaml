@@ -1,0 +1,56 @@
+id: py-psychological-literacy-critical-thinking
+name: "Thinking Critically About Psychology: Evidence, Myths & Pseudoscience"
+category: Foundations of Psychology
+level: 1
+priority: core
+summary: How to judge psychological claims in the media, self-help and everyday life, and why intuition so often misleads us.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - bi-biological-inquiry
+topics:
+  - id: py-psychological-literacy-critical-thinking-1
+    name: "Psychological literacy: what it is and why it matters"
+  - id: py-psychological-literacy-critical-thinking-2
+    name: Why common sense fails
+    sub:
+      - id: py-psychological-literacy-critical-thinking-2-1
+        name: Hindsight bias and overconfidence
+      - id: py-psychological-literacy-critical-thinking-2-2
+        name: Confirmation bias and motivated reasoning
+      - id: py-psychological-literacy-critical-thinking-2-3
+        name: Seeing patterns in randomness
+  - id: py-psychological-literacy-critical-thinking-3
+    name: "Anecdotes vs data: why personal stories persuade but mislead"
+  - id: py-psychological-literacy-critical-thinking-4
+    name: "Correlation is not causation: confounds and reverse causation"
+  - id: py-psychological-literacy-critical-thinking-5
+    name: "Reading a news story about a study: sample, design, effect size and replication"
+  - id: py-psychological-literacy-critical-thinking-6
+    name: "Hierarchy of evidence: single studies, systematic reviews and meta-analyses"
+  - id: py-psychological-literacy-critical-thinking-7
+    name: "Popular psychology myths: the 10% brain, learning styles, left-brain/right-brain, venting anger"
+  - id: py-psychological-literacy-critical-thinking-8
+    name: Pseudoscience red flags
+    sub:
+      - id: py-psychological-literacy-critical-thinking-8-1
+        name: Unfalsifiable claims and testimonials
+      - id: py-psychological-literacy-critical-thinking-8-2
+        name: Neuro-babble and seductive brain images
+      - id: py-psychological-literacy-critical-thinking-8-3
+        name: Miracle cures and guru culture
+  - id: py-psychological-literacy-critical-thinking-9
+    name: "Personality tests in the wild: MBTI, enneagram and online quizzes vs validated measures"
+  - id: py-psychological-literacy-critical-thinking-10
+    name: Placebo, expectation and regression to the mean in self-help claims
+  - id: py-psychological-literacy-critical-thinking-11
+    name: Where to find trustworthy psychological information
+  - id: py-psychological-literacy-critical-thinking-12
+    name: "Thinking well about your own mind: humility, curiosity and updating beliefs"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychological-literacy-critical-thinking.json
+  sha256: 53ac5c5e7aa0d19847f35c9527c4cf5205f7dbf409d82539d3344181437edad0

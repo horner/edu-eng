@@ -1,0 +1,43 @@
+id: be-skincare-fundamentals
+name: Skincare Fundamentals & Building a Routine
+category: Skincare Practice & Active Ingredients
+level: 1
+priority: core
+summary: How to build a simple, effective skincare routine around cleansing, moisturising and sun protection, adapted to your own skin.
+prerequisites:
+  - be-skin-biology
+related: []
+topics:
+  - id: be-skincare-fundamentals-1
+    name: "The three essentials: cleanse, moisturise, protect"
+  - id: be-skincare-fundamentals-2
+    name: Identifying your skin type and concerns
+  - id: be-skincare-fundamentals-3
+    name: Morning versus evening routines
+  - id: be-skincare-fundamentals-4
+    name: "Order of application and wait times: what matters and what does not"
+  - id: be-skincare-fundamentals-5
+    name: "Product formats: gels, lotions, creams, serums, oils, balms"
+  - id: be-skincare-fundamentals-6
+    name: "Reading a label: ingredient lists, claims and period-after-opening symbols"
+  - id: be-skincare-fundamentals-7
+    name: Introducing new products and patch testing
+  - id: be-skincare-fundamentals-8
+    name: "Minimal versus multi-step routines: evidence and cost"
+  - id: be-skincare-fundamentals-9
+    name: Skincare on a budget
+  - id: be-skincare-fundamentals-10
+    name: Adjusting for climate, season and travel
+  - id: be-skincare-fundamentals-11
+    name: Routines for teenagers, men, older skin and different skin tones
+  - id: be-skincare-fundamentals-12
+    name: "Common mistakes: over-exfoliating, mixing too many actives, skipping sunscreen"
+  - id: be-skincare-fundamentals-13
+    name: "Tracking results: photos, timelines and patience"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-skincare-fundamentals.json
+  sha256: 5817a66849dad0453ff728218f5fc028847eaa864aec8283cde0cc0cd074f595

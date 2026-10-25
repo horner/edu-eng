@@ -1,0 +1,47 @@
+id: bu-entrepreneurship-startups
+name: Entrepreneurship & Starting a Business
+category: Entrepreneurship & Startups
+level: 2
+priority: core
+summary: An end-to-end introduction to starting a business, from idea and customers to team, money, legal setup and launch.
+prerequisites:
+  - bu-introduction-to-business
+related:
+  - bu-small-business-management
+  - mk-marketing-principles
+topics:
+  - id: bu-entrepreneurship-startups-1
+    name: "What entrepreneurship is: startups, small businesses, social ventures and intrapreneurs"
+  - id: bu-entrepreneurship-startups-2
+    name: Should you start a company? Motives, risks and the entrepreneurial mindset
+  - id: bu-entrepreneurship-startups-3
+    name: Founders' myths and what the evidence says about who succeeds
+  - id: bu-entrepreneurship-startups-4
+    name: "From problem to idea: finding opportunities worth pursuing"
+  - id: bu-entrepreneurship-startups-5
+    name: Talking to customers before building
+  - id: bu-entrepreneurship-startups-6
+    name: Value proposition and business model basics
+  - id: bu-entrepreneurship-startups-7
+    name: Minimum viable products and early testing
+  - id: bu-entrepreneurship-startups-8
+    name: Building the founding team
+  - id: bu-entrepreneurship-startups-9
+    name: "Funding options at a glance: bootstrapping, loans, angels and venture capital"
+  - id: bu-entrepreneurship-startups-10
+    name: Choosing a legal structure and registering the business
+  - id: bu-entrepreneurship-startups-11
+    name: Launching and getting the first customers
+  - id: bu-entrepreneurship-startups-12
+    name: Managing cash and runway in the early days
+  - id: bu-entrepreneurship-startups-13
+    name: Failure, pivots and resilience
+  - id: bu-entrepreneurship-startups-14
+    name: "Entrepreneurial ecosystems: accelerators, incubators and support programmes"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-entrepreneurship-startups.json
+  sha256: 692a4004db22b6a397b4f2baf926e9d8f9426caff0113f691b8010948e88fa3f

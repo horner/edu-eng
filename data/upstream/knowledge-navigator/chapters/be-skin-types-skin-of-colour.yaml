@@ -1,0 +1,52 @@
+id: be-skin-types-skin-of-colour
+name: Skin Types, Skin Analysis & Skin of Colour
+category: Skin Science
+level: 2
+priority: core
+summary: How skin is classified and analysed, and how skin biology, concerns and care differ across skin tones and ethnic backgrounds.
+prerequisites:
+  - be-skin-biology
+related:
+  - bi-human-genetics
+  - bi-human-evolution
+topics:
+  - id: be-skin-types-skin-of-colour-1
+    name: "Skin types versus skin conditions: oily, dry, combination, normal, sensitive"
+  - id: be-skin-types-skin-of-colour-2
+    name: "The Fitzpatrick phototype scale: uses and limits"
+  - id: be-skin-types-skin-of-colour-3
+    name: "Other classification systems: Baumann skin typing, Monk skin tone scale"
+  - id: be-skin-types-skin-of-colour-4
+    name: Skin analysis
+    sub:
+      - id: be-skin-types-skin-of-colour-4-1
+        name: Visual and tactile assessment
+      - id: be-skin-types-skin-of-colour-4-2
+        name: Magnification and Wood's lamp
+      - id: be-skin-types-skin-of-colour-4-3
+        name: Consultation questions and history
+      - id: be-skin-types-skin-of-colour-4-4
+        name: Imaging devices and their accuracy
+  - id: be-skin-types-skin-of-colour-5
+    name: "Biology of skin of colour: melanin amount, melanosome size and distribution"
+  - id: be-skin-types-skin-of-colour-6
+    name: Pigmentary responses to inflammation and injury in darker skin
+  - id: be-skin-types-skin-of-colour-7
+    name: Keloids, dermatosis papulosa nigra and other conditions more common in darker skin
+  - id: be-skin-types-skin-of-colour-8
+    name: Sun protection and vitamin D across skin tones
+  - id: be-skin-types-skin-of-colour-9
+    name: Recognising redness, rashes and skin cancer on darker skin
+  - id: be-skin-types-skin-of-colour-10
+    name: East Asian, South Asian and other population-specific skin research
+  - id: be-skin-types-skin-of-colour-11
+    name: Differences by sex and gender, including the effects of hormones
+  - id: be-skin-types-skin-of-colour-12
+    name: Bias in dermatology images, product testing and shade ranges
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-skin-types-skin-of-colour.json
+  sha256: 1f3f5c91a2f73907e3fbf6e2a676728a9a858cc9ef7c82020cc2466f92208726

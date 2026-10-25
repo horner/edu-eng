@@ -1,0 +1,43 @@
+id: py-suicide-prevention-crisis-support
+name: Suicide Prevention & Crisis Support
+category: Mental Health & Psychopathology
+level: 2
+priority: core
+summary: What research shows about suicide and self-harm, how to recognise warning signs, how to ask and support someone safely, and how crisis services work.
+prerequisites:
+  - py-mental-health-literacy
+related: []
+topics:
+  - id: py-suicide-prevention-crisis-support-1
+    name: "Suicide and self-harm: scale, facts and common myths"
+  - id: py-suicide-prevention-crisis-support-2
+    name: Risk factors and protective factors
+  - id: py-suicide-prevention-crisis-support-3
+    name: "Models of suicidal behaviour: interpersonal theory and integrated motivational-volitional model"
+  - id: py-suicide-prevention-crisis-support-4
+    name: Warning signs and what to do when you notice them
+  - id: py-suicide-prevention-crisis-support-5
+    name: "Asking directly about suicide: why it helps rather than harms"
+  - id: py-suicide-prevention-crisis-support-6
+    name: Listening, staying with the person and connecting to help
+  - id: py-suicide-prevention-crisis-support-7
+    name: "Safety planning and reducing access to means: the principles"
+  - id: py-suicide-prevention-crisis-support-8
+    name: Crisis lines, emergency services and crisis teams
+  - id: py-suicide-prevention-crisis-support-9
+    name: "Non-suicidal self-injury: understanding and responding without judgement"
+  - id: py-suicide-prevention-crisis-support-10
+    name: Suicide prevention in schools, workplaces and online
+  - id: py-suicide-prevention-crisis-support-11
+    name: Safe messaging guidelines for media and social media
+  - id: py-suicide-prevention-crisis-support-12
+    name: "Postvention: supporting people bereaved by suicide"
+  - id: py-suicide-prevention-crisis-support-13
+    name: "Looking after helpers: compassion fatigue and boundaries"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-suicide-prevention-crisis-support.json
+  sha256: ac085c84bacc5475e45c508ba38664fc38c865b0a282f4c2ad083ca744ed8a08

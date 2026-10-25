@@ -1,0 +1,43 @@
+id: bu-lean-startup-mvp
+name: Lean Startup, MVPs & Product-Market Fit
+category: Entrepreneurship & Startups
+level: 2
+priority: core
+summary: Building the smallest useful product, learning from users, and recognising when you have (or lack) product-market fit.
+prerequisites:
+  - bu-customer-discovery
+related:
+  - bu-product-management
+  - bu-experimentation-ab-testing
+topics:
+  - id: bu-lean-startup-mvp-1
+    name: The build-measure-learn loop
+  - id: bu-lean-startup-mvp-2
+    name: "Types of MVP: concierge, Wizard of Oz, no-code and single-feature"
+  - id: bu-lean-startup-mvp-3
+    name: "Deciding what not to build: scoping and prioritisation"
+  - id: bu-lean-startup-mvp-4
+    name: Launching early and iterating quickly
+  - id: bu-lean-startup-mvp-5
+    name: Actionable vs vanity metrics
+  - id: bu-lean-startup-mvp-6
+    name: Innovation accounting and learning milestones
+  - id: bu-lean-startup-mvp-7
+    name: Retention cohorts and engagement metrics
+  - id: bu-lean-startup-mvp-8
+    name: "Measuring product-market fit: surveys, retention curves and organic growth"
+  - id: bu-lean-startup-mvp-9
+    name: "Pivot or persevere: types of pivots"
+  - id: bu-lean-startup-mvp-10
+    name: Talking to users continuously after launch
+  - id: bu-lean-startup-mvp-11
+    name: "When to stop: recognising a dead end"
+  - id: bu-lean-startup-mvp-12
+    name: Limits and critiques of lean startup methods (hardware, regulated and deep-tech)
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-lean-startup-mvp.json
+  sha256: 574ec9b6aaa867b7c7b96ff37a9b6c08bc0422b870a35ef4235243446067f724

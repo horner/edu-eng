@@ -1,0 +1,27 @@
+id: el-manufacturing-scale-up
+name: Manufacturing Scale-Up
+category: Professional Practice, Business & Community
+level: 4
+priority: advanced
+summary: "Moving from prototypes to volume: pilot runs, process validation, yield improvement, supplier qualification and quality control."
+prerequisites:
+  - el-design-for-x-dfx
+related: []
+topics:
+  - id: el-manufacturing-scale-up-1
+    name: Pilot production runs
+  - id: el-manufacturing-scale-up-2
+    name: Process validation
+  - id: el-manufacturing-scale-up-3
+    name: Yield optimization
+  - id: el-manufacturing-scale-up-4
+    name: Supplier qualification
+  - id: el-manufacturing-scale-up-5
+    name: Quality control procedures
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-manufacturing-scale-up.json
+  sha256: 9c21bbcbe55f1c71977b1b5fc2c0898d99022074abd515c4cd98e605e1f26e64

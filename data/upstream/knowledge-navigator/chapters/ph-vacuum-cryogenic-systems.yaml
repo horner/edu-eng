@@ -1,0 +1,28 @@
+id: ph-vacuum-cryogenic-systems
+name: Vacuum & Cryogenic Systems
+category: Experimental Physics & Instrumentation
+level: 3
+priority: advanced
+summary: The practical technology of vacuum systems and cryogenics that many modern experiments depend on.
+prerequisites:
+  - ph-measurement-instrumentation
+  - ph-thermodynamics-statistical-mechanics
+related:
+  - ph-cryophysics
+  - mt-cryogenic-materials
+topics:
+  - id: ph-vacuum-cryogenic-systems-1
+    name: Vacuum technology
+  - id: ph-vacuum-cryogenic-systems-2
+    name: Cryogenic systems
+  - id: ph-vacuum-cryogenic-systems-3
+    name: Ultra-high vacuum
+  - id: ph-vacuum-cryogenic-systems-4
+    name: Low-temperature experimental setups
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-vacuum-cryogenic-systems.json
+  sha256: 88fd9dc2eca8d70c75639ddbae8c59afff2ac0b7ee26cff5554f24e57fd11910

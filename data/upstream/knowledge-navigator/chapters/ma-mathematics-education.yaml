@@ -1,0 +1,29 @@
+id: ma-mathematics-education
+name: Mathematics Education
+category: History, Philosophy & Education
+level: 2
+priority: optional
+summary: "How mathematics is learned and taught: learning theories, pedagogy, curriculum design and assessment."
+prerequisites:
+  - ma-calculus
+  - ma-introduction-to-proofs
+related:
+  - ph-physics-education
+topics:
+  - id: ma-mathematics-education-4
+    name: Learning theories
+  - id: ma-mathematics-education-1
+    name: Pedagogy
+  - id: ma-mathematics-education-2
+    name: Curriculum development
+  - id: ma-mathematics-education-3
+    name: Assessment methods
+  - id: ma-mathematics-education-5
+    name: Technology in mathematics teaching
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-mathematics-education.json
+  sha256: b68c2b65e29c8aefcc3bc9f7085119fac35eb0726521ad2944e08cbf7947d103

@@ -1,0 +1,50 @@
+id: bu-planning-inventory-management
+name: Planning & Inventory Management
+category: Operations, Supply Chain & Projects
+level: 3
+priority: advanced
+summary: The detailed planning and control systems (forecasting, master scheduling, MRP and inventory policy) that keep supply matched to demand.
+prerequisites:
+  - bu-supply-chain-management
+related:
+  - ma-operations-research
+  - ma-integer-programming
+topics:
+  - id: bu-planning-inventory-management-1
+    name: "The planning hierarchy: strategic, tactical and operational"
+  - id: bu-planning-inventory-management-2
+    name: Demand management and forecast accuracy measures
+  - id: bu-planning-inventory-management-3
+    name: "Aggregate planning: chase, level and hybrid strategies"
+  - id: bu-planning-inventory-management-4
+    name: Master production scheduling and available-to-promise
+  - id: bu-planning-inventory-management-5
+    name: Material requirements planning (MRP) and bills of materials
+  - id: bu-planning-inventory-management-6
+    name: Capacity requirements planning and finite scheduling
+  - id: bu-planning-inventory-management-7
+    name: Inventory policies
+    sub:
+      - id: bu-planning-inventory-management-7-1
+        name: Continuous vs periodic review
+      - id: bu-planning-inventory-management-7-2
+        name: Service levels and safety stock
+      - id: bu-planning-inventory-management-7-3
+        name: ABC classification
+  - id: bu-planning-inventory-management-8
+    name: The newsvendor model and perishable inventory
+  - id: bu-planning-inventory-management-9
+    name: Distribution requirements planning
+  - id: bu-planning-inventory-management-10
+    name: Production activity control and shop-floor scheduling
+  - id: bu-planning-inventory-management-11
+    name: Just-in-time, kanban and pull systems
+  - id: bu-planning-inventory-management-12
+    name: ERP systems and advanced planning and scheduling
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-planning-inventory-management.json
+  sha256: 49a00317076841d7f57d92422db5e4e5503290a20ad5f3a2ce8d764e55acfe00

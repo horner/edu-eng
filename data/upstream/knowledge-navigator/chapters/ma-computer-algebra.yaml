@@ -1,0 +1,34 @@
+id: ma-computer-algebra
+name: Computer Algebra & Symbolic Computation
+category: Numerical Analysis & Scientific Computing
+level: 3
+priority: advanced
+summary: "Exact symbolic computation: polynomial arithmetic and factorisation, Groebner bases and how computer algebra systems work."
+prerequisites:
+  - ma-ring-theory
+  - ma-algorithm-analysis
+related: []
+topics:
+  - id: ma-computer-algebra-1
+    name: Representing numbers and polynomials; exact arithmetic
+  - id: ma-computer-algebra-2
+    name: Euclidean algorithm, resultants and subresultants
+  - id: ma-computer-algebra-3
+    name: Modular methods and the Chinese remainder theorem
+  - id: ma-computer-algebra-4
+    name: Polynomial factorisation over finite fields and the integers
+  - id: ma-computer-algebra-5
+    name: Groebner bases and Buchberger's algorithm
+  - id: ma-computer-algebra-6
+    name: Solving polynomial systems and elimination
+  - id: ma-computer-algebra-7
+    name: Symbolic integration (Risch algorithm overview)
+  - id: ma-computer-algebra-8
+    name: Using computer algebra systems (SageMath, Mathematica, SymPy)
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-computer-algebra.json
+  sha256: 72122147e0c3b95eb225e97d9ef0231eebfd589ca0dae99bf8ba8dbe1cb5b840

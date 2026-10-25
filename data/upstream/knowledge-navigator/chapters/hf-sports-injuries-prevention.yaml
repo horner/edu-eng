@@ -1,0 +1,45 @@
+id: hf-sports-injuries-prevention
+name: "Exercise & Sports Injuries: Prevention and First Care"
+category: Injury Prevention, Posture & Rehabilitation
+level: 2
+priority: important
+summary: Common exercise and sports injuries, how to reduce the risk of them, and how to care for them early on.
+prerequisites:
+  - hf-functional-anatomy-kinesiology
+related: []
+topics:
+  - id: hf-sports-injuries-prevention-1
+    name: "Tissues and how they get injured: muscle, tendon, ligament, bone and cartilage"
+  - id: hf-sports-injuries-prevention-2
+    name: Acute versus overuse injuries
+  - id: hf-sports-injuries-prevention-3
+    name: "Risk factors: training-load errors, previous injury and others"
+  - id: hf-sports-injuries-prevention-4
+    name: "Injury prevention programmes: FIFA 11+ and Nordic hamstring exercises"
+  - id: hf-sports-injuries-prevention-5
+    name: "Warm-ups and injury: the evidence"
+  - id: hf-sports-injuries-prevention-6
+    name: Managing training load
+  - id: hf-sports-injuries-prevention-7
+    name: "Early care: from RICE to PEACE & LOVE"
+  - id: hf-sports-injuries-prevention-8
+    name: Muscle strains
+  - id: hf-sports-injuries-prevention-9
+    name: "Ligament sprains: ankle and ACL"
+  - id: hf-sports-injuries-prevention-10
+    name: Tendinopathies
+  - id: hf-sports-injuries-prevention-11
+    name: Bone stress injuries
+  - id: hf-sports-injuries-prevention-12
+    name: Shin pain, runner's knee and plantar heel pain
+  - id: hf-sports-injuries-prevention-13
+    name: "Concussion: recognising it and returning to learning and sport"
+  - id: hf-sports-injuries-prevention-14
+    name: When to see a physiotherapist or doctor
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-sports-injuries-prevention.json
+  sha256: ccb340b6fac9d8c3e8dc1f08800f54c8ddae3188f5563929f494d8128270ccb8

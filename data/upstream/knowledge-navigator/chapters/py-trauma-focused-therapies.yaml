@@ -1,0 +1,40 @@
+id: py-trauma-focused-therapies
+name: Trauma-Focused Therapies
+category: Assessment, Psychotherapy & Counselling
+level: 4
+priority: advanced
+summary: Evidence-based psychological treatments for PTSD and complex trauma, and how they are delivered safely.
+prerequisites:
+  - py-cognitive-behavioural-therapy
+  - py-trauma-stress-dissociative-disorders
+related: []
+topics:
+  - id: py-trauma-focused-therapies-1
+    name: Principles of trauma-informed care
+  - id: py-trauma-focused-therapies-2
+    name: Prolonged exposure therapy
+  - id: py-trauma-focused-therapies-3
+    name: Cognitive processing therapy
+  - id: py-trauma-focused-therapies-4
+    name: Cognitive therapy for PTSD (Ehlers and Clark)
+  - id: py-trauma-focused-therapies-5
+    name: "EMDR: procedure, evidence and the eye-movement debate"
+  - id: py-trauma-focused-therapies-6
+    name: Narrative exposure therapy
+  - id: py-trauma-focused-therapies-7
+    name: Trauma-focused CBT for children
+  - id: py-trauma-focused-therapies-8
+    name: "Treating complex PTSD: phase-based vs direct approaches"
+  - id: py-trauma-focused-therapies-9
+    name: Medication for PTSD
+  - id: py-trauma-focused-therapies-10
+    name: Guideline recommendations (APA, NICE, ISTSS)
+  - id: py-trauma-focused-therapies-11
+    name: Therapist vicarious trauma and self-care
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-trauma-focused-therapies.json
+  sha256: 962f6ad1090f7f3679b0f77f61bda734134ed68d45a08ae6c2ae44afe10c8788

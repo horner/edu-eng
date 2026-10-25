@@ -1,0 +1,55 @@
+id: bu-microeconomics-for-business
+name: Microeconomics for Business
+category: Economics for Business
+level: 2
+priority: core
+summary: How prices, costs and competition shape the decisions of consumers and firms, applied to business choices.
+prerequisites:
+  - bu-introduction-to-business
+  - ma-elementary-intermediate-algebra
+related:
+  - mk-consumer-behavior
+  - ma-mathematical-economics
+topics:
+  - id: bu-microeconomics-for-business-1
+    name: Scarcity, opportunity cost and marginal thinking
+  - id: bu-microeconomics-for-business-2
+    name: Demand, supply and market equilibrium
+  - id: bu-microeconomics-for-business-3
+    name: Elasticity
+    sub:
+      - id: bu-microeconomics-for-business-3-1
+        name: Price elasticity of demand and revenue
+      - id: bu-microeconomics-for-business-3-2
+        name: Income and cross-price elasticity
+      - id: bu-microeconomics-for-business-3-3
+        name: Elasticity of supply
+  - id: bu-microeconomics-for-business-4
+    name: Consumer choice and willingness to pay
+  - id: bu-microeconomics-for-business-5
+    name: "Production and costs: fixed, variable, marginal and average"
+  - id: bu-microeconomics-for-business-6
+    name: Economies of scale and scope
+  - id: bu-microeconomics-for-business-7
+    name: Perfect competition and the logic of zero economic profit
+  - id: bu-microeconomics-for-business-8
+    name: Monopoly and market power
+  - id: bu-microeconomics-for-business-9
+    name: Monopolistic competition and product differentiation
+  - id: bu-microeconomics-for-business-10
+    name: "Oligopoly and strategic interaction: an introduction"
+  - id: bu-microeconomics-for-business-11
+    name: Price discrimination and pricing strategies
+  - id: bu-microeconomics-for-business-12
+    name: Labour markets and wages
+  - id: bu-microeconomics-for-business-13
+    name: Externalities, public goods and market failure
+  - id: bu-microeconomics-for-business-14
+    name: "Government intervention: taxes, subsidies, price controls and regulation"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-microeconomics-for-business.json
+  sha256: ae41f174ab3ee78f980a3872dd6fc484dcf82bc759f87973dc8012203dbb7c85

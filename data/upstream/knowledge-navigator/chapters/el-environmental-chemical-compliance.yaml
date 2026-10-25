@@ -1,0 +1,27 @@
+id: el-environmental-chemical-compliance
+name: Environmental & Chemical Compliance
+category: Standards, Compliance & Certifications
+level: 2
+priority: optional
+summary: "Environmental rules for electronic products: RoHS, REACH, WEEE, Prop 65 and conflict minerals."
+prerequisites:
+  - el-international-standards-organizations
+related: []
+topics:
+  - id: el-environmental-chemical-compliance-1
+    name: RoHS (Restriction of Hazardous Substances)
+  - id: el-environmental-chemical-compliance-2
+    name: REACH (Registration, Evaluation, Authorization of Chemicals)
+  - id: el-environmental-chemical-compliance-3
+    name: WEEE (Waste Electrical and Electronic Equipment)
+  - id: el-environmental-chemical-compliance-4
+    name: California Prop 65
+  - id: el-environmental-chemical-compliance-5
+    name: Conflict minerals (Dodd-Frank Act)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-environmental-chemical-compliance.json
+  sha256: f1c1c5b6575a37171df8f14c338d8530a4d51d361154a011bfbaad22a8696704

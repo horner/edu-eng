@@ -1,0 +1,33 @@
+id: el-chassis-safety-systems
+name: Chassis & Safety Systems
+category: Automotive, Aerospace & Defense Systems
+level: 3
+priority: advanced
+summary: "Electronic chassis and safety systems: ABS, stability and traction control, electric power steering, cruise control and parking brakes."
+prerequisites:
+  - el-vehicle-electronics-architecture
+  - el-control-theory
+related:
+  - me-vehicle-dynamics
+topics:
+  - id: el-chassis-safety-systems-1
+    name: Anti-lock Braking System (ABS)
+  - id: el-chassis-safety-systems-2
+    name: Electronic Stability Control (ESC)
+  - id: el-chassis-safety-systems-3
+    name: Traction Control System (TCS)
+  - id: el-chassis-safety-systems-4
+    name: Electronic Power Steering (EPS)
+  - id: el-chassis-safety-systems-5
+    name: Adaptive Cruise Control (ACC)
+  - id: el-chassis-safety-systems-6
+    name: Electronic Parking Brake
+  - id: el-chassis-safety-systems-7
+    name: Hill-start assist
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-chassis-safety-systems.json
+  sha256: 9e9bd65eee50c405eb1cc610ffdef025568fe4e6b8b4c817844a0fce4ecd79f3

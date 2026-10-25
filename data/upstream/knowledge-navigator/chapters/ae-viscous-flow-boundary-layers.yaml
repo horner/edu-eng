@@ -1,0 +1,43 @@
+id: ae-viscous-flow-boundary-layers
+name: Viscous Flow and Boundary Layers
+category: Aerodynamics
+level: 3
+priority: core
+summary: "Viscous effects that govern skin-friction drag, heat transfer and flow separation: laminar and turbulent boundary layers and transition."
+prerequisites:
+  - ae-incompressible-aerodynamics
+related:
+  - ph-fluid-mechanics
+  - me-advanced-fluid-mechanics
+topics:
+  - id: ae-viscous-flow-boundary-layers-1
+    name: The Navier-Stokes equations
+  - id: ae-viscous-flow-boundary-layers-2
+    name: "Exact solutions: Couette and Poiseuille flow"
+  - id: ae-viscous-flow-boundary-layers-3
+    name: Boundary-layer concept and Prandtl's boundary-layer equations
+  - id: ae-viscous-flow-boundary-layers-4
+    name: Blasius solution for the flat plate
+  - id: ae-viscous-flow-boundary-layers-5
+    name: Displacement and momentum thickness; the momentum integral equation
+  - id: ae-viscous-flow-boundary-layers-6
+    name: Pressure gradients and flow separation
+  - id: ae-viscous-flow-boundary-layers-7
+    name: "Laminar-turbulent transition: stability theory, Tollmien-Schlichting waves"
+  - id: ae-viscous-flow-boundary-layers-8
+    name: "Turbulence fundamentals: Reynolds averaging and the closure problem"
+  - id: ae-viscous-flow-boundary-layers-9
+    name: "Turbulent boundary layers: law of the wall and skin friction"
+  - id: ae-viscous-flow-boundary-layers-10
+    name: "Turbulence modelling: mixing length, k-epsilon, k-omega SST"
+  - id: ae-viscous-flow-boundary-layers-11
+    name: Compressible boundary layers and aerodynamic heating
+  - id: ae-viscous-flow-boundary-layers-12
+    name: "Flow control: vortex generators, suction, riblets"
+discipline: aerospace
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/aerospace/ae-viscous-flow-boundary-layers.json
+  sha256: ea1c1a4b4c588c3a0f54679445fee3d626d56a8b7c5933a843a020478dafda9e

@@ -1,0 +1,34 @@
+id: ma-type-theory
+name: Type Theory
+category: Theoretical Computer Science
+level: 4
+priority: advanced
+summary: Lambda calculus and type systems, from simple types to dependent types and the Curry-Howard correspondence.
+prerequisites:
+  - ma-logic-proof-theory
+  - ma-computability-theory
+related:
+  - cs-type-systems-semantics
+  - cs-functional-programming
+topics:
+  - id: ma-type-theory-1
+    name: Lambda calculus
+  - id: ma-type-theory-4
+    name: Simply typed lambda calculus
+  - id: ma-type-theory-2
+    name: Type systems
+  - id: ma-type-theory-5
+    name: Curry-Howard correspondence
+  - id: ma-type-theory-6
+    name: Polymorphism (System F)
+  - id: ma-type-theory-3
+    name: Dependent types
+  - id: ma-type-theory-7
+    name: Homotopy type theory (overview)
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-type-theory.json
+  sha256: f15f45c8f920a26da40b06676fad6452ef953962b4689f46f0199a620415f0ff

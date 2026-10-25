@@ -1,0 +1,28 @@
+id: ma-k-theory
+name: K-Theory
+category: Algebra
+level: 4
+priority: advanced
+summary: Algebraic and topological K-theory, which measure vector bundles and projective modules and connect topology, algebra and index theory.
+prerequisites:
+  - ma-homological-algebra
+  - ma-fiber-bundles
+related: []
+topics:
+  - id: ma-k-theory-3
+    name: Vector bundles and the Grothendieck group
+  - id: ma-k-theory-2
+    name: Topological K-theory
+  - id: ma-k-theory-4
+    name: Bott periodicity
+  - id: ma-k-theory-1
+    name: Algebraic K-theory
+  - id: ma-k-theory-5
+    name: K-theory of C*-algebras and index theory connections
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-k-theory.json
+  sha256: cf7ea0150202d7fe9085fa30e13b27c91507581bff4353487bd4830303d47a03

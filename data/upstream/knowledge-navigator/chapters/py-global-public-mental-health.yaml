@@ -1,0 +1,44 @@
+id: py-global-public-mental-health
+name: Global & Public Mental Health
+category: Mental Health & Psychopathology
+level: 3
+priority: advanced
+summary: "Mental health at population scale: epidemiology, social determinants, prevention, services in low- and high-income countries and policy."
+prerequisites:
+  - py-psychopathology-foundations
+  - py-research-methods-in-psychology
+related:
+  - bi-epidemiology
+  - hf-global-health
+topics:
+  - id: py-global-public-mental-health-1
+    name: "Psychiatric epidemiology: surveys, burden of disease and the treatment gap"
+  - id: py-global-public-mental-health-2
+    name: "Social determinants: poverty, inequality, discrimination and housing"
+  - id: py-global-public-mental-health-3
+    name: "Prevention: universal, selective and indicated"
+  - id: py-global-public-mental-health-4
+    name: Promotion of mental wellbeing at population level
+  - id: py-global-public-mental-health-5
+    name: Task-sharing and lay health workers (Friendship Bench, WHO mhGAP)
+  - id: py-global-public-mental-health-6
+    name: Mental health in humanitarian settings
+  - id: py-global-public-mental-health-7
+    name: Culture, idioms of distress and global diagnosis debates
+  - id: py-global-public-mental-health-8
+    name: Stepped care and service models
+  - id: py-global-public-mental-health-9
+    name: Human rights, coercion and the WHO QualityRights initiative
+  - id: py-global-public-mental-health-10
+    name: Climate change and mental health
+  - id: py-global-public-mental-health-11
+    name: Mental health policy, funding and economics
+  - id: py-global-public-mental-health-12
+    name: Digital mental health at scale
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-global-public-mental-health.json
+  sha256: 6cbbbc16d8e4fb090c7c3a896691921f0bb1fb15093b4f26de1ebed86c85f975

@@ -1,0 +1,47 @@
+id: hf-first-aid-cpr
+name: First Aid, CPR & Emergency Response
+category: Injury Prevention, Posture & Rehabilitation
+level: 1
+priority: core
+summary: How to recognise emergencies and give first aid, including CPR and use of a defibrillator, until help arrives.
+prerequisites:
+  - hf-human-body-basics
+related: []
+topics:
+  - id: hf-first-aid-cpr-1
+    name: "Priorities in an emergency: danger, response and the primary survey"
+  - id: hf-first-aid-cpr-2
+    name: Calling the emergency services
+  - id: hf-first-aid-cpr-3
+    name: The recovery position
+  - id: hf-first-aid-cpr-4
+    name: CPR for adults, children and infants
+  - id: hf-first-aid-cpr-5
+    name: Using an automated external defibrillator (AED)
+  - id: hf-first-aid-cpr-6
+    name: Choking
+  - id: hf-first-aid-cpr-7
+    name: Severe bleeding
+  - id: hf-first-aid-cpr-8
+    name: Shock
+  - id: hf-first-aid-cpr-9
+    name: Recognising heart attack and stroke (FAST)
+  - id: hf-first-aid-cpr-10
+    name: Asthma attacks and anaphylaxis, including helping someone use their adrenaline auto-injector
+  - id: hf-first-aid-cpr-11
+    name: Seizures and diabetic emergencies
+  - id: hf-first-aid-cpr-12
+    name: Burns, fractures and sprains
+  - id: hf-first-aid-cpr-13
+    name: Heat illness and hypothermia
+  - id: hf-first-aid-cpr-14
+    name: Head injuries
+  - id: hf-first-aid-cpr-15
+    name: First aid kits and legal protection for helpers
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-first-aid-cpr.json
+  sha256: 140a39c9e3fcd4a0d340b40fe1aa867889767f91ed130d46c71cf40fb6f3ceec

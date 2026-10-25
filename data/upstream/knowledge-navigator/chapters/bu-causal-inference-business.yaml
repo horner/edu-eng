@@ -1,0 +1,45 @@
+id: bu-causal-inference-business
+name: Causal Inference for Business
+category: Analytics & Decision Sciences
+level: 4
+priority: advanced
+summary: Econometric methods for estimating the causal effects of business decisions when clean experiments are not possible.
+prerequisites:
+  - bu-regression-forecasting
+  - bu-experimentation-ab-testing
+related:
+  - ma-econometrics
+  - ma-bayesian-statistics
+  - mk-attribution-mix-modeling
+topics:
+  - id: bu-causal-inference-business-1
+    name: Potential outcomes and the fundamental problem of causal inference
+  - id: bu-causal-inference-business-2
+    name: Causal diagrams and confounding
+  - id: bu-causal-inference-business-3
+    name: Selection bias and omitted variables
+  - id: bu-causal-inference-business-4
+    name: Matching and propensity scores
+  - id: bu-causal-inference-business-5
+    name: Difference-in-differences
+  - id: bu-causal-inference-business-6
+    name: Instrumental variables
+  - id: bu-causal-inference-business-7
+    name: Regression discontinuity designs
+  - id: bu-causal-inference-business-8
+    name: Panel data and fixed effects
+  - id: bu-causal-inference-business-9
+    name: Synthetic control methods
+  - id: bu-causal-inference-business-10
+    name: Uplift modelling and heterogeneous treatment effects
+  - id: bu-causal-inference-business-11
+    name: "Marketing mix and attribution models: causal pitfalls"
+  - id: bu-causal-inference-business-12
+    name: Communicating causal findings to decision-makers
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-causal-inference-business.json
+  sha256: 89f613cfae6a1d81789c5f695e88ba8ff171bbad54579f6aafe98601dc8340fc

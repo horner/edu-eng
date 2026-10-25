@@ -1,0 +1,41 @@
+id: py-comparative-psychology-animal-cognition
+name: Comparative Psychology & Animal Cognition
+category: Biological Bases of Behaviour
+level: 3
+priority: optional
+summary: What studies of animal learning, communication and intelligence reveal about the evolution and uniqueness of the human mind.
+prerequisites:
+  - py-learning-conditioning
+  - py-biological-psychology
+related:
+  - bi-animal-behavior
+topics:
+  - id: py-comparative-psychology-animal-cognition-1
+    name: "History: Darwin, Romanes, Morgan's canon and behaviourism"
+  - id: py-comparative-psychology-animal-cognition-2
+    name: Methods and ethics of animal research
+  - id: py-comparative-psychology-animal-cognition-3
+    name: Animal learning across species
+  - id: py-comparative-psychology-animal-cognition-4
+    name: Spatial cognition and navigation
+  - id: py-comparative-psychology-animal-cognition-5
+    name: Numerical and causal cognition
+  - id: py-comparative-psychology-animal-cognition-6
+    name: Tool use and problem solving in primates and corvids
+  - id: py-comparative-psychology-animal-cognition-7
+    name: Animal communication and the question of language
+  - id: py-comparative-psychology-animal-cognition-8
+    name: Social cognition and theory of mind in animals
+  - id: py-comparative-psychology-animal-cognition-9
+    name: Self-recognition and animal consciousness debates
+  - id: py-comparative-psychology-animal-cognition-10
+    name: Animal emotion and welfare science
+  - id: py-comparative-psychology-animal-cognition-11
+    name: Domestication and dog cognition
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-comparative-psychology-animal-cognition.json
+  sha256: 50b53f7ce7f095752c207cf77c660fbde1c87ca84eedc42e97bcdf2286a12fed

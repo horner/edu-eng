@@ -1,0 +1,42 @@
+id: py-counselling-skills
+name: Counselling & Helping Skills
+category: Assessment, Psychotherapy & Counselling
+level: 2
+priority: important
+summary: Core listening and helping skills used by counsellors and therapists, which anyone can learn to support others well.
+prerequisites:
+  - py-mental-health-literacy
+related:
+  - hf-health-wellness-coaching
+topics:
+  - id: py-counselling-skills-1
+    name: "What helping is and is not: advice-giving vs helping people find their own way"
+  - id: py-counselling-skills-2
+    name: The therapeutic relationship and Rogers' core conditions
+  - id: py-counselling-skills-3
+    name: Active listening and attending (SOLER)
+  - id: py-counselling-skills-4
+    name: Paraphrasing, reflecting feelings and summarising
+  - id: py-counselling-skills-5
+    name: Open and closed questions
+  - id: py-counselling-skills-6
+    name: "Empathy: understanding vs sympathy"
+  - id: py-counselling-skills-7
+    name: Egan's skilled helper model
+  - id: py-counselling-skills-8
+    name: Motivational interviewing spirit and OARS skills
+  - id: py-counselling-skills-9
+    name: Working with silence, strong emotions and challenge
+  - id: py-counselling-skills-10
+    name: Boundaries, confidentiality and knowing when to refer
+  - id: py-counselling-skills-11
+    name: Cultural humility in helping conversations
+  - id: py-counselling-skills-12
+    name: Self-care and supervision for helpers
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-counselling-skills.json
+  sha256: 2c7eb919e357cac8504396c360652ce4aeb87ed44f34efbbddf84e07f2d3588e

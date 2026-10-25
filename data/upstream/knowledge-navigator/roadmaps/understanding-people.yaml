@@ -1,0 +1,268 @@
+id: understanding-people
+name: "Understanding People: Behaviour, Mind & Influence"
+icon: 🕵️
+tagline: Why people do what they do, how to read them well, and where the science stops.
+description: For anyone who wants to understand other people better, whether at work, in relationships or out of curiosity, and to tell real behavioural science from body-language folklore. You start with how to read research, then cover decision-making, the social brain, emotion and nonverbal communication, deception, personality, evolution and culture, social influence and persuasion, and finish with relationships, communication and negotiation. Throughout, the route separates what the evidence supports from popular claims that have not held up, such as microexpression reading, lie-spotting from body language and power posing.
+outcomes:
+  - Explain the main heuristics and biases in judgement and decision-making, and which well-known effects have and have not replicated
+  - Describe what faces, voices and bodies reliably reveal about emotion and intention, and why people detect lies at little better than chance
+  - Use the Big Five and other validated models of personality, and explain why MBTI-style typologies and "reading" personality from appearance are unreliable
+  - Explain behaviour at several levels (brain, individual, situation, culture and evolution) without overstating any one of them
+  - Recognise conformity, obedience, compliance techniques and manipulative design, and use persuasion principles openly and ethically
+  - Prepare for a negotiation using interests, BATNA and the zone of possible agreement, and communicate with active listening and clear structure
+stages:
+  - name: Reading the evidence
+    description: How to tell what the science of behaviour supports, because this subject is full of confident claims with little evidence.
+    items:
+      - chapter: py-introduction-to-psychology
+        why: An overview of the science of mind and behaviour and the levels at which it explains people.
+        depth: full
+      - chapter: py-psychological-literacy-critical-thinking
+        why: "Common myths, pseudoscience red flags and how to read a news story about a study: the filter for everything that follows."
+        depth: full
+      - chapter: ma-arithmetic-pre-algebra
+        why: Percentages and ratios, so you can follow effect sizes and accuracy rates.
+        depth: selected
+        focus:
+          - ma-arithmetic-pre-algebra-6
+          - ma-arithmetic-pre-algebra-7
+      - chapter: ma-descriptive-statistics
+        why: Averages, spread and correlation, needed to understand what "people high in X tend to do Y" really means.
+        depth: full
+      - chapter: py-research-methods-in-psychology
+        why: "Experiments versus correlations, sampling, reliability, validity and demand effects: why some famous findings are weaker than they sound."
+        depth: selected
+        focus:
+          - py-research-methods-in-psychology-1
+          - py-research-methods-in-psychology-2
+          - py-research-methods-in-psychology-3
+          - py-research-methods-in-psychology-4
+          - py-research-methods-in-psychology-5
+          - py-research-methods-in-psychology-6
+          - py-research-methods-in-psychology-9
+  - name: How people think and decide
+    description: "The behavioural science of everyday choices: attention, learning, reasoning, motivation and the shortcuts people use."
+    items:
+      - chapter: py-cognitive-psychology
+        why: "Attention, memory and automatic versus controlled processing: the machinery behind every judgement."
+        depth: selected
+        focus:
+          - py-cognitive-psychology-1
+          - py-cognitive-psychology-3
+          - py-cognitive-psychology-4
+          - py-cognitive-psychology-9
+          - py-cognitive-psychology-10
+          - py-cognitive-psychology-11
+      - chapter: py-learning-conditioning
+        why: How rewards, punishments and imitation shape behaviour, and how habits differ from goal-directed actions.
+        depth: selected
+        focus:
+          - py-learning-conditioning-1
+          - py-learning-conditioning-2
+          - py-learning-conditioning-3
+          - py-learning-conditioning-7
+          - py-learning-conditioning-9
+      - chapter: py-thinking-reasoning-problem-solving
+        why: Dual-process theories, probabilistic reasoning and why intelligent people still believe odd things.
+        depth: selected
+        focus:
+          - py-thinking-reasoning-problem-solving-4
+          - py-thinking-reasoning-problem-solving-5
+          - py-thinking-reasoning-problem-solving-11
+          - py-thinking-reasoning-problem-solving-12
+      - chapter: py-judgement-decision-making
+        why: Heuristics, prospect theory, loss aversion and nudges, with an honest account of which effects replicate.
+        depth: full
+      - chapter: py-motivation-habits-behavior-change
+        why: "What drives people: intrinsic and extrinsic motivation, self-determination theory, self-control and habits."
+        depth: selected
+        focus:
+          - py-motivation-habits-behavior-change-1
+          - py-motivation-habits-behavior-change-2
+          - py-motivation-habits-behavior-change-3
+          - py-motivation-habits-behavior-change-4
+          - py-motivation-habits-behavior-change-6
+          - py-motivation-habits-behavior-change-8
+  - name: The social brain
+    description: The biology behind behaviour and the mental machinery people use to understand each other.
+    items:
+      - chapter: bi-introductory-biology
+        why: Cells, inheritance and evolution in brief, as groundwork for the brain and evolution chapters.
+        depth: selected
+        focus:
+          - bi-introductory-biology-2
+          - bi-introductory-biology-3
+          - bi-introductory-biology-5
+          - bi-introductory-biology-10
+      - chapter: py-biological-psychology
+        why: Neurons, neurotransmitters, hormones and brain systems, and what they can and cannot explain about behaviour.
+        depth: selected
+        focus:
+          - py-biological-psychology-1
+          - py-biological-psychology-2
+          - py-biological-psychology-3
+          - py-biological-psychology-4
+          - py-biological-psychology-6
+          - py-biological-psychology-8
+          - py-biological-psychology-9
+          - py-biological-psychology-10
+      - chapter: py-cognitive-neuroscience-for-psychologists
+        why: Reward, decision, emotion and mind-wandering networks, and how to read brain-imaging claims critically.
+        depth: selected
+        focus:
+          - py-cognitive-neuroscience-for-psychologists-1
+          - py-cognitive-neuroscience-for-psychologists-2
+          - py-cognitive-neuroscience-for-psychologists-8
+          - py-cognitive-neuroscience-for-psychologists-10
+          - py-cognitive-neuroscience-for-psychologists-11
+          - py-cognitive-neuroscience-for-psychologists-13
+      - chapter: py-social-psychology
+        why: How the presence of others, real or imagined, changes thought and behaviour, and what the classic studies really showed.
+        depth: full
+      - chapter: py-social-cognition-theory-of-mind
+        why: "Attribution, first impressions, stereotypes, theory of mind and empathy: how people read each other, and where they go wrong."
+        depth: full
+  - name: Emotion, faces and nonverbal communication
+    description: What emotions are and how they show, and what research says about reading faces, bodies, voices and lies.
+    items:
+      - chapter: py-emotion-and-emotion-regulation
+        why: What emotions are, how they show in the body and how people manage them, the basis for reading them in others.
+        depth: full
+      - chapter: py-nonverbal-communication-reading-people
+        why: Facial expressions, gaze, voice and first impressions, with the evidence on microexpressions and power posing.
+        depth: full
+      - chapter: py-deception-credibility-lie-detection
+        why: Why lie detection from behaviour is close to chance, the limits of the polygraph, and the interview methods that do better.
+        depth: full
+      - chapter: py-anger-aggression-management
+        why: Where anger and aggression come from, the situations that trigger them and how to de-escalate conflict.
+        depth: selected
+        focus:
+          - py-anger-aggression-management-1
+          - py-anger-aggression-management-2
+          - py-anger-aggression-management-4
+          - py-anger-aggression-management-5
+          - py-anger-aggression-management-6
+          - py-anger-aggression-management-7
+          - py-anger-aggression-management-8
+          - py-anger-aggression-management-10
+          - py-anger-aggression-management-11
+  - name: Personality and individual differences
+    description: How people differ in stable ways, how those differences are measured, and how much they predict.
+    items:
+      - chapter: py-personality-psychology
+        why: The Big Five, the dark triad and the person-situation debate, and why MBTI and the enneagram are not scientific models.
+        depth: full
+      - chapter: py-self-and-identity
+        why: "Self-esteem, self-presentation and social identity: how people want to be seen and why."
+        depth: full
+      - chapter: py-intelligence-cognitive-abilities
+        why: What intelligence and IQ tests measure, what they predict and the claims about emotional intelligence.
+        depth: full
+      - chapter: py-gender-sexuality
+        why: What research shows about sex differences and similarities and how stereotypes distort them.
+        depth: selected
+        focus:
+          - py-gender-sexuality-1
+          - py-gender-sexuality-2
+          - py-gender-sexuality-3
+          - py-gender-sexuality-4
+  - name: Evolution, culture and morality
+    description: Why human behaviour has the shape it does, and how culture and moral intuitions vary.
+    items:
+      - chapter: py-evolutionary-psychology
+        why: Evolutionary explanations of attraction, status, cooperation and fear, together with the main criticisms.
+        depth: full
+      - chapter: py-cultural-psychology
+        why: How culture shapes the self, emotion and thinking, and why findings from Western samples may not generalise.
+        depth: full
+      - chapter: py-prosocial-behaviour-moral-psychology
+        why: Why people help and cooperate, and how moral intuitions differ between people and groups.
+        depth: full
+  - name: Social influence and persuasion
+    description: How people are influenced by others and by messages, how to use influence ethically, and how to resist manipulation.
+    items:
+      - chapter: py-social-influence-persuasion
+        why: Conformity, obedience, Cialdini-style compliance techniques, propaganda and dark patterns, and how to say no.
+        depth: full
+      - chapter: py-attitudes-and-behaviour
+        why: How attitudes form and change, and why what people say often does not predict what they do.
+        depth: full
+      - chapter: py-groups-prejudice-intergroup-relations
+        why: Group dynamics, groupthink, social identity and prejudice, and what reduces conflict between groups.
+        depth: full
+  - name: Relationships, communication and negotiation
+    description: "Applying all of this to the people around you: close relationships, clear communication and negotiating fairly."
+    items:
+      - chapter: py-close-relationships-social-connection
+        why: Attraction, trust, conflict and responsiveness in close relationships, from Gottman and attachment research.
+        depth: full
+      - chapter: bu-introduction-to-business
+        why: Only the essentials of how organisations work, as context for the communication and negotiation chapters.
+        depth: selected
+        focus:
+          - bu-introduction-to-business-1
+          - bu-introduction-to-business-5
+          - bu-introduction-to-business-6
+      - chapter: bu-business-communication
+        why: Audience analysis, plain language, listening, questioning and handling sensitive conversations.
+        depth: selected
+        focus:
+          - bu-business-communication-1
+          - bu-business-communication-2
+          - bu-business-communication-5
+          - bu-business-communication-9
+          - bu-business-communication-10
+          - bu-business-communication-13
+      - chapter: bu-negotiation
+        why: Interests, BATNA, anchoring and value creation, and the psychology of bias and emotion at the table.
+        depth: full
+      - chapter: bu-presentation-persuasion
+        why: Structuring an argument, storytelling and delivery, and the ethical use of persuasion principles.
+        depth: selected
+        focus:
+          - bu-presentation-persuasion-1
+          - bu-presentation-persuasion-2
+          - bu-presentation-persuasion-3
+          - bu-presentation-persuasion-6
+          - bu-presentation-persuasion-7
+          - bu-presentation-persuasion-8
+  - name: Electives
+    description: Optional chapters that apply the science of behaviour to particular settings.
+    items:
+      - chapter: py-human-memory
+        why: "Elective: false memories and eyewitness error, which matter whenever you rely on what people remember."
+        depth: full
+      - chapter: py-language-psycholinguistics
+        why: "Elective: how people understand and produce language, including conversation and inference."
+        depth: full
+      - chapter: py-consumer-psychology
+        why: "Elective: the psychology of buying, pricing and advertising, and where neuromarketing claims outrun the evidence."
+        depth: full
+      - chapter: py-applied-behavioural-science-policy
+        why: "Elective: how governments and organisations design, test and scale behavioural interventions, and the ethics of nudging."
+        depth: full
+      - chapter: py-work-organisational-psychology
+        why: "Elective: people at work: selection interviews, motivation, leadership, teams and psychological safety."
+        depth: full
+      - chapter: py-psychopathology-foundations
+        why: "Elective: groundwork for the personality-disorder and forensic chapters; how mental disorders are defined."
+        depth: full
+      - chapter: py-personality-disorders
+        why: "Elective: narcissistic, antisocial and borderline patterns, and why armchair diagnosis of others is unreliable."
+        depth: full
+      - chapter: py-forensic-psychology
+        why: "Elective: offending, interrogation and false confessions, offender profiling claims and jury decisions."
+        depth: full
+      - chapter: py-digital-wellbeing-cyberpsychology
+        why: "Elective: online behaviour, disinhibition and persuasive design in apps and social media."
+        depth: full
+related:
+  - psychologist
+  - mental-wellness
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/roadmaps/understanding-people.json
+  sha256: f85c9d656a93c9f108970c196ce7fb77ff18a74c777b242b74c2d506bf27c725

@@ -1,0 +1,35 @@
+id: ai-graph-based-ml
+name: Graph-Based ML
+category: Applied ML Problem Domains
+level: 3
+priority: important
+summary: "Classical machine learning on graphs and networks: graph algorithms, label propagation, spectral methods, random walks, community detection and link prediction."
+prerequisites:
+  - ai-types-of-machine-learning
+  - ma-graph-theory
+related:
+  - ma-network-science
+  - ai-graph-neural-networks
+  - ai-recommender-systems
+topics:
+  - id: ai-graph-based-ml-1
+    name: Graph Algorithms for ML
+  - id: ai-graph-based-ml-2
+    name: Label Propagation
+  - id: ai-graph-based-ml-3
+    name: Spectral Methods
+  - id: ai-graph-based-ml-4
+    name: Random Walks
+  - id: ai-graph-based-ml-5
+    name: Community detection
+  - id: ai-graph-based-ml-6
+    name: Link prediction
+  - id: ai-graph-based-ml-7
+    name: Node classification with graph features
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-graph-based-ml.json
+  sha256: 2594d521e2d6ee69e3e42d5b181371e297dcbf8587329ad65104bafbb3d1c94a

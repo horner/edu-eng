@@ -1,0 +1,49 @@
+id: hf-nutritional-biochemistry
+name: Nutritional Biochemistry & Metabolism
+category: Nutrition Science
+level: 3
+priority: important
+summary: The biochemical pathways by which nutrients are digested, transported, used and regulated in the body.
+prerequisites:
+  - hf-macronutrients
+  - bi-metabolism
+related:
+  - ch-metabolism-bioenergetics
+  - bi-biochemistry
+  - bi-human-genetics
+topics:
+  - id: hf-nutritional-biochemistry-1
+    name: "Digestion and absorption at the molecular level: enzymes and transporters"
+  - id: hf-nutritional-biochemistry-2
+    name: "Carbohydrate metabolism: glycolysis, gluconeogenesis and glycogen"
+  - id: hf-nutritional-biochemistry-3
+    name: "Lipid transport: chylomicrons and lipoproteins"
+  - id: hf-nutritional-biochemistry-4
+    name: Fatty acid oxidation and ketogenesis
+  - id: hf-nutritional-biochemistry-5
+    name: Protein turnover, nitrogen balance and the urea cycle
+  - id: hf-nutritional-biochemistry-6
+    name: Integration of metabolism in fed, fasted and starved states
+  - id: hf-nutritional-biochemistry-7
+    name: "Hormonal control: insulin, glucagon, cortisol and adrenaline"
+  - id: hf-nutritional-biochemistry-8
+    name: Vitamins as coenzymes and cofactors
+  - id: hf-nutritional-biochemistry-9
+    name: Iron homeostasis and hepcidin
+  - id: hf-nutritional-biochemistry-10
+    name: Calcium, phosphate and vitamin D endocrinology
+  - id: hf-nutritional-biochemistry-11
+    name: "Oxidative stress and antioxidant systems: why antioxidant supplements disappoint"
+  - id: hf-nutritional-biochemistry-12
+    name: Alcohol metabolism and its effects
+  - id: hf-nutritional-biochemistry-13
+    name: "Nutrient-gene interactions: nutrigenetics and nutrigenomics"
+  - id: hf-nutritional-biochemistry-14
+    name: Inborn errors of metabolism such as PKU and their dietary management
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-nutritional-biochemistry.json
+  sha256: 38570954be94aa94b1d1515c55f8cfd1928720cf981d7ed832216302fc3b0567

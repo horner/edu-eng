@@ -1,0 +1,42 @@
+id: mk-video-creator-platforms
+name: Video Marketing & Creator Platforms
+category: Digital Marketing
+level: 2
+priority: important
+summary: Planning, producing and distributing video, from short-form social video to long-form channels, podcasts and live streams.
+prerequisites:
+  - mk-social-media-marketing
+related:
+  - mk-advertising-creative-strategy
+topics:
+  - id: mk-video-creator-platforms-1
+    name: "Why video: attention, emotion and demonstration"
+  - id: mk-video-creator-platforms-2
+    name: Video strategy and formats
+  - id: mk-video-creator-platforms-3
+    name: Short-form vertical video
+  - id: mk-video-creator-platforms-4
+    name: Long-form channels and YouTube discovery
+  - id: mk-video-creator-platforms-5
+    name: Scripting, storyboarding and hooks
+  - id: mk-video-creator-platforms-6
+    name: "Low-cost production: equipment, lighting, sound, editing"
+  - id: mk-video-creator-platforms-7
+    name: Live streaming and live shopping
+  - id: mk-video-creator-platforms-8
+    name: Podcasts and audio content
+  - id: mk-video-creator-platforms-9
+    name: Captions, accessibility and localisation
+  - id: mk-video-creator-platforms-10
+    name: Video SEO and thumbnails
+  - id: mk-video-creator-platforms-11
+    name: "Video metrics: views, retention and completion"
+  - id: mk-video-creator-platforms-12
+    name: Building a creator-led brand channel
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-video-creator-platforms.json
+  sha256: d571f9fc77f290de49401d43ca16cfafc43cb9f10c956360c8ac06a4b65bbd37

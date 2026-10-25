@@ -1,0 +1,31 @@
+id: el-multi-device-multi-platform-development
+name: Multi-Device & Multi-Platform Development
+category: Embedded Development Practices & Debugging
+level: 3
+priority: advanced
+summary: Supporting many boards and product variants from one code base with abstraction layers and portable code.
+prerequisites:
+  - el-cross-compilation
+  - el-embedded-cc-best-practices
+related:
+  - cs-mobile-development
+topics:
+  - id: el-multi-device-multi-platform-development-1
+    name: Cross-compilation toolchains
+  - id: el-multi-device-multi-platform-development-2
+    name: Platform abstraction layers
+  - id: el-multi-device-multi-platform-development-3
+    name: Portable code practices
+  - id: el-multi-device-multi-platform-development-4
+    name: Conditional compilation
+  - id: el-multi-device-multi-platform-development-5
+    name: Device families and variants
+  - id: el-multi-device-multi-platform-development-6
+    name: Hardware abstraction
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-multi-device-multi-platform-development.json
+  sha256: 28519a7cfd31f2a682159ce6e1c15ebc111824c1063fedc14448676bf70e38aa

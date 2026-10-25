@@ -1,0 +1,44 @@
+id: hf-nutrition-for-active-living
+name: Eating for Exercise & Active Living
+category: Applied Nutrition & Dietetics
+level: 2
+priority: important
+summary: "Practical nutrition for recreational exercisers: fuelling, recovery, hydration and eating for muscle gain or fat loss."
+prerequisites:
+  - hf-macronutrients
+  - hf-exercise-fundamentals
+related: []
+topics:
+  - id: hf-nutrition-for-active-living-1
+    name: Energy needs of active people
+  - id: hf-nutrition-for-active-living-2
+    name: Carbohydrate as exercise fuel
+  - id: hf-nutrition-for-active-living-3
+    name: "Protein for muscle: how much and how to spread it across the day"
+  - id: hf-nutrition-for-active-living-4
+    name: What to eat before exercise
+  - id: hf-nutrition-for-active-living-5
+    name: Fuelling during longer sessions
+  - id: hf-nutrition-for-active-living-6
+    name: Recovery nutrition after exercise
+  - id: hf-nutrition-for-active-living-7
+    name: Hydration and sweat losses
+  - id: hf-nutrition-for-active-living-8
+    name: Electrolytes and sports drinks
+  - id: hf-nutrition-for-active-living-9
+    name: Eating to build muscle
+  - id: hf-nutrition-for-active-living-10
+    name: Eating to lose fat while training
+  - id: hf-nutrition-for-active-living-11
+    name: Plant-based diets for active people
+  - id: hf-nutrition-for-active-living-12
+    name: Warning signs of under-fuelling and low energy availability
+  - id: hf-nutrition-for-active-living-13
+    name: "Supplements marketed to gym-goers: what is worth it"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-nutrition-for-active-living.json
+  sha256: dd5874cf0a3a4f3f4cf50bc636043231499172f68b6a20a6dff46dd50ebff5dd

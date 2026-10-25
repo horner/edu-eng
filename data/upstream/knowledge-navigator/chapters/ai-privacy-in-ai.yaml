@@ -1,0 +1,37 @@
+id: ai-privacy-in-ai
+name: Privacy in AI
+category: AI Safety, Ethics & Governance
+level: 4
+priority: advanced
+summary: Protecting personal data in ML with differential privacy, federated learning, secure computation, homomorphic encryption and machine unlearning.
+prerequisites:
+  - ai-types-of-machine-learning
+  - ma-probability-theory
+related:
+  - el-privacy-protection
+  - el-federated-learning
+  - cs-security-governance-privacy
+  - cs-advanced-cryptographic-systems
+  - ai-robustness-security
+topics:
+  - id: ai-privacy-in-ai-1
+    name: Differential Privacy
+  - id: ai-privacy-in-ai-2
+    name: Federated Learning
+  - id: ai-privacy-in-ai-3
+    name: Secure Multi-Party Computation
+  - id: ai-privacy-in-ai-4
+    name: Homomorphic Encryption
+  - id: ai-privacy-in-ai-5
+    name: Privacy-Preserving ML
+  - id: ai-privacy-in-ai-6
+    name: Machine unlearning
+  - id: ai-privacy-in-ai-7
+    name: Training-data extraction attacks on language models
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-privacy-in-ai.json
+  sha256: a5975ac033857c34843b714974078c65f7c56fef4cce644fa90873de9ccfd65d

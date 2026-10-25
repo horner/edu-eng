@@ -1,0 +1,28 @@
+id: el-prototyping-rapid-development
+name: Prototyping & Rapid Development
+category: Professional Practice, Business & Community
+level: 1
+priority: optional
+summary: Fast prototyping with shields, click boards and modular systems such as Grove and Qwiic, plus quick-turn fabrication services.
+prerequisites:
+  - el-hands-on-electronics
+related:
+  - el-prototyping
+topics:
+  - id: el-prototyping-rapid-development-1
+    name: Breadboarding and prototyping
+  - id: el-prototyping-rapid-development-2
+    name: Development shields and click boards
+  - id: el-prototyping-rapid-development-3
+    name: Modular systems (Grove, Qwiic)
+  - id: el-prototyping-rapid-development-4
+    name: Prototyping services (PCB fab, 3D printing)
+  - id: el-prototyping-rapid-development-5
+    name: Low-volume manufacturing
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-prototyping-rapid-development.json
+  sha256: 8b5820920c75020850947376974fb1291f55a0cdf9a5c88ce7ed4030b964f920

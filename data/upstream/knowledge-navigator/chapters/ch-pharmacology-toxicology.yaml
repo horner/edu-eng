@@ -1,0 +1,41 @@
+id: ch-pharmacology-toxicology
+name: Pharmacology & Toxicology Basics
+category: Medicinal & Pharmaceutical Chemistry
+level: 3
+priority: important
+summary: How drugs and toxic chemicals act on the body and how the body absorbs, transforms and removes them.
+prerequisites:
+  - ch-biochemistry-structure-function
+  - bi-human-physiology
+related:
+  - bi-pharmacology
+topics:
+  - id: ch-pharmacology-toxicology-1
+    name: "Pharmacodynamics: receptor theory, agonists, antagonists and dose-response"
+  - id: ch-pharmacology-toxicology-2
+    name: "Pharmacokinetics: absorption, distribution, metabolism and excretion (ADME)"
+  - id: ch-pharmacology-toxicology-3
+    name: Compartment models, half-life, clearance and bioavailability
+  - id: ch-pharmacology-toxicology-4
+    name: "Drug metabolism: cytochrome P450 and phase I/II reactions"
+  - id: ch-pharmacology-toxicology-5
+    name: Drug interactions and pharmacogenomics
+  - id: ch-pharmacology-toxicology-6
+    name: "Principles of toxicology: dose-response, LD50 and NOAEL"
+  - id: ch-pharmacology-toxicology-7
+    name: "Mechanisms of toxicity: reactive metabolites and oxidative stress"
+  - id: ch-pharmacology-toxicology-8
+    name: Organ toxicity and chemical carcinogenesis
+  - id: ch-pharmacology-toxicology-9
+    name: Toxicity of common industrial chemicals, solvents and metals
+  - id: ch-pharmacology-toxicology-10
+    name: Risk assessment and exposure limits
+  - id: ch-pharmacology-toxicology-11
+    name: Ecotoxicology overview
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-pharmacology-toxicology.json
+  sha256: a375fc515f7e77de6f64a8ba587e0b842f7d7852d3ff75cdd85ebd48adf75188

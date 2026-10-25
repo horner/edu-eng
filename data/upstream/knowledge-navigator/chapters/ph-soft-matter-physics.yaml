@@ -1,0 +1,42 @@
+id: ph-soft-matter-physics
+name: Soft Matter Physics
+category: Condensed Matter Physics
+level: 3
+priority: advanced
+summary: "Polymers, colloids, liquid crystals, foams and active matter: materials governed by thermal fluctuations."
+prerequisites:
+  - ph-thermodynamics-statistical-mechanics
+related:
+  - mt-soft-materials
+  - ch-polymer-physical-chemistry
+  - ch-colloid-interface-science
+topics:
+  - id: ph-soft-matter-physics-1
+    name: Polymers and polymer physics
+  - id: ph-soft-matter-physics-2
+    name: Colloids and dispersions
+  - id: ph-soft-matter-physics-3
+    name: Liquid crystals
+  - id: ph-soft-matter-physics-4
+    name: Gels and foams
+  - id: ph-soft-matter-physics-5
+    name: Complex fluids
+  - id: ph-soft-matter-physics-6
+    name: Biological materials
+  - id: ph-soft-matter-physics-7
+    name: Active matter
+  - id: ph-soft-matter-physics-8
+    name: Self-assembly and self-organization
+  - id: ph-soft-matter-physics-9
+    name: Mechanobiology
+  - id: ph-soft-matter-physics-10
+    name: Surfactants and membranes
+  - id: ph-soft-matter-physics-11
+    name: Granular materials
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-soft-matter-physics.json
+  sha256: f7d80c723fbe6638d910125798dcbdcf6e5e531ce1700d073a357700577f1d57

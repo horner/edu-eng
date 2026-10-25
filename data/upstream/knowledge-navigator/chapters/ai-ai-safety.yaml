@@ -1,0 +1,43 @@
+id: ai-ai-safety
+name: AI Safety
+category: AI Safety, Ethics & Governance
+level: 3
+priority: important
+summary: "Making advanced AI systems do what we intend: alignment, reward hacking, specification gaming, distribution shift, oversight and corrigibility."
+prerequisites:
+  - ai-neural-network-foundations
+related:
+  - ai-llm-evaluation
+  - ai-rl-fundamentals
+topics:
+  - id: ai-ai-safety-1
+    name: Alignment Problem
+  - id: ai-ai-safety-2
+    name: Reward Hacking
+  - id: ai-ai-safety-3
+    name: Goal Misgeneralization
+  - id: ai-ai-safety-4
+    name: Distributional Shift
+  - id: ai-ai-safety-5
+    name: Specification Gaming
+  - id: ai-ai-safety-6
+    name: Safe Exploration
+  - id: ai-ai-safety-7
+    name: Scalable Oversight
+  - id: ai-ai-safety-8
+    name: Corrigibility
+  - id: ai-ai-safety-9
+    name: Value Learning
+  - id: ai-ai-safety-10
+    name: Deceptive alignment and situational awareness
+  - id: ai-ai-safety-11
+    name: Dangerous-capability evaluations
+  - id: ai-ai-safety-12
+    name: AI control and monitoring of untrusted models
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-ai-safety.json
+  sha256: 1304eededc3fb9fed3d8327978b7d503c960ebb67f003d52ab750029c46d0c80

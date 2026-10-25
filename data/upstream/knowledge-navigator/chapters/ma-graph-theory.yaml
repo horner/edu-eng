@@ -1,0 +1,45 @@
+id: ma-graph-theory
+name: Graph Theory
+category: Combinatorics & Discrete Mathematics
+level: 2
+priority: core
+summary: "Graphs and networks: connectivity, trees, matchings, colouring, planarity and flows, with applications across computing and science."
+prerequisites:
+  - ma-discrete-mathematics
+related:
+  - ma-algorithmic-graph-theory
+  - ma-network-science
+topics:
+  - id: ma-graph-theory-10
+    name: Graphs, degrees, subgraphs and isomorphism
+  - id: ma-graph-theory-1
+    name: Graph properties
+  - id: ma-graph-theory-11
+    name: Paths, cycles, connectivity and Menger's theorem
+  - id: ma-graph-theory-12
+    name: Eulerian and Hamiltonian graphs
+  - id: ma-graph-theory-2
+    name: Trees and forests
+  - id: ma-graph-theory-5
+    name: Matching theory
+  - id: ma-graph-theory-6
+    name: Network flows
+  - id: ma-graph-theory-3
+    name: Planar graphs
+  - id: ma-graph-theory-4
+    name: Graph coloring
+  - id: ma-graph-theory-13
+    name: Directed graphs and tournaments
+  - id: ma-graph-theory-7
+    name: Extremal graph theory
+  - id: ma-graph-theory-8
+    name: Algebraic graph theory
+  - id: ma-graph-theory-9
+    name: Random graphs
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-graph-theory.json
+  sha256: 4e06a3a730bd596434c7622252261926df42aa67555b1fd5895e57853495ff09

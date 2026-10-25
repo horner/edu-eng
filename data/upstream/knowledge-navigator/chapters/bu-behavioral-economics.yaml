@@ -1,0 +1,47 @@
+id: bu-behavioral-economics
+name: Behavioural Economics for Business
+category: Economics for Business
+level: 3
+priority: important
+summary: How real people depart from rational-choice models and how firms and policymakers use that knowledge.
+prerequisites:
+  - bu-microeconomics-for-business
+related:
+  - py-introduction-to-psychology
+  - bu-managerial-decision-making
+  - mk-consumer-behavior
+  - mk-persuasion-behavioral-economics
+  - py-judgement-decision-making
+  - py-applied-behavioural-science-policy
+topics:
+  - id: bu-behavioral-economics-1
+    name: "Rational choice and its limits: bounded rationality"
+  - id: bu-behavioral-economics-2
+    name: "Heuristics and biases: anchoring, availability and representativeness"
+  - id: bu-behavioral-economics-3
+    name: "Prospect theory: loss aversion and reference dependence"
+  - id: bu-behavioral-economics-4
+    name: Mental accounting and the framing of prices
+  - id: bu-behavioral-economics-5
+    name: Time inconsistency, present bias and self-control
+  - id: bu-behavioral-economics-6
+    name: "Social preferences: fairness, reciprocity and trust"
+  - id: bu-behavioral-economics-7
+    name: "Choice architecture and nudges: defaults, salience and simplification"
+  - id: bu-behavioral-economics-8
+    name: "Behavioural pricing: decoys, subscriptions and drip pricing"
+  - id: bu-behavioral-economics-9
+    name: "Behavioural insights in finance: overconfidence and herding"
+  - id: bu-behavioral-economics-10
+    name: Designing and testing behavioural interventions
+  - id: bu-behavioral-economics-11
+    name: Ethics of nudging, sludge and dark patterns
+  - id: bu-behavioral-economics-12
+    name: Replication problems and how much of the evidence holds up
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-behavioral-economics.json
+  sha256: 6eecd04d478b6ee8f6d7ede776208272350beb390faefaa57260abf38eaadc05

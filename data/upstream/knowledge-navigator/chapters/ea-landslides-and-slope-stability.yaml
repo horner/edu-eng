@@ -1,0 +1,36 @@
+id: ea-landslides-and-slope-stability
+name: Landslides & Slope Stability
+category: Natural Hazards
+level: 3
+priority: important
+summary: Why slopes fail, the kinds of landslides and debris flows, and how they are analysed, monitored and mitigated.
+prerequisites:
+  - ea-geomorphology
+  - ea-natural-hazards-and-disaster-risk
+related: []
+topics:
+  - id: ea-landslides-and-slope-stability-1
+    name: Landslide classification (Varnes)
+  - id: ea-landslides-and-slope-stability-2
+    name: Shear strength of soils and rocks; effective stress
+  - id: ea-landslides-and-slope-stability-3
+    name: "Slope-stability analysis: infinite slope and limit-equilibrium methods"
+  - id: ea-landslides-and-slope-stability-4
+    name: "Triggers: rainfall, earthquakes and human activity"
+  - id: ea-landslides-and-slope-stability-5
+    name: Debris flows and rock avalanches
+  - id: ea-landslides-and-slope-stability-6
+    name: Rockfall
+  - id: ea-landslides-and-slope-stability-7
+    name: Landslide monitoring and early warning
+  - id: ea-landslides-and-slope-stability-8
+    name: Landslide susceptibility and hazard mapping
+  - id: ea-landslides-and-slope-stability-9
+    name: Mitigation and slope stabilisation
+discipline: earth
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/earth/ea-landslides-and-slope-stability.json
+  sha256: 9b6be176a039541f4bd2a153dccf41ef6cb9d9dcc492b54158c5fd2d91e97e4c

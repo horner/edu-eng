@@ -1,0 +1,45 @@
+id: bu-startup-go-to-market
+name: Go-to-Market & Early Traction
+category: Entrepreneurship & Startups
+level: 2
+priority: important
+summary: How a new venture wins its first customers and finds repeatable channels, linking to the marketing and sales discipline.
+prerequisites:
+  - bu-lean-startup-mvp
+related:
+  - mk-marketing-principles
+  - mk-sales-fundamentals
+  - mk-digital-marketing
+  - mk-go-to-market-startups
+topics:
+  - id: bu-startup-go-to-market-1
+    name: Go-to-market strategy for a new venture
+  - id: bu-startup-go-to-market-2
+    name: Defining the ideal customer profile
+  - id: bu-startup-go-to-market-3
+    name: "Doing things that do not scale: manual recruitment of first users"
+  - id: bu-startup-go-to-market-4
+    name: Founder-led sales and the first ten customers
+  - id: bu-startup-go-to-market-5
+    name: "Launch planning: soft launch, public launch and launch platforms"
+  - id: bu-startup-go-to-market-6
+    name: Traction channels and the bullseye framework
+  - id: bu-startup-go-to-market-7
+    name: Product-led vs sales-led growth
+  - id: bu-startup-go-to-market-8
+    name: Early pricing and packaging experiments
+  - id: bu-startup-go-to-market-9
+    name: Partnerships and distribution deals
+  - id: bu-startup-go-to-market-10
+    name: Setting KPIs and a weekly growth target
+  - id: bu-startup-go-to-market-11
+    name: Building a repeatable sales and acquisition process
+  - id: bu-startup-go-to-market-12
+    name: Customer success and early retention
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-startup-go-to-market.json
+  sha256: d170a05f043e0ba4ab4d66d43d8f73044d442dbdefcf22d4962fd04fddd47eb6

@@ -1,0 +1,56 @@
+id: bu-startup-finance-fundraising
+name: Startup Finance & Fundraising
+category: Entrepreneurship & Startups
+level: 2
+priority: core
+summary: How startups are financed, from bootstrapping to venture capital, and how term sheets and cap tables work.
+prerequisites:
+  - bu-business-plans-financial-projections
+related:
+  - bu-private-equity-venture-capital
+  - bu-valuation
+topics:
+  - id: bu-startup-finance-fundraising-1
+    name: "Funding stages: pre-seed, seed, Series A and beyond"
+  - id: bu-startup-finance-fundraising-2
+    name: Bootstrapping and customer-funded growth
+  - id: bu-startup-finance-fundraising-3
+    name: Friends and family, grants and government programmes
+  - id: bu-startup-finance-fundraising-4
+    name: "Debt for small companies: bank loans, venture debt and revenue-based financing"
+  - id: bu-startup-finance-fundraising-5
+    name: "Crowdfunding: reward and equity crowdfunding"
+  - id: bu-startup-finance-fundraising-6
+    name: Angel investors and angel networks
+  - id: bu-startup-finance-fundraising-7
+    name: "Venture capital: how VCs decide and what they expect"
+  - id: bu-startup-finance-fundraising-8
+    name: "Convertible instruments: SAFEs and convertible notes"
+  - id: bu-startup-finance-fundraising-9
+    name: Pre-money, post-money valuation and dilution
+  - id: bu-startup-finance-fundraising-10
+    name: Cap tables and option pools
+  - id: bu-startup-finance-fundraising-11
+    name: Term sheet terms
+    sub:
+      - id: bu-startup-finance-fundraising-11-1
+        name: Liquidation preferences
+      - id: bu-startup-finance-fundraising-11-2
+        name: Anti-dilution provisions
+      - id: bu-startup-finance-fundraising-11-3
+        name: Board seats and protective provisions
+      - id: bu-startup-finance-fundraising-11-4
+        name: Pro-rata and information rights
+  - id: bu-startup-finance-fundraising-12
+    name: "Running a fundraising process: pipeline, pitch and due diligence"
+  - id: bu-startup-finance-fundraising-13
+    name: Accelerators and demo days
+  - id: bu-startup-finance-fundraising-14
+    name: Founder liquidity, secondary sales and exits
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-startup-finance-fundraising.json
+  sha256: 9d936e647638b1cad66d7ec31dd82e6cd3f9caf2b67a9d07f06bb142215e2448

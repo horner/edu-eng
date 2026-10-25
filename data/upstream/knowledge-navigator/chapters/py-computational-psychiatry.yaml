@@ -1,0 +1,40 @@
+id: py-computational-psychiatry
+name: Computational Psychiatry & Precision Mental Health
+category: Mental Health & Psychopathology
+level: 5
+priority: advanced
+summary: Frontier research that uses computational models, machine learning and digital data to explain, predict and personalise treatment of mental disorders.
+prerequisites:
+  - py-transdiagnostic-dimensional-psychopathology
+  - py-computational-cognitive-modelling
+related:
+  - ai-probabilistic-ml
+  - bi-computational-neuroscience
+topics:
+  - id: py-computational-psychiatry-1
+    name: "Aims of computational psychiatry: theory-driven and data-driven approaches"
+  - id: py-computational-psychiatry-2
+    name: Reinforcement learning accounts of depression and addiction
+  - id: py-computational-psychiatry-3
+    name: Bayesian and predictive processing accounts of psychosis and anxiety
+  - id: py-computational-psychiatry-4
+    name: Computational phenotyping with cognitive tasks
+  - id: py-computational-psychiatry-5
+    name: "Machine learning for diagnosis and prognosis: promise and pitfalls"
+  - id: py-computational-psychiatry-6
+    name: Digital phenotyping from smartphones and wearables
+  - id: py-computational-psychiatry-7
+    name: Predicting treatment response and personalised medicine
+  - id: py-computational-psychiatry-8
+    name: "Large language models in mental health: uses and risks"
+  - id: py-computational-psychiatry-9
+    name: Reproducibility, generalisation and bias in prediction models
+  - id: py-computational-psychiatry-10
+    name: Ethics of algorithmic mental health
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-computational-psychiatry.json
+  sha256: 5e43d1b95ea840f1575dc9ba4afc47741d61b51819101563d104dc0630462557

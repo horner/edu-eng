@@ -1,0 +1,32 @@
+id: ma-solitons-integrable-systems
+name: Solitons & Integrable Systems
+category: Mathematical Physics
+level: 4
+priority: advanced
+summary: "Exactly solvable nonlinear equations: solitons, the KdV equation, Lax pairs and the inverse scattering transform."
+prerequisites:
+  - ma-partial-differential-equations-pdes
+  - ma-classical-mechanics
+related:
+  - ph-mathematical-physics
+  - ph-chaos-theory-nonlinear-dynamics
+topics:
+  - id: ma-solitons-integrable-systems-4
+    name: Travelling waves and nonlinear dispersion
+  - id: ma-solitons-integrable-systems-3
+    name: KdV equation
+  - id: ma-solitons-integrable-systems-1
+    name: Soliton equations
+  - id: ma-solitons-integrable-systems-5
+    name: Lax pairs
+  - id: ma-solitons-integrable-systems-2
+    name: Inverse scattering
+  - id: ma-solitons-integrable-systems-6
+    name: Liouville integrability of finite-dimensional systems
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-solitons-integrable-systems.json
+  sha256: 2bfbc1b7368b211f503927786490d6ad84c496eab0055c64a7af49b9b4b54ac9

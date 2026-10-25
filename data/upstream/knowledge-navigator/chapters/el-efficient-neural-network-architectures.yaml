@@ -1,0 +1,30 @@
+id: el-efficient-neural-network-architectures
+name: Efficient Neural Network Architectures
+category: Machine Learning & Edge AI
+level: 4
+priority: advanced
+summary: "Network architectures designed for efficiency: MobileNet, EfficientNet, SqueezeNet, ShuffleNet, GhostNet and MicroNet."
+prerequisites:
+  - el-tinyml-tiny-machine-learning
+  - ai-convolutional-neural-networks-cnns
+related: []
+topics:
+  - id: el-efficient-neural-network-architectures-1
+    name: MobileNets (v1, v2, v3)
+  - id: el-efficient-neural-network-architectures-2
+    name: EfficientNet
+  - id: el-efficient-neural-network-architectures-3
+    name: SqueezeNet
+  - id: el-efficient-neural-network-architectures-4
+    name: ShuffleNet
+  - id: el-efficient-neural-network-architectures-5
+    name: GhostNet
+  - id: el-efficient-neural-network-architectures-6
+    name: MicroNet
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-efficient-neural-network-architectures.json
+  sha256: f0bca14d37b249e3632429318682e43e3e6b58c04b7fde66ed8c6ec470557f55

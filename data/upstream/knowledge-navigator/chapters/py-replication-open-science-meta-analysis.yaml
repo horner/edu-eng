@@ -1,0 +1,54 @@
+id: py-replication-open-science-meta-analysis
+name: Replication, Open Science & Meta-Analysis
+category: Research Methods, Statistics & Measurement
+level: 3
+priority: important
+summary: Why many psychology findings failed to replicate and the practices, from preregistration to meta-analysis, that make research more trustworthy.
+prerequisites:
+  - py-research-methods-in-psychology
+  - py-statistics-for-psychology
+related: []
+topics:
+  - id: py-replication-open-science-meta-analysis-1
+    name: "The replication crisis: the Reproducibility Project and Many Labs"
+  - id: py-replication-open-science-meta-analysis-2
+    name: "Famous findings that did not hold up: ego depletion, power posing, social priming"
+  - id: py-replication-open-science-meta-analysis-3
+    name: Questionable research practices
+    sub:
+      - id: py-replication-open-science-meta-analysis-3-1
+        name: p-hacking and the garden of forking paths
+      - id: py-replication-open-science-meta-analysis-3-2
+        name: HARKing and selective reporting
+      - id: py-replication-open-science-meta-analysis-3-3
+        name: Low power and inflated effect sizes
+  - id: py-replication-open-science-meta-analysis-4
+    name: Publication bias and the file drawer problem
+  - id: py-replication-open-science-meta-analysis-5
+    name: Preregistration and Registered Reports
+  - id: py-replication-open-science-meta-analysis-6
+    name: Open data, open materials and reproducible code
+  - id: py-replication-open-science-meta-analysis-7
+    name: Large-scale collaborative science and multi-site studies
+  - id: py-replication-open-science-meta-analysis-8
+    name: Systematic reviews and meta-analysis
+    sub:
+      - id: py-replication-open-science-meta-analysis-8-1
+        name: Searching and screening (PRISMA)
+      - id: py-replication-open-science-meta-analysis-8-2
+        name: Fixed and random-effects models
+      - id: py-replication-open-science-meta-analysis-8-3
+        name: Heterogeneity, moderators and bias detection (funnel plots, p-curve)
+  - id: py-replication-open-science-meta-analysis-9
+    name: Generalisability, diversity of samples and the WEIRD problem
+  - id: py-replication-open-science-meta-analysis-10
+    name: "Theory crisis: building better psychological theories"
+  - id: py-replication-open-science-meta-analysis-11
+    name: Research integrity, fraud and scientific self-correction
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-replication-open-science-meta-analysis.json
+  sha256: 48a688a0bc6141a38b037628d2ad71a235aa50a345f92a0229fffd01a1772ac6

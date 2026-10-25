@@ -1,0 +1,35 @@
+id: ma-signal-processing
+name: Signal Processing
+category: Applied & Interdisciplinary Mathematics
+level: 3
+priority: advanced
+summary: "Mathematics of signals: sampling, the z-transform, digital filters and time-frequency analysis."
+prerequisites:
+  - ma-integral-transforms
+  - ma-difference-equations
+related:
+  - el-signal-processing-fundamentals
+  - el-digital-signal-processing-dsp
+  - el-signals-and-systems
+topics:
+  - id: ma-signal-processing-4
+    name: Continuous and discrete-time signals and systems
+  - id: ma-signal-processing-5
+    name: Sampling theorem and aliasing
+  - id: ma-signal-processing-6
+    name: Discrete Fourier transform
+  - id: ma-signal-processing-1
+    name: Digital signal processing
+  - id: ma-signal-processing-2
+    name: Filter design
+  - id: ma-signal-processing-7
+    name: Random signals and spectral estimation
+  - id: ma-signal-processing-3
+    name: Time-frequency analysis
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-signal-processing.json
+  sha256: bb0139c341dc05ff63f37ad19d0cb395c4688ad54bd26947e0e3a1b6d588990b

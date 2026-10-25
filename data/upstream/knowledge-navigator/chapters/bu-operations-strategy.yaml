@@ -1,0 +1,43 @@
+id: bu-operations-strategy
+name: Operations Strategy
+category: Operations, Supply Chain & Projects
+level: 4
+priority: advanced
+summary: Making long-term choices about capacity, facilities, technology, sourcing and capabilities that support competitive strategy.
+prerequisites:
+  - bu-supply-chain-management
+  - bu-business-strategy
+related:
+  - bu-global-strategy
+topics:
+  - id: bu-operations-strategy-1
+    name: Operations strategy and competitive priorities
+  - id: bu-operations-strategy-2
+    name: Trade-offs and the focused factory
+  - id: bu-operations-strategy-3
+    name: "Capacity strategy: timing, size and flexibility"
+  - id: bu-operations-strategy-4
+    name: Facility networks and global footprint decisions
+  - id: bu-operations-strategy-5
+    name: Vertical integration and outsourcing in operations
+  - id: bu-operations-strategy-6
+    name: Process technology choices and automation investment
+  - id: bu-operations-strategy-7
+    name: Building operational capabilities and learning
+  - id: bu-operations-strategy-8
+    name: Product variety, mass customisation and postponement
+  - id: bu-operations-strategy-9
+    name: Operations strategy for services and platforms
+  - id: bu-operations-strategy-10
+    name: Reshoring, nearshoring and supply chain geopolitics
+  - id: bu-operations-strategy-11
+    name: Sustainability as an operations strategy
+  - id: bu-operations-strategy-12
+    name: "Case studies: Toyota, Zara, Amazon and others"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-operations-strategy.json
+  sha256: 540228b7a273eff2f5ce85658f6f5adf7550562a2af7260079a239829f1ad1e3

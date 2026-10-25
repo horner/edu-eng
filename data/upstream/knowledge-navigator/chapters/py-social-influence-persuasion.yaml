@@ -1,0 +1,54 @@
+id: py-social-influence-persuasion
+name: Social Influence, Persuasion & Compliance
+category: Social Psychology & Behavioural Science
+level: 2
+priority: important
+summary: How people are influenced by others and by messages, from conformity and obedience to persuasion, propaganda and manipulation, and how to resist undue influence.
+prerequisites:
+  - py-social-psychology
+related:
+  - cs-computing-ethics
+  - mk-persuasion-behavioral-economics
+topics:
+  - id: py-social-influence-persuasion-1
+    name: Normative and informational influence
+  - id: py-social-influence-persuasion-2
+    name: "Conformity: Sherif, Asch and replications"
+  - id: py-social-influence-persuasion-3
+    name: "Obedience to authority: Milgram and modern replications"
+  - id: py-social-influence-persuasion-4
+    name: Minority influence and social change
+  - id: py-social-influence-persuasion-5
+    name: Compliance techniques (Cialdini's principles)
+    sub:
+      - id: py-social-influence-persuasion-5-1
+        name: Reciprocity and commitment/consistency
+      - id: py-social-influence-persuasion-5-2
+        name: Social proof, liking and authority
+      - id: py-social-influence-persuasion-5-3
+        name: Scarcity and urgency
+      - id: py-social-influence-persuasion-5-4
+        name: Foot-in-the-door and door-in-the-face
+  - id: py-social-influence-persuasion-6
+    name: "Dual-process models of persuasion: elaboration likelihood and heuristic-systematic"
+  - id: py-social-influence-persuasion-7
+    name: Source, message and audience factors
+  - id: py-social-influence-persuasion-8
+    name: Fear appeals and health messaging
+  - id: py-social-influence-persuasion-9
+    name: Propaganda, cults and coercive control
+  - id: py-social-influence-persuasion-10
+    name: Misinformation, conspiracy beliefs and why corrections fail
+  - id: py-social-influence-persuasion-11
+    name: Inoculation and prebunking against manipulation
+  - id: py-social-influence-persuasion-12
+    name: Dark patterns and online persuasion
+  - id: py-social-influence-persuasion-13
+    name: Ethics of influence and how to say no
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-social-influence-persuasion.json
+  sha256: 5b15cebb0f651a1384aa3d1275d8e913f5ce38354257d1a18286ba21a3038ce8

@@ -1,0 +1,26 @@
+id: ma-fractional-calculus
+name: Fractional Calculus
+category: Emerging & Advanced Areas
+level: 4
+priority: advanced
+summary: Derivatives and integrals of non-integer order and the fractional differential equations used for memory and anomalous diffusion.
+prerequisites:
+  - ma-integral-transforms
+  - ma-real-analysis
+related: []
+topics:
+  - id: ma-fractional-calculus-3
+    name: Riemann-Liouville and Caputo definitions
+  - id: ma-fractional-calculus-1
+    name: Fractional derivatives
+  - id: ma-fractional-calculus-2
+    name: Fractional differential equations
+  - id: ma-fractional-calculus-4
+    name: Anomalous diffusion and applications
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-fractional-calculus.json
+  sha256: 98925c288a4c6541389eaf0c2e8b25f21a8299865ecaebbdbac796f9fdc74b52

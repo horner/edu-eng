@@ -1,0 +1,49 @@
+id: py-thinking-reasoning-problem-solving
+name: Thinking, Reasoning, Problem Solving & Creativity
+category: Learning, Memory & Cognition
+level: 3
+priority: important
+summary: How people reason, solve problems and come up with new ideas, and where their thinking goes wrong.
+prerequisites:
+  - py-cognitive-psychology
+related:
+  - ma-game-theory
+topics:
+  - id: py-thinking-reasoning-problem-solving-1
+    name: Concepts, categories and mental models
+  - id: py-thinking-reasoning-problem-solving-2
+    name: "Deductive reasoning: syllogisms and the Wason selection task"
+  - id: py-thinking-reasoning-problem-solving-3
+    name: Inductive and causal reasoning
+  - id: py-thinking-reasoning-problem-solving-4
+    name: Probabilistic reasoning and base-rate neglect
+  - id: py-thinking-reasoning-problem-solving-5
+    name: "Dual-process theories: System 1 and System 2"
+  - id: py-thinking-reasoning-problem-solving-6
+    name: "Problem solving: problem spaces, heuristics and functional fixedness"
+  - id: py-thinking-reasoning-problem-solving-7
+    name: Insight and incubation
+  - id: py-thinking-reasoning-problem-solving-8
+    name: Analogical reasoning
+  - id: py-thinking-reasoning-problem-solving-9
+    name: Expertise and deliberate practice
+  - id: py-thinking-reasoning-problem-solving-10
+    name: Creativity
+    sub:
+      - id: py-thinking-reasoning-problem-solving-10-1
+        name: Divergent thinking and its measurement
+      - id: py-thinking-reasoning-problem-solving-10-2
+        name: Creative cognition and the creative process
+      - id: py-thinking-reasoning-problem-solving-10-3
+        name: Personality, mood and creativity
+  - id: py-thinking-reasoning-problem-solving-11
+    name: Rationality, intelligence and critical thinking
+  - id: py-thinking-reasoning-problem-solving-12
+    name: Belief, conspiracy thinking and reasoning
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-thinking-reasoning-problem-solving.json
+  sha256: eadc48e8d99ae84676750a6cbb5214a2f089c5ed7e0931f12d50175f1faf54e1

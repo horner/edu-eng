@@ -1,0 +1,60 @@
+id: py-substance-use-addiction
+name: Substance Use & Addiction
+category: Mental Health & Psychopathology
+level: 3
+priority: important
+summary: Why people use and become dependent on drugs, alcohol and behaviours like gambling, and what prevents and treats addiction.
+prerequisites:
+  - py-psychopathology-foundations
+  - py-psychopharmacology
+related:
+  - bi-neurobiology-of-disease
+  - hf-substance-use-harm-reduction
+topics:
+  - id: py-substance-use-addiction-1
+    name: "Use, misuse and addiction: definitions and diagnosis"
+  - id: py-substance-use-addiction-2
+    name: Epidemiology and harms of alcohol, tobacco and other drugs
+  - id: py-substance-use-addiction-3
+    name: Models of addiction
+    sub:
+      - id: py-substance-use-addiction-3-1
+        name: Brain disease model and its critiques
+      - id: py-substance-use-addiction-3-2
+        name: Learning and incentive-sensitisation models
+      - id: py-substance-use-addiction-3-3
+        name: Social and environmental models (Rat Park)
+  - id: py-substance-use-addiction-4
+    name: "Risk factors: genetics, adolescence, trauma and availability"
+  - id: py-substance-use-addiction-5
+    name: Alcohol use disorder
+  - id: py-substance-use-addiction-6
+    name: Opioids and the overdose crisis
+  - id: py-substance-use-addiction-7
+    name: Stimulant, cannabis and nicotine dependence
+  - id: py-substance-use-addiction-8
+    name: "Behavioural addictions: gambling disorder and gaming disorder"
+  - id: py-substance-use-addiction-9
+    name: Treatments
+    sub:
+      - id: py-substance-use-addiction-9-1
+        name: Brief interventions and motivational interviewing
+      - id: py-substance-use-addiction-9-2
+        name: CBT, contingency management and relapse prevention
+      - id: py-substance-use-addiction-9-3
+        name: Mutual-help groups (12-step, SMART Recovery)
+      - id: py-substance-use-addiction-9-4
+        name: Medication-assisted treatment in outline
+  - id: py-substance-use-addiction-10
+    name: Harm reduction
+  - id: py-substance-use-addiction-11
+    name: Co-occurring mental health problems
+  - id: py-substance-use-addiction-12
+    name: Recovery and preventing relapse
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-substance-use-addiction.json
+  sha256: fb8a50d7d133fce87441e216ea0bcd9bb7c604895dd87b54007d60045f8d5ae0

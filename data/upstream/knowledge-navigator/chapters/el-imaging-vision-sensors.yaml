@@ -1,0 +1,31 @@
+id: el-imaging-vision-sensors
+name: Imaging & Vision Sensors
+category: Sensors, Transducers & Actuators
+level: 3
+priority: important
+summary: "Image sensors and cameras: CMOS and CCD, thermal, depth, event, line-scan and hyperspectral imaging."
+prerequisites:
+  - el-optical-light-sensors
+related: []
+topics:
+  - id: el-imaging-vision-sensors-1
+    name: CMOS image sensors
+  - id: el-imaging-vision-sensors-2
+    name: CCD image sensors
+  - id: el-imaging-vision-sensors-3
+    name: Thermal cameras (LWIR, MWIR)
+  - id: el-imaging-vision-sensors-4
+    name: Depth cameras (structured light, ToF)
+  - id: el-imaging-vision-sensors-5
+    name: Event cameras (neuromorphic vision)
+  - id: el-imaging-vision-sensors-6
+    name: Line scan cameras
+  - id: el-imaging-vision-sensors-7
+    name: Hyperspectral cameras
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-imaging-vision-sensors.json
+  sha256: 4f5a6300593885a333c88857ef14196d324159eb12a50009817aed42660d67c2

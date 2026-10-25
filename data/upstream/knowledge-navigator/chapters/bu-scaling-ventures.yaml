@@ -1,0 +1,44 @@
+id: bu-scaling-ventures
+name: Scaling a Startup
+category: Entrepreneurship & Startups
+level: 3
+priority: important
+summary: "Growing a company after product-market fit: building the organisation, processes, leadership and later-stage financing."
+prerequisites:
+  - bu-startup-finance-fundraising
+  - bu-founding-teams-early-hiring
+related:
+  - bu-organizational-design-change
+  - bu-general-management
+topics:
+  - id: bu-scaling-ventures-1
+    name: "From startup to scale-up: what changes"
+  - id: bu-scaling-ventures-2
+    name: "Growth strategies: fast scaling vs sustainable growth"
+  - id: bu-scaling-ventures-3
+    name: Hiring at scale and building a recruiting machine
+  - id: bu-scaling-ventures-4
+    name: Adding management layers and hiring executives
+  - id: bu-scaling-ventures-5
+    name: Processes, systems and operating cadence
+  - id: bu-scaling-ventures-6
+    name: OKRs and metrics for a growing company
+  - id: bu-scaling-ventures-7
+    name: Keeping culture through rapid growth
+  - id: bu-scaling-ventures-8
+    name: "Later-stage fundraising: growth rounds and debt"
+  - id: bu-scaling-ventures-9
+    name: Managing a board of directors
+  - id: bu-scaling-ventures-10
+    name: International expansion for scale-ups
+  - id: bu-scaling-ventures-11
+    name: "Founder to CEO: changing roles and founder succession"
+  - id: bu-scaling-ventures-12
+    name: "Exits: acquisition, IPO and staying private"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-scaling-ventures.json
+  sha256: 60f0b9ac8fb079381d547022141b0909d5cb9ba4c93f507abd62434e0414edf3

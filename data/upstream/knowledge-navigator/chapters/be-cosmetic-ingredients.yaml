@@ -1,0 +1,65 @@
+id: be-cosmetic-ingredients
+name: Cosmetic Ingredients & Raw Materials
+category: Cosmetic Chemistry & Formulation
+level: 2
+priority: core
+summary: The main classes of raw materials used in cosmetics, what each contributes to a product, and how they are sourced and specified.
+prerequisites:
+  - be-cosmetic-chemistry-basics
+related:
+  - ch-organic-structure-bonding
+  - ch-polymer-chemistry
+topics:
+  - id: be-cosmetic-ingredients-1
+    name: Water quality and solvents
+  - id: be-cosmetic-ingredients-2
+    name: Emollients and lipids
+    sub:
+      - id: be-cosmetic-ingredients-2-1
+        name: Vegetable oils and butters
+      - id: be-cosmetic-ingredients-2-2
+        name: Mineral oil and petrolatum
+      - id: be-cosmetic-ingredients-2-3
+        name: Synthetic esters
+      - id: be-cosmetic-ingredients-2-4
+        name: Silicones
+      - id: be-cosmetic-ingredients-2-5
+        name: Waxes and fatty alcohols
+  - id: be-cosmetic-ingredients-3
+    name: Surfactants
+    sub:
+      - id: be-cosmetic-ingredients-3-1
+        name: Anionic, cationic, amphoteric and non-ionic
+      - id: be-cosmetic-ingredients-3-2
+        name: Sulfates and sulfate-free systems
+      - id: be-cosmetic-ingredients-3-3
+        name: Emulsifiers
+  - id: be-cosmetic-ingredients-4
+    name: Humectants and moisturising agents
+  - id: be-cosmetic-ingredients-5
+    name: "Thickeners and rheology modifiers: natural gums, carbomers and other polymers"
+  - id: be-cosmetic-ingredients-6
+    name: Film formers and conditioning polymers
+  - id: be-cosmetic-ingredients-7
+    name: Preservatives and preservative boosters
+  - id: be-cosmetic-ingredients-8
+    name: Antioxidants, chelating agents and pH adjusters
+  - id: be-cosmetic-ingredients-9
+    name: "Colourants: dyes, lakes, pigments and effect pigments"
+  - id: be-cosmetic-ingredients-10
+    name: Fragrance materials and essential oils
+  - id: be-cosmetic-ingredients-11
+    name: Active ingredients and their specifications
+  - id: be-cosmetic-ingredients-12
+    name: "Botanical extracts: standardisation, variability and claims"
+  - id: be-cosmetic-ingredients-13
+    name: Raw material specifications, certificates of analysis and suppliers
+  - id: be-cosmetic-ingredients-14
+    name: Biotech, fermented and upcycled ingredients
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-cosmetic-ingredients.json
+  sha256: b12003ddb7f1056a10d0c2c7afa4c0df5b6614942065bf8c3dc8f37f68856c6e

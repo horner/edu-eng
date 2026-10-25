@@ -1,0 +1,43 @@
+id: hf-musculoskeletal-health
+name: Bone, Joint & Muscle Health
+category: Preventive Health & Lifestyle Medicine
+level: 2
+priority: important
+summary: How to keep bones, joints and muscles healthy through life, and what helps with osteoporosis, arthritis and sarcopenia.
+prerequisites:
+  - hf-exercise-fundamentals
+  - hf-nutrition-fundamentals
+related:
+  - bi-human-anatomy
+topics:
+  - id: hf-musculoskeletal-health-1
+    name: Bone remodelling and peak bone mass
+  - id: hf-musculoskeletal-health-2
+    name: "Osteoporosis: risk factors, DXA scans and prevention"
+  - id: hf-musculoskeletal-health-3
+    name: Calcium, vitamin D and protein for bones
+  - id: hf-musculoskeletal-health-4
+    name: "Exercise for bone: impact and resistance loading"
+  - id: hf-musculoskeletal-health-5
+    name: "Osteoarthritis: beyond 'wear and tear', and exercise as treatment"
+  - id: hf-musculoskeletal-health-6
+    name: "Rheumatoid and other inflammatory arthritis: an overview"
+  - id: hf-musculoskeletal-health-7
+    name: Gout
+  - id: hf-musculoskeletal-health-8
+    name: Sarcopenia and muscle health with age
+  - id: hf-musculoskeletal-health-9
+    name: "Joint supplements such as glucosamine: the evidence"
+  - id: hf-musculoskeletal-health-10
+    name: Hypermobility
+  - id: hf-musculoskeletal-health-11
+    name: Preventing falls and fractures
+  - id: hf-musculoskeletal-health-12
+    name: "Joint replacement: an overview"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-musculoskeletal-health.json
+  sha256: 0a277d95d7367705d40147c1d98c7b5b16cf3d4c35594c6f579a01d0054a32ec

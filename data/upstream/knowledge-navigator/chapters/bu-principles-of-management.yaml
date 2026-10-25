@@ -1,0 +1,50 @@
+id: bu-principles-of-management
+name: Principles of Management
+category: Foundations of Business
+level: 1
+priority: core
+summary: "The manager's job: setting goals, planning, organising work, leading people and keeping performance on track."
+prerequisites:
+  - bu-introduction-to-business
+related:
+  - bu-organizational-behavior
+  - bu-history-of-business
+topics:
+  - id: bu-principles-of-management-1
+    name: "What managers do: roles, levels and skills"
+  - id: bu-principles-of-management-2
+    name: Evolution of management thought
+    sub:
+      - id: bu-principles-of-management-2-1
+        name: Scientific management and administrative theory
+      - id: bu-principles-of-management-2-2
+        name: Human relations and behavioural approaches
+      - id: bu-principles-of-management-2-3
+        name: Systems and contingency views
+  - id: bu-principles-of-management-3
+    name: The organisation's environment and stakeholders
+  - id: bu-principles-of-management-4
+    name: "Planning and goal setting: SMART goals and OKRs"
+  - id: bu-principles-of-management-5
+    name: Decision-making basics for managers
+  - id: bu-principles-of-management-6
+    name: "Organising: division of labour, departments and spans of control"
+  - id: bu-principles-of-management-7
+    name: Delegation, authority and accountability
+  - id: bu-principles-of-management-8
+    name: "Leading and motivating: an overview"
+  - id: bu-principles-of-management-9
+    name: "Controlling: standards, measurement and corrective action"
+  - id: bu-principles-of-management-10
+    name: "Managing change and innovation: an overview"
+  - id: bu-principles-of-management-11
+    name: Managing in a global and diverse workplace
+  - id: bu-principles-of-management-12
+    name: Social responsibility and managerial ethics
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-principles-of-management.json
+  sha256: 7f8ec39af8a195af0abf139c06b5ebb34199ee90b9f6150d03527d53e012be32

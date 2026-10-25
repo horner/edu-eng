@@ -1,0 +1,25 @@
+id: el-flow-liquid-sensors
+name: Flow & Liquid Sensors
+category: Sensors, Transducers & Actuators
+level: 2
+priority: advanced
+summary: Measuring flow, liquid level, leaks and water quality with mechanical, ultrasonic, electromagnetic and electrochemical sensors.
+prerequisites:
+  - el-intro-microcontrollers
+related: []
+topics:
+  - id: el-flow-liquid-sensors-1
+    name: Flow rate sensors (turbine, ultrasonic, electromagnetic, thermal)
+  - id: el-flow-liquid-sensors-2
+    name: Level sensors (float, capacitive, ultrasonic, radar, pressure-based)
+  - id: el-flow-liquid-sensors-3
+    name: Leak detection sensors
+  - id: el-flow-liquid-sensors-4
+    name: Water quality sensors (pH, conductivity, turbidity, dissolved oxygen)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-flow-liquid-sensors.json
+  sha256: 8aad2cb6fceff83b89b66c9b63cae78c8b292597c8e72f0fb4b154f7440426b8

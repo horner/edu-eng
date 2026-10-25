@@ -1,0 +1,34 @@
+id: el-power-analysis
+name: Power Measurement & Analysis
+category: Measurement, Testing & Validation
+level: 3
+priority: important
+summary: Measuring power consumption, efficiency, battery life, power quality and harmonics in electronic systems.
+prerequisites:
+  - el-electrical-measurements
+related:
+  - el-power-quality
+topics:
+  - id: el-power-analysis-1
+    name: Power consumption measurement
+  - id: el-power-analysis-2
+    name: Battery life estimation
+  - id: el-power-analysis-3
+    name: Efficiency measurement
+  - id: el-power-analysis-4
+    name: Power quality analysis
+  - id: el-power-analysis-5
+    name: Harmonic analysis
+  - id: el-power-analysis-6
+    name: "Current measurement techniques: shunts, current probes, Hall sensors"
+  - id: el-power-analysis-7
+    name: Dynamic current profiling of low-power devices
+  - id: el-power-analysis-8
+    name: Power analyzers and three-phase measurements
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-power-analysis.json
+  sha256: 31b7abb55e8d357be40d65eafd3c192672b4a31908979f9df4409cbc1f5e5892

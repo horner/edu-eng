@@ -1,0 +1,33 @@
+id: materials
+name: Materials Science & Engineering
+icon: 🧱
+color: "#2dd4bf"
+prefix: mt
+description: How the structure of materials, from atoms to microstructure, controls their properties, and how processing and selection turn metals, ceramics, polymers, composites and functional materials into reliable, high-performance products.
+categories:
+  - Foundations
+  - Structure of Materials
+  - Thermodynamics & Kinetics
+  - Mechanical Behaviour
+  - Electronic, Optical, Magnetic & Thermal Properties
+  - Metals & Alloys
+  - Ceramics & Glasses
+  - Polymers & Soft Matter
+  - Composites
+  - Materials Characterization
+  - Materials Processing & Manufacturing
+  - Corrosion, Wear & Degradation
+  - Materials Selection, Design & Sustainability
+  - Nanomaterials & Biomaterials
+  - Energy Materials
+  - Smart & Active Materials
+  - Aerospace & Extreme-Environment Materials
+  - Lightweight & Protective Structures
+  - Computational Materials Science
+  - Frontier Materials
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/materials/discipline.json
+  sha256: 65f772f1f98fb09a162e9b8459520c6152c0d6258cccaa6837243fe758538ee4

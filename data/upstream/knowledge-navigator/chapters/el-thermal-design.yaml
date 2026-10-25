@@ -1,0 +1,33 @@
+id: el-thermal-design
+name: PCB Thermal Design
+category: PCB Design & Hardware Development
+level: 3
+priority: important
+summary: "Thermal design at board level: simulation, heatsinks, thermal vias, heat spreading, derating and sensor placement."
+prerequisites:
+  - el-pcb-layout
+  - el-thermal-management
+  - me-heat-transfer
+related:
+  - me-thermal-management-compact-power
+  - el-thermal-management
+topics:
+  - id: el-thermal-design-1
+    name: Thermal analysis and simulation
+  - id: el-thermal-design-2
+    name: Heatsink selection and design
+  - id: el-thermal-design-3
+    name: Thermal vias and heat spreading
+  - id: el-thermal-design-4
+    name: Component derating
+  - id: el-thermal-design-5
+    name: Thermal relief pads
+  - id: el-thermal-design-6
+    name: Temperature sensors placement
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-thermal-design.json
+  sha256: d077ce8cccbc2bc0527163d3f00155450b03fb364c249b2ceeeb8261506de94a

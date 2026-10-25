@@ -1,0 +1,50 @@
+id: be-scars-texture-body-concerns
+name: Scars, Stretch Marks, Cellulite & Skin Texture
+category: Skin Conditions & Concerns
+level: 2
+priority: important
+summary: Common cosmetic skin concerns of face and body, what causes them, and what products and treatments can realistically do.
+prerequisites:
+  - be-skin-biology
+related: []
+topics:
+  - id: be-scars-texture-body-concerns-1
+    name: Scars
+    sub:
+      - id: be-scars-texture-body-concerns-1-1
+        name: How scars form
+      - id: be-scars-texture-body-concerns-1-2
+        name: Atrophic, hypertrophic and keloid scars
+      - id: be-scars-texture-body-concerns-1-3
+        name: "Acne scar types: icepick, boxcar and rolling"
+      - id: be-scars-texture-body-concerns-1-4
+        name: Silicone gels, pressure and scar care
+  - id: be-scars-texture-body-concerns-2
+    name: "Stretch marks (striae): causes and treatment evidence"
+  - id: be-scars-texture-body-concerns-3
+    name: "Cellulite: structure, contributing factors and evidence for products and devices"
+  - id: be-scars-texture-body-concerns-4
+    name: "Enlarged pores: what can and cannot be changed"
+  - id: be-scars-texture-body-concerns-5
+    name: Keratosis pilaris and rough, bumpy skin
+  - id: be-scars-texture-body-concerns-6
+    name: Milia, skin tags and seborrhoeic keratoses
+  - id: be-scars-texture-body-concerns-7
+    name: Under-eye bags, puffiness and dark circles
+  - id: be-scars-texture-body-concerns-8
+    name: Broken capillaries and spider veins
+  - id: be-scars-texture-body-concerns-9
+    name: "Dull skin: what dullness is and what helps"
+  - id: be-scars-texture-body-concerns-10
+    name: "Visible ageing signs: lines, wrinkles and loss of firmness"
+  - id: be-scars-texture-body-concerns-11
+    name: Body acne, ingrown hairs and folliculitis
+  - id: be-scars-texture-body-concerns-12
+    name: When a lump, spot or mark should be checked by a doctor
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-scars-texture-body-concerns.json
+  sha256: 33e4e42840116242520539dc32b0b7a3f81612f247c07b90d223d888e8d88842

@@ -1,0 +1,62 @@
+id: py-motivation-habits-behavior-change
+name: Motivation, Habits & Behaviour Change
+category: Emotion & Motivation
+level: 2
+priority: core
+summary: Why people do what they do, how habits form and break, and evidence-based methods for changing your own or others' behaviour.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - hf-exercise-fundamentals
+  - hf-weight-management-body-composition
+  - hf-health-behaviour-change
+topics:
+  - id: py-motivation-habits-behavior-change-1
+    name: Biological drives, homeostasis and incentives
+  - id: py-motivation-habits-behavior-change-2
+    name: Intrinsic and extrinsic motivation; the overjustification effect
+  - id: py-motivation-habits-behavior-change-3
+    name: "Self-determination theory: autonomy, competence and relatedness"
+  - id: py-motivation-habits-behavior-change-4
+    name: Expectancy-value theory and self-efficacy
+  - id: py-motivation-habits-behavior-change-5
+    name: "Goal setting: specific, challenging goals and feedback"
+  - id: py-motivation-habits-behavior-change-6
+    name: Self-control, delay of gratification and the ego-depletion debate
+  - id: py-motivation-habits-behavior-change-7
+    name: "Procrastination: causes and evidence-based fixes"
+  - id: py-motivation-habits-behavior-change-8
+    name: Habits
+    sub:
+      - id: py-motivation-habits-behavior-change-8-1
+        name: "How habits form: cue, routine and reward"
+      - id: py-motivation-habits-behavior-change-8-2
+        name: Context stability and automaticity
+      - id: py-motivation-habits-behavior-change-8-3
+        name: How long habit formation really takes
+  - id: py-motivation-habits-behavior-change-9
+    name: "Breaking unwanted habits: friction, cue control and substitution"
+  - id: py-motivation-habits-behavior-change-10
+    name: Implementation intentions and planning
+  - id: py-motivation-habits-behavior-change-11
+    name: Behaviour change models
+    sub:
+      - id: py-motivation-habits-behavior-change-11-1
+        name: Stages of change (transtheoretical model) and its critiques
+      - id: py-motivation-habits-behavior-change-11-2
+        name: COM-B and the Behaviour Change Wheel
+      - id: py-motivation-habits-behavior-change-11-3
+        name: Behaviour change technique taxonomy
+  - id: py-motivation-habits-behavior-change-12
+    name: Self-monitoring, tracking and feedback
+  - id: py-motivation-habits-behavior-change-13
+    name: Motivational interviewing in brief
+  - id: py-motivation-habits-behavior-change-14
+    name: Relapse, lapses and maintaining change
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-motivation-habits-behavior-change.json
+  sha256: 3bad87f044c0fd7ee3bc77cf82f155e5fcfe83dab2b0131428520593b7e8739c

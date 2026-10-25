@@ -1,0 +1,66 @@
+id: be-cosmetic-surgery-explained
+name: Cosmetic Surgery Explained
+category: Aesthetic Procedures & Cosmetic Dermatology
+level: 3
+priority: advanced
+summary: An overview of the main cosmetic surgical procedures, what they involve, recovery, risks and outcomes, and how to make a safe, informed decision.
+prerequisites:
+  - be-cosmetic-procedures-overview
+related:
+  - py-body-image-self-perception
+  - bi-human-anatomy
+topics:
+  - id: be-cosmetic-surgery-explained-1
+    name: Cosmetic versus reconstructive surgery
+  - id: be-cosmetic-surgery-explained-2
+    name: Surgeon training and certification, and accredited facilities
+  - id: be-cosmetic-surgery-explained-3
+    name: Anaesthesia and general surgical risks
+  - id: be-cosmetic-surgery-explained-4
+    name: Facial surgery
+    sub:
+      - id: be-cosmetic-surgery-explained-4-1
+        name: Facelift and neck lift
+      - id: be-cosmetic-surgery-explained-4-2
+        name: Eyelid surgery (blepharoplasty)
+      - id: be-cosmetic-surgery-explained-4-3
+        name: Rhinoplasty
+      - id: be-cosmetic-surgery-explained-4-4
+        name: Ear surgery and chin augmentation
+  - id: be-cosmetic-surgery-explained-5
+    name: Breast surgery
+    sub:
+      - id: be-cosmetic-surgery-explained-5-1
+        name: Augmentation and implant safety
+      - id: be-cosmetic-surgery-explained-5-2
+        name: Reduction and lift
+      - id: be-cosmetic-surgery-explained-5-3
+        name: Breast implant illness and BIA-ALCL
+  - id: be-cosmetic-surgery-explained-6
+    name: Body contouring
+    sub:
+      - id: be-cosmetic-surgery-explained-6-1
+        name: Liposuction
+      - id: be-cosmetic-surgery-explained-6-2
+        name: Abdominoplasty
+      - id: be-cosmetic-surgery-explained-6-3
+        name: Gluteal fat grafting and its risks
+      - id: be-cosmetic-surgery-explained-6-4
+        name: Body contouring after major weight loss
+  - id: be-cosmetic-surgery-explained-7
+    name: Hair transplant surgery
+  - id: be-cosmetic-surgery-explained-8
+    name: Gender-affirming facial and body surgery
+  - id: be-cosmetic-surgery-explained-9
+    name: Recovery, scarring and revision surgery
+  - id: be-cosmetic-surgery-explained-10
+    name: Psychological screening and patient satisfaction
+  - id: be-cosmetic-surgery-explained-11
+    name: Cosmetic surgery tourism
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-cosmetic-surgery-explained.json
+  sha256: 2e68ca26fd1f5c6d411ec5cd5ab8d52f13c23b2bae6c325a4146edd5e6083123

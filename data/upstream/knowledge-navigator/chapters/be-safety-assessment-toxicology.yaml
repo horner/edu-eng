@@ -1,0 +1,52 @@
+id: be-safety-assessment-toxicology
+name: Cosmetic Safety Assessment & Toxicology
+category: Safety, Regulation & Industry
+level: 4
+priority: advanced
+summary: "How the safety of cosmetic ingredients and products is assessed: toxicology, exposure, dermal absorption, sensitisation and animal-free testing methods."
+prerequisites:
+  - be-cosmetic-regulation
+  - be-skin-delivery-penetration
+related:
+  - ch-pharmacology-toxicology
+topics:
+  - id: be-safety-assessment-toxicology-1
+    name: "Principles of risk assessment: hazard, exposure and risk"
+  - id: be-safety-assessment-toxicology-2
+    name: "Toxicological endpoints: acute, repeated-dose, reproductive, genotoxic and carcinogenic"
+  - id: be-safety-assessment-toxicology-3
+    name: "Exposure assessment: product use, amounts and aggregate exposure"
+  - id: be-safety-assessment-toxicology-4
+    name: Dermal absorption in safety assessment
+  - id: be-safety-assessment-toxicology-5
+    name: Margin of safety, NOAEL and the threshold of toxicological concern
+  - id: be-safety-assessment-toxicology-6
+    name: Skin sensitisation
+    sub:
+      - id: be-safety-assessment-toxicology-6-1
+        name: The adverse outcome pathway
+      - id: be-safety-assessment-toxicology-6-2
+        name: "In chemico and in vitro methods: DPRA, KeratinoSens, h-CLAT"
+      - id: be-safety-assessment-toxicology-6-3
+        name: Defined approaches and quantitative risk assessment
+  - id: be-safety-assessment-toxicology-7
+    name: Irritation, eye irritation and phototoxicity testing without animals
+  - id: be-safety-assessment-toxicology-8
+    name: New approach methodologies and next-generation risk assessment
+  - id: be-safety-assessment-toxicology-9
+    name: Endocrine disruption assessment
+  - id: be-safety-assessment-toxicology-10
+    name: Impurities, contaminants and nanomaterials
+  - id: be-safety-assessment-toxicology-11
+    name: "Expert bodies: SCCS, CIR and RIFM"
+  - id: be-safety-assessment-toxicology-12
+    name: Writing a cosmetic product safety report
+  - id: be-safety-assessment-toxicology-13
+    name: "Special populations: children, pregnancy and sensitive skin"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-safety-assessment-toxicology.json
+  sha256: 6f5c636555bd2c3a3cd28bf33bc7eb94008b7277e6e7c73088f25a6f7e5d279e

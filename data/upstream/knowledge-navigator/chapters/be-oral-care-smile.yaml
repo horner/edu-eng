@@ -1,0 +1,51 @@
+id: be-oral-care-smile
+name: Oral Care & Smile Aesthetics
+category: Body Care & Grooming
+level: 2
+priority: important
+summary: How to keep teeth and gums healthy, how oral care products work, and the evidence and risks behind whitening and cosmetic dentistry.
+prerequisites:
+  - be-cosmetic-chemistry-basics
+related:
+  - hf-oral-eye-hearing-health
+topics:
+  - id: be-oral-care-smile-1
+    name: "Tooth and gum structure: enamel, dentine and gums"
+  - id: be-oral-care-smile-2
+    name: Plaque, tooth decay and gum disease
+  - id: be-oral-care-smile-3
+    name: Brushing and cleaning between teeth
+  - id: be-oral-care-smile-4
+    name: Oral care products
+    sub:
+      - id: be-oral-care-smile-4-1
+        name: "Toothpaste ingredients: fluoride, abrasives and surfactants"
+      - id: be-oral-care-smile-4-2
+        name: Mouthwashes
+      - id: be-oral-care-smile-4-3
+        name: Products for sensitive teeth
+  - id: be-oral-care-smile-5
+    name: "Tooth discolouration: extrinsic and intrinsic stains"
+  - id: be-oral-care-smile-6
+    name: "Tooth whitening: peroxide chemistry and how it works"
+  - id: be-oral-care-smile-7
+    name: Whitening products, regulation and dangers of unlicensed whitening
+  - id: be-oral-care-smile-8
+    name: "Charcoal, oil pulling and other trends: evidence"
+  - id: be-oral-care-smile-9
+    name: "Cosmetic dentistry: bonding, veneers and crowns"
+  - id: be-oral-care-smile-10
+    name: "Orthodontics and clear aligners: direct-to-consumer risks"
+  - id: be-oral-care-smile-11
+    name: "Bad breath: causes and solutions"
+  - id: be-oral-care-smile-12
+    name: Lip care and the smile
+  - id: be-oral-care-smile-13
+    name: Choosing a dentist and when to seek dental advice
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-oral-care-smile.json
+  sha256: f0e66edbe893bf4fb77d067affe535f9afadec907ece75b345658b036377ae29

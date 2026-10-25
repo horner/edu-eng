@@ -1,0 +1,42 @@
+id: bu-family-business
+name: Family Business
+category: Entrepreneurship & Startups
+level: 3
+priority: advanced
+summary: How family-owned firms are governed and managed, and how they handle succession across generations.
+prerequisites:
+  - bu-small-business-management
+related:
+  - bu-corporate-governance
+topics:
+  - id: bu-family-business-1
+    name: Family firms in the global economy
+  - id: bu-family-business-2
+    name: "The three-circle model: family, ownership and business"
+  - id: bu-family-business-3
+    name: Strengths and weaknesses of family businesses
+  - id: bu-family-business-4
+    name: "Family governance: councils, constitutions and family offices"
+  - id: bu-family-business-5
+    name: Boards and independent directors in family firms
+  - id: bu-family-business-6
+    name: Succession planning and leadership transfer
+  - id: bu-family-business-7
+    name: Next-generation development and entry rules
+  - id: bu-family-business-8
+    name: Ownership transfer, estate planning and tax
+  - id: bu-family-business-9
+    name: Conflict in family businesses
+  - id: bu-family-business-10
+    name: Professionalising management
+  - id: bu-family-business-11
+    name: Family business groups in emerging markets
+  - id: bu-family-business-12
+    name: Selling or listing the family business
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-family-business.json
+  sha256: b2604fa349e8428b5983492525fd4b798cf5055990b39b27aea38dca12f2a4a8

@@ -1,0 +1,266 @@
+id: fitness-physical-wellness
+name: Physical Fitness & Wellness
+icon: 🏋️
+tagline: Train, eat, rest and look after your body using what the evidence supports.
+description: For adults who want to get fitter and stay healthy without relying on fads or influencers. You learn how the body works and how to read health claims, then nutrition, strength, cardio and mobility training, recovery and sleep, injury prevention, body composition and preventive health, and finish with the psychology of sticking with it and a look at ageing well.
+outcomes:
+  - Plan a balanced week of eating that meets protein, fibre and micronutrient needs on a realistic budget, and judge a popular diet or supplement on its evidence
+  - Write and progress your own weekly training plan that combines resistance, cardiorespiratory, mobility and bodyweight work using the FITT-VP and overload principles
+  - Perform the main strength exercises with safe technique and choose loads using repetitions in reserve
+  - Explain energy balance and body composition, and set a sustainable goal for fat loss, muscle gain or maintenance that does not rely on the scale alone
+  - Manage recovery, sleep and training load, and recognise the signs of overtraining, injury red flags and when to see a professional
+  - Interpret your own blood pressure, waist measurement and screening invitations, and know which lifestyle changes most reduce the risk of heart disease, diabetes and cancer
+  - Use habit-formation and motivation techniques to keep exercising and eating well for the long term
+stages:
+  - name: Body basics and health literacy
+    description: How the body works and how to judge health information, plus the bare minimum of maths and chemistry that nutrition science uses.
+    items:
+      - chapter: hf-introduction-to-health-wellness
+        why: What most affects how long and how well people live, and how fitness, food, sleep and stress fit together.
+        depth: full
+      - chapter: hf-health-literacy-evidence
+        why: Fitness is full of bold claims; this teaches you to read risk figures, study designs and influencer content critically.
+        depth: full
+      - chapter: ma-arithmetic-pre-algebra
+        why: Percentages, ratios and unit conversions, used for food labels, training loads and body measurements.
+        depth: selected
+        focus:
+          - ma-arithmetic-pre-algebra-4
+          - ma-arithmetic-pre-algebra-5
+          - ma-arithmetic-pre-algebra-6
+          - ma-arithmetic-pre-algebra-7
+          - ma-arithmetic-pre-algebra-10
+      - chapter: ma-elementary-intermediate-algebra
+        why: A short refresher on working with simple formulas, needed before the chemistry chapter.
+        depth: selected
+        focus:
+          - ma-elementary-intermediate-algebra-5
+          - ma-elementary-intermediate-algebra-6
+          - ma-elementary-intermediate-algebra-11
+      - chapter: ch-introductory-chemistry
+        why: "Atoms, molecules, solutions and energy in reactions: the vocabulary of nutrition and metabolism."
+        depth: selected
+        focus:
+          - ch-introductory-chemistry-1
+          - ch-introductory-chemistry-3
+          - ch-introductory-chemistry-4
+          - ch-introductory-chemistry-6
+          - ch-introductory-chemistry-13
+          - ch-introductory-chemistry-14
+          - ch-introductory-chemistry-15
+          - ch-introductory-chemistry-17
+      - chapter: bi-introductory-biology
+        why: Cells, energy and inheritance, so the body chapters make sense.
+        depth: selected
+        focus:
+          - bi-introductory-biology-2
+          - bi-introductory-biology-3
+          - bi-introductory-biology-4
+          - bi-introductory-biology-5
+          - bi-introductory-biology-6
+          - bi-introductory-biology-9
+      - chapter: bi-chemistry-of-life
+        why: "Carbohydrates, fats, proteins and enzymes as molecules: why they behave so differently in the diet."
+        depth: selected
+        focus:
+          - bi-chemistry-of-life-3
+          - bi-chemistry-of-life-4
+          - bi-chemistry-of-life-6
+          - bi-chemistry-of-life-7
+          - bi-chemistry-of-life-8
+          - bi-chemistry-of-life-9
+          - bi-chemistry-of-life-11
+          - bi-chemistry-of-life-12
+      - chapter: hf-human-body-basics
+        why: A plain tour of the organ systems and what happens in the body during exercise, eating and sleep.
+        depth: full
+  - name: Nutrition
+    description: What to eat and why, from nutrients and dietary guidelines to cooking, supplements and popular diets.
+    items:
+      - chapter: hf-nutrition-fundamentals
+        why: "Nutrients, energy, food groups and reference intakes: the basis for every food decision that follows."
+        depth: full
+      - chapter: hf-macronutrients
+        why: How much protein, carbohydrate and fat you need, where to get them and what trials say about low-carb versus low-fat.
+        depth: full
+      - chapter: hf-micronutrients
+        why: Vitamins and minerals, who is at risk of running short, and why more is not better.
+        depth: full
+      - chapter: hf-healthy-eating-patterns
+        why: The eating patterns with the strongest evidence, such as Mediterranean and DASH, and how to adapt them to your culture and budget.
+        depth: full
+      - chapter: hf-meal-planning-food-skills
+        why: "Reading labels, planning a week of meals and cooking simple, healthy food: where good intentions become dinner."
+        depth: full
+      - chapter: hf-dietary-supplements
+        why: Which supplements are worth taking (vitamin D, creatine, protein powder) and which are a waste of money or a risk.
+        depth: full
+      - chapter: hf-popular-diets-evidence
+        why: Keto, intermittent fasting, paleo, detoxes and others judged on evidence, safety and whether people can stick to them.
+        depth: full
+  - name: Exercise foundations
+    description: How much activity health needs, how the body adapts to training, and the anatomy of movement.
+    items:
+      - chapter: hf-exercise-fundamentals
+        why: Activity guidelines, the FITT-VP principle, measuring intensity and putting together a first weekly plan.
+        depth: full
+      - chapter: hf-training-principles-adaptations
+        why: Overload, progression and specificity, and what training changes in the heart, muscles and bones.
+        depth: full
+      - chapter: hf-functional-anatomy-kinesiology
+        why: The main joints, muscles and movement patterns (squat, hinge, push, pull, carry), so you know what each exercise trains.
+        depth: full
+      - chapter: hf-walking-running
+        why: Walking for health and starting to run safely, from walk-run plans to a first 5K.
+        depth: full
+  - name: "Training: strength, cardio, mobility and bodyweight"
+    description: The four kinds of training a balanced programme combines, how to plan a week, and how to fuel and track it.
+    items:
+      - chapter: hf-resistance-training
+        why: "Sets, reps, effort, technique and beginner programmes: how to get stronger and build muscle safely."
+        depth: full
+      - chapter: hf-cardiorespiratory-training
+        why: Continuous training and intervals, intensity zones, and how to combine cardio and strength in one week.
+        depth: full
+      - chapter: hf-flexibility-mobility
+        why: What stretching does and does not do, foam rolling, and a mobility routine that fits around training and desk work.
+        depth: full
+      - chapter: hf-functional-bodyweight-training
+        why: Bodyweight progressions, core and balance work, and home workouts when you have little or no equipment.
+        depth: full
+      - chapter: hf-nutrition-for-active-living
+        why: What to eat around training, how much protein to spread through the day, hydration, and the warning signs of under-eating.
+        depth: full
+      - chapter: hf-wearables-digital-health
+        why: How accurate step counts, heart rate, calorie and sleep estimates really are, and how to track progress without obsessing.
+        depth: full
+  - name: Assess and plan your training
+    description: Measuring where you start and turning the training principles into a weekly plan you can follow and adjust.
+    items:
+      - chapter: hf-fitness-assessment
+        why: Screen yourself safely before you train harder, and measure strength, fitness and mobility so progress is visible.
+        depth: full
+      - chapter: hf-exercise-prescription-program-design
+        why: Put strength, cardio and mobility together into a weekly programme, then progress, deload and adjust it.
+        depth: full
+  - name: Recovery, sleep and stress
+    description: Adaptation happens during recovery, so this stage covers sleep, rest, recovery methods and life stress.
+    items:
+      - chapter: hf-sleep-science
+        why: Why sleep matters for muscle, metabolism and performance, and how to get more of it.
+        depth: full
+      - chapter: hf-recovery-overtraining
+        why: Soreness, deloads, ice baths, massage and saunas on the evidence, and how to spot overtraining.
+        depth: full
+      - chapter: hf-stress-physiology-health
+        why: How chronic stress affects the body and recovery, and which stress-reduction methods are worth your time.
+        depth: full
+  - name: Injury prevention and posture
+    description: "Staying able to train: how injuries happen, how to lower the risk, and what to do when something hurts."
+    items:
+      - chapter: hf-posture-ergonomics
+        why: What the evidence says about "good posture", sitting and desk set-up, and why movement breaks matter more.
+        depth: full
+      - chapter: hf-back-neck-pain
+        why: Self-managing common back and neck pain, the red flags that need urgent care, and why exercise is the main treatment.
+        depth: full
+      - chapter: hf-sports-injuries-prevention
+        why: Common strains, sprains and overuse injuries, load management, and early care from RICE to PEACE & LOVE.
+        depth: full
+      - chapter: hf-musculoskeletal-health
+        why: Keeping bones, joints and muscles strong through life, and what helps with osteoporosis, osteoarthritis and sarcopenia.
+        depth: full
+      - chapter: hf-first-aid-cpr
+        why: "CPR, defibrillators and first aid for sprains, heat illness and collapse: worth knowing for anyone who trains or coaches."
+        depth: full
+  - name: Body composition and metabolism
+    description: How energy balance really works and how to change body fat and muscle in a sustainable, non-stigmatising way.
+    items:
+      - chapter: hf-energy-balance-metabolism
+        why: Energy in and out, metabolic adaptation, appetite hormones and the myths about metabolism-boosting foods.
+        depth: full
+      - chapter: hf-weight-management-body-composition
+        why: What BMI and body-fat estimates tell you, and how to lose fat, gain muscle or recompose without crash dieting.
+        depth: full
+      - chapter: hf-metabolic-health-diabetes
+        why: Insulin resistance, prediabetes and type 2 diabetes, and how diet, activity and weight loss prevent or reverse them.
+        depth: full
+  - name: Preventive health
+    description: Using fitness and lifestyle to lower the risk of the main chronic diseases, and using health checks wisely.
+    items:
+      - chapter: hf-cardiovascular-health
+        why: Blood pressure, cholesterol and the other risk factors for heart attack and stroke, and how exercise and diet lower them.
+        depth: full
+      - chapter: hf-cancer-prevention-screening
+        why: The modifiable causes of cancer, including inactivity and alcohol, and the benefits and harms of screening.
+        depth: full
+      - chapter: hf-self-care-checkups-screening
+        why: Knowing your numbers, which health checks are worth having, and how to read blood test results.
+        depth: full
+      - chapter: hf-substance-use-harm-reduction
+        why: How alcohol, smoking, vaping and cannabis affect health, sleep and training, and how to cut down.
+        depth: full
+      - chapter: hf-lifestyle-medicine
+        why: How the six pillars (food, activity, sleep, stress, connection and substances) work together to prevent chronic disease.
+        depth: full
+  - name: Motivation, habits and ageing well
+    description: "The psychology of sticking with it, and the long view: staying strong and independent as you age."
+    items:
+      - chapter: hf-health-behaviour-change
+        why: Health behaviour models, habit formation and relapse prevention, ending with your own behaviour change plan.
+        depth: full
+      - chapter: py-introduction-to-psychology
+        why: A short orientation to psychology before the motivation and sport psychology chapters.
+        depth: selected
+        focus:
+          - py-introduction-to-psychology-1
+          - py-introduction-to-psychology-2
+          - py-introduction-to-psychology-4
+          - py-introduction-to-psychology-8
+          - py-introduction-to-psychology-14
+      - chapter: py-motivation-habits-behavior-change
+        why: Intrinsic motivation, goal setting, procrastination and breaking habits, so training becomes routine rather than willpower.
+        depth: full
+      - chapter: py-sport-exercise-psychology
+        why: "Capstone: exercise adherence, confidence, nerves and focus, and how exercise supports mental health."
+        depth: full
+      - chapter: hf-healthy-aging-longevity
+        why: "Capstone: strength, balance and nutrition for later life, and how to judge longevity claims such as fasting and NAD+ supplements."
+        depth: full
+  - name: Electives
+    description: Optional chapters for particular interests, life stages or a step towards coaching others.
+    items:
+      - chapter: hf-mind-body-movement
+        why: "Elective: yoga, Pilates and tai chi, what they offer for strength, balance and stress, and how to choose a class."
+        depth: full
+      - chapter: hf-digestive-health-gut
+        why: "Elective: gut health, the microbiome, probiotics, and how to tell food allergy from intolerance and unproven tests."
+        depth: full
+      - chapter: hf-hormonal-health
+        why: 'Elective: hormones through life, the menstrual cycle and thyroid, and how to spot misleading "hormone balancing" claims.'
+        depth: full
+      - chapter: hf-womens-health
+        why: "Elective: menstrual health, pelvic floor, menopause and bone and heart health after menopause."
+        depth: full
+      - chapter: hf-mens-health
+        why: "Elective: testosterone marketing, prostate and heart health, anabolic steroid harms and muscle dysmorphia."
+        depth: full
+      - chapter: hf-motor-learning-control
+        why: "Elective: how movement skills are learned, which helps you practise technique and learn new sports."
+        depth: full
+      - chapter: hf-exercise-instruction-coaching
+        why: "Elective: demonstrating, cueing and correcting exercises, for anyone who wants to train friends, family or a group."
+        depth: full
+      - chapter: hf-periodisation-load-monitoring
+        why: "Elective: plan training in blocks and track load if you train for an event or a sport."
+        depth: full
+related:
+  - whole-person-wellbeing
+  - mental-wellness
+  - beauty-self-care
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/roadmaps/fitness-physical-wellness.json
+  sha256: 70579c159b838903ae444db7d3c7b68445f2852b30b25f0e6401b16a576978ff

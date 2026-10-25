@@ -1,0 +1,41 @@
+id: bu-social-entrepreneurship
+name: Social Entrepreneurship & Impact Ventures
+category: Entrepreneurship & Startups
+level: 2
+priority: important
+summary: Building ventures whose main goal is social or environmental impact, and measuring whether they achieve it.
+prerequisites:
+  - bu-entrepreneurship-startups
+related:
+  - bu-sustainability-esg
+  - bu-nonprofit-management
+topics:
+  - id: bu-social-entrepreneurship-1
+    name: What social entrepreneurship is and is not
+  - id: bu-social-entrepreneurship-2
+    name: Theory of change and logic models
+  - id: bu-social-entrepreneurship-3
+    name: "Legal forms: nonprofits, social enterprises, CICs, benefit corporations and B Corp certification"
+  - id: bu-social-entrepreneurship-4
+    name: "Social business models: cross-subsidy, employment and fee-for-service"
+  - id: bu-social-entrepreneurship-5
+    name: "Funding: grants, impact investment, blended finance and social impact bonds"
+  - id: bu-social-entrepreneurship-6
+    name: "Measuring impact: outputs, outcomes and attribution"
+  - id: bu-social-entrepreneurship-7
+    name: Impact reporting standards and frameworks
+  - id: bu-social-entrepreneurship-8
+    name: "Scaling social impact: replication, franchising and policy change"
+  - id: bu-social-entrepreneurship-9
+    name: Working with governments and communities
+  - id: bu-social-entrepreneurship-10
+    name: Mission drift and balancing impact with revenue
+  - id: bu-social-entrepreneurship-11
+    name: "Case studies: microfinance, clean energy and health ventures"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-social-entrepreneurship.json
+  sha256: 6db83e779a45d8f6014af57a9e20b9ec8947cfe2b2ba006029b339af25a83bbc

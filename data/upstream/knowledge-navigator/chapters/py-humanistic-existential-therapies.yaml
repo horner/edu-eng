@@ -1,0 +1,37 @@
+id: py-humanistic-existential-therapies
+name: Humanistic, Person-Centred & Existential Therapies
+category: Assessment, Psychotherapy & Counselling
+level: 3
+priority: important
+summary: Client-centred, gestalt, emotion-focused and existential approaches that emphasise experience, growth, choice and meaning.
+prerequisites:
+  - py-psychotherapy-foundations
+related: []
+topics:
+  - id: py-humanistic-existential-therapies-1
+    name: "Humanistic psychology: Maslow, Rogers and the 'third force'"
+  - id: py-humanistic-existential-therapies-2
+    name: "Person-centred therapy: core conditions and the actualising tendency"
+  - id: py-humanistic-existential-therapies-3
+    name: Gestalt therapy
+  - id: py-humanistic-existential-therapies-4
+    name: Emotion-focused therapy
+  - id: py-humanistic-existential-therapies-5
+    name: "Existential therapy: freedom, death, isolation and meaning (Yalom)"
+  - id: py-humanistic-existential-therapies-6
+    name: Logotherapy (Frankl)
+  - id: py-humanistic-existential-therapies-7
+    name: Motivational interviewing as a person-centred method
+  - id: py-humanistic-existential-therapies-8
+    name: Narrative and solution-focused therapies
+  - id: py-humanistic-existential-therapies-9
+    name: Counselling for depression
+  - id: py-humanistic-existential-therapies-10
+    name: Evidence base and critiques
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-humanistic-existential-therapies.json
+  sha256: 0cba66fda03475d8ec6e707574b3753fe58efede0022dd5a1618d8f9f6e4918e

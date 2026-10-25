@@ -1,0 +1,45 @@
+id: mk-pricing-fundamentals
+name: Pricing Fundamentals
+category: Product, Price & Place
+level: 2
+priority: core
+summary: How to set and change prices using costs, customer value and competition, and how buyers perceive prices.
+prerequisites:
+  - mk-marketing-maths-metrics
+  - mk-consumer-behavior
+related:
+  - bu-microeconomics-for-business
+topics:
+  - id: mk-pricing-fundamentals-1
+    name: "Price, value and profit: why pricing is the strongest lever"
+  - id: mk-pricing-fundamentals-2
+    name: Demand and price elasticity in plain terms
+  - id: mk-pricing-fundamentals-3
+    name: Cost-based pricing and its traps
+  - id: mk-pricing-fundamentals-4
+    name: Competition-based pricing
+  - id: mk-pricing-fundamentals-5
+    name: Value-based pricing and economic value to the customer
+  - id: mk-pricing-fundamentals-6
+    name: "Price perception: reference prices, odd pricing and price-quality inference"
+  - id: mk-pricing-fundamentals-7
+    name: "Pricing new products: skimming and penetration"
+  - id: mk-pricing-fundamentals-8
+    name: Product-line, bundle and optional-product pricing
+  - id: mk-pricing-fundamentals-9
+    name: Discounts, allowances and promotional pricing
+  - id: mk-pricing-fundamentals-10
+    name: Subscription and freemium pricing basics
+  - id: mk-pricing-fundamentals-11
+    name: "Price changes: initiating and responding"
+  - id: mk-pricing-fundamentals-12
+    name: Price fairness and customer trust
+  - id: mk-pricing-fundamentals-13
+    name: Legal limits on pricing
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-pricing-fundamentals.json
+  sha256: 4d826ffbfb5534d68ef286bcd2d7be970497d83106e3e5b051f1de14fb219904

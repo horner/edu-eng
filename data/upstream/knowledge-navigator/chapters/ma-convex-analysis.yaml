@@ -1,0 +1,32 @@
+id: ma-convex-analysis
+name: Convex Analysis
+category: Analysis
+level: 4
+priority: advanced
+summary: "Convex functions and sets in analysis: subdifferentials, conjugate functions and duality, the theory behind convex optimisation."
+prerequisites:
+  - ma-real-analysis
+  - ma-linear-algebra
+related:
+  - ma-convex-optimization
+  - ma-convex-geometry
+topics:
+  - id: ma-convex-analysis-1
+    name: Convex functions
+  - id: ma-convex-analysis-4
+    name: Separation theorems
+  - id: ma-convex-analysis-5
+    name: Conjugate functions (Legendre-Fenchel)
+  - id: ma-convex-analysis-2
+    name: Subdifferentials
+  - id: ma-convex-analysis-3
+    name: Duality theory
+  - id: ma-convex-analysis-6
+    name: Monotone operators and proximal maps
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-convex-analysis.json
+  sha256: 543d6d3ee27aa51ab3965f1dd6a0ae137963ed98b84a1787b410f1077237e109

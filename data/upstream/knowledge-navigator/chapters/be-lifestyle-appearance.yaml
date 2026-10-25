@@ -1,0 +1,45 @@
+id: be-lifestyle-appearance
+name: Sleep, Stress, Exercise & the Exposome
+category: Lifestyle, Wellbeing & Appearance
+level: 2
+priority: important
+summary: How sleep, stress, physical activity, smoking, pollution and other everyday exposures affect skin and hair, and what changes help.
+prerequisites:
+  - be-skin-biology
+related:
+  - hf-sleep-science
+  - py-stress-coping-resilience
+  - hf-exercise-fundamentals
+  - hf-lifestyle-medicine
+topics:
+  - id: be-lifestyle-appearance-1
+    name: "The exposome: the sum of external influences on skin"
+  - id: be-lifestyle-appearance-2
+    name: 'Sleep and skin: repair, dark circles and "beauty sleep" evidence'
+  - id: be-lifestyle-appearance-3
+    name: "Stress and skin: cortisol, flares and psychodermatology"
+  - id: be-lifestyle-appearance-4
+    name: Stress and hair loss
+  - id: be-lifestyle-appearance-5
+    name: "Exercise and skin: circulation, sweating and acne mechanica"
+  - id: be-lifestyle-appearance-6
+    name: Exercise, ageing and appearance
+  - id: be-lifestyle-appearance-7
+    name: Smoking and skin ageing
+  - id: be-lifestyle-appearance-8
+    name: Air pollution and skin
+  - id: be-lifestyle-appearance-9
+    name: "Blue light from screens: claims versus evidence"
+  - id: be-lifestyle-appearance-10
+    name: Climate, water hardness and skin
+  - id: be-lifestyle-appearance-11
+    name: Mindfulness and relaxation in skin conditions
+  - id: be-lifestyle-appearance-12
+    name: Building lasting self-care habits
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-lifestyle-appearance.json
+  sha256: c0c726f1e67d34d3e34db6034ade605699fac4df7ccb249a3b9c0cf5e4e2d9cb

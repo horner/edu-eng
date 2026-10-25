@@ -1,0 +1,43 @@
+id: mk-retention-loyalty
+name: Customer Retention, Loyalty & Relationship Marketing
+category: Sales & Customer Relationships
+level: 2
+priority: important
+summary: Why customers stay or leave, and how relationships, loyalty programmes and good service keep them, with an evidence check on what loyalty really means.
+prerequisites:
+  - mk-consumer-behavior
+  - mk-marketing-maths-metrics
+related:
+  - mk-brand-growth-marketing-science
+topics:
+  - id: mk-retention-loyalty-1
+    name: "Relationship marketing: from transactions to relationships"
+  - id: mk-retention-loyalty-2
+    name: "Customer satisfaction, loyalty and retention: how they differ"
+  - id: mk-retention-loyalty-3
+    name: Behavioural versus attitudinal loyalty
+  - id: mk-retention-loyalty-4
+    name: The economics of retention and its overstated claims
+  - id: mk-retention-loyalty-5
+    name: "Why customers switch: churn drivers"
+  - id: mk-retention-loyalty-6
+    name: "Loyalty programmes: design, costs and evidence"
+  - id: mk-retention-loyalty-7
+    name: Subscription and membership models
+  - id: mk-retention-loyalty-8
+    name: Customer communities
+  - id: mk-retention-loyalty-9
+    name: Complaints, service recovery and the recovery paradox
+  - id: mk-retention-loyalty-10
+    name: Win-back strategies
+  - id: mk-retention-loyalty-11
+    name: Measuring retention and simple cohort analysis
+  - id: mk-retention-loyalty-12
+    name: "Ethical retention: avoiding subscription traps"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-retention-loyalty.json
+  sha256: 9a6c3bfa53226a1c8ee167b8b317eb2ea2a84d6fdb4938d792c817b6157777c6

@@ -1,0 +1,48 @@
+id: py-consciousness-sleep-altered-states
+name: Consciousness, Sleep & Altered States
+category: Sensation, Perception & Consciousness
+level: 2
+priority: important
+summary: "Ordinary and altered states of awareness: attention and the unconscious, sleep and dreaming, hypnosis, meditation and drugs."
+prerequisites:
+  - py-biological-psychology
+related:
+  - hf-sleep-science
+  - bi-behavioral-neuroscience
+topics:
+  - id: py-consciousness-sleep-altered-states-1
+    name: "What consciousness is: awareness, wakefulness and self-awareness"
+  - id: py-consciousness-sleep-altered-states-2
+    name: "Unconscious processing: blindsight, subliminal perception and automaticity"
+  - id: py-consciousness-sleep-altered-states-3
+    name: "Attention and the limits of awareness: inattentional and change blindness"
+  - id: py-consciousness-sleep-altered-states-4
+    name: Circadian rhythms and the body clock
+  - id: py-consciousness-sleep-altered-states-5
+    name: Sleep
+    sub:
+      - id: py-consciousness-sleep-altered-states-5-1
+        name: Stages of sleep and the sleep cycle
+      - id: py-consciousness-sleep-altered-states-5-2
+        name: "Why we sleep: theories and evidence"
+      - id: py-consciousness-sleep-altered-states-5-3
+        name: Sleep deprivation and its effects on mind and mood
+  - id: py-consciousness-sleep-altered-states-6
+    name: "Dreams: content, theories and lucid dreaming"
+  - id: py-consciousness-sleep-altered-states-7
+    name: Sleep disorders in outline
+  - id: py-consciousness-sleep-altered-states-8
+    name: "Hypnosis: what it is and what it is not"
+  - id: py-consciousness-sleep-altered-states-9
+    name: Meditation and altered states
+  - id: py-consciousness-sleep-altered-states-10
+    name: Psychoactive drugs and consciousness
+  - id: py-consciousness-sleep-altered-states-11
+    name: "Anomalous experiences: déjà vu, out-of-body experiences and sleep paralysis"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-consciousness-sleep-altered-states.json
+  sha256: 39a8b6912bde71da8f3f0de4ba3a601647b2b4fa2bd134edce0a3acec5b4e29e

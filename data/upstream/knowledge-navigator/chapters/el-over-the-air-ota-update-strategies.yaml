@@ -1,0 +1,33 @@
+id: el-over-the-air-ota-update-strategies
+name: Over-the-Air (OTA) Update Strategies
+category: Embedded Software, Firmware & RTOS
+level: 4
+priority: advanced
+summary: "Fleet-scale update strategy: full vs delta images, staged rollouts, verification, rollback and resumable background downloads."
+prerequisites:
+  - el-firmware-updates-ota
+  - el-device-management
+related:
+  - el-firmware-updates-ota
+topics:
+  - id: el-over-the-air-ota-update-strategies-1
+    name: Full firmware updates
+  - id: el-over-the-air-ota-update-strategies-2
+    name: Delta/differential updates
+  - id: el-over-the-air-ota-update-strategies-3
+    name: A/B partition updates
+  - id: el-over-the-air-ota-update-strategies-4
+    name: Staged rollouts
+  - id: el-over-the-air-ota-update-strategies-5
+    name: Update verification and rollback
+  - id: el-over-the-air-ota-update-strategies-6
+    name: Resume interrupted updates
+  - id: el-over-the-air-ota-update-strategies-7
+    name: Background downloads
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-over-the-air-ota-update-strategies.json
+  sha256: ea3d5e1a7b4142630fe5257b687b243a7029b2d71cc0876c34c2f169d2a4a46d

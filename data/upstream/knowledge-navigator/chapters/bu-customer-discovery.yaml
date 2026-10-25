@@ -1,0 +1,44 @@
+id: bu-customer-discovery
+name: Customer Discovery & Validation
+category: Entrepreneurship & Startups
+level: 2
+priority: core
+summary: Testing a business idea against real customers through interviews and small experiments before investing heavily.
+prerequisites:
+  - bu-entrepreneurship-startups
+related:
+  - mk-marketing-research-analytics
+  - mk-consumer-behavior
+  - mk-customer-research-basics
+topics:
+  - id: bu-customer-discovery-1
+    name: "Customer development: discovery, validation, creation and building"
+  - id: bu-customer-discovery-2
+    name: Writing down hypotheses about customers, problems and value
+  - id: bu-customer-discovery-3
+    name: Finding and recruiting interviewees
+  - id: bu-customer-discovery-4
+    name: "Interviewing without leading: asking about past behaviour, not opinions"
+  - id: bu-customer-discovery-5
+    name: Jobs to be done and customer pains and gains
+  - id: bu-customer-discovery-6
+    name: Customer segments, personas and early adopters
+  - id: bu-customer-discovery-7
+    name: Synthesising interview notes and spotting patterns
+  - id: bu-customer-discovery-8
+    name: "Validation experiments: landing pages, smoke tests, pre-sales and concierge tests"
+  - id: bu-customer-discovery-9
+    name: "Evidence strength: what counts as validation"
+  - id: bu-customer-discovery-10
+    name: Mapping the customer journey and the decision-making unit (B2B)
+  - id: bu-customer-discovery-11
+    name: Pricing conversations and willingness-to-pay tests
+  - id: bu-customer-discovery-12
+    name: Avoiding false positives and confirmation bias
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-customer-discovery.json
+  sha256: 6569d7a4551cf91224810c7223402bcca0d487d1efabb58e6f6d548334e675f9

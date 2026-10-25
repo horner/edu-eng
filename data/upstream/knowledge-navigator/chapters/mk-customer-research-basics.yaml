@@ -1,0 +1,46 @@
+id: mk-customer-research-basics
+name: Customer Discovery & Market Research Basics
+category: Customers & Insight
+level: 2
+priority: core
+summary: Practical, low-cost ways to understand customers and size a market before spending money, aimed at founders and new marketers.
+prerequisites:
+  - mk-marketing-principles
+  - ma-descriptive-statistics
+related:
+  - bu-entrepreneurship-startups
+  - bu-customer-discovery
+topics:
+  - id: mk-customer-research-basics-1
+    name: "Asking the right question: decisions research should inform"
+  - id: mk-customer-research-basics-2
+    name: "Desk research: public data, industry reports and competitor sources"
+  - id: mk-customer-research-basics-3
+    name: "Customer interviews: recruiting, questioning and avoiding leading questions"
+  - id: mk-customer-research-basics-4
+    name: Jobs to be done and problem-solution fit
+  - id: mk-customer-research-basics-5
+    name: "Personas: useful versus fictional"
+  - id: mk-customer-research-basics-6
+    name: "Simple surveys: writing questions and avoiding bias"
+  - id: mk-customer-research-basics-7
+    name: Sampling basics and why small samples mislead
+  - id: mk-customer-research-basics-8
+    name: "Market sizing: top-down and bottom-up, TAM, SAM and SOM"
+  - id: mk-customer-research-basics-9
+    name: Competitor analysis and positioning maps
+  - id: mk-customer-research-basics-10
+    name: Smoke tests, landing-page tests and pre-orders as evidence
+  - id: mk-customer-research-basics-11
+    name: Social listening and review mining
+  - id: mk-customer-research-basics-12
+    name: Summarising findings with descriptive statistics and charts
+  - id: mk-customer-research-basics-13
+    name: Research ethics and consent
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-customer-research-basics.json
+  sha256: 157431d320a1e9c0d4efd40fc51829b27bcdbcc47af0e9769ebcf1a4f5f5b931

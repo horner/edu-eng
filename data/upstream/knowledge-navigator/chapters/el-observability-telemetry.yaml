@@ -1,0 +1,32 @@
+id: el-observability-telemetry
+name: Observability & Telemetry
+category: IoT Architectures, Platforms & Data
+level: 3
+priority: advanced
+summary: "Seeing what deployed devices are doing: metrics, event logs, traces, health reports and telemetry dashboards."
+prerequisites:
+  - el-device-management
+related:
+  - cs-site-reliability-engineering
+topics:
+  - id: el-observability-telemetry-1
+    name: Metrics collection (CPU, memory, temperature)
+  - id: el-observability-telemetry-2
+    name: Event logging and tracing
+  - id: el-observability-telemetry-3
+    name: Health status reporting
+  - id: el-observability-telemetry-4
+    name: Remote diagnostics
+  - id: el-observability-telemetry-5
+    name: Distributed tracing
+  - id: el-observability-telemetry-6
+    name: Time-series telemetry
+  - id: el-observability-telemetry-7
+    name: Dashboard visualization
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-observability-telemetry.json
+  sha256: 874d4858455b22a0f97f7c1faec00042439a8bc0eb01d5a1107e1501040c0b7f

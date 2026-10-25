@@ -1,0 +1,45 @@
+id: mk-copywriting-storytelling
+name: Copywriting & Storytelling
+category: Communications & Creative
+level: 2
+priority: important
+summary: Writing words that get attention, build understanding and prompt action, and using narrative to make messages memorable.
+prerequisites:
+  - mk-consumer-behavior
+related: []
+topics:
+  - id: mk-copywriting-storytelling-1
+    name: "The job of copy: attention, understanding, memory, action"
+  - id: mk-copywriting-storytelling-2
+    name: "Knowing the reader: audience, awareness levels and intent"
+  - id: mk-copywriting-storytelling-3
+    name: Headlines and hooks
+  - id: mk-copywriting-storytelling-4
+    name: Features, benefits and proof
+  - id: mk-copywriting-storytelling-5
+    name: "Structures: problem-agitate-solve, AIDA, before-after-bridge"
+  - id: mk-copywriting-storytelling-6
+    name: "Writing for the web: scannability, clarity and accessibility"
+  - id: mk-copywriting-storytelling-7
+    name: Writing for ads, landing pages and email
+  - id: mk-copywriting-storytelling-8
+    name: Calls to action and microcopy
+  - id: mk-copywriting-storytelling-9
+    name: Brand voice and tone guidelines
+  - id: mk-copywriting-storytelling-10
+    name: "Storytelling: narrative arcs, characters and conflict"
+  - id: mk-copywriting-storytelling-11
+    name: Brand stories and customer stories
+  - id: mk-copywriting-storytelling-12
+    name: Editing, readability and testing copy
+  - id: mk-copywriting-storytelling-13
+    name: "Honest copy: avoiding misleading claims"
+  - id: mk-copywriting-storytelling-14
+    name: Using AI writing tools responsibly
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-copywriting-storytelling.json
+  sha256: 2a129afd102a7328b583983eb68cad44ed4903d59ceadba97730451e118ab113

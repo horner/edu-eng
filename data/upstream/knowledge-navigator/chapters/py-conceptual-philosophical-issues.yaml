@@ -1,0 +1,43 @@
+id: py-conceptual-philosophical-issues
+name: Conceptual & Philosophical Issues in Psychology
+category: History, Philosophy & Professional Ethics
+level: 3
+priority: optional
+summary: "The big conceptual questions behind psychology: mind and body, free will, explanation, reductionism, and critical perspectives on the discipline."
+prerequisites:
+  - py-history-of-psychology
+related:
+  - ai-cognitive-ai
+  - bi-history-philosophy-of-biology
+topics:
+  - id: py-conceptual-philosophical-issues-1
+    name: "Philosophy of science in psychology: Popper, Kuhn and Lakatos"
+  - id: py-conceptual-philosophical-issues-2
+    name: "The mind-body problem: dualism, materialism and functionalism"
+  - id: py-conceptual-philosophical-issues-3
+    name: Reductionism and levels of explanation
+  - id: py-conceptual-philosophical-issues-4
+    name: Free will and determinism
+  - id: py-conceptual-philosophical-issues-5
+    name: Nature vs nurture as a false dichotomy
+  - id: py-conceptual-philosophical-issues-6
+    name: Is psychology a science? Measurement and construct debates
+  - id: py-conceptual-philosophical-issues-7
+    name: Folk psychology and its critics
+  - id: py-conceptual-philosophical-issues-8
+    name: Embodied, embedded and extended cognition
+  - id: py-conceptual-philosophical-issues-9
+    name: Critical psychology, feminist psychology and decolonising psychology
+  - id: py-conceptual-philosophical-issues-10
+    name: Social constructionism
+  - id: py-conceptual-philosophical-issues-11
+    name: Values in psychological science
+  - id: py-conceptual-philosophical-issues-12
+    name: "The concept of mental disorder: harmful dysfunction debate"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-conceptual-philosophical-issues.json
+  sha256: 0874a5c3392244b31dc7a7b61f1f3e278c76de6f6d8a42b37f884b1e8d7f24a8

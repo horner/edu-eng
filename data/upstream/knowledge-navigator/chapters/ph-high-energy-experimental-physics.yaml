@@ -1,0 +1,26 @@
+id: ph-high-energy-experimental-physics
+name: High-Energy Experimental Physics
+category: Experimental Physics & Instrumentation
+level: 4
+priority: advanced
+summary: How collider, fixed-target and underground experiments are designed, run and analysed.
+prerequisites:
+  - ph-particle-physics
+  - ph-detector-physics
+related: []
+topics:
+  - id: ph-high-energy-experimental-physics-1
+    name: Collider experiments
+  - id: ph-high-energy-experimental-physics-2
+    name: Fixed-target experiments
+  - id: ph-high-energy-experimental-physics-3
+    name: Underground experiments
+  - id: ph-high-energy-experimental-physics-4
+    name: Neutrino detectors
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-high-energy-experimental-physics.json
+  sha256: be9159d25db796a99a928cbfaa0480c78176431abcc36203f540fa2d3a335dbe

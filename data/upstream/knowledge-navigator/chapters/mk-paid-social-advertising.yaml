@@ -1,0 +1,43 @@
+id: mk-paid-social-advertising
+name: Paid Social Advertising
+category: Digital Marketing
+level: 2
+priority: important
+summary: "Advertising on social platforms: audiences, creative, campaign objectives, bidding and measurement."
+prerequisites:
+  - mk-digital-marketing
+  - mk-marketing-maths-metrics
+related:
+  - mk-social-media-marketing
+topics:
+  - id: mk-paid-social-advertising-1
+    name: "How social ad platforms work: auctions and delivery algorithms"
+  - id: mk-paid-social-advertising-2
+    name: Campaign objectives and optimisation events
+  - id: mk-paid-social-advertising-3
+    name: "Audience targeting: interests, lookalikes, custom audiences and broad targeting"
+  - id: mk-paid-social-advertising-4
+    name: Creative for social feeds and short video
+  - id: mk-paid-social-advertising-5
+    name: Creative testing and iteration
+  - id: mk-paid-social-advertising-6
+    name: "Platform differences: Meta, TikTok, LinkedIn, Pinterest, Snapchat, YouTube"
+  - id: mk-paid-social-advertising-7
+    name: Pixels, conversion APIs and signal loss
+  - id: mk-paid-social-advertising-8
+    name: Budgets, bidding and learning phases
+  - id: mk-paid-social-advertising-9
+    name: Frequency, fatigue and reach
+  - id: mk-paid-social-advertising-10
+    name: "Measuring paid social: lift tests and platform reporting limits"
+  - id: mk-paid-social-advertising-11
+    name: B2B paid social
+  - id: mk-paid-social-advertising-12
+    name: Ad policies and brand safety
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-paid-social-advertising.json
+  sha256: 8e199264e2b6ad6c85d73dfc59edebf5a78a3ec8988b5f5b5358a69fd6a546d5

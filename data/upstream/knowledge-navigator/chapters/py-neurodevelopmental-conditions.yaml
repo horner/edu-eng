@@ -1,0 +1,57 @@
+id: py-neurodevelopmental-conditions
+name: "Neurodevelopmental Conditions: ADHD, Autism & Learning Differences"
+category: Mental Health & Psychopathology
+level: 3
+priority: important
+summary: "ADHD, autism, intellectual disability, specific learning disorders and tic disorders: what they are, how they are assessed and supported, and the neurodiversity perspective."
+prerequisites:
+  - py-psychopathology-foundations
+  - py-lifespan-development
+related:
+  - bi-developmental-neurobiology
+topics:
+  - id: py-neurodevelopmental-conditions-1
+    name: Neurodevelopmental conditions and the neurodiversity paradigm
+  - id: py-neurodevelopmental-conditions-2
+    name: ADHD
+    sub:
+      - id: py-neurodevelopmental-conditions-2-1
+        name: Symptoms, subtypes and adult ADHD
+      - id: py-neurodevelopmental-conditions-2-2
+        name: Causes and executive function models
+      - id: py-neurodevelopmental-conditions-2-3
+        name: "Assessment and treatment: medication, parent training and coaching"
+  - id: py-neurodevelopmental-conditions-3
+    name: Autism
+    sub:
+      - id: py-neurodevelopmental-conditions-3-1
+        name: Social communication and restricted, repetitive behaviours
+      - id: py-neurodevelopmental-conditions-3-2
+        name: Sensory differences and masking
+      - id: py-neurodevelopmental-conditions-3-3
+        name: Assessment, diagnosis and the rise in prevalence
+      - id: py-neurodevelopmental-conditions-3-4
+        name: Support approaches and the debate around ABA
+  - id: py-neurodevelopmental-conditions-4
+    name: "Vaccines and autism: the debunked claim"
+  - id: py-neurodevelopmental-conditions-5
+    name: "Intellectual disability: assessment and support"
+  - id: py-neurodevelopmental-conditions-6
+    name: "Specific learning disorders: dyslexia, dyscalculia and dysgraphia"
+  - id: py-neurodevelopmental-conditions-7
+    name: Developmental coordination disorder
+  - id: py-neurodevelopmental-conditions-8
+    name: Tic disorders and Tourette syndrome
+  - id: py-neurodevelopmental-conditions-9
+    name: Co-occurrence and mental health in neurodivergent people
+  - id: py-neurodevelopmental-conditions-10
+    name: Late diagnosis in women and adults
+  - id: py-neurodevelopmental-conditions-11
+    name: Education, workplace adjustments and rights
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-neurodevelopmental-conditions.json
+  sha256: 3fb2d5d050ee98024d0529de8655fe822ed8112f82de83a8aeb6b382975a3854

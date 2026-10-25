@@ -1,0 +1,48 @@
+id: hf-wearables-digital-health
+name: Wearables, Self-Tracking & Digital Health
+category: Health Behaviour, Coaching & Digital Health
+level: 2
+priority: important
+summary: How fitness trackers, health apps and digital health services work, how accurate they are, and how to use them well.
+prerequisites:
+  - hf-health-literacy-evidence
+  - hf-exercise-fundamentals
+related:
+  - el-wearable-technology-deep-dive
+  - cs-hci
+topics:
+  - id: hf-wearables-digital-health-1
+    name: Self-tracking and the 'quantified self'
+  - id: hf-wearables-digital-health-2
+    name: "How wearable sensors work: accelerometers and optical heart rate"
+  - id: hf-wearables-digital-health-3
+    name: Accuracy of step and activity tracking
+  - id: hf-wearables-digital-health-4
+    name: Accuracy of heart rate and heart rate variability
+  - id: hf-wearables-digital-health-5
+    name: Calorie-burn estimates and their large errors
+  - id: hf-wearables-digital-health-6
+    name: Sleep tracking compared with polysomnography
+  - id: hf-wearables-digital-health-7
+    name: VO2max estimates and 'readiness' scores
+  - id: hf-wearables-digital-health-8
+    name: Continuous glucose monitors and other consumer biosensors
+  - id: hf-wearables-digital-health-9
+    name: Smart scales
+  - id: hf-wearables-digital-health-10
+    name: Judging health and fitness apps
+  - id: hf-wearables-digital-health-11
+    name: Data privacy and security
+  - id: hf-wearables-digital-health-12
+    name: "When tracking backfires: obsession and orthosomnia"
+  - id: hf-wearables-digital-health-13
+    name: Telehealth and remote monitoring
+  - id: hf-wearables-digital-health-14
+    name: "Digital therapeutics and AI health tools: evidence and regulation"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-wearables-digital-health.json
+  sha256: e61fe35b860e6915c5a43d3659352464d065062a02bf81865c5e924711a94b69

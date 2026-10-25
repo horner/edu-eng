@@ -1,0 +1,46 @@
+id: hf-substance-use-harm-reduction
+name: "Alcohol, Tobacco & Other Substances: Health Effects and Harm Reduction"
+category: Preventive Health & Lifestyle Medicine
+level: 2
+priority: important
+summary: The health effects of alcohol, tobacco, vaping, cannabis and other drugs, and evidence-based ways to cut down, quit or reduce harm.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-pharmacology
+  - py-health-psychology
+  - py-substance-use-addiction
+topics:
+  - id: hf-substance-use-harm-reduction-1
+    name: Patterns of substance use and the basics of dependence
+  - id: hf-substance-use-harm-reduction-2
+    name: "Alcohol: units, low-risk drinking guidelines and the 'no safe level' debate"
+  - id: hf-substance-use-harm-reduction-3
+    name: Health effects of alcohol and binge drinking
+  - id: hf-substance-use-harm-reduction-4
+    name: Health effects of tobacco smoking
+  - id: hf-substance-use-harm-reduction-5
+    name: "E-cigarettes and vaping: what the evidence shows"
+  - id: hf-substance-use-harm-reduction-6
+    name: "Stopping smoking: behavioural support and stop-smoking medicines (overview)"
+  - id: hf-substance-use-harm-reduction-7
+    name: "Cannabis: health effects and risks"
+  - id: hf-substance-use-harm-reduction-8
+    name: Caffeine and energy drinks
+  - id: hf-substance-use-harm-reduction-9
+    name: "Prescription drug misuse: opioids and sedatives"
+  - id: hf-substance-use-harm-reduction-10
+    name: Recognising an opioid overdose and naloxone
+  - id: hf-substance-use-harm-reduction-11
+    name: Principles of harm reduction
+  - id: hf-substance-use-harm-reduction-12
+    name: Substances, sleep and exercise
+  - id: hf-substance-use-harm-reduction-13
+    name: Getting help and support services
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-substance-use-harm-reduction.json
+  sha256: e87eded1a01bd46b696d5c6af8a66a66b54b3e02bba6bc54c6cf33c708de4ea8

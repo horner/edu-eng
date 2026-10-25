@@ -1,0 +1,59 @@
+id: hf-macronutrients
+name: "Macronutrients: Carbohydrates, Proteins & Fats"
+category: Nutrition Science
+level: 2
+priority: core
+summary: The chemistry, functions, food sources and recommended intakes of carbohydrates, proteins, fats and alcohol.
+prerequisites:
+  - hf-nutrition-fundamentals
+  - bi-chemistry-of-life
+related:
+  - bi-biochemistry
+topics:
+  - id: hf-macronutrients-1
+    name: Carbohydrate types and structure
+    sub:
+      - id: hf-macronutrients-1-1
+        name: "Sugars: monosaccharides and disaccharides"
+      - id: hf-macronutrients-1-2
+        name: Starches and glycogen
+      - id: hf-macronutrients-1-3
+        name: Dietary fibre
+  - id: hf-macronutrients-2
+    name: Glycaemic index and glycaemic load
+  - id: hf-macronutrients-3
+    name: "Free and added sugars: sources, limits and health effects"
+  - id: hf-macronutrients-4
+    name: Fibre types (soluble, insoluble, fermentable) and their health effects
+  - id: hf-macronutrients-5
+    name: Protein structure, essential amino acids and protein quality (PDCAAS and DIAAS)
+  - id: hf-macronutrients-6
+    name: Protein requirements across life and activity levels
+  - id: hf-macronutrients-7
+    name: Plant and animal proteins compared
+  - id: hf-macronutrients-8
+    name: Lipids and fatty acids
+    sub:
+      - id: hf-macronutrients-8-1
+        name: Saturated fats
+      - id: hf-macronutrients-8-2
+        name: Monounsaturated and polyunsaturated fats
+      - id: hf-macronutrients-8-3
+        name: Trans fats
+  - id: hf-macronutrients-9
+    name: Omega-3 and omega-6 fatty acids
+  - id: hf-macronutrients-10
+    name: "Dietary cholesterol, saturated fat and blood lipids: the evidence"
+  - id: hf-macronutrients-11
+    name: Alcohol as a source of energy
+  - id: hf-macronutrients-12
+    name: Acceptable macronutrient distribution ranges
+  - id: hf-macronutrients-13
+    name: "Low-carbohydrate versus low-fat diets: what trials show"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-macronutrients.json
+  sha256: bca6b77e80b43a45ccdb80f43326d6ce5fc7ea359af96021925c3f516d3a0135

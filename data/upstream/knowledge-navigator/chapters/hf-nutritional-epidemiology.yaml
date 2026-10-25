@@ -1,0 +1,46 @@
+id: hf-nutritional-epidemiology
+name: Nutritional Epidemiology
+category: Nutrition Science
+level: 4
+priority: advanced
+summary: How diet-disease relationships are studied in populations, and why nutrition evidence is so often contested.
+prerequisites:
+  - hf-nutrition-assessment
+  - bi-epidemiology
+related:
+  - hf-research-methods-health-exercise
+  - ma-regression-analysis
+topics:
+  - id: hf-nutritional-epidemiology-1
+    name: "Landmark history: scurvy, pellagra and the Seven Countries Study"
+  - id: hf-nutritional-epidemiology-2
+    name: Study designs in nutritional epidemiology
+  - id: hf-nutritional-epidemiology-3
+    name: Measurement error in dietary exposure and how to correct for it
+  - id: hf-nutritional-epidemiology-4
+    name: Energy adjustment methods
+  - id: hf-nutritional-epidemiology-5
+    name: Confounding, reverse causation and healthy-user bias
+  - id: hf-nutritional-epidemiology-6
+    name: Biomarkers of intake
+  - id: hf-nutritional-epidemiology-7
+    name: "Dietary pattern analysis: indices such as HEI and Mediterranean scores, and data-driven patterns"
+  - id: hf-nutritional-epidemiology-8
+    name: Mendelian randomisation in nutrition
+  - id: hf-nutritional-epidemiology-9
+    name: "Large nutrition trials and their limits: PREDIMED, WHI and others"
+  - id: hf-nutritional-epidemiology-10
+    name: Dose-response meta-analysis
+  - id: hf-nutritional-epidemiology-11
+    name: "Case studies of contested questions: salt, saturated fat, red meat and eggs"
+  - id: hf-nutritional-epidemiology-12
+    name: "Precision nutrition and nutrigenomics: what the evidence supports"
+  - id: hf-nutritional-epidemiology-13
+    name: "From evidence to guidelines: setting reference values and grading evidence"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-nutritional-epidemiology.json
+  sha256: 3370c68cbb6ce5cd74c0fe67fdadb7e9a8347aee268ff52bac951db87f0db44d

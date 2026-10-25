@@ -1,0 +1,46 @@
+id: mk-crm-marketing-automation
+name: CRM & Marketing Automation
+category: Digital Marketing
+level: 3
+priority: important
+summary: Managing customer data and automating personalised, triggered communication across the life cycle and between marketing and sales.
+prerequisites:
+  - mk-email-lifecycle-marketing
+  - mk-retention-loyalty
+related:
+  - mk-revenue-operations
+  - cs-databases
+topics:
+  - id: mk-crm-marketing-automation-1
+    name: "What CRM is: strategy, process and software"
+  - id: mk-crm-marketing-automation-2
+    name: "Customer data models: contacts, accounts, events"
+  - id: mk-crm-marketing-automation-3
+    name: Data quality, deduplication and enrichment
+  - id: mk-crm-marketing-automation-4
+    name: Marketing automation platforms and how they work
+  - id: mk-crm-marketing-automation-5
+    name: Triggered journeys and workflow design
+  - id: mk-crm-marketing-automation-6
+    name: Lead capture, lead scoring and lead routing
+  - id: mk-crm-marketing-automation-7
+    name: Lead nurturing
+  - id: mk-crm-marketing-automation-8
+    name: Marketing-to-sales handover and lifecycle stages
+  - id: mk-crm-marketing-automation-9
+    name: Personalisation and next-best-action
+  - id: mk-crm-marketing-automation-10
+    name: Customer data platforms
+  - id: mk-crm-marketing-automation-11
+    name: Integrations and data flows
+  - id: mk-crm-marketing-automation-12
+    name: Measuring automated programmes
+  - id: mk-crm-marketing-automation-13
+    name: Governance, permissions and consent management
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-crm-marketing-automation.json
+  sha256: 5b6fc58d16c1d6f6ba7c1de1d258fd3ce7d18a0b371bc7b56e4c26f846ea7038

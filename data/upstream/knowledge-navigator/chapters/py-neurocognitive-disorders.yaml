@@ -1,0 +1,44 @@
+id: py-neurocognitive-disorders
+name: "Neurocognitive Disorders: Dementia, Delirium & Brain Injury"
+category: Mental Health & Psychopathology
+level: 3
+priority: advanced
+summary: "Dementias, delirium and acquired brain injury from a psychological point of view: symptoms, assessment, care and support for families."
+prerequisites:
+  - py-psychopathology-foundations
+  - py-cognitive-neuroscience-for-psychologists
+related:
+  - bi-neurobiology-of-disease
+  - hf-healthy-aging-longevity
+topics:
+  - id: py-neurocognitive-disorders-1
+    name: Normal ageing vs mild cognitive impairment vs dementia
+  - id: py-neurocognitive-disorders-2
+    name: "Alzheimer's disease: symptoms, stages and biomarkers"
+  - id: py-neurocognitive-disorders-3
+    name: Vascular, Lewy body and frontotemporal dementias
+  - id: py-neurocognitive-disorders-4
+    name: "Delirium: recognition and prevention"
+  - id: py-neurocognitive-disorders-5
+    name: Traumatic brain injury and concussion
+  - id: py-neurocognitive-disorders-6
+    name: Stroke and its cognitive and emotional effects
+  - id: py-neurocognitive-disorders-7
+    name: "Parkinson's and Huntington's disease: cognitive and psychiatric features"
+  - id: py-neurocognitive-disorders-8
+    name: Cognitive screening tools and their limits
+  - id: py-neurocognitive-disorders-9
+    name: Behavioural and psychological symptoms of dementia
+  - id: py-neurocognitive-disorders-10
+    name: "Non-drug interventions: cognitive stimulation and person-centred care"
+  - id: py-neurocognitive-disorders-11
+    name: Supporting family carers
+  - id: py-neurocognitive-disorders-12
+    name: Modifiable risk factors for dementia
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-neurocognitive-disorders.json
+  sha256: 311d46c084763cf09bb0760ee42345706f17068f61b4dc1f01195712da3f9602

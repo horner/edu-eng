@@ -1,0 +1,45 @@
+id: hf-food-systems-sustainable-diets
+name: Food Systems & Sustainable Diets
+category: Public & Global Health
+level: 3
+priority: advanced
+summary: How food is produced, distributed and consumed, and how diets can be both healthy and environmentally sustainable.
+prerequisites:
+  - hf-public-health-nutrition
+related:
+  - ea-climate-change-impacts-mitigation-adaptation
+  - bi-plant-agricultural-biotech
+topics:
+  - id: hf-food-systems-sustainable-diets-1
+    name: The food-systems framework
+  - id: hf-food-systems-sustainable-diets-2
+    name: "Environmental footprints of foods: greenhouse gases, land and water"
+  - id: hf-food-systems-sustainable-diets-3
+    name: The EAT-Lancet planetary health diet
+  - id: hf-food-systems-sustainable-diets-4
+    name: "Animal and plant proteins: health and sustainability"
+  - id: hf-food-systems-sustainable-diets-5
+    name: Food loss and waste
+  - id: hf-food-systems-sustainable-diets-6
+    name: "Alternative proteins: plant-based meat, cultivated meat and insects"
+  - id: hf-food-systems-sustainable-diets-7
+    name: Fisheries and aquaculture
+  - id: hf-food-systems-sustainable-diets-8
+    name: Agricultural practices and nutrition
+  - id: hf-food-systems-sustainable-diets-9
+    name: Climate change and food security
+  - id: hf-food-systems-sustainable-diets-10
+    name: Food sovereignty and food culture
+  - id: hf-food-systems-sustainable-diets-11
+    name: The food industry and ultra-processed foods
+  - id: hf-food-systems-sustainable-diets-12
+    name: Policy levers for sustainable diets
+  - id: hf-food-systems-sustainable-diets-13
+    name: Sustainable eating at home
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-food-systems-sustainable-diets.json
+  sha256: 7e7033997ac4a942b211231915265604f762c4d68f31f692a9021de396a42d0e

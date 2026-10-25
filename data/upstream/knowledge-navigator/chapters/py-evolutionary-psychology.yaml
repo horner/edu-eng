@@ -1,0 +1,51 @@
+id: py-evolutionary-psychology
+name: Evolutionary Psychology
+category: Biological Bases of Behaviour
+level: 3
+priority: important
+summary: Explaining human behaviour in terms of the evolutionary pressures that shaped the mind, together with the main criticisms of that approach.
+prerequisites:
+  - py-biological-psychology
+related:
+  - bi-evolutionary-biology
+  - bi-human-evolution
+  - bi-animal-behavior
+topics:
+  - id: py-evolutionary-psychology-1
+    name: Natural and sexual selection applied to behaviour
+  - id: py-evolutionary-psychology-2
+    name: "Levels of explanation: proximate vs ultimate causes (Tinbergen's four questions)"
+  - id: py-evolutionary-psychology-3
+    name: Adaptations, by-products and noise; the environment of evolutionary adaptedness
+  - id: py-evolutionary-psychology-4
+    name: Mate choice, attraction and sexual strategies
+  - id: py-evolutionary-psychology-5
+    name: Kin selection, parental investment and family conflict
+  - id: py-evolutionary-psychology-6
+    name: Cooperation, reciprocity and the evolution of morality
+  - id: py-evolutionary-psychology-7
+    name: Evolution of emotions and fear (preparedness)
+  - id: py-evolutionary-psychology-8
+    name: Evolution of cognition, language and culture
+  - id: py-evolutionary-psychology-9
+    name: Status, competition and aggression
+  - id: py-evolutionary-psychology-10
+    name: Evolutionary mismatch and modern health (diet, anxiety, sleep)
+  - id: py-evolutionary-psychology-11
+    name: Critiques and limits
+    sub:
+      - id: py-evolutionary-psychology-11-1
+        name: Just-so stories and testability
+      - id: py-evolutionary-psychology-11-2
+        name: Massive modularity debate
+      - id: py-evolutionary-psychology-11-3
+        name: Culture, gene-culture coevolution and human behavioural ecology
+  - id: py-evolutionary-psychology-12
+    name: Evolutionary approaches to mental disorder
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-evolutionary-psychology.json
+  sha256: b774055378d572f43bca03a3cef26e61bbc4e45168716cb7f9c4b8e899ec344c

@@ -1,0 +1,33 @@
+id: ma-dimensionality-reduction
+name: Dimensionality Reduction
+category: Machine Learning & Data Science Mathematics
+level: 3
+priority: advanced
+summary: "Finding low-dimensional structure in high-dimensional data: PCA, manifold learning, t-SNE and autoencoders."
+prerequisites:
+  - ma-multivariate-statistics
+  - ma-foundations-of-machine-learning
+related:
+  - ai-data-preprocessing-feature-engineering
+topics:
+  - id: ma-dimensionality-reduction-1
+    name: PCA
+  - id: ma-dimensionality-reduction-5
+    name: Random projections and Johnson-Lindenstrauss
+  - id: ma-dimensionality-reduction-6
+    name: Multidimensional scaling
+  - id: ma-dimensionality-reduction-2
+    name: Manifold learning
+  - id: ma-dimensionality-reduction-3
+    name: t-SNE
+  - id: ma-dimensionality-reduction-7
+    name: UMAP
+  - id: ma-dimensionality-reduction-4
+    name: Autoencoders
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-dimensionality-reduction.json
+  sha256: d491a210913dbe6e98b990e2d0f27a217077e6707d4807ca9a395730ee31257f

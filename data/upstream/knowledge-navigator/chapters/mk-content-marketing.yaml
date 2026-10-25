@@ -1,0 +1,45 @@
+id: mk-content-marketing
+name: Content Marketing
+category: Digital Marketing
+level: 2
+priority: important
+summary: Planning, creating and distributing useful content that attracts and keeps an audience and supports business goals.
+prerequisites:
+  - mk-digital-marketing
+  - mk-copywriting-storytelling
+related:
+  - mk-search-engine-optimization
+topics:
+  - id: mk-content-marketing-1
+    name: What content marketing is and when it works
+  - id: mk-content-marketing-2
+    name: Audience research and content-market fit
+  - id: mk-content-marketing-3
+    name: Content strategy and editorial mission
+  - id: mk-content-marketing-4
+    name: Content mapped to the customer journey
+  - id: mk-content-marketing-5
+    name: "Formats: articles, guides, video, podcasts, newsletters, tools"
+  - id: mk-content-marketing-6
+    name: Editorial calendars and production workflows
+  - id: mk-content-marketing-7
+    name: Content distribution and promotion
+  - id: mk-content-marketing-8
+    name: Repurposing and content systems
+  - id: mk-content-marketing-9
+    name: Gated content and lead generation
+  - id: mk-content-marketing-10
+    name: Inbound marketing methodology
+  - id: mk-content-marketing-11
+    name: Content governance and style guides
+  - id: mk-content-marketing-12
+    name: Measuring content performance
+  - id: mk-content-marketing-13
+    name: "AI-assisted content: quality, originality and disclosure"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-content-marketing.json
+  sha256: a92f33d0622e6955ab167c19fbf4695a9d0d86c3f036f0eeb2fa8639d24c5cb5

@@ -1,0 +1,35 @@
+id: ma-dynamic-programming
+name: Dynamic Programming
+category: Optimization & Control Theory
+level: 3
+priority: important
+summary: "Solving sequential decision problems by breaking them into stages: Bellman equations, Markov decision processes, value and policy iteration."
+prerequisites:
+  - ma-stochastic-processes
+related:
+  - ai-dynamic-programming
+  - cs-algorithms
+topics:
+  - id: ma-dynamic-programming-4
+    name: Principle of optimality
+  - id: ma-dynamic-programming-5
+    name: Deterministic dynamic programming
+  - id: ma-dynamic-programming-6
+    name: Markov decision processes
+  - id: ma-dynamic-programming-1
+    name: Bellman equations
+  - id: ma-dynamic-programming-2
+    name: Value iteration
+  - id: ma-dynamic-programming-3
+    name: Policy iteration
+  - id: ma-dynamic-programming-7
+    name: Linear-quadratic regulator
+  - id: ma-dynamic-programming-8
+    name: Approximate dynamic programming
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-dynamic-programming.json
+  sha256: 01b1f7514aadec6c74178f84ba7198f1b04cb5917919a830cc49beb1c11e711c

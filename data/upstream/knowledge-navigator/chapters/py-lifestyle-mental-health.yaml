@@ -1,0 +1,46 @@
+id: py-lifestyle-mental-health
+name: "Lifestyle & Mental Health: Exercise, Diet, Nature & Routine"
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: important
+summary: What evidence shows about physical activity, food, sleep, nature, substances and daily routine as ways to protect and improve mental health.
+prerequisites:
+  - py-mental-health-literacy
+related:
+  - hf-exercise-fundamentals
+  - hf-nutrition-fundamentals
+  - hf-sleep-science
+  - bi-microbiome
+  - hf-lifestyle-medicine
+topics:
+  - id: py-lifestyle-mental-health-1
+    name: Lifestyle psychiatry and the limits of lifestyle advice
+  - id: py-lifestyle-mental-health-2
+    name: "Exercise for depression and anxiety: what trials show"
+  - id: py-lifestyle-mental-health-3
+    name: How much and what kind of activity helps mood
+  - id: py-lifestyle-mental-health-4
+    name: "Diet and mental health: the SMILES trial and nutritional psychiatry"
+  - id: py-lifestyle-mental-health-5
+    name: "The gut-brain axis: early evidence and hype"
+  - id: py-lifestyle-mental-health-6
+    name: "Supplements (omega-3, vitamin D, St John's wort): evidence and interactions"
+  - id: py-lifestyle-mental-health-7
+    name: Sleep as a pillar of mental health
+  - id: py-lifestyle-mental-health-8
+    name: Alcohol, caffeine, nicotine and cannabis effects on mood and anxiety
+  - id: py-lifestyle-mental-health-9
+    name: Nature, green and blue space
+  - id: py-lifestyle-mental-health-10
+    name: Daily routine, structure and behavioural activation
+  - id: py-lifestyle-mental-health-11
+    name: Social prescribing
+  - id: py-lifestyle-mental-health-12
+    name: Combining lifestyle changes with professional treatment
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-lifestyle-mental-health.json
+  sha256: 5d641fc0766059f428c039615881ee33629294ee9c1084484af752942a870718

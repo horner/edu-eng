@@ -1,0 +1,56 @@
+id: be-active-ingredients
+name: Active Ingredients & Evidence-Based Anti-Ageing Skincare
+category: Skincare Practice & Active Ingredients
+level: 2
+priority: core
+summary: The main active skincare ingredients, how they work, what the evidence shows, how to combine them safely, and how to build an anti-ageing routine.
+prerequisites:
+  - be-cleansers-moisturisers-exfoliation
+  - be-sun-protection-photoaging
+related:
+  - bi-pharmacology
+topics:
+  - id: be-active-ingredients-1
+    name: 'Cosmetics, cosmeceuticals and drugs: what "active" means'
+  - id: be-active-ingredients-2
+    name: Retinoids
+    sub:
+      - id: be-active-ingredients-2-1
+        name: Retinol, retinal and retinyl esters
+      - id: be-active-ingredients-2-2
+        name: Adapalene and prescription retinoids
+      - id: be-active-ingredients-2-3
+        name: Retinisation, irritation and buffering
+      - id: be-active-ingredients-2-4
+        name: Pregnancy and retinoids
+  - id: be-active-ingredients-3
+    name: "Vitamin C: forms, stability and evidence"
+  - id: be-active-ingredients-4
+    name: Niacinamide
+  - id: be-active-ingredients-5
+    name: Hydroxy acids as anti-ageing actives
+  - id: be-active-ingredients-6
+    name: "Peptides and growth factors: evidence and limits"
+  - id: be-active-ingredients-7
+    name: "Antioxidants: vitamin E, ferulic acid, resveratrol, green tea"
+  - id: be-active-ingredients-8
+    name: Azelaic acid and other multi-purpose actives
+  - id: be-active-ingredients-9
+    name: Bakuchiol and botanical alternatives
+  - id: be-active-ingredients-10
+    name: "Exosomes, stem-cell extracts and other trend ingredients: claims versus evidence"
+  - id: be-active-ingredients-11
+    name: "Combining actives: compatible and conflicting pairings"
+  - id: be-active-ingredients-12
+    name: "Concentration, pH and formulation: why the product matters as much as the ingredient"
+  - id: be-active-ingredients-13
+    name: "Building an evidence-based anti-ageing routine: sunscreen, retinoid, antioxidant, moisturiser"
+  - id: be-active-ingredients-14
+    name: Purging, irritation and when to stop
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-active-ingredients.json
+  sha256: 1d259e61e0619d8d4ef7f61c00a39596d167516daca7d6f9ae95a10d641e51cc

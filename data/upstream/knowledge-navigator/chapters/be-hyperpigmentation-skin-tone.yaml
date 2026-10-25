@@ -1,0 +1,52 @@
+id: be-hyperpigmentation-skin-tone
+name: Hyperpigmentation, Melasma & Uneven Skin Tone
+category: Skin Conditions & Concerns
+level: 2
+priority: core
+summary: Why dark spots and patches form, how they differ across skin tones, and which treatments are safe and effective.
+prerequisites:
+  - be-skin-types-skin-of-colour
+related: []
+topics:
+  - id: be-hyperpigmentation-skin-tone-1
+    name: Melanin production and why pigment builds up
+  - id: be-hyperpigmentation-skin-tone-2
+    name: Post-inflammatory hyperpigmentation (PIH) and post-inflammatory erythema
+  - id: be-hyperpigmentation-skin-tone-3
+    name: "Melasma: hormones, light and heat"
+  - id: be-hyperpigmentation-skin-tone-4
+    name: Sun spots (solar lentigines) and freckles
+  - id: be-hyperpigmentation-skin-tone-5
+    name: Dark circles, underarm and inner-thigh darkening, and acanthosis nigricans
+  - id: be-hyperpigmentation-skin-tone-6
+    name: "Hypopigmentation and vitiligo: recognising them"
+  - id: be-hyperpigmentation-skin-tone-7
+    name: "Sun protection and visible light: the role of tinted sunscreens and iron oxides"
+  - id: be-hyperpigmentation-skin-tone-8
+    name: Brightening and depigmenting ingredients
+    sub:
+      - id: be-hyperpigmentation-skin-tone-8-1
+        name: Azelaic acid and kojic acid
+      - id: be-hyperpigmentation-skin-tone-8-2
+        name: Vitamin C, niacinamide and tranexamic acid
+      - id: be-hyperpigmentation-skin-tone-8-3
+        name: Retinoids and hydroxy acids
+      - id: be-hyperpigmentation-skin-tone-8-4
+        name: Arbutin, liquorice and other botanicals
+      - id: be-hyperpigmentation-skin-tone-8-5
+        name: "Hydroquinone: regulation and medical use"
+  - id: be-hyperpigmentation-skin-tone-9
+    name: "Dangerous skin lighteners: mercury, high-dose steroids and illegal products"
+  - id: be-hyperpigmentation-skin-tone-10
+    name: Procedures for pigment and their risks in darker skin
+  - id: be-hyperpigmentation-skin-tone-11
+    name: Realistic timelines and maintenance
+  - id: be-hyperpigmentation-skin-tone-12
+    name: "When to see a dermatologist: changing or irregular spots"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-hyperpigmentation-skin-tone.json
+  sha256: a324bf3be6c98fa45191c84c2b8dd61eae016d09c985ac08691fe5551b0e867f

@@ -1,0 +1,41 @@
+id: py-psychosis-schizophrenia
+name: Psychosis & Schizophrenia
+category: Mental Health & Psychopathology
+level: 3
+priority: important
+summary: "Psychotic experiences and disorders: symptoms, causes, early intervention, treatment and recovery."
+prerequisites:
+  - py-psychopathology-foundations
+related: []
+topics:
+  - id: py-psychosis-schizophrenia-1
+    name: "Psychotic experiences: hallucinations, delusions and disorganisation"
+  - id: py-psychosis-schizophrenia-2
+    name: The psychosis continuum in the general population
+  - id: py-psychosis-schizophrenia-3
+    name: "Schizophrenia: positive, negative and cognitive symptoms"
+  - id: py-psychosis-schizophrenia-4
+    name: Schizoaffective, delusional and brief psychotic disorders
+  - id: py-psychosis-schizophrenia-5
+    name: "Causes: genetics, neurodevelopment, dopamine and glutamate"
+  - id: py-psychosis-schizophrenia-6
+    name: "Social risk factors: urbanicity, migration, adversity and cannabis"
+  - id: py-psychosis-schizophrenia-7
+    name: Cognitive models of psychosis
+  - id: py-psychosis-schizophrenia-8
+    name: Early intervention and the at-risk mental state
+  - id: py-psychosis-schizophrenia-9
+    name: "Antipsychotic medication: benefits and side effects"
+  - id: py-psychosis-schizophrenia-10
+    name: CBT for psychosis, family interventions and Open Dialogue
+  - id: py-psychosis-schizophrenia-11
+    name: Recovery, hearing voices groups and peer support
+  - id: py-psychosis-schizophrenia-12
+    name: Physical health and stigma in severe mental illness
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychosis-schizophrenia.json
+  sha256: 1984bfdb57513286e9a209128f36d4b9e1e7ae70d9530526aa18d410c5d9b8b2

@@ -1,0 +1,43 @@
+id: ma-enumerative-combinatorics
+name: Enumerative Combinatorics
+category: Combinatorics & Discrete Mathematics
+level: 3
+priority: important
+summary: "Systematic counting: permutations, inclusion-exclusion, recurrences, generating functions and partitions."
+prerequisites:
+  - ma-discrete-mathematics
+  - ma-sequences-series
+related: []
+topics:
+  - id: ma-enumerative-combinatorics-1
+    name: Permutations and combinations
+  - id: ma-enumerative-combinatorics-5
+    name: Binomial and multinomial coefficients
+  - id: ma-enumerative-combinatorics-6
+    name: Inclusion-exclusion and derangements
+  - id: ma-enumerative-combinatorics-3
+    name: Recurrence relations
+  - id: ma-enumerative-combinatorics-2
+    name: Generating functions
+    sub:
+      - id: ma-enumerative-combinatorics-2-1
+        name: Ordinary generating functions
+      - id: ma-enumerative-combinatorics-2-2
+        name: Exponential generating functions
+  - id: ma-enumerative-combinatorics-7
+    name: Catalan numbers and lattice paths
+  - id: ma-enumerative-combinatorics-8
+    name: Stirling and Bell numbers
+  - id: ma-enumerative-combinatorics-4
+    name: Partition theory
+  - id: ma-enumerative-combinatorics-9
+    name: "Counting under symmetry: Burnside's lemma and Polya enumeration"
+  - id: ma-enumerative-combinatorics-10
+    name: Asymptotic enumeration (introduction)
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-enumerative-combinatorics.json
+  sha256: 6de09ea93c66c9196e99981812eb96bec175a8ab37c6e43ea29882bc62e8e814

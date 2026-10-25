@@ -1,0 +1,49 @@
+id: be-hair-removal
+name: "Hair Removal: Shaving, Waxing, Lasers & Electrolysis"
+category: Body Care & Grooming
+level: 2
+priority: important
+summary: Every main hair-removal method, how it works, its results and risks, and which suits different hair and skin types.
+prerequisites:
+  - be-hair-scalp-science
+related:
+  - ph-laser-physics
+topics:
+  - id: be-hair-removal-1
+    name: Hair growth and why removed hair returns
+  - id: be-hair-removal-2
+    name: Shaving
+    sub:
+      - id: be-hair-removal-2-1
+        name: Blades, razors and shaving preparations
+      - id: be-hair-removal-2-2
+        name: Razor burn and razor bumps (pseudofolliculitis barbae)
+      - id: be-hair-removal-2-3
+        name: Shaving curly hair and darker skin
+  - id: be-hair-removal-3
+    name: "Depilatory creams: thioglycolate chemistry and irritation"
+  - id: be-hair-removal-4
+    name: "Waxing and sugaring: methods, safety and aftercare"
+  - id: be-hair-removal-5
+    name: Threading and tweezing
+  - id: be-hair-removal-6
+    name: Epilators
+  - id: be-hair-removal-7
+    name: "Laser hair removal: selective photothermolysis and skin type"
+  - id: be-hair-removal-8
+    name: Intense pulsed light (IPL), including home devices
+  - id: be-hair-removal-9
+    name: "Electrolysis: permanent hair removal"
+  - id: be-hair-removal-10
+    name: "Ingrown hairs: prevention and care"
+  - id: be-hair-removal-11
+    name: Hair removal for sensitive areas
+  - id: be-hair-removal-12
+    name: "Unwanted facial hair: hirsutism, PCOS and when to see a doctor"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-hair-removal.json
+  sha256: c698c58c77bb6a4c55699acdd442f4d75d978b357296b26307fb095ca64bf881

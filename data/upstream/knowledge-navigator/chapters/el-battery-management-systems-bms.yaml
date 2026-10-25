@@ -1,0 +1,34 @@
+id: el-battery-management-systems-bms
+name: Battery Management Systems (BMS)
+category: Power Electronics & Power Management
+level: 3
+priority: important
+summary: "Monitoring and protecting battery packs: cell voltage and current sensing, state-of-charge and state-of-health estimation, balancing and protection."
+prerequisites:
+  - el-battery-technologies
+  - el-embedded-systems-fundamentals
+related: []
+topics:
+  - id: el-battery-management-systems-bms-1
+    name: Cell voltage monitoring
+  - id: el-battery-management-systems-bms-2
+    name: Current sensing
+  - id: el-battery-management-systems-bms-3
+    name: State of Charge (SoC) estimation
+  - id: el-battery-management-systems-bms-4
+    name: State of Health (SoH) monitoring
+  - id: el-battery-management-systems-bms-5
+    name: Cell balancing (passive, active)
+  - id: el-battery-management-systems-bms-6
+    name: Temperature monitoring
+  - id: el-battery-management-systems-bms-7
+    name: Charge and discharge control
+  - id: el-battery-management-systems-bms-8
+    name: Protection circuits (overcurrent, overvoltage, undervoltage, thermal)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-battery-management-systems-bms.json
+  sha256: ef5db7e8aba6fd45cdd8183c5439ae1042abc3297fef33fedc4a5135ad9b9e60

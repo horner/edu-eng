@@ -1,0 +1,44 @@
+id: hf-introduction-to-health-wellness
+name: Foundations of Health & Wellness
+category: Foundations of Health & Wellness
+level: 1
+priority: core
+summary: What health and wellness mean, what most affects how long and how well people live, and how the parts of a healthy life fit together.
+prerequisites: []
+related:
+  - py-introduction-to-psychology
+  - py-positive-psychology-wellbeing
+topics:
+  - id: hf-introduction-to-health-wellness-1
+    name: "Defining health: the WHO definition and the biopsychosocial model"
+  - id: hf-introduction-to-health-wellness-2
+    name: "Dimensions of wellness: physical, mental, social, environmental and others"
+  - id: hf-introduction-to-health-wellness-3
+    name: Life expectancy versus healthy life expectancy
+  - id: hf-introduction-to-health-wellness-4
+    name: Leading causes of death and disability worldwide and the rise of non-communicable diseases
+  - id: hf-introduction-to-health-wellness-5
+    name: "Modifiable risk factors: tobacco, diet, physical inactivity, alcohol and their combined effect"
+  - id: hf-introduction-to-health-wellness-6
+    name: "Physical activity and health: a first look"
+  - id: hf-introduction-to-health-wellness-7
+    name: "Food, nutrition and health: a first look"
+  - id: hf-introduction-to-health-wellness-8
+    name: Sleep, stress and recovery as health behaviours
+  - id: hf-introduction-to-health-wellness-9
+    name: Social connection, loneliness and physical health
+  - id: hf-introduction-to-health-wellness-10
+    name: How mental and physical health interact
+  - id: hf-introduction-to-health-wellness-11
+    name: Where health information comes from and why quality varies
+  - id: hf-introduction-to-health-wellness-12
+    name: Setting realistic personal health goals
+  - id: hf-introduction-to-health-wellness-13
+    name: "Red flags: symptoms and situations that need a health professional"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-introduction-to-health-wellness.json
+  sha256: 8cef9f1a0db33de745f98156c4439458da05dc75710e6a61a0fd6dd7145f39b6

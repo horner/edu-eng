@@ -1,0 +1,34 @@
+id: el-sensor-fusion
+name: Sensor Fusion
+category: Sensors, Transducers & Actuators
+level: 3
+priority: important
+summary: Combining sensors into better estimates with complementary, Kalman (EKF/UKF), Madgwick/Mahony and particle filters.
+prerequisites:
+  - el-inertial-sensors
+  - el-signal-processing-fundamentals
+  - ma-probability-theory
+related:
+  - ai-probabilistic-ai
+  - ae-estimation-kalman-filtering
+  - ai-actuators-sensors
+topics:
+  - id: el-sensor-fusion-1
+    name: Kalman filtering (EKF, UKF)
+  - id: el-sensor-fusion-2
+    name: Complementary filters
+  - id: el-sensor-fusion-3
+    name: Madgwick and Mahony algorithms
+  - id: el-sensor-fusion-4
+    name: Particle filters
+  - id: el-sensor-fusion-5
+    name: Multi-sensor data fusion
+  - id: el-sensor-fusion-6
+    name: Sensor redundancy and voting
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-sensor-fusion.json
+  sha256: 1fed1ff696dbcbaa8432e2b16f5e2262454948407733765619ae319bbb5b06cc

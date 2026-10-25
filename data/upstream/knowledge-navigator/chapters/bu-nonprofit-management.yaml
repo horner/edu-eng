@@ -1,0 +1,44 @@
+id: bu-nonprofit-management
+name: Nonprofit & NGO Management
+category: Sectors, Careers & Professional Practice
+level: 3
+priority: advanced
+summary: "Running charities, NGOs and other mission-driven organisations: governance, funding, programmes and accountability."
+prerequisites:
+  - bu-principles-of-management
+  - bu-financial-accounting
+related:
+  - bu-social-entrepreneurship
+  - mk-nonprofit-social-marketing
+topics:
+  - id: bu-nonprofit-management-1
+    name: "The nonprofit sector: size, roles and legal forms across countries"
+  - id: bu-nonprofit-management-2
+    name: Mission, strategy and theory of change
+  - id: bu-nonprofit-management-3
+    name: Nonprofit boards and governance
+  - id: bu-nonprofit-management-4
+    name: "Fundraising: individual giving, major gifts and events"
+  - id: bu-nonprofit-management-5
+    name: Grants and institutional funding
+  - id: bu-nonprofit-management-6
+    name: Earned income and social enterprise models
+  - id: bu-nonprofit-management-7
+    name: Nonprofit financial management and fund accounting
+  - id: bu-nonprofit-management-8
+    name: Programme design, monitoring and evaluation
+  - id: bu-nonprofit-management-9
+    name: Volunteer management
+  - id: bu-nonprofit-management-10
+    name: Advocacy and campaigning
+  - id: bu-nonprofit-management-11
+    name: Accountability, transparency and regulation of charities
+  - id: bu-nonprofit-management-12
+    name: Partnerships with business and government
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-nonprofit-management.json
+  sha256: 8fc68b9c988c913e24183ff6a757d3d15217c486925ed45252392d054c9ed0ef

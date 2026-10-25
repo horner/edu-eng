@@ -1,0 +1,34 @@
+id: ph-advanced-theoretical-methods
+name: Advanced Theoretical Methods
+category: Mathematical & Computational Methods
+level: 4
+priority: advanced
+summary: "Advanced tools of theoretical physics: perturbative and variational methods, S-matrix, effective theories, RG and CFT."
+prerequisites:
+  - ph-mathematical-physics
+  - ph-advanced-quantum-mechanics
+related:
+  - ph-advanced-statistical-mechanics
+  - ma-asymptotic-methods
+topics:
+  - id: ph-advanced-theoretical-methods-1
+    name: Perturbation theory
+  - id: ph-advanced-theoretical-methods-2
+    name: Variational methods
+  - id: ph-advanced-theoretical-methods-3
+    name: Scattering theory
+  - id: ph-advanced-theoretical-methods-4
+    name: S-matrix theory
+  - id: ph-advanced-theoretical-methods-5
+    name: Effective theories
+  - id: ph-advanced-theoretical-methods-6
+    name: Renormalization group
+  - id: ph-advanced-theoretical-methods-7
+    name: Conformal field theory
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-advanced-theoretical-methods.json
+  sha256: c0296cbebc1523c5a67b188792f5abebaefab609121de945da43c45d24da721b

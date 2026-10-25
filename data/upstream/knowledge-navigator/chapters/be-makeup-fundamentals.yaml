@@ -1,0 +1,52 @@
+id: be-makeup-fundamentals
+name: Makeup & Colour Fundamentals
+category: Makeup & Colour
+level: 1
+priority: core
+summary: How to choose and apply everyday makeup, from colour theory and undertones to base, eyes, brows and lips, with good hygiene.
+prerequisites:
+  - be-skincare-fundamentals
+related: []
+topics:
+  - id: be-makeup-fundamentals-1
+    name: Colour theory for makeup
+    sub:
+      - id: be-makeup-fundamentals-1-1
+        name: The colour wheel, complementary colours and colour correcting
+      - id: be-makeup-fundamentals-1-2
+        name: Value, saturation and contrast
+      - id: be-makeup-fundamentals-1-3
+        name: "Undertones: warm, cool, neutral and olive"
+      - id: be-makeup-fundamentals-1-4
+        name: Lighting and how it changes colour
+  - id: be-makeup-fundamentals-2
+    name: Skin preparation and primers
+  - id: be-makeup-fundamentals-3
+    name: "Foundation: types, finishes and shade matching for every skin tone"
+  - id: be-makeup-fundamentals-4
+    name: Concealer and colour correction
+  - id: be-makeup-fundamentals-5
+    name: Setting powders and setting sprays
+  - id: be-makeup-fundamentals-6
+    name: Blush, bronzer, contour and highlight
+  - id: be-makeup-fundamentals-7
+    name: "Brows: shaping with products"
+  - id: be-makeup-fundamentals-8
+    name: "Eyes: eyeshadow, eyeliner and mascara"
+  - id: be-makeup-fundamentals-9
+    name: "Lips: liners, lipsticks, glosses and stains"
+  - id: be-makeup-fundamentals-10
+    name: "Tools: brushes, sponges and fingers"
+  - id: be-makeup-fundamentals-11
+    name: "Makeup hygiene: cleaning tools, sharing and expiry"
+  - id: be-makeup-fundamentals-12
+    name: Removing makeup properly
+  - id: be-makeup-fundamentals-13
+    name: A quick everyday look versus an evening look
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-makeup-fundamentals.json
+  sha256: f4396e9d68ebbe7712aeed88bef7a3a0fd6e28ba0b7bc3b094a0c000a2a8db78

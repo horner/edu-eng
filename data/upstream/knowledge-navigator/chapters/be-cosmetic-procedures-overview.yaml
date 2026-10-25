@@ -1,0 +1,50 @@
+id: be-cosmetic-procedures-overview
+name: Understanding Cosmetic Procedures & Choosing a Provider
+category: Aesthetic Procedures & Cosmetic Dermatology
+level: 2
+priority: core
+summary: A clear guide to the range of non-surgical and surgical cosmetic procedures, how they are regulated, how to choose a qualified provider, and how to decide whether a procedure is right for you.
+prerequisites:
+  - be-skin-biology
+  - be-evaluating-beauty-claims
+related:
+  - py-body-image-self-perception
+topics:
+  - id: be-cosmetic-procedures-overview-1
+    name: "The landscape: topical, non-invasive, minimally invasive and surgical procedures"
+  - id: be-cosmetic-procedures-overview-2
+    name: "Who may perform what: doctors, nurses, dentists, estheticians and unregulated practitioners"
+  - id: be-cosmetic-procedures-overview-3
+    name: How practitioners and procedures are regulated in different countries
+  - id: be-cosmetic-procedures-overview-4
+    name: Choosing a provider
+    sub:
+      - id: be-cosmetic-procedures-overview-4-1
+        name: Qualifications, registration and insurance
+      - id: be-cosmetic-procedures-overview-4-2
+        name: Questions to ask at a consultation
+      - id: be-cosmetic-procedures-overview-4-3
+        name: "Red flags: discounts, pressure, parties and social media offers"
+  - id: be-cosmetic-procedures-overview-5
+    name: Informed consent, cooling-off periods and realistic expectations
+  - id: be-cosmetic-procedures-overview-6
+    name: Costs, maintenance and the long-term view
+  - id: be-cosmetic-procedures-overview-7
+    name: "Medical and cosmetic tourism: risks"
+  - id: be-cosmetic-procedures-overview-8
+    name: "Complications: what can go wrong and what to do"
+  - id: be-cosmetic-procedures-overview-9
+    name: Psychological readiness and body dysmorphic disorder
+  - id: be-cosmetic-procedures-overview-10
+    name: "Procedures in skin of colour: specific risks"
+  - id: be-cosmetic-procedures-overview-11
+    name: Age limits and procedures for young people
+  - id: be-cosmetic-procedures-overview-12
+    name: Evaluating before-and-after photos and testimonials
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-cosmetic-procedures-overview.json
+  sha256: 105b46a6b44b11cf33a973fcc9bf4c23831eb0c939c9a473c2344b7a849d9641

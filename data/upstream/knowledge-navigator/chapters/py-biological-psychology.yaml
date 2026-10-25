@@ -1,0 +1,57 @@
+id: py-biological-psychology
+name: "Biological Psychology: Brain & Behaviour"
+category: Biological Bases of Behaviour
+level: 2
+priority: core
+summary: How neurons, brain systems, hormones and genes shape thought, feeling and behaviour, taught for psychology students.
+prerequisites:
+  - py-introduction-to-psychology
+  - bi-introductory-biology
+related:
+  - bi-neuroscience-fundamentals
+  - bi-behavioral-neuroscience
+  - bi-neuroanatomy
+topics:
+  - id: py-biological-psychology-1
+    name: "Why biology matters for psychology: brain, body and environment"
+  - id: py-biological-psychology-2
+    name: "Neurons and glia: structure and function"
+  - id: py-biological-psychology-3
+    name: Action potentials and synaptic transmission in outline
+  - id: py-biological-psychology-4
+    name: "Neurotransmitters and their behavioural roles: dopamine, serotonin, GABA, glutamate and others"
+  - id: py-biological-psychology-5
+    name: Organisation of the nervous system
+    sub:
+      - id: py-biological-psychology-5-1
+        name: Central and peripheral nervous systems
+      - id: py-biological-psychology-5-2
+        name: "Autonomic nervous system: fight-or-flight and rest-and-digest"
+  - id: py-biological-psychology-6
+    name: Brain structures and functions
+    sub:
+      - id: py-biological-psychology-6-1
+        name: Brainstem, cerebellum and limbic system
+      - id: py-biological-psychology-6-2
+        name: "Cerebral cortex: lobes and their functions"
+      - id: py-biological-psychology-6-3
+        name: Hemispheric specialisation and the split brain
+  - id: py-biological-psychology-7
+    name: Neuroplasticity and brain development
+  - id: py-biological-psychology-8
+    name: "The endocrine system: hormones, stress and behaviour"
+  - id: py-biological-psychology-9
+    name: Genes, environment and behaviour in outline
+  - id: py-biological-psychology-10
+    name: "How we study the brain: lesions, EEG, fMRI and brain stimulation"
+  - id: py-biological-psychology-11
+    name: "Brain damage and what it teaches: Phineas Gage, H.M. and aphasia"
+  - id: py-biological-psychology-12
+    name: Drugs and the brain in outline
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-biological-psychology.json
+  sha256: caa47a8df40e31729f37d06a5cc7133aa2e74e597eb73c4917746ee0bb10edd3

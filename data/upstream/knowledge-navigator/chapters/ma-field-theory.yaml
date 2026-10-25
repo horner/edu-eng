@@ -1,0 +1,42 @@
+id: ma-field-theory
+name: Field Theory
+category: Algebra
+level: 3
+priority: important
+summary: Field extensions and Galois theory, explaining which polynomial equations are solvable by radicals and which constructions are possible.
+prerequisites:
+  - ma-ring-theory
+related: []
+topics:
+  - id: ma-field-theory-1
+    name: Field extensions
+  - id: ma-field-theory-6
+    name: Algebraic extensions and minimal polynomials
+  - id: ma-field-theory-7
+    name: Ruler-and-compass constructions
+  - id: ma-field-theory-8
+    name: Splitting fields and normal extensions
+  - id: ma-field-theory-9
+    name: Separability
+  - id: ma-field-theory-4
+    name: Algebraic closures
+  - id: ma-field-theory-3
+    name: Finite fields
+  - id: ma-field-theory-2
+    name: Galois theory
+    sub:
+      - id: ma-field-theory-2-1
+        name: Fundamental theorem of Galois theory
+      - id: ma-field-theory-2-2
+        name: Solvability by radicals
+      - id: ma-field-theory-2-3
+        name: Cyclotomic extensions
+  - id: ma-field-theory-5
+    name: Transcendental extensions
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-field-theory.json
+  sha256: 6d9a2e22a15bf121d855e5e3f4c62bd4fed84bf376ad07bd244090faa73d0b47

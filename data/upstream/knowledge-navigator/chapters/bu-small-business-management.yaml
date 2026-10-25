@@ -1,0 +1,45 @@
+id: bu-small-business-management
+name: Running a Small Business
+category: Entrepreneurship & Startups
+level: 2
+priority: core
+summary: "Day-to-day management of a small or local business: customers, cash, staff, suppliers, compliance and growth."
+prerequisites:
+  - bu-entrepreneurship-startups
+related:
+  - bu-bookkeeping-basics
+  - mk-marketing-principles
+topics:
+  - id: bu-small-business-management-1
+    name: "Types of small business: lifestyle, local service, retail, trade and online"
+  - id: bu-small-business-management-2
+    name: Location, premises and leases
+  - id: bu-small-business-management-3
+    name: Licences, insurance and regulatory compliance
+  - id: bu-small-business-management-4
+    name: Pricing for profit in a small business
+  - id: bu-small-business-management-5
+    name: Cash flow management and avoiding cash crunches
+  - id: bu-small-business-management-6
+    name: "Credit control: invoicing, payment terms and late payers"
+  - id: bu-small-business-management-7
+    name: Working with banks and small-business loans
+  - id: bu-small-business-management-8
+    name: Hiring, managing and keeping staff
+  - id: bu-small-business-management-9
+    name: Suppliers, stock and inventory control
+  - id: bu-small-business-management-10
+    name: Customer service and local reputation
+  - id: bu-small-business-management-11
+    name: "Using simple digital tools: accounting, point-of-sale and booking systems"
+  - id: bu-small-business-management-12
+    name: Growing, adding locations or staying small
+  - id: bu-small-business-management-13
+    name: Succession planning, selling or closing a business
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-small-business-management.json
+  sha256: 4bb7066bcb10f2953fc77dc7b2076ef19b385ed5768a16fa2ffd89c301823135

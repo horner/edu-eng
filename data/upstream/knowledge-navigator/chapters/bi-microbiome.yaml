@@ -1,0 +1,36 @@
+id: bi-microbiome
+name: Microbiome Science
+category: Microbiology, Virology & Immunology
+level: 4
+priority: advanced
+summary: The communities of microbes living in and on hosts and environments, how they are studied and how they shape health and ecosystems.
+prerequisites:
+  - bi-microbiology
+  - bi-genomics
+related: []
+topics:
+  - id: bi-microbiome-1
+    name: "Microbiome concepts: composition, diversity and function"
+  - id: bi-microbiome-2
+    name: "Methods: 16S rRNA profiling, shotgun metagenomics and metatranscriptomics"
+  - id: bi-microbiome-3
+    name: The human gut microbiome in digestion, metabolism and immunity
+  - id: bi-microbiome-4
+    name: Microbiome development across the lifespan
+  - id: bi-microbiome-5
+    name: The gut-brain axis
+  - id: bi-microbiome-6
+    name: "Microbiome and disease: dysbiosis, causation versus correlation"
+  - id: bi-microbiome-7
+    name: Plant and soil microbiomes
+  - id: bi-microbiome-8
+    name: Ocean and environmental microbiomes
+  - id: bi-microbiome-9
+    name: "Microbiome engineering: probiotics, faecal transplants and designed communities"
+discipline: biology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/biology/bi-microbiome.json
+  sha256: 0f6ec9c692715abd64458e8965f0143f9a2d36f678761b1d1671daed006f9e57

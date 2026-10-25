@@ -1,0 +1,32 @@
+id: el-environmental-climate-monitoring
+name: Environmental & Climate Monitoring
+category: Medical, Industrial & Other Application Domains
+level: 3
+priority: optional
+summary: "Sensor networks for the planet: air and water quality, seismic and tsunami warning, wildfire detection, ice and wildlife monitoring."
+prerequisites:
+  - el-environmental-sensors
+  - el-long-range-wireless-lpwan
+related: []
+topics:
+  - id: el-environmental-climate-monitoring-1
+    name: Air quality monitoring networks
+  - id: el-environmental-climate-monitoring-2
+    name: Water quality monitoring
+  - id: el-environmental-climate-monitoring-3
+    name: Seismic sensors
+  - id: el-environmental-climate-monitoring-4
+    name: Tsunami warning systems
+  - id: el-environmental-climate-monitoring-5
+    name: Wildfire detection
+  - id: el-environmental-climate-monitoring-6
+    name: Glacier and ice monitoring
+  - id: el-environmental-climate-monitoring-7
+    name: Wildlife tracking
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-environmental-climate-monitoring.json
+  sha256: f0321c5d6f824d0b124fcdba3ef26581c555f24ce07efd9870d593da186fbb86

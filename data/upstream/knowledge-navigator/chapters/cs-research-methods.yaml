@@ -1,0 +1,36 @@
+id: cs-research-methods
+name: Research Methods in Computer Science
+category: Society, Ethics & Profession
+level: 4
+priority: optional
+summary: "How computer-science research is done and reported: reading papers, forming questions, experimental and user-study methods, reproducibility and publishing."
+prerequisites:
+  - cs-probability-statistics-for-cs
+  - cs-professional-practice
+related: []
+topics:
+  - id: cs-research-methods-1
+    name: Reading and reviewing research papers
+  - id: cs-research-methods-2
+    name: "Kinds of CS research: theoretical, empirical, systems and design"
+  - id: cs-research-methods-3
+    name: Formulating research questions and hypotheses
+  - id: cs-research-methods-4
+    name: Experimental design and benchmarking methodology
+  - id: cs-research-methods-5
+    name: Statistics for empirical computer science
+  - id: cs-research-methods-6
+    name: User studies and qualitative methods
+  - id: cs-research-methods-7
+    name: Reproducibility and artifact evaluation
+  - id: cs-research-methods-8
+    name: Writing papers and the publication process
+  - id: cs-research-methods-9
+    name: Research ethics
+discipline: cs
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/cs/cs-research-methods.json
+  sha256: 1f70b88097afe11599f094a190feb69c339d7cea7a9819736dc49f91e3448a55

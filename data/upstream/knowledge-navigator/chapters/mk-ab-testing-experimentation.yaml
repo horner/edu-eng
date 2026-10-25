@@ -1,0 +1,46 @@
+id: mk-ab-testing-experimentation
+name: A/B Testing & Marketing Experimentation
+category: Growth & Analytics
+level: 3
+priority: important
+summary: Designing, running and interpreting controlled experiments on websites, products, ads and emails.
+prerequisites:
+  - mk-web-product-analytics
+  - bu-business-statistics-analytics
+related:
+  - ma-experimental-design
+  - ma-inferential-statistics
+  - ai-ml-experimentation-evaluation
+  - bu-experimentation-ab-testing
+topics:
+  - id: mk-ab-testing-experimentation-1
+    name: "Why experiments: correlation versus causation"
+  - id: mk-ab-testing-experimentation-2
+    name: Hypotheses, primary metrics and guardrail metrics
+  - id: mk-ab-testing-experimentation-3
+    name: Randomisation units and sample ratio mismatch
+  - id: mk-ab-testing-experimentation-4
+    name: Statistical significance, power and minimum detectable effect
+  - id: mk-ab-testing-experimentation-5
+    name: Sample size and test duration
+  - id: mk-ab-testing-experimentation-6
+    name: Peeking, multiple testing and false discoveries
+  - id: mk-ab-testing-experimentation-7
+    name: Sequential and Bayesian approaches (overview)
+  - id: mk-ab-testing-experimentation-8
+    name: Multivariate tests and multi-armed bandits
+  - id: mk-ab-testing-experimentation-9
+    name: Novelty effects and long-term effects
+  - id: mk-ab-testing-experimentation-10
+    name: Geo experiments and holdout groups
+  - id: mk-ab-testing-experimentation-11
+    name: Building an experimentation programme and culture
+  - id: mk-ab-testing-experimentation-12
+    name: Experimentation ethics
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-ab-testing-experimentation.json
+  sha256: 22028d05d9cb94eed5662552d7b2da2d777bd46340238f413c7f78f264018b15

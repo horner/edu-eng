@@ -1,0 +1,47 @@
+id: hf-global-health
+name: Global Health
+category: Public & Global Health
+level: 3
+priority: important
+summary: The major health challenges facing the world's populations and the institutions and strategies that address them.
+prerequisites:
+  - hf-public-health-foundations
+related:
+  - bi-infectious-disease-pathogenesis
+  - py-global-public-mental-health
+topics:
+  - id: hf-global-health-1
+    name: The Global Burden of Disease study
+  - id: hf-global-health-2
+    name: The epidemiological transition
+  - id: hf-global-health-3
+    name: Sustainable Development Goal 3 and universal health coverage
+  - id: hf-global-health-4
+    name: Maternal, newborn and child health
+  - id: hf-global-health-5
+    name: HIV, tuberculosis, malaria and neglected tropical diseases
+  - id: hf-global-health-6
+    name: Non-communicable diseases in low- and middle-income countries
+  - id: hf-global-health-7
+    name: Water, sanitation and hygiene (WASH)
+  - id: hf-global-health-8
+    name: Global nutrition
+  - id: hf-global-health-9
+    name: "Pandemics and global health security: the International Health Regulations and lessons from COVID-19"
+  - id: hf-global-health-10
+    name: Strengthening health systems
+  - id: hf-global-health-11
+    name: "Global health organisations: WHO, Gavi and the Global Fund"
+  - id: hf-global-health-12
+    name: Humanitarian health
+  - id: hf-global-health-13
+    name: Migration and health
+  - id: hf-global-health-14
+    name: Ethics and equity in global health
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-global-health.json
+  sha256: 3ea7730ce1ae67d439dc50504f8a5f9260451ac7d79c0458619ccbf6bbfe09ee

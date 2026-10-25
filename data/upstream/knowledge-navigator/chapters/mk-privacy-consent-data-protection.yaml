@@ -1,0 +1,54 @@
+id: mk-privacy-consent-data-protection
+name: Privacy, Consent & Data Protection in Marketing
+category: Digital Marketing
+level: 3
+priority: important
+summary: The data protection and electronic marketing rules that govern personalised and digital marketing, and how to comply in practice.
+prerequisites:
+  - mk-marketing-law-regulation
+  - mk-digital-marketing
+related:
+  - cs-security-governance-privacy
+  - ai-privacy-in-ai
+  - bu-cybersecurity-privacy-for-managers
+topics:
+  - id: mk-privacy-consent-data-protection-1
+    name: Why privacy matters to customers and brands
+  - id: mk-privacy-consent-data-protection-2
+    name: GDPR principles for marketers
+    sub:
+      - id: mk-privacy-consent-data-protection-2-1
+        name: "Lawful bases: consent and legitimate interests"
+      - id: mk-privacy-consent-data-protection-2-2
+        name: Transparency and privacy notices
+      - id: mk-privacy-consent-data-protection-2-3
+        name: Data minimisation and retention
+      - id: mk-privacy-consent-data-protection-2-4
+        name: Data subject rights
+  - id: mk-privacy-consent-data-protection-3
+    name: "ePrivacy and PECR: email, SMS, calls and cookies"
+  - id: mk-privacy-consent-data-protection-4
+    name: Cookie banners and valid consent
+  - id: mk-privacy-consent-data-protection-5
+    name: "US privacy laws: CAN-SPAM, TCPA, state privacy laws (CCPA/CPRA)"
+  - id: mk-privacy-consent-data-protection-6
+    name: Consent management platforms and consent signals
+  - id: mk-privacy-consent-data-protection-7
+    name: Profiling, automated decisions and sensitive data
+  - id: mk-privacy-consent-data-protection-8
+    name: Children's data and age-appropriate design
+  - id: mk-privacy-consent-data-protection-9
+    name: International data transfers
+  - id: mk-privacy-consent-data-protection-10
+    name: "Privacy-enhancing technologies: clean rooms, aggregation, differential privacy"
+  - id: mk-privacy-consent-data-protection-11
+    name: Regulatory enforcement cases in marketing
+  - id: mk-privacy-consent-data-protection-12
+    name: Privacy by design in campaigns and martech
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-privacy-consent-data-protection.json
+  sha256: f9743344761cee3fa195bb841e0e4c47071ad35f8446dfc9b085eec5052b6623

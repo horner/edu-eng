@@ -1,0 +1,57 @@
+id: mk-brand-management
+name: Brand Management
+category: Brand & Strategy
+level: 3
+priority: core
+summary: Building, measuring and managing brand equity over time, from brand positioning and identity to brand architecture and extensions.
+prerequisites:
+  - mk-segmentation-targeting-positioning
+related:
+  - mk-brand-growth-marketing-science
+topics:
+  - id: mk-brand-management-1
+    name: What brands are and the value they create for buyers and firms
+  - id: mk-brand-management-2
+    name: "Customer-based brand equity: awareness and image"
+  - id: mk-brand-management-3
+    name: The brand resonance pyramid
+  - id: mk-brand-management-4
+    name: Brand positioning and the brand mantra
+  - id: mk-brand-management-5
+    name: "Choosing brand elements: names, logos, colours, slogans, packaging"
+  - id: mk-brand-management-6
+    name: Distinctive brand assets
+  - id: mk-brand-management-7
+    name: Building brand equity through product, price, channel and communications
+  - id: mk-brand-management-8
+    name: "Leveraging secondary associations: co-branding, licensing, endorsements, country of origin"
+  - id: mk-brand-management-9
+    name: "Branding in the digital era: online communities and brand content"
+  - id: mk-brand-management-10
+    name: Measuring brand equity
+    sub:
+      - id: mk-brand-management-10-1
+        name: Brand tracking and brand health
+      - id: mk-brand-management-10-2
+        name: Brand valuation methods
+      - id: mk-brand-management-10-3
+        name: The brand value chain
+  - id: mk-brand-management-11
+    name: "Brand architecture: branded house, house of brands and hybrids"
+  - id: mk-brand-management-12
+    name: Brand extensions and their risks
+  - id: mk-brand-management-13
+    name: "Managing brands over time: reinforcement, revitalisation and retirement"
+  - id: mk-brand-management-14
+    name: Corporate and employer branding
+  - id: mk-brand-management-15
+    name: "Global branding: standardisation versus adaptation"
+  - id: mk-brand-management-16
+    name: Brand crises and reputation recovery
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-brand-management.json
+  sha256: db1d89713028c5c5f9f15682d28eef92276893927b13f167f9774a9970218d9d

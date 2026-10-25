@@ -1,0 +1,55 @@
+id: py-multivariate-multilevel-sem
+name: "Multivariate Methods: Structural Equation, Multilevel & Longitudinal Models"
+category: Research Methods, Statistics & Measurement
+level: 4
+priority: advanced
+summary: "Graduate-level models for complex psychological data: latent variables, nested data and change over time."
+prerequisites:
+  - py-advanced-statistics-glm
+  - py-psychometrics-test-construction
+related:
+  - ma-multivariate-statistics
+  - ma-time-series-analysis
+  - ma-bayesian-statistics
+topics:
+  - id: py-multivariate-multilevel-sem-1
+    name: MANOVA, discriminant analysis and principal components
+  - id: py-multivariate-multilevel-sem-2
+    name: Structural equation modelling
+    sub:
+      - id: py-multivariate-multilevel-sem-2-1
+        name: Path analysis and model specification
+      - id: py-multivariate-multilevel-sem-2-2
+        name: Identification, estimation and fit indices
+      - id: py-multivariate-multilevel-sem-2-3
+        name: Latent variable models and measurement invariance
+  - id: py-multivariate-multilevel-sem-3
+    name: Multilevel (mixed-effects) models
+    sub:
+      - id: py-multivariate-multilevel-sem-3-1
+        name: Random intercepts and slopes
+      - id: py-multivariate-multilevel-sem-3-2
+        name: Crossed random effects for participants and items
+  - id: py-multivariate-multilevel-sem-4
+    name: "Longitudinal models: growth curves and latent change"
+  - id: py-multivariate-multilevel-sem-5
+    name: "Intensive longitudinal data: experience sampling and dynamic models"
+  - id: py-multivariate-multilevel-sem-6
+    name: Latent class and latent profile analysis
+  - id: py-multivariate-multilevel-sem-7
+    name: "Missing data: mechanisms, multiple imputation and full information ML"
+  - id: py-multivariate-multilevel-sem-8
+    name: Power analysis and simulation for complex designs
+  - id: py-multivariate-multilevel-sem-9
+    name: Bayesian estimation of hierarchical models
+  - id: py-multivariate-multilevel-sem-10
+    name: Psychological network models
+  - id: py-multivariate-multilevel-sem-11
+    name: "Causal inference from observational data: DAGs and confounding"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-multivariate-multilevel-sem.json
+  sha256: 78bf60026b407fa6e31995a6bc2f3b15c689fee55e897a9058676b1b7c63ab5d

@@ -1,0 +1,43 @@
+id: mk-product-marketing
+name: Product Marketing
+category: Product, Price & Place
+level: 3
+priority: important
+summary: "The product marketer's job: positioning and messaging, launches, competitive intelligence, pricing input and sales enablement."
+prerequisites:
+  - mk-product-management
+  - mk-go-to-market-startups
+related:
+  - mk-b2b-marketing
+topics:
+  - id: mk-product-marketing-1
+    name: The product marketing role versus product management
+  - id: mk-product-marketing-2
+    name: Market and buyer insight for product decisions
+  - id: mk-product-marketing-3
+    name: Positioning frameworks and competitive alternatives
+  - id: mk-product-marketing-4
+    name: Messaging hierarchies and message testing
+  - id: mk-product-marketing-5
+    name: "Product launches: tiers, plans and readiness"
+  - id: mk-product-marketing-6
+    name: Competitive intelligence and battlecards
+  - id: mk-product-marketing-7
+    name: "Sales enablement: pitch decks, demos, case studies, objection handling"
+  - id: mk-product-marketing-8
+    name: Packaging and pricing input
+  - id: mk-product-marketing-9
+    name: "Customer evidence: case studies, references and reviews"
+  - id: mk-product-marketing-10
+    name: Adoption and expansion marketing for existing customers
+  - id: mk-product-marketing-11
+    name: Win-loss analysis
+  - id: mk-product-marketing-12
+    name: Product marketing for product-led growth
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-product-marketing.json
+  sha256: ada20208696c9c25b5be27b127a705d14440833dc5f2dce1af01a769b871173e

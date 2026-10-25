@@ -1,0 +1,39 @@
+id: py-attitudes-and-behaviour
+name: Attitudes & Behaviour
+category: Social Psychology & Behavioural Science
+level: 3
+priority: important
+summary: How attitudes form, are measured and change, and when they do and do not predict what people actually do.
+prerequisites:
+  - py-social-psychology
+related: []
+topics:
+  - id: py-attitudes-and-behaviour-1
+    name: Structure and functions of attitudes
+  - id: py-attitudes-and-behaviour-2
+    name: "Measuring attitudes: explicit scales and implicit measures"
+  - id: py-attitudes-and-behaviour-3
+    name: "Attitude formation: conditioning, mere exposure and self-perception"
+  - id: py-attitudes-and-behaviour-4
+    name: Cognitive dissonance theory and its alternatives
+  - id: py-attitudes-and-behaviour-5
+    name: "When attitudes predict behaviour: specificity, strength and accessibility"
+  - id: py-attitudes-and-behaviour-6
+    name: Theory of planned behaviour and the reasoned action approach
+  - id: py-attitudes-and-behaviour-7
+    name: The intention-behaviour gap
+  - id: py-attitudes-and-behaviour-8
+    name: Attitude change and resistance to persuasion
+  - id: py-attitudes-and-behaviour-9
+    name: Values, ideology and political attitudes
+  - id: py-attitudes-and-behaviour-10
+    name: Attitude polarisation and echo chambers
+  - id: py-attitudes-and-behaviour-11
+    name: Attitudes toward health, the environment and science
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-attitudes-and-behaviour.json
+  sha256: 4c6a4debc71cf4952e3098ac5c50570c3ac28ff77ff0467a6c25dba949ee355d

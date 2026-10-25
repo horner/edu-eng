@@ -1,0 +1,44 @@
+id: hf-flexibility-mobility
+name: Flexibility, Mobility & Stretching
+category: Fitness Training & Programme Design
+level: 2
+priority: important
+summary: What flexibility and mobility are, what stretching does and does not do, and how to build a routine.
+prerequisites:
+  - hf-exercise-fundamentals
+related:
+  - hf-functional-anatomy-kinesiology
+topics:
+  - id: hf-flexibility-mobility-1
+    name: "Flexibility, mobility and stability: definitions"
+  - id: hf-flexibility-mobility-2
+    name: What limits range of motion
+  - id: hf-flexibility-mobility-3
+    name: "Types of stretching: static, dynamic, PNF and ballistic"
+  - id: hf-flexibility-mobility-4
+    name: Acute effects of static stretching on strength and power
+  - id: hf-flexibility-mobility-5
+    name: "Long-term adaptations: stretch tolerance versus tissue change"
+  - id: hf-flexibility-mobility-6
+    name: "Stretching and injury prevention: the evidence"
+  - id: hf-flexibility-mobility-7
+    name: Foam rolling and self-myofascial release
+  - id: hf-flexibility-mobility-8
+    name: Joint mobility routines
+  - id: hf-flexibility-mobility-9
+    name: Hypermobility
+  - id: hf-flexibility-mobility-10
+    name: Assessing flexibility
+  - id: hf-flexibility-mobility-11
+    name: Mobility for desk workers
+  - id: hf-flexibility-mobility-12
+    name: Flexibility in older adults
+  - id: hf-flexibility-mobility-13
+    name: Designing a flexibility routine
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-flexibility-mobility.json
+  sha256: c2fbf3e499e9b68a58620d5e338003cefe282531c4af7844b4b8fcc9f91f5c37

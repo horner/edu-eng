@@ -1,0 +1,50 @@
+id: hf-environmental-health
+name: Environmental Health
+category: Preventive Health & Lifestyle Medicine
+level: 2
+priority: important
+summary: How air, water, heat, chemicals and the built environment affect health, and how risks are assessed and reduced.
+prerequisites:
+  - hf-determinants-of-health
+related:
+  - ea-air-pollution-and-air-quality
+  - ea-water-quality-and-pollution
+  - ea-climate-change-impacts-mitigation-adaptation
+topics:
+  - id: hf-environmental-health-1
+    name: "Environmental health concepts: hazard, exposure, dose-response and risk assessment"
+  - id: hf-environmental-health-2
+    name: Outdoor air pollution, particulate matter and the Air Quality Index
+  - id: hf-environmental-health-3
+    name: "Indoor air: cooking, damp and mould, radon and carbon monoxide"
+  - id: hf-environmental-health-4
+    name: Safe drinking water
+  - id: hf-environmental-health-5
+    name: Noise and health
+  - id: hf-environmental-health-6
+    name: Heatwaves and health
+  - id: hf-environmental-health-7
+    name: Cold homes and health
+  - id: hf-environmental-health-8
+    name: Climate change and health
+  - id: hf-environmental-health-9
+    name: "Chemical exposures: lead, endocrine disruptors and PFAS"
+  - id: hf-environmental-health-10
+    name: The precautionary principle versus evidence of harm
+  - id: hf-environmental-health-11
+    name: "Radiation: UV, radon and mobile phones"
+  - id: hf-environmental-health-12
+    name: Green and blue space
+  - id: hf-environmental-health-13
+    name: Occupational health
+  - id: hf-environmental-health-14
+    name: The built environment and active design
+  - id: hf-environmental-health-15
+    name: "One Health: human, animal and environmental health"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-environmental-health.json
+  sha256: 39f0fd85f88afab4bbd69497303f98d5e405212f65de9d00d6b287cbc8295c7f

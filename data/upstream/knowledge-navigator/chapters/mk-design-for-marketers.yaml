@@ -1,0 +1,42 @@
+id: mk-design-for-marketers
+name: Visual Design & Creative Production for Marketers
+category: Communications & Creative
+level: 2
+priority: important
+summary: The design basics marketers need to brief, judge and produce effective visual work across print, digital and video.
+prerequisites:
+  - mk-marketing-principles
+related:
+  - cs-ux-design
+topics:
+  - id: mk-design-for-marketers-1
+    name: Visual hierarchy and layout
+  - id: mk-design-for-marketers-2
+    name: Typography basics
+  - id: mk-design-for-marketers-3
+    name: Colour theory and accessibility contrast
+  - id: mk-design-for-marketers-4
+    name: Imagery, photography and illustration choices
+  - id: mk-design-for-marketers-5
+    name: Visual identity systems and brand guidelines
+  - id: mk-design-for-marketers-6
+    name: "Designing for different formats: print, display, social, video"
+  - id: mk-design-for-marketers-7
+    name: Packaging design basics
+  - id: mk-design-for-marketers-8
+    name: Accessible and inclusive design
+  - id: mk-design-for-marketers-9
+    name: Creative production workflows and asset management
+  - id: mk-design-for-marketers-10
+    name: Briefing designers and giving useful feedback
+  - id: mk-design-for-marketers-11
+    name: Design tools and templates for non-designers
+  - id: mk-design-for-marketers-12
+    name: "Generative image tools: uses, rights and risks"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-design-for-marketers.json
+  sha256: ff9b2df345e3fe8b82b47daa7461fda0b47c02a11436c592b61a97c717dbafc3

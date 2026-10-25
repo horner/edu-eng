@@ -1,0 +1,44 @@
+id: bu-professional-effectiveness
+name: Professional Effectiveness & Career Skills
+category: Sectors, Careers & Professional Practice
+level: 1
+priority: optional
+summary: "The personal skills that help people do well at work: managing time, learning, networking and planning a career."
+prerequisites:
+  - bu-introduction-to-business
+related:
+  - py-motivation-habits-behavior-change
+  - py-stress-coping-resilience
+  - mk-personal-branding
+topics:
+  - id: bu-professional-effectiveness-1
+    name: Setting goals and priorities
+  - id: bu-professional-effectiveness-2
+    name: Time management and focus
+  - id: bu-professional-effectiveness-3
+    name: Managing email, meetings and interruptions
+  - id: bu-professional-effectiveness-4
+    name: Learning how to learn on the job
+  - id: bu-professional-effectiveness-5
+    name: Professional conduct and workplace etiquette
+  - id: bu-professional-effectiveness-6
+    name: Building a network and finding mentors
+  - id: bu-professional-effectiveness-7
+    name: Personal brand and online presence
+  - id: bu-professional-effectiveness-8
+    name: Job search, applications and interviews
+  - id: bu-professional-effectiveness-9
+    name: Negotiating your offer
+  - id: bu-professional-effectiveness-10
+    name: "Managing your career: lattices, pivots and portfolio careers"
+  - id: bu-professional-effectiveness-11
+    name: Working well remotely
+  - id: bu-professional-effectiveness-12
+    name: Avoiding burnout and sustaining performance
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-professional-effectiveness.json
+  sha256: 93965beb1ebef5e07b13006ec8706fd9d4c27c9d620891bfa84b9c762b379bc6

@@ -1,0 +1,37 @@
+id: ch-redox-electrochemistry-basics
+name: Redox Reactions & Introductory Electrochemistry
+category: General Chemistry
+level: 2
+priority: core
+summary: Oxidation-reduction reactions, galvanic and electrolytic cells and the link between cell potential and free energy.
+prerequisites:
+  - ch-chemical-equilibrium
+related: []
+topics:
+  - id: ch-redox-electrochemistry-basics-1
+    name: Oxidation states and identifying redox reactions
+  - id: ch-redox-electrochemistry-basics-2
+    name: Balancing redox equations by the half-reaction method (acidic and basic)
+  - id: ch-redox-electrochemistry-basics-3
+    name: Redox titrations
+  - id: ch-redox-electrochemistry-basics-4
+    name: Galvanic cells, cell notation and salt bridges
+  - id: ch-redox-electrochemistry-basics-5
+    name: Standard reduction potentials and the electrochemical series
+  - id: ch-redox-electrochemistry-basics-6
+    name: Cell potential, free energy and equilibrium constants
+  - id: ch-redox-electrochemistry-basics-7
+    name: The Nernst equation and concentration cells
+  - id: ch-redox-electrochemistry-basics-8
+    name: "Batteries and fuel cells: an overview"
+  - id: ch-redox-electrochemistry-basics-9
+    name: Electrolysis and Faraday's laws
+  - id: ch-redox-electrochemistry-basics-10
+    name: Corrosion and its prevention (introductory)
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-redox-electrochemistry-basics.json
+  sha256: 7db4320f07e6f00238b77029ac59c1aebe23049f3dfc9fdce87a812ba3694719

@@ -1,0 +1,315 @@
+id: psychologist
+name: Psychologist
+icon: 🧑‍⚕️
+tagline: The scientific and professional core of a psychology degree, and the routes into practice.
+description: "For students and career changers who want the knowledge base of an accredited psychology degree and a view of the professional routes beyond it. The route follows the core domains set out by the APA and BPS: research methods and statistics first, then biological, cognitive, developmental, social and personality psychology, psychopathology, assessment and the main therapies, and ethics, before electives in clinical, counselling, health, occupational, forensic, sport and neuropsychology."
+outcomes:
+  - Design a psychological study, choose and run the right analysis (t-tests, ANOVA, regression, factor analysis), and report it in APA style
+  - Judge the reliability and validity of a psychological measure and explain why some well-known findings failed to replicate
+  - Explain behaviour at biological, cognitive, developmental, social and cultural levels, and say where these accounts conflict
+  - Describe the features, causes and evidence-based treatments of the main mental disorders, using both DSM/ICD categories and dimensional models
+  - Carry out the components of a psychological assessment, from interview and standardised tests to a written formulation
+  - Compare CBT, humanistic and psychodynamic therapies, and explain what the evidence says about common and specific factors
+  - Apply the APA and BPS ethics codes to research and practice dilemmas, and map the training routes into the applied branches
+stages:
+  - name: Foundations of psychology
+    description: A first overview of the discipline, how to think critically about psychological claims, and how it became a science.
+    items:
+      - chapter: py-introduction-to-psychology
+        why: "The whole discipline in outline: methods, main fields and the biopsychosocial approach used throughout."
+        depth: full
+      - chapter: py-psychological-literacy-critical-thinking
+        why: Psychological literacy is a stated aim of accredited degrees; it starts with spotting myths and weak evidence.
+        depth: full
+      - chapter: py-science-of-learning-study-skills
+        why: "Retrieval practice, spacing and interleaving: the evidence on learning, applied to your own degree."
+        depth: full
+      - chapter: py-history-of-psychology
+        why: How the schools of psychology arose, and the dark chapters the profession still has to answer for.
+        depth: full
+  - name: Research methods and statistics
+    description: "The scientific core of every psychology degree: designing studies, measuring constructs and analysing data honestly."
+    items:
+      - chapter: ma-arithmetic-pre-algebra
+        why: Fractions, percentages, ratios and powers, used in every statistics calculation.
+        depth: selected
+        focus:
+          - ma-arithmetic-pre-algebra-4
+          - ma-arithmetic-pre-algebra-5
+          - ma-arithmetic-pre-algebra-6
+          - ma-arithmetic-pre-algebra-7
+          - ma-arithmetic-pre-algebra-9
+      - chapter: ma-elementary-intermediate-algebra
+        why: Rearranging formulas and reading linear equations, needed for regression.
+        depth: selected
+        focus:
+          - ma-elementary-intermediate-algebra-5
+          - ma-elementary-intermediate-algebra-6
+          - ma-elementary-intermediate-algebra-7
+          - ma-elementary-intermediate-algebra-11
+      - chapter: ma-descriptive-statistics
+        why: "Averages, spread, distributions and correlation: the first look at any dataset."
+        depth: full
+      - chapter: ma-elementary-probability
+        why: Conditional probability, the normal distribution and z-scores, which underpin significance testing.
+        depth: full
+      - chapter: py-research-methods-in-psychology
+        why: Operationalising constructs, experimental and correlational designs, threats to validity and research ethics.
+        depth: full
+      - chapter: py-statistics-for-psychology
+        why: From descriptive statistics to t-tests, chi-square, effect sizes and power, using JASP, jamovi or R.
+        depth: full
+      - chapter: py-advanced-statistics-glm
+        why: Multiple regression, factorial and repeated-measures ANOVA, moderation and mediation for final-year projects.
+        depth: full
+      - chapter: py-psychometrics-test-construction
+        why: "Reliability, validity, factor analysis and item response theory: how psychological tests are built and checked."
+        depth: full
+      - chapter: py-qualitative-research-methods
+        why: Interviews, thematic analysis and IPA, which accredited programmes expect alongside quantitative skills.
+        depth: full
+      - chapter: py-replication-open-science-meta-analysis
+        why: "The replication crisis, preregistration and meta-analysis: how to read and do research that holds up."
+        depth: full
+  - name: Biological bases of behaviour
+    description: How the nervous system, genes, drugs and evolution shape behaviour, and how the senses build experience.
+    items:
+      - chapter: bi-introductory-biology
+        why: Cells, inheritance and evolution, as groundwork for biological psychology.
+        depth: selected
+        focus:
+          - bi-introductory-biology-2
+          - bi-introductory-biology-3
+          - bi-introductory-biology-5
+          - bi-introductory-biology-7
+          - bi-introductory-biology-8
+          - bi-introductory-biology-9
+          - bi-introductory-biology-10
+      - chapter: py-biological-psychology
+        why: Neurons, neurotransmitters, brain systems, hormones and methods for studying the brain.
+        depth: full
+      - chapter: py-sensation-perception
+        why: How the senses work, signal detection theory and psychophysics.
+        depth: full
+      - chapter: py-consciousness-sleep-altered-states
+        why: Attention and awareness, sleep and dreaming, hypnosis, meditation and drug states.
+        depth: full
+      - chapter: py-evolutionary-psychology
+        why: Ultimate explanations of behaviour, and the criticisms every psychologist should know.
+        depth: full
+      - chapter: py-behavioural-genetics
+        why: Twin and adoption designs, heritability, GWAS and polygenic scores, and their common misreadings.
+        depth: full
+      - chapter: py-psychopharmacology
+        why: How psychiatric and recreational drugs work, and what psychologists need to know when clients take them.
+        depth: full
+  - name: Cognition and learning
+    description: How people attend, remember, use language, reason, decide and learn, and how the brain supports it.
+    items:
+      - chapter: py-cognitive-psychology
+        why: The information-processing view of perception, attention, memory, language and thinking.
+        depth: full
+      - chapter: py-learning-conditioning
+        why: Classical and operant conditioning and observational learning, the basis of behaviour therapy.
+        depth: full
+      - chapter: py-attention-executive-function
+        why: Selection, distraction, working memory and executive control, with links to ADHD and ageing.
+        depth: full
+      - chapter: py-human-memory
+        why: Memory systems, forgetting, false memory and eyewitness testimony.
+        depth: full
+      - chapter: py-language-psycholinguistics
+        why: Speech, reading, sentence processing, language acquisition and bilingualism.
+        depth: full
+      - chapter: py-thinking-reasoning-problem-solving
+        why: Deduction, induction, dual-process theories, problem solving and creativity.
+        depth: full
+      - chapter: py-judgement-decision-making
+        why: Heuristics and biases, prospect theory, nudges and which famous effects have replicated.
+        depth: full
+      - chapter: py-intelligence-cognitive-abilities
+        why: Theories and measurement of intelligence, what IQ predicts, and the controversies around testing.
+        depth: full
+      - chapter: py-cognitive-neuroscience-for-psychologists
+        why: How brain evidence tests cognitive theories, and how to read imaging claims critically.
+        depth: full
+  - name: Developmental psychology
+    description: How people change from infancy to old age, and the role of early relationships.
+    items:
+      - chapter: py-lifespan-development
+        why: The main theories and research designs of development, from conception to death.
+        depth: full
+      - chapter: py-infancy-child-development
+        why: What babies and children know, theory of mind, executive function and the effects of early adversity.
+        depth: full
+      - chapter: py-adolescence-emerging-adulthood
+        why: The adolescent brain, identity, peers and risk, and the onset of mental health problems.
+        depth: full
+      - chapter: py-adult-development-ageing
+        why: Cognitive ageing, personality change and wellbeing in later life.
+        depth: full
+      - chapter: py-attachment-parenting-family
+        why: Attachment theory and research on parenting, family change and evidence-based parenting programmes.
+        depth: full
+  - name: Social psychology, personality, emotion and motivation
+    description: People in their social and cultural context, and the stable and changing differences between individuals.
+    items:
+      - chapter: py-social-psychology
+        why: Attribution, attitudes, conformity, groups and prejudice, and the classic studies with their critiques.
+        depth: full
+      - chapter: py-social-cognition-theory-of-mind
+        why: Person perception, stereotypes, implicit cognition and how people understand other minds.
+        depth: full
+      - chapter: py-attitudes-and-behaviour
+        why: How attitudes are measured and changed, and the intention-behaviour gap.
+        depth: full
+      - chapter: py-groups-prejudice-intergroup-relations
+        why: Social identity, intergroup conflict and evidence-based ways to reduce prejudice.
+        depth: full
+      - chapter: py-prosocial-behaviour-moral-psychology
+        why: Helping, cooperation and moral judgement.
+        depth: full
+      - chapter: py-cultural-psychology
+        why: Why findings from WEIRD samples may not generalise, and how culture shapes self, emotion and cognition.
+        depth: full
+      - chapter: py-emotion-and-emotion-regulation
+        why: Theories of emotion and the process model of regulation, which runs through most of psychopathology.
+        depth: full
+      - chapter: py-motivation-habits-behavior-change
+        why: Self-determination theory, goal setting, habits and behaviour change models.
+        depth: full
+      - chapter: py-personality-psychology
+        why: Psychodynamic, humanistic, trait and social-cognitive theories, and how personality is assessed.
+        depth: full
+      - chapter: py-personality-science-advanced
+        why: Hierarchical trait models, personality change and dimensional links to psychopathology.
+        depth: full
+  - name: Psychopathology
+    description: How mental disorders are defined, explained and treated, across the main diagnostic groups and the lifespan.
+    items:
+      - chapter: py-psychopathology-foundations
+        why: Defining abnormality, DSM and ICD, dimensional alternatives, explanatory models and stigma.
+        depth: full
+      - chapter: py-mental-health-literacy
+        why: The public-facing view of mental health and help-seeking that clients and families bring to services.
+        depth: full
+      - chapter: py-anxiety-obsessive-compulsive-disorders
+        why: Panic, phobias, social and generalised anxiety and OCD, their cognitive-behavioural models and treatment.
+        depth: full
+      - chapter: py-depression-bipolar-mood-disorders
+        why: "Depression and bipolar disorder: presentation, causes, treatment and relapse prevention."
+        depth: full
+      - chapter: py-trauma-stress-dissociative-disorders
+        why: PTSD, complex PTSD, prolonged grief and dissociation, and why most people recover from trauma.
+        depth: full
+      - chapter: py-psychosis-schizophrenia
+        why: Psychotic experiences, early intervention, antipsychotics, CBT for psychosis and recovery.
+        depth: full
+      - chapter: py-personality-disorders
+        why: Classification debates, borderline and antisocial presentations, and treatments such as DBT and MBT.
+        depth: full
+      - chapter: py-substance-use-addiction
+        why: Models of addiction, alcohol and drug use disorders, gambling, harm reduction and treatment.
+        depth: full
+      - chapter: py-body-image-self-perception
+        why: Body image and its sociocultural influences, the groundwork for eating disorders.
+        depth: full
+      - chapter: py-eating-behavior-disorders
+        why: Anorexia, bulimia and binge-eating disorder, their risk factors and CBT-E and family-based treatment.
+        depth: full
+      - chapter: py-neurodevelopmental-conditions
+        why: ADHD, autism, learning disorders and the neurodiversity perspective.
+        depth: full
+      - chapter: py-child-adolescent-mental-health
+        why: The developmental psychopathology approach and evidence-based help for young people and families.
+        depth: full
+      - chapter: py-neurocognitive-disorders
+        why: Dementia, delirium and brain injury from a psychological point of view.
+        depth: full
+      - chapter: py-suicide-prevention-crisis-support
+        why: Suicide risk, safety planning and crisis services, which every practitioner must be ready for.
+        depth: full
+  - name: Assessment and psychological therapies
+    description: "The applied core: assessing people, formulating their difficulties and the main schools of talking therapy."
+    items:
+      - chapter: py-counselling-skills
+        why: Active listening, empathy and the therapeutic relationship, the base of every therapy.
+        depth: full
+      - chapter: py-psychological-assessment
+        why: Clinical interviews, standardised tests, risk assessment, formulation and report writing.
+        depth: full
+      - chapter: py-psychotherapy-foundations
+        why: Does therapy work, common versus specific factors, evidence-based practice and therapy harms.
+        depth: full
+      - chapter: py-cognitive-behavioural-therapy
+        why: "The most researched therapy: the cognitive model, core techniques and disorder-specific protocols."
+        depth: full
+      - chapter: py-humanistic-existential-therapies
+        why: Person-centred, gestalt, emotion-focused and existential approaches, central to counselling psychology.
+        depth: full
+      - chapter: py-psychodynamic-therapy
+        why: Psychoanalytic concepts, short-term dynamic therapy and its evidence base.
+        depth: full
+  - name: Ethics and professional practice
+    description: The codes, regulation and conceptual questions that govern psychological research and practice.
+    items:
+      - chapter: py-ethics-professional-practice
+        why: APA and BPS ethics codes, confidentiality, boundaries, regulation and the training routes into each branch.
+        depth: full
+      - chapter: py-conceptual-philosophical-issues
+        why: Philosophy of science, mind and body, free will and critical psychology, a required area in BPS-accredited degrees.
+        depth: full
+  - name: "Electives: applied branches"
+    description: Optional specialisations matching the main professional routes after a first degree.
+    items:
+      - chapter: py-stress-coping-resilience
+        why: "Elective: groundwork for health psychology; stress, coping, burnout and resilience."
+        depth: full
+      - chapter: py-health-psychology
+        why: "Elective: health psychology; illness beliefs, health behaviour change, pain and chronic illness."
+        depth: full
+      - chapter: py-work-organisational-psychology
+        why: "Elective: occupational (I/O) psychology; selection, motivation, leadership and wellbeing at work."
+        depth: full
+      - chapter: py-forensic-psychology
+        why: "Elective: forensic psychology; offending, investigative interviewing, courts, risk assessment and rehabilitation."
+        depth: full
+      - chapter: py-sport-exercise-psychology
+        why: "Elective: sport and exercise psychology; performance, confidence, teams and exercise adherence."
+        depth: full
+      - chapter: py-clinical-neuropsychology
+        why: "Elective: clinical neuropsychology; assessment and rehabilitation after brain injury and neurological illness."
+        depth: full
+      - chapter: py-educational-psychology
+        why: "Elective: educational psychology; learning, teaching, assessment and special educational needs."
+        depth: full
+      - chapter: py-mindfulness-contemplative-science
+        why: "Elective: groundwork for third-wave therapies; the science of mindfulness and meditation."
+        depth: full
+      - chapter: py-third-wave-therapies
+        why: "Elective: clinical and counselling routes; ACT, DBT, compassion-focused therapy and MBCT."
+        depth: full
+      - chapter: py-trauma-focused-therapies
+        why: "Elective: clinical route; prolonged exposure, cognitive processing therapy, CT-PTSD and EMDR."
+        depth: full
+      - chapter: py-couples-family-group-therapy
+        why: "Elective: systemic family therapy, couples therapy and group psychotherapy."
+        depth: full
+      - chapter: py-transdiagnostic-dimensional-psychopathology
+        why: "Elective: HiTOP, RDoC, the p factor and network models, for research-minded clinicians."
+        depth: full
+      - chapter: py-multivariate-multilevel-sem
+        why: "Elective: research route; SEM, multilevel and longitudinal models for postgraduate study."
+        depth: full
+      - chapter: py-positive-psychology-wellbeing
+        why: "Elective: the science of wellbeing and positive interventions, used in coaching and counselling."
+        depth: full
+related:
+  - understanding-people
+  - mental-wellness
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/roadmaps/psychologist.json
+  sha256: d00116e483f3ea95db59069e724ee54fd885978791ccc7cf4d41bb6c12bc5f4d

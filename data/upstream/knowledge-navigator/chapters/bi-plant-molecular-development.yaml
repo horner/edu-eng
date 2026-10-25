@@ -1,0 +1,36 @@
+id: bi-plant-molecular-development
+name: Plant Molecular & Developmental Biology
+category: Plant Biology
+level: 4
+priority: advanced
+summary: The genes and signals that build a plant, studied in Arabidopsis and crops, plus the plant immune system.
+prerequisites:
+  - bi-plant-physiology
+  - bi-gene-regulation-epigenetics
+related: []
+topics:
+  - id: bi-plant-molecular-development-1
+    name: Arabidopsis and other plant model systems
+  - id: bi-plant-molecular-development-2
+    name: Embryogenesis and establishment of the plant body axis
+  - id: bi-plant-molecular-development-3
+    name: Shoot and root apical meristem maintenance
+  - id: bi-plant-molecular-development-4
+    name: Leaf development and phyllotaxis
+  - id: bi-plant-molecular-development-5
+    name: "Floral organ identity: the ABC(E) model"
+  - id: bi-plant-molecular-development-6
+    name: Hormone signaling at the molecular level
+  - id: bi-plant-molecular-development-7
+    name: "The plant immune system: PTI, ETI and resistance genes"
+  - id: bi-plant-molecular-development-8
+    name: "Symbiosis signaling: nodulation and mycorrhizae"
+  - id: bi-plant-molecular-development-9
+    name: Plant epigenetics and small RNAs
+discipline: biology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/biology/bi-plant-molecular-development.json
+  sha256: 9ed3da654bcebdd473f4df7834185239971d63d35519a9c89862392dc5d53c6b

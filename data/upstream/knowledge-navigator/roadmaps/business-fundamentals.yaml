@@ -1,0 +1,379 @@
+id: business-fundamentals
+name: "Business Fundamentals: The MBA Core"
+icon: 💼
+tagline: "The core of an MBA: how businesses make money, make decisions and are run."
+description: "For anyone who wants to understand how businesses work, whether you are moving into management, starting in a business role or deciding whether to do an MBA. The route follows the core courses of the main MBA programmes: business maths and statistics, economics, accounting and finance, marketing, operations, people and leadership, and law, ethics and governance. It ends with strategy and general management, which draw the rest together, and no calculus is needed. Electives cover the main MBA concentrations, from finance and analytics to entrepreneurship and global strategy."
+outcomes:
+  - Read a company's income statement, balance sheet and cash flow statement and judge its profitability, liquidity and earnings quality with ratios
+  - Value a project or a business with discounted cash flow and the cost of capital, and show how sensitive the answer is to its assumptions
+  - Answer a business question from data with confidence intervals, hypothesis tests and regression, and point out misleading statistics
+  - Apply supply and demand, elasticity, market structure and simple game theory to pricing and competitive decisions
+  - Write a marketing plan for a real product covering segmentation, positioning, pricing and communications
+  - Find the bottleneck in a process, set inventory and quality controls, and plan a project with a schedule, budget and risk register
+  - Analyse a company's strategy with industry analysis, VRIO and the value chain, and recommend a course of action that takes its people, finances, legal duties and stakeholders into account
+stages:
+  - name: Foundations of business
+    description: What businesses are and how they are managed, plus the maths, writing and spreadsheet skills that every later course assumes.
+    items:
+      - chapter: bu-introduction-to-business
+        why: "A map of the whole subject: how operations, marketing, finance and people fit together to create value."
+        depth: full
+      - chapter: ma-arithmetic-pre-algebra
+        why: A quick refresher on fractions, percentages, ratios and powers, which appear in every rate, margin and growth figure.
+        depth: selected
+        focus:
+          - ma-arithmetic-pre-algebra-4
+          - ma-arithmetic-pre-algebra-5
+          - ma-arithmetic-pre-algebra-6
+          - ma-arithmetic-pre-algebra-7
+          - ma-arithmetic-pre-algebra-9
+          - ma-arithmetic-pre-algebra-11
+      - chapter: ma-elementary-intermediate-algebra
+        why: Linear equations, graphs and simultaneous equations, enough for cost functions, break-even and supply and demand.
+        depth: selected
+        focus:
+          - ma-elementary-intermediate-algebra-5
+          - ma-elementary-intermediate-algebra-6
+          - ma-elementary-intermediate-algebra-7
+          - ma-elementary-intermediate-algebra-4
+          - ma-elementary-intermediate-algebra-11
+      - chapter: bu-business-mathematics
+        why: "Margins, compound interest, present value and break-even: the arithmetic behind accounting and finance."
+        depth: full
+      - chapter: bu-principles-of-management
+        why: Planning, organising, leading and controlling, the framework that the functional courses fill in.
+        depth: full
+      - chapter: bu-business-communication
+        why: Much MBA work is judged on short, clear written recommendations, and this is how to write them.
+        depth: full
+      - chapter: bu-spreadsheet-modelling
+        why: Spreadsheets are the main tool of business analysis, from budgets to valuation models.
+        depth: full
+  - name: Data, statistics and decisions
+    description: "The quantitative core, taught as Data, Models and Decisions or similar: describing data, reasoning under uncertainty and modelling decisions."
+    items:
+      - chapter: ma-descriptive-statistics
+        why: Data types, averages, spread and correlation, the first look at any business dataset.
+        depth: selected
+        focus:
+          - ma-descriptive-statistics-4
+          - ma-descriptive-statistics-3
+          - ma-descriptive-statistics-1
+          - ma-descriptive-statistics-2
+          - ma-descriptive-statistics-5
+          - ma-descriptive-statistics-6
+          - ma-descriptive-statistics-7
+      - chapter: ma-elementary-probability
+        why: Conditional probability, expected value and the normal distribution, which underlie risk, forecasting and finance.
+        depth: selected
+        focus:
+          - ma-elementary-probability-1
+          - ma-elementary-probability-3
+          - ma-elementary-probability-4
+          - ma-elementary-probability-5
+          - ma-elementary-probability-6
+          - ma-elementary-probability-7
+          - ma-elementary-probability-8
+      - chapter: bu-business-statistics-analytics
+        why: Sampling, confidence intervals, hypothesis tests and regression applied to business questions, and the ways statistics mislead.
+        depth: full
+      - chapter: bu-data-visualization-dashboards
+        why: Choosing charts, defining KPIs and building dashboards that managers will actually use.
+        depth: full
+      - chapter: bu-regression-forecasting
+        why: Multiple regression and time-series forecasting for demand, sales and pricing, and the difference between correlation and causation.
+        depth: full
+      - chapter: bu-decision-models-optimization
+        why: Linear programming, decision trees and Monte Carlo simulation in spreadsheets, for choosing the best option under constraints and uncertainty.
+        depth: full
+  - name: Economics for managers
+    description: How markets, prices, competition and the wider economy shape what a firm can do.
+    items:
+      - chapter: bu-microeconomics-for-business
+        why: Demand, elasticity, costs and market structure, the basis of pricing, strategy and competitor analysis.
+        depth: full
+      - chapter: bu-macroeconomics-for-business
+        why: Growth, inflation, interest rates and exchange rates, and how to read the economic outlook when you plan.
+        depth: full
+      - chapter: bu-managerial-economics
+        why: Economic models and data applied to pricing, make-or-buy decisions, market entry and incentives inside the firm.
+        depth: full
+      - chapter: bu-game-theory-competitive-strategy
+        why: "Thinking ahead about how rivals will respond: price wars, commitment, entry deterrence and signalling."
+        depth: selected
+        focus:
+          - bu-game-theory-competitive-strategy-1
+          - bu-game-theory-competitive-strategy-2
+          - bu-game-theory-competitive-strategy-3
+          - bu-game-theory-competitive-strategy-4
+          - bu-game-theory-competitive-strategy-5
+          - bu-game-theory-competitive-strategy-6
+          - bu-game-theory-competitive-strategy-8
+          - bu-game-theory-competitive-strategy-9
+          - bu-game-theory-competitive-strategy-12
+  - name: Accounting and finance
+    description: The language in which business results are reported, and the logic of investment and funding decisions.
+    items:
+      - chapter: bu-financial-accounting
+        why: How transactions become the three financial statements, the language every other business function reports in.
+        depth: full
+      - chapter: bu-managerial-cost-accounting
+        why: Cost behaviour, budgeting and variance analysis for decisions and control inside the firm.
+        depth: full
+      - chapter: bu-financial-statement-analysis
+        why: Ratios, cash flow and earnings quality, so you can judge a company's health from its accounts.
+        depth: full
+      - chapter: bu-performance-management-control
+        why: Responsibility centres, the balanced scorecard and incentive design, and how badly chosen KPIs distort behaviour.
+        depth: selected
+        focus:
+          - bu-performance-management-control-1
+          - bu-performance-management-control-2
+          - bu-performance-management-control-3
+          - bu-performance-management-control-5
+          - bu-performance-management-control-7
+          - bu-performance-management-control-8
+          - bu-performance-management-control-9
+      - chapter: bu-financial-markets-institutions
+        why: How banks, bond and equity markets and central banks move money and set the cost of capital every firm faces.
+        depth: full
+      - chapter: bu-corporate-finance
+        why: "Discounted cash flow, risk and return, WACC, capital structure and payout policy: the centre of MBA finance."
+        depth: full
+      - chapter: bu-valuation
+        why: Valuing a business with discounted cash flow and multiples, and checking the answer for common errors.
+        depth: full
+  - name: Marketing
+    description: "The customer side of the business: understanding buyers, choosing whom to serve, and setting product, price, promotion and channels."
+    items:
+      - chapter: mk-marketing-principles
+        why: The marketing concept, customer value and the marketing mix, the starting point of every MBA marketing course.
+        depth: full
+      - chapter: mk-consumer-behavior
+        why: How consumers and organisations decide what to buy and what influences them, the basis of segmentation and communication choices.
+        depth: selected
+        focus:
+          - mk-consumer-behavior-1
+          - mk-consumer-behavior-2
+          - mk-consumer-behavior-3
+          - mk-consumer-behavior-4
+          - mk-consumer-behavior-6
+          - mk-consumer-behavior-7
+          - mk-consumer-behavior-10
+          - mk-consumer-behavior-12
+          - mk-consumer-behavior-14
+          - mk-consumer-behavior-15
+      - chapter: mk-segmentation-targeting-positioning
+        why: Choosing which customers to serve and how to be different for them, the centre of marketing strategy.
+        depth: full
+      - chapter: mk-marketing-maths-metrics
+        why: Margins, market share, acquisition cost and customer lifetime value, the numbers that connect marketing to the income statement.
+        depth: selected
+        focus:
+          - mk-marketing-maths-metrics-2
+          - mk-marketing-maths-metrics-3
+          - mk-marketing-maths-metrics-4
+          - mk-marketing-maths-metrics-5
+          - mk-marketing-maths-metrics-6
+          - mk-marketing-maths-metrics-7
+          - mk-marketing-maths-metrics-8
+          - mk-marketing-maths-metrics-9
+          - mk-marketing-maths-metrics-10
+      - chapter: mk-pricing-fundamentals
+        why: Cost-based, competition-based and value-based pricing, and how buyers perceive prices; small price changes have large effects on profit.
+        depth: full
+      - chapter: mk-integrated-marketing-communications
+        why: How advertising, PR, digital and personal selling work together, and how communication objectives and budgets are set.
+        depth: selected
+        focus:
+          - mk-integrated-marketing-communications-1
+          - mk-integrated-marketing-communications-3
+          - mk-integrated-marketing-communications-4
+          - mk-integrated-marketing-communications-5
+          - mk-integrated-marketing-communications-6
+          - mk-integrated-marketing-communications-9
+          - mk-integrated-marketing-communications-10
+          - mk-integrated-marketing-communications-11
+      - chapter: mk-digital-marketing
+        why: How search, social, email and data change the way firms reach customers, at the level a general manager needs.
+        depth: selected
+        focus:
+          - mk-digital-marketing-1
+          - mk-digital-marketing-2
+          - mk-digital-marketing-3
+          - mk-digital-marketing-5
+          - mk-digital-marketing-6
+          - mk-digital-marketing-11
+          - mk-digital-marketing-12
+          - mk-digital-marketing-13
+      - chapter: mk-marketing-strategy-planning
+        why: Pulling it together into a marketing plan with objectives, a growth strategy, a budget and controls.
+        depth: full
+  - name: Operations and technology
+    description: How a firm delivers what it sells reliably and efficiently, and how it runs projects and information systems.
+    items:
+      - chapter: bu-operations-management
+        why: "Process analysis, capacity, bottlenecks, queues and lean: how goods and services are actually produced."
+        depth: full
+      - chapter: bu-supply-chain-management
+        why: Network design, inventory, sales and operations planning, the bullwhip effect and supply chain risk.
+        depth: full
+      - chapter: bu-quality-management
+        why: Statistical process control, Six Sigma and lean tools for measuring and improving processes.
+        depth: selected
+        focus:
+          - bu-quality-management-1
+          - bu-quality-management-2
+          - bu-quality-management-3
+          - bu-quality-management-6
+          - bu-quality-management-7
+          - bu-quality-management-8
+          - bu-quality-management-11
+          - bu-quality-management-12
+      - chapter: bu-project-management
+        why: Scope, schedule, budget and risk, and choosing between predictive and agile methods to deliver change on time.
+        depth: full
+      - chapter: bu-management-information-systems
+        why: How ERP, CRM, data and cloud systems support operations and decisions, and how managers work with IT.
+        depth: full
+  - name: People, organisations and leadership
+    description: How people behave at work and how managers lead, organise, reward and negotiate with them.
+    items:
+      - chapter: bu-organizational-behavior
+        why: "Motivation, personality, groups, power and culture: the evidence on managing people."
+        depth: full
+      - chapter: bu-leadership
+        why: The main theories of leadership, what the evidence says works, and how to develop as a leader yourself.
+        depth: full
+      - chapter: bu-managing-teams
+        why: Designing and running teams, psychological safety, and how to deal with groupthink and conflict.
+        depth: full
+      - chapter: bu-human-resource-management
+        why: "Recruitment, selection, performance management, pay and engagement: how organisations manage their workforce."
+        depth: full
+      - chapter: bu-managerial-decision-making
+        why: Biases, noise, base rates and structured methods for making better decisions alone and in groups.
+        depth: full
+      - chapter: bu-negotiation
+        why: Preparing for a negotiation, creating and claiming value, and handling deals, salaries and disputes.
+        depth: full
+  - name: Law, ethics and governance
+    description: The legal framework firms work within, and the duties managers owe to shareholders, employees and society.
+    items:
+      - chapter: bu-business-ethics
+        why: Ethical theories, shareholder and stakeholder views of the firm, and why good people do bad things at work.
+        depth: full
+      - chapter: bu-business-law
+        why: Legal systems, contracts, torts, agency and consumer protection, compared across jurisdictions.
+        depth: full
+      - chapter: bu-company-law
+        why: Incorporation, directors' duties, shareholder rights and insolvency, the legal side of corporate governance.
+        depth: selected
+        focus:
+          - bu-company-law-1
+          - bu-company-law-2
+          - bu-company-law-3
+          - bu-company-law-5
+          - bu-company-law-6
+          - bu-company-law-7
+          - bu-company-law-8
+          - bu-company-law-9
+          - bu-company-law-11
+      - chapter: bu-corporate-governance
+        why: "Boards, executive pay, shareholder activism and governance codes: how companies are directed and held to account."
+        depth: full
+      - chapter: bu-sustainability-esg
+        why: Climate risk, carbon accounting, ESG reporting standards and how to tell real progress from greenwashing.
+        depth: full
+      - chapter: bu-risk-management
+        why: Risk frameworks, insurance, business continuity and crisis planning for the risks a general manager is responsible for.
+        depth: selected
+        focus:
+          - bu-risk-management-1
+          - bu-risk-management-2
+          - bu-risk-management-3
+          - bu-risk-management-4
+          - bu-risk-management-5
+          - bu-risk-management-6
+          - bu-risk-management-7
+          - bu-risk-management-9
+          - bu-risk-management-10
+  - name: Strategy and general management
+    description: The capstone, which uses everything so far to decide where and how a firm competes and to run it as a whole.
+    items:
+      - chapter: bu-business-strategy
+        why: Industry analysis, competitive advantage, the value chain and strategy execution, the course that integrates the rest of the MBA.
+        depth: full
+      - chapter: bu-corporate-strategy
+        why: "Diversification, vertical integration, alliances and acquisitions: strategy for firms with more than one business."
+        depth: full
+      - chapter: bu-international-business
+        why: Entry modes, cultural differences, trade and currency risk for firms that work across borders.
+        depth: full
+      - chapter: bu-innovation-strategy
+        why: How established firms innovate, respond to disruption and profit from new technology.
+        depth: selected
+        focus:
+          - bu-innovation-strategy-1
+          - bu-innovation-strategy-2
+          - bu-innovation-strategy-3
+          - bu-innovation-strategy-5
+          - bu-innovation-strategy-7
+          - bu-innovation-strategy-9
+          - bu-innovation-strategy-10
+      - chapter: bu-general-management
+        why: "Running the whole organisation: setting direction, allocating capital, working with the board and leading through a crisis."
+        depth: full
+  - name: "Electives: MBA concentrations"
+    description: The main MBA concentrations, to choose from according to the direction your career is taking.
+    items:
+      - chapter: bu-investments-portfolio-management
+        why: "Elective (finance): portfolio theory, factor models and performance evaluation, for careers in asset management."
+        depth: full
+      - chapter: bu-financial-modelling
+        why: "Elective (finance): building three-statement and DCF models that others can check and rely on."
+        depth: full
+      - chapter: bu-mergers-acquisitions
+        why: "Elective (finance and strategy): why companies buy each other, valuing synergies, structuring deals and integrating after the merger."
+        depth: full
+      - chapter: bu-private-equity-venture-capital
+        why: "Elective (finance): how private equity and venture capital funds work, from fund economics and term sheets to buyouts and exits."
+        depth: full
+      - chapter: mk-brand-management
+        why: "Elective (marketing): building and measuring brand equity, brand architecture and brand extensions."
+        depth: full
+      - chapter: bu-experimentation-ab-testing
+        why: "Elective (analytics): designing and interpreting controlled experiments that test business changes."
+        depth: full
+      - chapter: bu-machine-learning-for-business
+        why: "Elective (analytics): classification, clustering, churn and recommendation models, and judging what they are worth to the business."
+        depth: full
+      - chapter: bu-operations-strategy
+        why: "Elective (operations): long-term choices about capacity, locations, sourcing and technology that support the strategy."
+        depth: full
+      - chapter: bu-global-strategy
+        why: "Elective (strategy): configuring and coordinating a multinational across countries, and managing geopolitical risk."
+        depth: full
+      - chapter: bu-digital-transformation
+        why: "Elective (technology): aligning technology with strategy and leading digital change in established firms."
+        depth: full
+      - chapter: bu-organizational-design-change
+        why: "Elective (leadership): designing organisation structures and leading people through reorganisation and change."
+        depth: full
+      - chapter: bu-behavioral-economics
+        why: "Elective (economics): how real decisions differ from rational-choice models, and how firms and governments use this."
+        depth: full
+      - chapter: bu-entrepreneurship-startups
+        why: "Elective (entrepreneurship): starting a business from idea to launch; the Startup Founder roadmap takes this much further."
+        depth: full
+related:
+  - startup-founder
+  - digital-marketer
+  - data-scientist
+  - understanding-people
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/roadmaps/business-fundamentals.json
+  sha256: da86773cd900dbaab61a1a6c4d072872a31a5e80440353fe1e0d4c1780fd6516

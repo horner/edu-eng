@@ -1,0 +1,45 @@
+id: bu-negotiation
+name: Negotiation
+category: People, Organisations & Leadership
+level: 2
+priority: important
+summary: How to prepare for, conduct and close negotiations that create and claim value.
+prerequisites:
+  - bu-business-communication
+related:
+  - bu-game-theory-competitive-strategy
+  - bu-procurement-sourcing
+  - mk-sales-fundamentals
+  - mk-sales-negotiation
+topics:
+  - id: bu-negotiation-1
+    name: "Negotiation fundamentals: positions, interests and options"
+  - id: bu-negotiation-2
+    name: BATNA, reservation price and the zone of possible agreement
+  - id: bu-negotiation-3
+    name: "Distributive negotiation: anchoring, offers and concessions"
+  - id: bu-negotiation-4
+    name: "Integrative negotiation: creating value and logrolling"
+  - id: bu-negotiation-5
+    name: Preparation and planning worksheets
+  - id: bu-negotiation-6
+    name: "Psychology of negotiation: biases and emotions"
+  - id: bu-negotiation-7
+    name: Power, leverage and dependence
+  - id: bu-negotiation-8
+    name: Multiparty and coalition negotiations
+  - id: bu-negotiation-9
+    name: Cross-cultural negotiation
+  - id: bu-negotiation-10
+    name: Ethics and deception in negotiation
+  - id: bu-negotiation-11
+    name: Negotiating salaries, deals and partnerships
+  - id: bu-negotiation-12
+    name: "Dispute resolution: mediation and arbitration"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-negotiation.json
+  sha256: 34111ee589ac4e11774e96d4973e4cce4206e2ad84c21a38b5ab2942ac4771f4

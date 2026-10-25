@@ -1,0 +1,75 @@
+id: be-professional-skin-body-treatments
+name: Professional Facials, Body & Spa Treatments
+category: Skincare Practice & Active Ingredients
+level: 3
+priority: important
+summary: "The practice of professional esthetics: consultation, facial and body treatments, facial massage and electrical devices, as taught in esthetician training."
+prerequisites:
+  - be-active-ingredients
+  - be-hygiene-infection-control
+related: []
+topics:
+  - id: be-professional-skin-body-treatments-1
+    name: "The treatment room: set-up, equipment, ergonomics and hygiene"
+  - id: be-professional-skin-body-treatments-2
+    name: Client consultation, intake forms, contraindications and consent
+  - id: be-professional-skin-body-treatments-3
+    name: Professional skin analysis
+  - id: be-professional-skin-body-treatments-4
+    name: The facial treatment
+    sub:
+      - id: be-professional-skin-body-treatments-4-1
+        name: Cleansing and steaming
+      - id: be-professional-skin-body-treatments-4-2
+        name: "Exfoliation: mechanical and chemical"
+      - id: be-professional-skin-body-treatments-4-3
+        name: "Extractions: technique principles and limits"
+      - id: be-professional-skin-body-treatments-4-4
+        name: "Masks: clay, gel, cream, sheet, rubberised and thermal"
+      - id: be-professional-skin-body-treatments-4-5
+        name: "Finishing: moisturiser, sun protection and home care advice"
+  - id: be-professional-skin-body-treatments-5
+    name: "Facial massage: classic movements, lymphatic drainage and evidence"
+  - id: be-professional-skin-body-treatments-6
+    name: Facial devices
+    sub:
+      - id: be-professional-skin-body-treatments-6-1
+        name: Galvanic current and iontophoresis
+      - id: be-professional-skin-body-treatments-6-2
+        name: High frequency
+      - id: be-professional-skin-body-treatments-6-3
+        name: Microcurrent
+      - id: be-professional-skin-body-treatments-6-4
+        name: Ultrasonic devices
+      - id: be-professional-skin-body-treatments-6-5
+        name: LED light therapy
+      - id: be-professional-skin-body-treatments-6-6
+        name: Hydradermabrasion-style devices
+  - id: be-professional-skin-body-treatments-7
+    name: Treatments for acne, ageing, pigmentation and sensitive skin
+  - id: be-professional-skin-body-treatments-8
+    name: Men's facials and treatments for different skin tones
+  - id: be-professional-skin-body-treatments-9
+    name: Body treatments
+    sub:
+      - id: be-professional-skin-body-treatments-9-1
+        name: Body scrubs and polishes
+      - id: be-professional-skin-body-treatments-9-2
+        name: Body wraps and masks
+      - id: be-professional-skin-body-treatments-9-3
+        name: Sunless tanning application
+      - id: be-professional-skin-body-treatments-9-4
+        name: "Cellulite and contouring treatments: evidence"
+  - id: be-professional-skin-body-treatments-10
+    name: "Spa therapies: hydrotherapy, saunas and massage"
+  - id: be-professional-skin-body-treatments-11
+    name: Pre- and post-procedure care alongside medical treatments
+  - id: be-professional-skin-body-treatments-12
+    name: Retail recommendations and home care plans
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-professional-skin-body-treatments.json
+  sha256: 35225ef227e476e639f7b7b86e4f5e32e2ce22fa3b81b4c67ce8f4227d5805d7

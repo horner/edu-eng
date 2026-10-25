@@ -1,0 +1,32 @@
+id: biology
+name: Biology
+icon: 🧬
+color: "#84cc16"
+prefix: bi
+description: "The science of life from molecules to the biosphere: cells, biochemistry, genetics and genomics, evolution and diversity, physiology and neuroscience, ecology, and applied fields such as biotechnology, computational biology, medicine-related sciences and astrobiology."
+categories:
+  - Foundations of Biology
+  - Cell & Molecular Biology
+  - Biochemistry & Structural Biology
+  - Genetics & Genomics
+  - Evolution
+  - Biodiversity & Systematics
+  - Ecology & Environment
+  - Microbiology, Virology & Immunology
+  - Plant Biology
+  - Anatomy & Physiology
+  - Biomechanics & Human Performance
+  - Developmental Biology
+  - Neuroscience
+  - Laboratory & Research Methods
+  - Quantitative & Computational Biology
+  - Biotechnology & Bioengineering
+  - Health & Biomedical Sciences
+  - Astrobiology & Space Biology
+  - Bioethics, History & Society
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/biology/discipline.json
+  sha256: 26c7830a08da9dbd7b05b635cf6116d2e04e62df8e35361e0ba9334eaf5d56c6

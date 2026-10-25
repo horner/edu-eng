@@ -1,0 +1,28 @@
+id: ai-neuro-symbolic-ai
+name: Neuro-Symbolic AI
+category: Cognitive & Nature-Inspired AI
+level: 5
+priority: advanced
+summary: "Integrating neural learning with symbolic reasoning: differentiable logic, neural theorem proving and knowledge-enhanced language models."
+prerequisites:
+  - ai-knowledge-representation-reasoning
+  - ai-neural-network-foundations
+related: []
+topics:
+  - id: ai-neuro-symbolic-ai-1
+    name: Neural-Symbolic Integration
+  - id: ai-neuro-symbolic-ai-2
+    name: Differentiable Programming
+  - id: ai-neuro-symbolic-ai-3
+    name: Neural Theorem Proving
+  - id: ai-neuro-symbolic-ai-4
+    name: Symbolic Reasoning with Neural Networks
+  - id: ai-neuro-symbolic-ai-5
+    name: Knowledge-Enhanced Language Models
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-neuro-symbolic-ai.json
+  sha256: f7373a011295c79c2c6ba6840d0289356ac624d7cf8f5c1d6e8657150113642e

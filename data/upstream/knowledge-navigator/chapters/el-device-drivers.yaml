@@ -1,0 +1,33 @@
+id: el-device-drivers
+name: Device Drivers
+category: Embedded Software, Firmware & RTOS
+level: 3
+priority: important
+summary: "Writing drivers that connect hardware to software: driver architecture, character/block/network drivers, device tree and interrupt handling."
+prerequisites:
+  - el-peripheral-controllers
+  - el-concurrency-synchronization
+related:
+  - cs-advanced-operating-systems
+topics:
+  - id: el-device-drivers-1
+    name: Character device drivers
+  - id: el-device-drivers-2
+    name: Block device drivers
+  - id: el-device-drivers-3
+    name: Network device drivers
+  - id: el-device-drivers-4
+    name: Driver architecture and frameworks
+  - id: el-device-drivers-5
+    name: Device tree and platform data
+  - id: el-device-drivers-6
+    name: Driver registration and probing
+  - id: el-device-drivers-7
+    name: Interrupt handling in drivers
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-device-drivers.json
+  sha256: 29cacd59abac491ffac64ce23104ec18c8430ee59ec61698857f43e728b57274

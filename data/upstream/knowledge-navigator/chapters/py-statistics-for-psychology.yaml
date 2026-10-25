@@ -1,0 +1,54 @@
+id: py-statistics-for-psychology
+name: Statistics for Psychology
+category: Research Methods, Statistics & Measurement
+level: 2
+priority: core
+summary: The statistics psychology students actually use, from describing data to t-tests, ANOVA and effect sizes, taught without calculus.
+prerequisites:
+  - ma-descriptive-statistics
+  - ma-elementary-probability
+related:
+  - ma-inferential-statistics
+  - ma-nonparametric-statistics
+  - ma-bayesian-statistics
+topics:
+  - id: py-statistics-for-psychology-1
+    name: "Describing data: distributions, central tendency, spread and graphs"
+  - id: py-statistics-for-psychology-2
+    name: z-scores and the normal distribution
+  - id: py-statistics-for-psychology-3
+    name: Sampling distributions, standard error and confidence intervals
+  - id: py-statistics-for-psychology-4
+    name: "Null hypothesis significance testing: p-values, alpha, Type I and Type II errors"
+  - id: py-statistics-for-psychology-5
+    name: Comparing means
+    sub:
+      - id: py-statistics-for-psychology-5-1
+        name: One-sample, independent and paired t-tests
+      - id: py-statistics-for-psychology-5-2
+        name: One-way ANOVA and post hoc tests
+      - id: py-statistics-for-psychology-5-3
+        name: Repeated-measures and factorial ANOVA in outline
+  - id: py-statistics-for-psychology-6
+    name: "Correlation: Pearson, Spearman and partial correlation"
+  - id: py-statistics-for-psychology-7
+    name: Simple linear regression and prediction
+  - id: py-statistics-for-psychology-8
+    name: "Categorical data: chi-square tests of independence and goodness of fit"
+  - id: py-statistics-for-psychology-9
+    name: "Non-parametric alternatives: Mann-Whitney, Wilcoxon and Kruskal-Wallis"
+  - id: py-statistics-for-psychology-10
+    name: Effect sizes (Cohen's d, r, eta-squared) and statistical power
+  - id: py-statistics-for-psychology-11
+    name: Introduction to Bayesian inference and Bayes factors
+  - id: py-statistics-for-psychology-12
+    name: Reporting results in APA style
+  - id: py-statistics-for-psychology-13
+    name: "Using software: JASP, jamovi, SPSS and an introduction to R"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-statistics-for-psychology.json
+  sha256: 26d8d428cea58a7c8b36b5e11097f390c0317b1be0e1fb4889b533fc5dcbb482

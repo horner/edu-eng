@@ -1,0 +1,41 @@
+id: py-self-and-identity
+name: Self, Identity & Self-Esteem
+category: Social Psychology & Behavioural Science
+level: 2
+priority: important
+summary: How people come to know and evaluate themselves, and how identity and self-esteem affect wellbeing and behaviour.
+prerequisites:
+  - py-social-psychology
+related: []
+topics:
+  - id: py-self-and-identity-1
+    name: Self-concept and self-schemas
+  - id: py-self-and-identity-2
+    name: "Sources of self-knowledge: introspection, others and comparison"
+  - id: py-self-and-identity-3
+    name: Social comparison theory
+  - id: py-self-and-identity-4
+    name: "Self-esteem: measurement, benefits and the self-esteem movement critique"
+  - id: py-self-and-identity-5
+    name: Narcissism vs healthy self-regard
+  - id: py-self-and-identity-6
+    name: Self-enhancement, self-serving bias and self-verification
+  - id: py-self-and-identity-7
+    name: Self-discrepancy theory and possible selves
+  - id: py-self-and-identity-8
+    name: Self-presentation and impression management
+  - id: py-self-and-identity-9
+    name: Social identity and multiple identities
+  - id: py-self-and-identity-10
+    name: "Cultural differences in the self: independent vs interdependent"
+  - id: py-self-and-identity-11
+    name: Identity across the lifespan
+  - id: py-self-and-identity-12
+    name: "Self-awareness and self-reflection: benefits and pitfalls"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-self-and-identity.json
+  sha256: 9d819a97d0cfac940e3d307a6db81873042657c174448714063e52202f617e22

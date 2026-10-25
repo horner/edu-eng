@@ -1,0 +1,52 @@
+id: hf-cardiorespiratory-training
+name: Cardiorespiratory & Interval Training
+category: Fitness Training & Programme Design
+level: 2
+priority: core
+summary: How to build aerobic fitness with continuous and interval training, including HIIT.
+prerequisites:
+  - hf-training-principles-adaptations
+related: []
+topics:
+  - id: hf-cardiorespiratory-training-1
+    name: Benefits of cardiorespiratory fitness
+  - id: hf-cardiorespiratory-training-2
+    name: "Modes: walking, running, cycling, swimming, rowing and others"
+  - id: hf-cardiorespiratory-training-3
+    name: "Intensity zones: heart rate, heart-rate reserve, RPE and the talk test"
+  - id: hf-cardiorespiratory-training-4
+    name: Estimating maximum heart rate and its limitations
+  - id: hf-cardiorespiratory-training-5
+    name: "Continuous training: long slow distance and tempo work"
+  - id: hf-cardiorespiratory-training-6
+    name: Principles of interval training
+  - id: hf-cardiorespiratory-training-7
+    name: High-intensity interval training (HIIT)
+    sub:
+      - id: hf-cardiorespiratory-training-7-1
+        name: Short and long intervals
+      - id: hf-cardiorespiratory-training-7-2
+        name: Sprint interval training
+      - id: hf-cardiorespiratory-training-7-3
+        name: Evidence for health and fitness
+      - id: hf-cardiorespiratory-training-7-4
+        name: Safety and who should be cautious
+  - id: hf-cardiorespiratory-training-8
+    name: "'Zone 2' and polarised training claims evaluated"
+  - id: hf-cardiorespiratory-training-9
+    name: Progression for beginners
+  - id: hf-cardiorespiratory-training-10
+    name: Cross-training and low-impact options
+  - id: hf-cardiorespiratory-training-11
+    name: Using cardio machines effectively
+  - id: hf-cardiorespiratory-training-12
+    name: "Tracking improvement: resting heart rate and field tests"
+  - id: hf-cardiorespiratory-training-13
+    name: Combining cardio and strength training in a week
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-cardiorespiratory-training.json
+  sha256: 0d1b2883e74ec2136b6167e345cc4416fb1b2f0ff816920ae32d807d62a6536c

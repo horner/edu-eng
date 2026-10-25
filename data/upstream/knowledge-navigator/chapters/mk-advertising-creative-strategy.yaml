@@ -1,0 +1,44 @@
+id: mk-advertising-creative-strategy
+name: Advertising & Creative Strategy
+category: Communications & Creative
+level: 3
+priority: important
+summary: How advertising builds brands and sales, how great creative is developed, and how ads are tested and evaluated.
+prerequisites:
+  - mk-integrated-marketing-communications
+  - mk-copywriting-storytelling
+related:
+  - mk-brand-growth-marketing-science
+  - mk-media-planning-buying
+topics:
+  - id: mk-advertising-creative-strategy-1
+    name: "The advertising industry: advertisers, agencies, media owners"
+  - id: mk-advertising-creative-strategy-2
+    name: "How advertising works: salience, memory structures and persuasion"
+  - id: mk-advertising-creative-strategy-3
+    name: Account planning and consumer insight
+  - id: mk-advertising-creative-strategy-4
+    name: The creative brief and the big idea
+  - id: mk-advertising-creative-strategy-5
+    name: Creative formats and executional styles
+  - id: mk-advertising-creative-strategy-6
+    name: Emotion, humour, fame and storytelling in advertising
+  - id: mk-advertising-creative-strategy-7
+    name: "Branding in ads: making the brand memorable"
+  - id: mk-advertising-creative-strategy-8
+    name: Advertising across TV, online video, audio, out-of-home and print
+  - id: mk-advertising-creative-strategy-9
+    name: Pre-testing and post-testing advertising
+  - id: mk-advertising-creative-strategy-10
+    name: Brand lift studies
+  - id: mk-advertising-creative-strategy-11
+    name: Creative effectiveness evidence and awards
+  - id: mk-advertising-creative-strategy-12
+    name: Advertising regulation and social responsibility
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-advertising-creative-strategy.json
+  sha256: cbe81b130452ba142eeb783ccefcdbcc51e2c70ff3bdeea1afc1b1e274bdfb6e

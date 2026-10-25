@@ -1,0 +1,32 @@
+id: el-kinematics-dynamics
+name: Robot Kinematics & Dynamics
+category: Control Systems & Robotics
+level: 3
+priority: important
+summary: "Describing robot motion mathematically: forward and inverse kinematics, DH parameters, Jacobians, dynamics and trajectory generation."
+prerequisites:
+  - ma-linear-algebra
+  - me-dynamics
+related:
+  - ai-kinematics-dynamics
+  - me-robot-mechanics
+topics:
+  - id: el-kinematics-dynamics-1
+    name: Forward kinematics and inverse kinematics
+  - id: el-kinematics-dynamics-2
+    name: Denavit-Hartenberg (DH) parameters
+  - id: el-kinematics-dynamics-3
+    name: Jacobian and velocity kinematics
+  - id: el-kinematics-dynamics-4
+    name: Robot dynamics and equations of motion
+  - id: el-kinematics-dynamics-5
+    name: Trajectory planning and interpolation
+  - id: el-kinematics-dynamics-6
+    name: Motion profiles (trapezoidal, S-curve)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-kinematics-dynamics.json
+  sha256: fcd643db36684ef161863e6b0ca4d7ab691688ab8444321aba4912fee75d6a48

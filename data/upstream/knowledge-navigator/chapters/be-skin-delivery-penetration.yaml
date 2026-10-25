@@ -1,0 +1,55 @@
+id: be-skin-delivery-penetration
+name: Skin Penetration, Delivery Systems & Dermal Pharmacology
+category: Cosmetic Chemistry & Formulation
+level: 4
+priority: advanced
+summary: How molecules cross the skin, how formulations and delivery systems change penetration, and the pharmacology of topical actives and over-the-counter drugs.
+prerequisites:
+  - be-formulation-science
+  - be-advanced-skin-biology
+  - bi-pharmacology
+related:
+  - ch-medicinal-chemistry
+  - ch-transport-phenomena
+  - ch-nanochemistry
+topics:
+  - id: be-skin-delivery-penetration-1
+    name: "Routes through the skin: intercellular, transcellular and follicular"
+  - id: be-skin-delivery-penetration-2
+    name: Fick's law, partition coefficients and the molecular size rule
+  - id: be-skin-delivery-penetration-3
+    name: "Factors affecting penetration: vehicle, occlusion, skin condition and site"
+  - id: be-skin-delivery-penetration-4
+    name: "Measuring penetration: Franz diffusion cells, tape stripping and microdialysis"
+  - id: be-skin-delivery-penetration-5
+    name: Chemical penetration enhancers
+  - id: be-skin-delivery-penetration-6
+    name: "Physical enhancement: microneedles, iontophoresis and sonophoresis"
+  - id: be-skin-delivery-penetration-7
+    name: Delivery systems
+    sub:
+      - id: be-skin-delivery-penetration-7-1
+        name: Liposomes and ethosomes
+      - id: be-skin-delivery-penetration-7-2
+        name: Solid lipid nanoparticles and nanostructured lipid carriers
+      - id: be-skin-delivery-penetration-7-3
+        name: Polymeric micro- and nanoparticles
+      - id: be-skin-delivery-penetration-7-4
+        name: Cyclodextrins
+  - id: be-skin-delivery-penetration-8
+    name: Skin metabolism of topical actives
+  - id: be-skin-delivery-penetration-9
+    name: Dermal pharmacology of retinoids, vitamins, acids and depigmenting agents
+  - id: be-skin-delivery-penetration-10
+    name: "Topical over-the-counter drug categories: acne, antiperspirant, anti-dandruff, sunscreen"
+  - id: be-skin-delivery-penetration-11
+    name: Bioavailability and bioequivalence of topical products
+  - id: be-skin-delivery-penetration-12
+    name: Systemic exposure and its role in safety assessment
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-skin-delivery-penetration.json
+  sha256: 453817c233f5fce7f278610804f6707de176941d9c76469c1df92798c849b596

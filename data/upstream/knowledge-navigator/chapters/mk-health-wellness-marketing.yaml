@@ -1,0 +1,44 @@
+id: mk-health-wellness-marketing
+name: Health, Wellness & Pharmaceutical Marketing
+category: Specialised Marketing
+level: 3
+priority: advanced
+summary: Marketing in health care, pharmaceuticals and consumer wellness, where claims are tightly regulated and patient wellbeing comes first.
+prerequisites:
+  - mk-marketing-law-regulation
+  - mk-integrated-marketing-communications
+related:
+  - hf-introduction-to-health-wellness
+  - py-health-psychology
+  - bi-pharmacology
+  - hf-health-promotion-communication
+topics:
+  - id: mk-health-wellness-marketing-1
+    name: "Health markets: patients, providers, payers and regulators"
+  - id: mk-health-wellness-marketing-2
+    name: Pharmaceutical marketing and healthcare professional engagement
+  - id: mk-health-wellness-marketing-3
+    name: Direct-to-consumer drug advertising and where it is allowed
+  - id: mk-health-wellness-marketing-4
+    name: Health and nutrition claims regulation
+  - id: mk-health-wellness-marketing-5
+    name: Medical devices and digital health marketing
+  - id: mk-health-wellness-marketing-6
+    name: "Consumer wellness and supplement marketing: claims versus evidence"
+  - id: mk-health-wellness-marketing-7
+    name: "Marketing to patients: health literacy and shared decision-making"
+  - id: mk-health-wellness-marketing-8
+    name: Healthcare services marketing and patient experience
+  - id: mk-health-wellness-marketing-9
+    name: Health misinformation and influencer health claims
+  - id: mk-health-wellness-marketing-10
+    name: Public health campaigns
+  - id: mk-health-wellness-marketing-11
+    name: "Ethics: conflicts of interest and vulnerable audiences"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-health-wellness-marketing.json
+  sha256: 3bf4bf124a5d2357897924babd33539a7d3c98148b216486128efb033a955664

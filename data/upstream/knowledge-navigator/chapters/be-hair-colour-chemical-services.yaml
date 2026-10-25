@@ -1,0 +1,64 @@
+id: be-hair-colour-chemical-services
+name: Hair Colour, Perms & Chemical Straightening
+category: Hair & Scalp
+level: 2
+priority: important
+summary: The chemistry and practice of colouring, bleaching, perming and straightening hair, and how to do it with the least damage and risk.
+prerequisites:
+  - be-hair-scalp-science
+  - be-cosmetic-chemistry-basics
+related:
+  - ch-organic-reactions-ii
+  - ch-redox-electrochemistry-basics
+topics:
+  - id: be-hair-colour-chemical-services-1
+    name: Natural hair colour, levels and underlying pigment
+  - id: be-hair-colour-chemical-services-2
+    name: "Colour theory for hair: the colour wheel, neutralising and toning"
+  - id: be-hair-colour-chemical-services-3
+    name: Hair colour types
+    sub:
+      - id: be-hair-colour-chemical-services-3-1
+        name: Temporary colour
+      - id: be-hair-colour-chemical-services-3-2
+        name: Semi-permanent and direct dyes
+      - id: be-hair-colour-chemical-services-3-3
+        name: Demi-permanent colour
+      - id: be-hair-colour-chemical-services-3-4
+        name: "Permanent oxidative colour: precursors, couplers and peroxide"
+      - id: be-hair-colour-chemical-services-3-5
+        name: "Plant colours: henna, indigo and their pitfalls"
+  - id: be-hair-colour-chemical-services-4
+    name: "Bleaching (lightening): persulfates, oxidation of melanin and damage"
+  - id: be-hair-colour-chemical-services-5
+    name: "Bond-building treatments: what they do"
+  - id: be-hair-colour-chemical-services-6
+    name: Covering grey hair
+  - id: be-hair-colour-chemical-services-7
+    name: Highlights, balayage and colour placement techniques
+  - id: be-hair-colour-chemical-services-8
+    name: Colour correction and removing colour
+  - id: be-hair-colour-chemical-services-9
+    name: "Hair dye allergy: PPD, patch testing and black henna"
+  - id: be-hair-colour-chemical-services-10
+    name: Chemical texture services
+    sub:
+      - id: be-hair-colour-chemical-services-10-1
+        name: "Permanent waving: thioglycolate chemistry"
+      - id: be-hair-colour-chemical-services-10-2
+        name: "Relaxers: hydroxide and thio relaxers"
+      - id: be-hair-colour-chemical-services-10-3
+        name: "Keratin and smoothing treatments: formaldehyde concerns"
+      - id: be-hair-colour-chemical-services-10-4
+        name: Damage and aftercare
+  - id: be-hair-colour-chemical-services-11
+    name: "Long-term safety questions: hair dyes, relaxers and cancer research"
+  - id: be-hair-colour-chemical-services-12
+    name: Home versus salon chemical services
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-hair-colour-chemical-services.json
+  sha256: d7775652bd1b84fc5bf5cff4aafbd0b6c8e1f8622ed52fc4fb65098793f7387f

@@ -1,0 +1,43 @@
+id: bu-corporate-strategy
+name: Corporate Strategy
+category: Strategy & Global Business
+level: 3
+priority: important
+summary: How multi-business companies decide which businesses to be in and how the parent adds value to them.
+prerequisites:
+  - bu-business-strategy
+related:
+  - bu-mergers-acquisitions
+  - bu-global-strategy
+topics:
+  - id: bu-corporate-strategy-1
+    name: Business-level vs corporate-level strategy
+  - id: bu-corporate-strategy-2
+    name: "Scope of the firm: horizontal, vertical and geographic"
+  - id: bu-corporate-strategy-3
+    name: Vertical integration and outsourcing decisions
+  - id: bu-corporate-strategy-4
+    name: Related and unrelated diversification
+  - id: bu-corporate-strategy-5
+    name: Corporate parenting and the corporate advantage
+  - id: bu-corporate-strategy-6
+    name: "Portfolio planning tools: BCG and GE-McKinsey matrices and their limits"
+  - id: bu-corporate-strategy-7
+    name: "Growth modes: organic growth, alliances and acquisitions (build, borrow or buy)"
+  - id: bu-corporate-strategy-8
+    name: Strategic alliances and joint ventures
+  - id: bu-corporate-strategy-9
+    name: Conglomerates, business groups and the conglomerate discount
+  - id: bu-corporate-strategy-10
+    name: Divestment, spin-offs and refocusing
+  - id: bu-corporate-strategy-11
+    name: Capital allocation across business units
+  - id: bu-corporate-strategy-12
+    name: "Organising the multi-business firm: headquarters and divisions"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-corporate-strategy.json
+  sha256: b8e4f27b84e0521f8b0e0804bda846df0fa991960610f29a33f40e55a756dfbc

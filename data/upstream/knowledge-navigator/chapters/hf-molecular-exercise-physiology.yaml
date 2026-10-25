@@ -1,0 +1,47 @@
+id: hf-molecular-exercise-physiology
+name: Molecular Exercise Physiology
+category: Exercise Science
+level: 4
+priority: advanced
+summary: The genetic, signalling and cellular mechanisms through which exercise produces adaptation, at graduate level.
+prerequisites:
+  - hf-applied-exercise-physiology
+  - bi-cell-signaling
+related:
+  - bi-gene-regulation-epigenetics
+  - bi-omics
+  - bi-muscle-biology
+topics:
+  - id: hf-molecular-exercise-physiology-1
+    name: "Research methods: muscle biopsies, stable isotope tracers and cell models"
+  - id: hf-molecular-exercise-physiology-2
+    name: "Genetics of trainability: the HERITAGE study and heritability estimates"
+  - id: hf-molecular-exercise-physiology-3
+    name: "Sports genomics and direct-to-consumer genetic fitness tests: what they can and cannot tell you"
+  - id: hf-molecular-exercise-physiology-4
+    name: "Signalling pathways in endurance adaptation: AMPK, CaMK and PGC-1alpha"
+  - id: hf-molecular-exercise-physiology-5
+    name: Mitochondrial biogenesis
+  - id: hf-molecular-exercise-physiology-6
+    name: mTOR signalling and the regulation of muscle protein synthesis
+  - id: hf-molecular-exercise-physiology-7
+    name: Measuring muscle protein synthesis and breakdown
+  - id: hf-molecular-exercise-physiology-8
+    name: Satellite cells, myonuclei and 'muscle memory'
+  - id: hf-molecular-exercise-physiology-9
+    name: Epigenetic responses to exercise
+  - id: hf-molecular-exercise-physiology-10
+    name: Myokines and other exercise-induced signalling molecules
+  - id: hf-molecular-exercise-physiology-11
+    name: Molecular effects of inactivity, ageing and disuse
+  - id: hf-molecular-exercise-physiology-12
+    name: Omics approaches in exercise science
+  - id: hf-molecular-exercise-physiology-13
+    name: Exercise mimetics and frontier questions
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-molecular-exercise-physiology.json
+  sha256: 400c6476d00568ea38b7a05c48e9e2c7a267b18a327705f4aa2c95498e67a27a

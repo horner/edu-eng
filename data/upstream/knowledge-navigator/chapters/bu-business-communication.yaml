@@ -1,0 +1,44 @@
+id: bu-business-communication
+name: Business Communication
+category: Foundations of Business
+level: 1
+priority: core
+summary: "Writing and speaking clearly at work: emails, reports, proposals, meetings and audience-centred messages."
+prerequisites:
+  - bu-introduction-to-business
+related:
+  - bu-presentation-persuasion
+topics:
+  - id: bu-business-communication-1
+    name: The communication process and audience analysis
+  - id: bu-business-communication-2
+    name: "Plain English: clarity, concision and tone"
+  - id: bu-business-communication-3
+    name: "Emails and messages: structure, etiquette and when not to use them"
+  - id: bu-business-communication-4
+    name: Writing routine, good-news and bad-news messages
+  - id: bu-business-communication-5
+    name: Persuasive messages and requests
+  - id: bu-business-communication-6
+    name: "Business reports: structure, executive summaries and recommendations"
+  - id: bu-business-communication-7
+    name: Proposals and one-page memos
+  - id: bu-business-communication-8
+    name: Running and documenting effective meetings
+  - id: bu-business-communication-9
+    name: Listening, questioning and giving feedback
+  - id: bu-business-communication-10
+    name: Intercultural and remote communication
+  - id: bu-business-communication-11
+    name: "Visual communication: tables, charts and slides basics"
+  - id: bu-business-communication-12
+    name: Professional profiles, CVs and cover letters
+  - id: bu-business-communication-13
+    name: "Crisis and sensitive communication: apologies and corrections"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-communication.json
+  sha256: a36533641e6e4c1f159e7834734053573c624e81336a06e8a21ae58f3fb5c5e8

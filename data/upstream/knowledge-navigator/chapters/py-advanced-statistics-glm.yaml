@@ -1,0 +1,50 @@
+id: py-advanced-statistics-glm
+name: "Advanced Statistics for Psychology: Regression, ANOVA & the General Linear Model"
+category: Research Methods, Statistics & Measurement
+level: 3
+priority: important
+summary: Multiple regression, factorial and repeated-measures ANOVA and their common basis in the general linear model, for analysing real psychological data.
+prerequisites:
+  - py-statistics-for-psychology
+related:
+  - ma-regression-analysis
+  - ma-experimental-design
+topics:
+  - id: py-advanced-statistics-glm-1
+    name: The general linear model as one framework for t-tests, ANOVA and regression
+  - id: py-advanced-statistics-glm-2
+    name: Multiple regression
+    sub:
+      - id: py-advanced-statistics-glm-2-1
+        name: Partial coefficients and standardised betas
+      - id: py-advanced-statistics-glm-2-2
+        name: Hierarchical and stepwise entry
+      - id: py-advanced-statistics-glm-2-3
+        name: Multicollinearity and diagnostics
+  - id: py-advanced-statistics-glm-3
+    name: "Categorical predictors: dummy and contrast coding"
+  - id: py-advanced-statistics-glm-4
+    name: "Moderation: interaction terms and simple slopes"
+  - id: py-advanced-statistics-glm-5
+    name: Mediation analysis and its causal assumptions
+  - id: py-advanced-statistics-glm-6
+    name: "Factorial ANOVA: main effects, interactions and simple effects"
+  - id: py-advanced-statistics-glm-7
+    name: "Repeated-measures and mixed ANOVA: sphericity and corrections"
+  - id: py-advanced-statistics-glm-8
+    name: ANCOVA and controlling for covariates
+  - id: py-advanced-statistics-glm-9
+    name: Logistic regression for binary outcomes
+  - id: py-advanced-statistics-glm-10
+    name: Assumption checking, outliers, transformations and robust methods
+  - id: py-advanced-statistics-glm-11
+    name: Multiple comparisons and familywise error
+  - id: py-advanced-statistics-glm-12
+    name: Data wrangling, visualisation and reproducible analysis in R
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-advanced-statistics-glm.json
+  sha256: e8fdfa577578d30452a9c02336db3c662435dfb457f64922a0273f934f5d2f6e

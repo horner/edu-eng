@@ -1,0 +1,50 @@
+id: be-cosmetic-chemistry-basics
+name: Cosmetic Chemistry Basics & Reading Ingredient Labels
+category: Cosmetic Chemistry & Formulation
+level: 1
+priority: core
+summary: The everyday chemistry behind cosmetics, from water, oil and pH to emulsions and preservatives, and how to read an ingredient list.
+prerequisites:
+  - ch-introductory-chemistry
+  - be-introduction-to-beauty-science
+related:
+  - bi-chemistry-of-life
+topics:
+  - id: be-cosmetic-chemistry-basics-1
+    name: "Everything is chemicals: natural and synthetic molecules"
+  - id: be-cosmetic-chemistry-basics-2
+    name: "Water, oil and why they do not mix: polarity in plain terms"
+  - id: be-cosmetic-chemistry-basics-3
+    name: pH, acids and alkalis in skin and hair products
+  - id: be-cosmetic-chemistry-basics-4
+    name: Solutions, suspensions, emulsions and gels
+  - id: be-cosmetic-chemistry-basics-5
+    name: "What surfactants do: cleansing, foaming and emulsifying"
+  - id: be-cosmetic-chemistry-basics-6
+    name: Why products need preservatives
+  - id: be-cosmetic-chemistry-basics-7
+    name: Antioxidants, rancidity and product shelf life
+  - id: be-cosmetic-chemistry-basics-8
+    name: Reading an ingredient list
+    sub:
+      - id: be-cosmetic-chemistry-basics-8-1
+        name: INCI names and why they look strange
+      - id: be-cosmetic-chemistry-basics-8-2
+        name: Order of ingredients and the 1% line
+      - id: be-cosmetic-chemistry-basics-8-3
+        name: Fragrance, parfum and colourants (CI numbers)
+      - id: be-cosmetic-chemistry-basics-8-4
+        name: Active ingredients on drug-regulated products
+  - id: be-cosmetic-chemistry-basics-9
+    name: Period-after-opening, batch codes and expiry dates
+  - id: be-cosmetic-chemistry-basics-10
+    name: "Storage: heat, light, air and contamination"
+  - id: be-cosmetic-chemistry-basics-11
+    name: Common myths about ingredients and "toxins"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-cosmetic-chemistry-basics.json
+  sha256: 27bc64838db7ddfb36e2e44138e4a8cdd1092ef1217c837ce49258e6132a9614

@@ -1,0 +1,32 @@
+id: math
+name: Mathematics
+icon: ∑
+color: "#fbbf24"
+prefix: ma
+description: Mathematics from arithmetic and algebra through calculus, proof and the major pure branches (algebra, analysis, geometry, topology, number theory, combinatorics) to probability, statistics, numerical and applied mathematics, organised along the MSC2020 classification.
+categories:
+  - Pre-University Foundations
+  - Calculus
+  - Foundations & Mathematical Logic
+  - Combinatorics & Discrete Mathematics
+  - Algebra
+  - Number Theory
+  - Analysis
+  - Differential Equations & Dynamical Systems
+  - Geometry
+  - Topology
+  - Probability & Statistics
+  - Numerical Analysis & Scientific Computing
+  - Optimization & Control Theory
+  - Theoretical Computer Science
+  - Machine Learning & Data Science Mathematics
+  - Mathematical Physics
+  - Applied & Interdisciplinary Mathematics
+  - Emerging & Advanced Areas
+  - History, Philosophy & Education
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/discipline.json
+  sha256: 1b3a48fd5256ae28db2f4ada0bd2b1e78c3a38e85dcdd39c592bf0e2295ff7bf

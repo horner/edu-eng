@@ -1,0 +1,62 @@
+id: py-stress-coping-resilience
+name: Stress, Coping & Resilience
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: core
+summary: What stress does to mind and body, which ways of coping help, and how people build resilience to adversity.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - hf-sleep-science
+  - hf-hormonal-health
+  - hf-stress-physiology-health
+topics:
+  - id: py-stress-coping-resilience-1
+    name: "What stress is: stressors, appraisals and responses"
+  - id: py-stress-coping-resilience-2
+    name: "The stress response: fight-or-flight, HPA axis and cortisol"
+  - id: py-stress-coping-resilience-3
+    name: Acute vs chronic stress; allostatic load
+  - id: py-stress-coping-resilience-4
+    name: "Stress and health: immunity, heart disease and sleep"
+  - id: py-stress-coping-resilience-5
+    name: Life events, daily hassles and chronic strain
+  - id: py-stress-coping-resilience-6
+    name: Lazarus and Folkman's transactional model
+  - id: py-stress-coping-resilience-7
+    name: Coping strategies
+    sub:
+      - id: py-stress-coping-resilience-7-1
+        name: Problem-focused and emotion-focused coping
+      - id: py-stress-coping-resilience-7-2
+        name: Avoidant vs approach coping
+      - id: py-stress-coping-resilience-7-3
+        name: Social support as a buffer
+  - id: py-stress-coping-resilience-8
+    name: "Burnout: signs, causes and recovery"
+  - id: py-stress-coping-resilience-9
+    name: "Resilience: what it is and the 'ordinary magic' of recovery"
+  - id: py-stress-coping-resilience-10
+    name: "Post-traumatic growth: evidence and caveats"
+  - id: py-stress-coping-resilience-11
+    name: "Stress mindset: can seeing stress as helpful change outcomes?"
+  - id: py-stress-coping-resilience-12
+    name: Evidence-based stress management
+    sub:
+      - id: py-stress-coping-resilience-12-1
+        name: Relaxation, breathing and progressive muscle relaxation
+      - id: py-stress-coping-resilience-12-2
+        name: Exercise, sleep and time in nature
+      - id: py-stress-coping-resilience-12-3
+        name: Problem solving and time management
+      - id: py-stress-coping-resilience-12-4
+        name: Stress management programmes and their effects
+  - id: py-stress-coping-resilience-13
+    name: Warning signs that stress has become a mental health problem
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-stress-coping-resilience.json
+  sha256: 4cd525f96feb5794583f6116731e8b03a9c8f4b4981721480b282734f83db067

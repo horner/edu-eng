@@ -1,0 +1,41 @@
+id: bi-plant-structure-growth
+name: "Botany: Plant Structure & Growth"
+category: Plant Biology
+level: 2
+priority: important
+summary: "How plants are built and grow: cells, tissues and organs, meristems, secondary growth and flowering-plant reproduction."
+prerequisites:
+  - bi-cell-biology
+related: []
+topics:
+  - id: bi-plant-structure-growth-1
+    name: "Plant cell features: cell wall, vacuole, plastids and plasmodesmata"
+  - id: bi-plant-structure-growth-2
+    name: "Plant tissue systems: dermal, ground and vascular"
+  - id: bi-plant-structure-growth-3
+    name: Meristems and primary growth
+  - id: bi-plant-structure-growth-4
+    name: "Roots: structure, types and functions"
+  - id: bi-plant-structure-growth-5
+    name: "Stems: primary structure and modifications"
+  - id: bi-plant-structure-growth-6
+    name: "Leaves: anatomy and adaptations"
+  - id: bi-plant-structure-growth-7
+    name: "Secondary growth: vascular cambium, wood and bark"
+  - id: bi-plant-structure-growth-8
+    name: "Flowers: structure and evolution"
+  - id: bi-plant-structure-growth-9
+    name: Pollination, double fertilisation and seed development
+  - id: bi-plant-structure-growth-10
+    name: Fruits, seed dispersal, dormancy and germination
+  - id: bi-plant-structure-growth-11
+    name: Asexual reproduction and plant propagation
+  - id: bi-plant-structure-growth-12
+    name: Plant life cycles and alternation of generations
+discipline: biology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/biology/bi-plant-structure-growth.json
+  sha256: adae01c5156c6fb2d82d72f6d4ff661f6955423814c40db9003f55d7e7438336

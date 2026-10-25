@@ -1,0 +1,44 @@
+id: py-evidence-based-self-help
+name: "Looking After Your Mental Health: Evidence-Based Self-Help Skills"
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: important
+summary: Practical skills drawn from tested therapies that people can use on their own for low mood, worry and stress, and how to know when self-help is not enough.
+prerequisites:
+  - py-mental-health-literacy
+  - py-emotion-and-emotion-regulation
+related: []
+topics:
+  - id: py-evidence-based-self-help-1
+    name: "Self-help that works: what guided self-help trials show"
+  - id: py-evidence-based-self-help-2
+    name: Monitoring mood, activities and triggers
+  - id: py-evidence-based-self-help-3
+    name: Behavioural activation for low mood
+  - id: py-evidence-based-self-help-4
+    name: Spotting and questioning unhelpful thinking patterns
+  - id: py-evidence-based-self-help-5
+    name: Worry time and dealing with 'what ifs'
+  - id: py-evidence-based-self-help-6
+    name: Facing fears gradually instead of avoiding them
+  - id: py-evidence-based-self-help-7
+    name: Structured problem solving
+  - id: py-evidence-based-self-help-8
+    name: Relaxation and grounding techniques
+  - id: py-evidence-based-self-help-9
+    name: Values and committed action (ACT-based skills)
+  - id: py-evidence-based-self-help-10
+    name: Building self-care and a wellbeing plan
+  - id: py-evidence-based-self-help-11
+    name: Relapse prevention and early-warning sign plans
+  - id: py-evidence-based-self-help-12
+    name: Choosing self-help books and apps wisely
+  - id: py-evidence-based-self-help-13
+    name: "When self-help is not enough: getting professional help"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-evidence-based-self-help.json
+  sha256: 89b52f41867c299f08a1a1ef4475b3a1b39dcdcfa0adf8a03cb5071edb922f8a

@@ -1,0 +1,43 @@
+id: bu-global-strategy
+name: Global Strategy & Multinational Management
+category: Strategy & Global Business
+level: 4
+priority: advanced
+summary: How multinational firms configure, coordinate and adapt strategy and organisation across countries.
+prerequisites:
+  - bu-business-strategy
+  - bu-international-business
+related:
+  - bu-international-finance-treasury
+topics:
+  - id: bu-global-strategy-1
+    name: Global, multidomestic and transnational strategies
+  - id: bu-global-strategy-2
+    name: Integration vs local responsiveness
+  - id: bu-global-strategy-3
+    name: The CAGE distance framework
+  - id: bu-global-strategy-4
+    name: Adaptation, aggregation and arbitrage (AAA) strategies
+  - id: bu-global-strategy-5
+    name: Configuring the global value chain
+  - id: bu-global-strategy-6
+    name: Headquarters-subsidiary relationships and subsidiary roles
+  - id: bu-global-strategy-7
+    name: Knowledge transfer across borders
+  - id: bu-global-strategy-8
+    name: Emerging-market multinationals
+  - id: bu-global-strategy-9
+    name: "Political risk and geopolitics: sanctions, decoupling and reshoring"
+  - id: bu-global-strategy-10
+    name: "Global organisational structures: matrix, regional and global product"
+  - id: bu-global-strategy-11
+    name: Global corporate responsibility and supply chain standards
+  - id: bu-global-strategy-12
+    name: Case studies in global expansion and retreat
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-global-strategy.json
+  sha256: 83abab50e834e546de1686a1b5f32b974074c56ef17c8e463ce19603c7339169

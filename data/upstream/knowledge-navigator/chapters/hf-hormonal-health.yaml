@@ -1,0 +1,47 @@
+id: hf-hormonal-health
+name: Hormonal & Reproductive Health
+category: Life Stages & Hormonal Health
+level: 2
+priority: important
+summary: How hormones regulate the body through life, the basics of reproductive and sexual health, and how to spot misleading hormone claims.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-endocrinology-reproduction
+  - be-life-stages-hormones
+topics:
+  - id: hf-hormonal-health-1
+    name: "The endocrine system: glands, hormones and feedback"
+  - id: hf-hormonal-health-2
+    name: "Everyday hormones: insulin, cortisol, melatonin and thyroid hormones"
+  - id: hf-hormonal-health-3
+    name: "Thyroid health: underactive and overactive thyroid"
+  - id: hf-hormonal-health-4
+    name: Sex hormones across life
+  - id: hf-hormonal-health-5
+    name: Puberty
+  - id: hf-hormonal-health-6
+    name: The menstrual cycle
+  - id: hf-hormonal-health-7
+    name: Testosterone and ageing in men
+  - id: hf-hormonal-health-8
+    name: "Fertility: basics and influencing factors"
+  - id: hf-hormonal-health-9
+    name: Contraception methods and how effective they are
+  - id: hf-hormonal-health-10
+    name: Sexual health and preventing sexually transmitted infections
+  - id: hf-hormonal-health-11
+    name: "Endocrine-disrupting chemicals: the evidence"
+  - id: hf-hormonal-health-12
+    name: "'Hormone balancing' claims and hormone tests sold online"
+  - id: hf-hormonal-health-13
+    name: Hormones and exercise
+  - id: hf-hormonal-health-14
+    name: When to see a doctor about hormonal symptoms
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-hormonal-health.json
+  sha256: 5db1e727802df84f0f29cbe757f2ae2ef926085ecc1ce8219c74115f15ce2b81

@@ -1,0 +1,48 @@
+id: hf-complementary-integrative-health
+name: "Complementary & Integrative Health: Evaluating the Evidence"
+category: Complementary & Integrative Health
+level: 2
+priority: important
+summary: What complementary, alternative and integrative approaches are, and how to judge their evidence and safety.
+prerequisites:
+  - hf-health-literacy-evidence
+related:
+  - py-mindfulness-contemplative-science
+topics:
+  - id: hf-complementary-integrative-health-1
+    name: "Complementary, alternative and integrative: what the terms mean (NCCIH)"
+  - id: hf-complementary-integrative-health-2
+    name: "Classifying approaches: nutritional, psychological, physical and combined"
+  - id: hf-complementary-integrative-health-3
+    name: Who uses these approaches and why
+  - id: hf-complementary-integrative-health-4
+    name: Placebo, expectation and context effects
+  - id: hf-complementary-integrative-health-5
+    name: "How to evaluate the research: blinding and sham controls"
+  - id: hf-complementary-integrative-health-6
+    name: "Acupuncture: the evidence"
+  - id: hf-complementary-integrative-health-7
+    name: Chiropractic and osteopathy
+  - id: hf-complementary-integrative-health-8
+    name: "Homeopathy: claims and evidence"
+  - id: hf-complementary-integrative-health-9
+    name: Naturopathy
+  - id: hf-complementary-integrative-health-10
+    name: "Traditional systems: Ayurveda and traditional Chinese medicine"
+  - id: hf-complementary-integrative-health-11
+    name: "Energy therapies such as reiki: claims vs evidence"
+  - id: hf-complementary-integrative-health-12
+    name: Aromatherapy
+  - id: hf-complementary-integrative-health-13
+    name: "Safety: direct harms, interactions and delayed treatment"
+  - id: hf-complementary-integrative-health-14
+    name: Regulation and practitioner credentials
+  - id: hf-complementary-integrative-health-15
+    name: Integrative medicine and talking to your clinician
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-complementary-integrative-health.json
+  sha256: e0fd0d74da6bd5256484773631d4ae7747e4c21e91033b2496eacea734d563d6

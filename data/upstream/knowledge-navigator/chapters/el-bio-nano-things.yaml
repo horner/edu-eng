@@ -1,0 +1,25 @@
+id: el-bio-nano-things
+name: Bio-Nano Things
+category: Emerging & Advanced Topics
+level: 5
+priority: optional
+summary: "Speculative nano-scale networks: molecular communication, molecular motors, DNA computing and in-vivo sensing."
+prerequisites:
+  - el-bio-integrated-electronics
+related: []
+topics:
+  - id: el-bio-nano-things-1
+    name: Nano-scale communication
+  - id: el-bio-nano-things-2
+    name: Molecular motors
+  - id: el-bio-nano-things-3
+    name: DNA computing
+  - id: el-bio-nano-things-4
+    name: In-vivo sensing and actuation
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-bio-nano-things.json
+  sha256: 6098e0e719dea64e53e627b2e3068272eba8fa923241ab45cf67eee0f410ef57

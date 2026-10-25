@@ -1,0 +1,32 @@
+id: ma-nonlinear-programming
+name: Nonlinear Programming
+category: Optimization & Control Theory
+level: 3
+priority: important
+summary: "Optimality conditions for smooth problems: unconstrained optimisation, Lagrange multipliers and the KKT conditions."
+prerequisites:
+  - ma-multivariable-calculus
+  - ma-linear-algebra
+related: []
+topics:
+  - id: ma-nonlinear-programming-1
+    name: Unconstrained optimization
+  - id: ma-nonlinear-programming-5
+    name: First- and second-order optimality conditions
+  - id: ma-nonlinear-programming-6
+    name: Convexity and global optima
+  - id: ma-nonlinear-programming-2
+    name: Constrained optimization
+  - id: ma-nonlinear-programming-3
+    name: Lagrange multipliers
+  - id: ma-nonlinear-programming-4
+    name: KKT conditions
+  - id: ma-nonlinear-programming-7
+    name: Duality in nonlinear programming
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-nonlinear-programming.json
+  sha256: cb72dd310fdf98527f3c21e01143fde039c863eadbaf6ca9709a8f8aa303e1a5

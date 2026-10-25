@@ -1,0 +1,46 @@
+id: hf-exercise-fundamentals
+name: Physical Activity & Exercise Fundamentals
+category: Exercise Science
+level: 1
+priority: core
+summary: What physical activity and fitness are, how much activity health needs, and how to start exercising safely.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-exercise-physiology
+topics:
+  - id: hf-exercise-fundamentals-1
+    name: "Physical activity, exercise and physical fitness: definitions"
+  - id: hf-exercise-fundamentals-2
+    name: Health benefits of regular physical activity
+  - id: hf-exercise-fundamentals-3
+    name: "Physical activity guidelines: WHO 2020 and the US Physical Activity Guidelines"
+  - id: hf-exercise-fundamentals-4
+    name: Sedentary behaviour and why sitting less matters
+  - id: hf-exercise-fundamentals-5
+    name: Health-related and skill-related components of fitness
+  - id: hf-exercise-fundamentals-6
+    name: "The FITT-VP principle: frequency, intensity, time, type, volume and progression"
+  - id: hf-exercise-fundamentals-7
+    name: "Measuring intensity: the talk test, perceived exertion and heart rate"
+  - id: hf-exercise-fundamentals-8
+    name: "Types of exercise: aerobic, muscle-strengthening, flexibility and balance"
+  - id: hf-exercise-fundamentals-9
+    name: Warming up and cooling down
+  - id: hf-exercise-fundamentals-10
+    name: "Starting safely: the PAR-Q+ self-screen and when to check with a doctor"
+  - id: hf-exercise-fundamentals-11
+    name: Warning signs to stop exercising
+  - id: hf-exercise-fundamentals-12
+    name: Building the habit and overcoming common barriers
+  - id: hf-exercise-fundamentals-13
+    name: Clothing, footwear and exercising safely outdoors
+  - id: hf-exercise-fundamentals-14
+    name: Putting together a first weekly activity plan
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-exercise-fundamentals.json
+  sha256: 2204a80f31d6ecf0378b03b24d9ba1a95161f2163e83b025a278133c45b833a3

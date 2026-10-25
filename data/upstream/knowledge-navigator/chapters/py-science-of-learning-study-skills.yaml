@@ -1,0 +1,45 @@
+id: py-science-of-learning-study-skills
+name: "The Science of Learning: Study Skills That Work"
+category: Learning, Memory & Cognition
+level: 1
+priority: important
+summary: Evidence-based ways to learn and remember, such as retrieval practice and spacing, and why popular methods like re-reading and learning styles fall short.
+prerequisites:
+  - py-introduction-to-psychology
+related: []
+topics:
+  - id: py-science-of-learning-study-skills-1
+    name: "How memory works in brief: encoding, storage and retrieval"
+  - id: py-science-of-learning-study-skills-2
+    name: Why re-reading and highlighting feel effective but are not
+  - id: py-science-of-learning-study-skills-3
+    name: Retrieval practice and the testing effect
+  - id: py-science-of-learning-study-skills-4
+    name: Spaced practice and the forgetting curve
+  - id: py-science-of-learning-study-skills-5
+    name: Interleaving and varied practice
+  - id: py-science-of-learning-study-skills-6
+    name: Elaboration, self-explanation and concrete examples
+  - id: py-science-of-learning-study-skills-7
+    name: "Dual coding: combining words and visuals"
+  - id: py-science-of-learning-study-skills-8
+    name: "Metacognition: judging what you know and the illusion of competence"
+  - id: py-science-of-learning-study-skills-9
+    name: The learning-styles myth
+  - id: py-science-of-learning-study-skills-10
+    name: Attention, multitasking and phones while studying
+  - id: py-science-of-learning-study-skills-11
+    name: Sleep, exercise and learning
+  - id: py-science-of-learning-study-skills-12
+    name: Motivation, procrastination and study planning
+  - id: py-science-of-learning-study-skills-13
+    name: Exam anxiety and how to manage it
+  - id: py-science-of-learning-study-skills-14
+    name: "Learning skills: deliberate practice and expertise"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-science-of-learning-study-skills.json
+  sha256: 8f2db13d604d782e999d475308b1fc6b00a53ef8a39a9e422f68827448344dc2

@@ -1,0 +1,31 @@
+id: el-device-identity-authentication
+name: Device Identity & Authentication
+category: Security, Privacy & Trust
+level: 3
+priority: important
+summary: "Giving each device a trustworthy identity: certificates, unique IDs, PUFs, attestation and authentication protocols."
+prerequisites:
+  - el-key-management
+related: []
+topics:
+  - id: el-device-identity-authentication-1
+    name: Device certificates and credentials
+  - id: el-device-identity-authentication-2
+    name: Unique device identifiers
+  - id: el-device-identity-authentication-3
+    name: Hardware-based identity (PUF - Physically Unclonable Functions)
+  - id: el-device-identity-authentication-4
+    name: Device attestation
+  - id: el-device-identity-authentication-5
+    name: Authentication protocols (X.509, EAP)
+  - id: el-device-identity-authentication-6
+    name: Provisioning identities during manufacturing
+  - id: el-device-identity-authentication-7
+    name: Zero-touch onboarding (e.g. FIDO Device Onboard)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-device-identity-authentication.json
+  sha256: b4ddbc9e3ef59099d9df9537336fafd0a6bf4e023bc76cb4b64dc86b3feb5e0d

@@ -1,0 +1,67 @@
+id: be-sunscreen-science
+name: "Sunscreen Science: UV Filters, Formulation & Testing"
+category: Sun Protection
+level: 3
+priority: important
+summary: The chemistry of UV filters, how sunscreens are formulated and tested for SPF and UVA protection, and how they are regulated around the world.
+prerequisites:
+  - be-sun-protection-photoaging
+  - be-formulation-science
+related:
+  - ch-photochemistry
+  - ch-molecular-spectroscopy
+topics:
+  - id: be-sunscreen-science-1
+    name: UV absorption, molecular chromophores and photostability
+  - id: be-sunscreen-science-2
+    name: Organic UV filters
+    sub:
+      - id: be-sunscreen-science-2-1
+        name: Cinnamates, salicylates and benzophenones
+      - id: be-sunscreen-science-2-2
+        name: Avobenzone and its stabilisation
+      - id: be-sunscreen-science-2-3
+        name: "Modern broad-spectrum filters: bemotrizinol, bisoctrizole, others"
+  - id: be-sunscreen-science-3
+    name: "Inorganic filters: zinc oxide and titanium dioxide, particle size and coatings"
+  - id: be-sunscreen-science-4
+    name: "Formulating sunscreens: emulsions, sprays, sticks and film formation"
+  - id: be-sunscreen-science-5
+    name: Sensory challenges, white cast and tinted formulas
+  - id: be-sunscreen-science-6
+    name: Testing
+    sub:
+      - id: be-sunscreen-science-6-1
+        name: In vivo SPF testing (ISO 24444)
+      - id: be-sunscreen-science-6-2
+        name: In vitro UVA protection (ISO 24443) and critical wavelength
+      - id: be-sunscreen-science-6-3
+        name: Persistent pigment darkening and UVA-PF
+      - id: be-sunscreen-science-6-4
+        name: Water resistance testing
+      - id: be-sunscreen-science-6-5
+        name: New alternative SPF methods
+  - id: be-sunscreen-science-7
+    name: Regulation
+    sub:
+      - id: be-sunscreen-science-7-1
+        name: US FDA OTC monograph and the GRASE question
+      - id: be-sunscreen-science-7-2
+        name: EU Annex VI filters and the UVA/SPF ratio rule
+      - id: be-sunscreen-science-7-3
+        name: Australia, Japan, Korea and other markets
+  - id: be-sunscreen-science-8
+    name: "Safety assessment of UV filters: systemic absorption, endocrine questions and nanomaterials"
+  - id: be-sunscreen-science-9
+    name: "Environmental questions: coral reefs and aquatic toxicity"
+  - id: be-sunscreen-science-10
+    name: "Sunscreens in makeup and moisturisers: limits of SPF in daily products"
+  - id: be-sunscreen-science-11
+    name: Antioxidants, DNA repair enzymes and other photoprotection add-ons
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-sunscreen-science.json
+  sha256: 909f8e0b52e7b98edbcd6080f7efbdbf7fce5fbdd7c3df5650509396ceb19713

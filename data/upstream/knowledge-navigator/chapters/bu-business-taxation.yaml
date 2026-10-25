@@ -1,0 +1,60 @@
+id: bu-business-taxation
+name: Business Taxation
+category: Accounting, Audit & Tax
+level: 3
+priority: important
+summary: How taxes affect business decisions, compared across major systems such as the US, UK, EU and India.
+prerequisites:
+  - bu-financial-accounting
+related:
+  - bu-legal-foundations-for-founders
+topics:
+  - id: bu-business-taxation-1
+    name: "Principles of taxation: equity, efficiency and tax incidence"
+  - id: bu-business-taxation-2
+    name: "Tax bases: income, consumption, payroll and property"
+  - id: bu-business-taxation-3
+    name: "Taxation of business forms: sole traders, partnerships and companies"
+  - id: bu-business-taxation-4
+    name: Corporate income tax
+    sub:
+      - id: bu-business-taxation-4-1
+        name: Taxable profit vs accounting profit
+      - id: bu-business-taxation-4-2
+        name: Capital allowances and depreciation for tax
+      - id: bu-business-taxation-4-3
+        name: Loss relief
+  - id: bu-business-taxation-5
+    name: "Consumption taxes: VAT and GST systems vs US sales tax"
+  - id: bu-business-taxation-6
+    name: Employment taxes and payroll withholding
+  - id: bu-business-taxation-7
+    name: Capital gains and the taxation of founders and investors
+  - id: bu-business-taxation-8
+    name: "Tax incentives: R&D credits, startup reliefs and investment allowances"
+  - id: bu-business-taxation-9
+    name: International tax
+    sub:
+      - id: bu-business-taxation-9-1
+        name: Residence vs source taxation
+      - id: bu-business-taxation-9-2
+        name: Double tax treaties
+      - id: bu-business-taxation-9-3
+        name: Transfer pricing
+      - id: bu-business-taxation-9-4
+        name: Permanent establishment
+  - id: bu-business-taxation-10
+    name: OECD BEPS and the global minimum tax (Pillar Two)
+  - id: bu-business-taxation-11
+    name: Digital services taxes and taxing the digital economy
+  - id: bu-business-taxation-12
+    name: "Tax planning, avoidance and evasion: legal and ethical lines"
+  - id: bu-business-taxation-13
+    name: Tax compliance, record keeping and dealing with tax authorities
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-taxation.json
+  sha256: a97a42b10105fa6ed0464e4940eba2dc09306081ef49d4d5e0bdb5d79f0dffc6

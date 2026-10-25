@@ -1,0 +1,60 @@
+id: be-beauty-ideals-culture-history
+name: Beauty Ideals, Attractiveness, Culture & History
+category: Foundations of Beauty Science
+level: 2
+priority: important
+summary: What science says about attractiveness, how beauty ideals differ across cultures and eras, and how cosmetics and grooming developed through history.
+prerequisites:
+  - be-introduction-to-beauty-science
+related:
+  - py-body-image-self-perception
+  - bi-evolutionary-biology
+  - bi-human-evolution
+topics:
+  - id: be-beauty-ideals-culture-history-1
+    name: "Defining beauty: aesthetics, attractiveness and social value"
+  - id: be-beauty-ideals-culture-history-2
+    name: The science of facial attractiveness
+    sub:
+      - id: be-beauty-ideals-culture-history-2-1
+        name: Averageness, symmetry and sexual dimorphism
+      - id: be-beauty-ideals-culture-history-2-2
+        name: Skin colour evenness, texture and perceived health
+      - id: be-beauty-ideals-culture-history-2-3
+        name: "Faces versus bodies: what research measures"
+      - id: be-beauty-ideals-culture-history-2-4
+        name: Limits of evolutionary explanations
+  - id: be-beauty-ideals-culture-history-3
+    name: "Agreement and difference: universal versus culture-specific preferences"
+  - id: be-beauty-ideals-culture-history-4
+    name: "Beauty ideals across cultures: East Asia, South Asia, Africa, the Middle East, Europe and the Americas"
+  - id: be-beauty-ideals-culture-history-5
+    name: Colourism, skin lightening and the politics of skin tone
+  - id: be-beauty-ideals-culture-history-6
+    name: "Hair, identity and culture: textured hair politics and natural hair movements"
+  - id: be-beauty-ideals-culture-history-7
+    name: A history of cosmetics
+    sub:
+      - id: be-beauty-ideals-culture-history-7-1
+        name: Ancient Egypt, Greece, Rome and China
+      - id: be-beauty-ideals-culture-history-7-2
+        name: "Toxic cosmetics of the past: lead, mercury and arsenic"
+      - id: be-beauty-ideals-culture-history-7-3
+        name: The birth of the modern industry in the 19th and 20th centuries
+      - id: be-beauty-ideals-culture-history-7-4
+        name: Mass media, film and advertising
+  - id: be-beauty-ideals-culture-history-8
+    name: "Gender and beauty: men's grooming, androgyny and non-binary beauty"
+  - id: be-beauty-ideals-culture-history-9
+    name: "Age and beauty: anti-ageing culture versus pro-ageing movements"
+  - id: be-beauty-ideals-culture-history-10
+    name: Social media, filters and the globalisation of beauty ideals
+  - id: be-beauty-ideals-culture-history-11
+    name: Lookism and appearance-based discrimination
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-beauty-ideals-culture-history.json
+  sha256: 788b5ceaeb07039437012c96cbbef7beb882a43cd121b7c332c68b9b81045d78

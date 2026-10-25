@@ -1,0 +1,33 @@
+id: el-static-analysis-linters
+name: Static Analysis & Linters
+category: Embedded Development Practices & Debugging
+level: 3
+priority: important
+summary: "Finding bugs before running code: linters, MISRA checkers, Coverity/SonarQube, sanitizers and SAST tools."
+prerequisites:
+  - el-embedded-cc-best-practices
+related:
+  - cs-software-testing
+  - cs-program-analysis-verification
+topics:
+  - id: el-static-analysis-linters-1
+    name: Linting tools (cppcheck, clang-tidy, PC-lint)
+  - id: el-static-analysis-linters-2
+    name: MISRA C/C++ checkers
+  - id: el-static-analysis-linters-3
+    name: Coverity, SonarQube
+  - id: el-static-analysis-linters-4
+    name: Memory leak detection (Valgrind, AddressSanitizer)
+  - id: el-static-analysis-linters-5
+    name: Static Application Security Testing (SAST)
+  - id: el-static-analysis-linters-6
+    name: Integrating analysis into CI and IDEs
+  - id: el-static-analysis-linters-7
+    name: Triaging findings and managing false positives
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-static-analysis-linters.json
+  sha256: 825c89c79fcd3012adf898b9c2ad99dcb59740df378fbc86b7e929ef5c87bb86

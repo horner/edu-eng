@@ -1,0 +1,30 @@
+id: ma-error-analysis
+name: Error Analysis
+category: Numerical Analysis & Scientific Computing
+level: 2
+priority: important
+summary: Where numerical errors come from (floating point, truncation and round-off) and how conditioning and stability control them.
+prerequisites:
+  - ma-sequences-series
+  - cs-programming-fundamentals
+related: []
+topics:
+  - id: ma-error-analysis-4
+    name: Floating-point arithmetic and machine epsilon
+  - id: ma-error-analysis-2
+    name: Round-off error
+  - id: ma-error-analysis-1
+    name: Truncation error
+  - id: ma-error-analysis-5
+    name: Conditioning of problems
+  - id: ma-error-analysis-3
+    name: Stability analysis
+  - id: ma-error-analysis-6
+    name: Backward error analysis
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-error-analysis.json
+  sha256: 15f879911b74cb43b683c296a3589d00d079ae3b09e18078b6c4a572dd315569

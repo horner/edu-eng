@@ -1,0 +1,30 @@
+id: ai-cross-modal-generation
+name: Cross-Modal Generation
+category: Multimodal AI
+level: 4
+priority: advanced
+summary: "Generating one modality from another: text-to-image, image-to-text, text-to-video, text-to-audio, text-to-3D and any-to-any models."
+prerequisites:
+  - ai-generative-models
+  - ai-vision-language-models
+related: []
+topics:
+  - id: ai-cross-modal-generation-1
+    name: Text-to-Image
+  - id: ai-cross-modal-generation-2
+    name: Image-to-Text
+  - id: ai-cross-modal-generation-3
+    name: Text-to-Video
+  - id: ai-cross-modal-generation-4
+    name: Text-to-Audio
+  - id: ai-cross-modal-generation-5
+    name: Text-to-3D
+  - id: ai-cross-modal-generation-6
+    name: Any-to-Any Models
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-cross-modal-generation.json
+  sha256: ed1797f46b71e6234e38bfb91bfe00dc8861e1340eb3ed1e0e396187fdcd093c

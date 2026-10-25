@@ -1,0 +1,51 @@
+id: hf-energy-balance-metabolism
+name: Energy Balance, Metabolism & Appetite
+category: Nutrition Science
+level: 2
+priority: core
+summary: How the body takes in, stores and spends energy, how expenditure is measured, and how appetite is regulated.
+prerequisites:
+  - hf-macronutrients
+related:
+  - bi-metabolism
+topics:
+  - id: hf-energy-balance-metabolism-1
+    name: "Food energy: bomb calorimetry and Atwater factors"
+  - id: hf-energy-balance-metabolism-2
+    name: Components of energy expenditure
+    sub:
+      - id: hf-energy-balance-metabolism-2-1
+        name: Resting and basal metabolic rate
+      - id: hf-energy-balance-metabolism-2-2
+        name: Thermic effect of food
+      - id: hf-energy-balance-metabolism-2-3
+        name: Exercise and non-exercise activity thermogenesis (NEAT)
+  - id: hf-energy-balance-metabolism-3
+    name: "Measuring expenditure: indirect calorimetry and doubly labelled water"
+  - id: hf-energy-balance-metabolism-4
+    name: Predictive equations such as Mifflin-St Jeor and their error
+  - id: hf-energy-balance-metabolism-5
+    name: "Why measuring energy intake is hard: under-reporting"
+  - id: hf-energy-balance-metabolism-6
+    name: Energy balance as a dynamic system rather than a fixed '3,500 kcal rule'
+  - id: hf-energy-balance-metabolism-7
+    name: Adaptive thermogenesis and metabolic adaptation to weight loss
+  - id: hf-energy-balance-metabolism-8
+    name: "Appetite hormones: ghrelin, leptin, GLP-1 and PYY"
+  - id: hf-energy-balance-metabolism-9
+    name: Hedonic eating, food reward and the food environment
+  - id: hf-energy-balance-metabolism-10
+    name: How protein, fibre and food structure affect fullness
+  - id: hf-energy-balance-metabolism-11
+    name: Fuel use in the fed and fasted states
+  - id: hf-energy-balance-metabolism-12
+    name: Meal timing, chrono-nutrition and the circadian clock
+  - id: hf-energy-balance-metabolism-13
+    name: "Myths: metabolism-boosting foods, negative-calorie foods and 'starvation mode'"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-energy-balance-metabolism.json
+  sha256: dbffe47db820295745725421384e1c4ac215af7233a1ef90f9522cb3fc8833bc

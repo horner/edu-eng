@@ -1,0 +1,45 @@
+id: bu-bookkeeping-basics
+name: Bookkeeping Basics
+category: Accounting, Audit & Tax
+level: 1
+priority: important
+summary: Keeping accurate day-to-day financial records for a small business, from invoices to a trial balance.
+prerequisites:
+  - bu-business-mathematics
+related:
+  - bu-financial-accounting
+  - bu-small-business-management
+topics:
+  - id: bu-bookkeeping-basics-1
+    name: "Why records matter: legal duties, tax and decision-making"
+  - id: bu-bookkeeping-basics-2
+    name: "Source documents: invoices, receipts, bank statements and payslips"
+  - id: bu-bookkeeping-basics-3
+    name: Cash-basis vs accrual-basis records
+  - id: bu-bookkeeping-basics-4
+    name: Double-entry bookkeeping and the accounting equation
+  - id: bu-bookkeeping-basics-5
+    name: The chart of accounts
+  - id: bu-bookkeeping-basics-6
+    name: Recording sales, purchases, receipts and payments
+  - id: bu-bookkeeping-basics-7
+    name: "Sales and purchase ledgers: tracking who owes what"
+  - id: bu-bookkeeping-basics-8
+    name: Bank reconciliation
+  - id: bu-bookkeeping-basics-9
+    name: Petty cash, expenses and mileage claims
+  - id: bu-bookkeeping-basics-10
+    name: Payroll records and employer obligations (overview)
+  - id: bu-bookkeeping-basics-11
+    name: Sales tax, VAT and GST records and returns (comparative overview)
+  - id: bu-bookkeeping-basics-12
+    name: Trial balance and month-end close
+  - id: bu-bookkeeping-basics-13
+    name: Accounting software and digital record keeping
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-bookkeeping-basics.json
+  sha256: 6b524a2ea9504bb9565265637436368d45d861aea4ad8f7e408bb622cf578f0d

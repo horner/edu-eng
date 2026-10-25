@@ -1,0 +1,27 @@
+id: el-opc-ua-opc-unified-architecture
+name: OPC UA (OPC Unified Architecture)
+category: Communication Protocols & Connectivity
+level: 3
+priority: advanced
+summary: "OPC UA for industrial interoperability: client-server and pub-sub, information modelling, security and OPC UA over TSN."
+prerequisites:
+  - el-industrial-protocols
+related: []
+topics:
+  - id: el-opc-ua-opc-unified-architecture-1
+    name: Client-server and pub-sub models
+  - id: el-opc-ua-opc-unified-architecture-2
+    name: Information modeling
+  - id: el-opc-ua-opc-unified-architecture-3
+    name: Security features
+  - id: el-opc-ua-opc-unified-architecture-4
+    name: Interoperability
+  - id: el-opc-ua-opc-unified-architecture-5
+    name: OPC UA over TSN
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-opc-ua-opc-unified-architecture.json
+  sha256: 77bdb0582e1c4e4e8d8709f28b2724e4de5580ce0a0dd1212be85a03e28dfc8d

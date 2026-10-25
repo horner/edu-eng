@@ -1,0 +1,30 @@
+id: ph-philosophy-of-physics
+name: Philosophy of Physics
+category: Foundations, History & Education
+level: 3
+priority: optional
+summary: "Conceptual questions raised by physics: interpreting quantum mechanics, the nature of time, causality and emergence."
+prerequisites:
+  - ph-quantum-mechanics
+  - ph-special-relativity
+related: []
+topics:
+  - id: ph-philosophy-of-physics-1
+    name: Interpretation of quantum mechanics
+  - id: ph-philosophy-of-physics-2
+    name: Nature of space and time
+  - id: ph-philosophy-of-physics-3
+    name: Causality and determinism
+  - id: ph-philosophy-of-physics-4
+    name: Reductionism vs. emergence
+  - id: ph-philosophy-of-physics-5
+    name: Foundations of statistical mechanics
+  - id: ph-philosophy-of-physics-6
+    name: Philosophy of cosmology
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-philosophy-of-physics.json
+  sha256: 85fb643e0c2feddcf2c0dd635c0aaed7e0b2ae2302ef6439220d273a6e312349

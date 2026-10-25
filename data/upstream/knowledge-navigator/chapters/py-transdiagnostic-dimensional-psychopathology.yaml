@@ -1,0 +1,39 @@
+id: py-transdiagnostic-dimensional-psychopathology
+name: Transdiagnostic & Dimensional Models of Psychopathology
+category: Mental Health & Psychopathology
+level: 4
+priority: advanced
+summary: Research approaches that cut across diagnostic categories, such as HiTOP, RDoC, the p factor and network models of mental disorders.
+prerequisites:
+  - py-anxiety-obsessive-compulsive-disorders
+  - py-depression-bipolar-mood-disorders
+related:
+  - py-multivariate-multilevel-sem
+topics:
+  - id: py-transdiagnostic-dimensional-psychopathology-1
+    name: "Problems with categorical diagnosis: comorbidity, heterogeneity and thresholds"
+  - id: py-transdiagnostic-dimensional-psychopathology-2
+    name: Hierarchical Taxonomy of Psychopathology (HiTOP)
+  - id: py-transdiagnostic-dimensional-psychopathology-3
+    name: The general factor of psychopathology (p factor)
+  - id: py-transdiagnostic-dimensional-psychopathology-4
+    name: Research Domain Criteria (RDoC)
+  - id: py-transdiagnostic-dimensional-psychopathology-5
+    name: Network approaches to mental disorders
+  - id: py-transdiagnostic-dimensional-psychopathology-6
+    name: "Transdiagnostic processes: rumination, avoidance, emotion dysregulation and perfectionism"
+  - id: py-transdiagnostic-dimensional-psychopathology-7
+    name: "Transdiagnostic treatments: the Unified Protocol"
+  - id: py-transdiagnostic-dimensional-psychopathology-8
+    name: Staging models and clinical high-risk states
+  - id: py-transdiagnostic-dimensional-psychopathology-9
+    name: Process-based therapy
+  - id: py-transdiagnostic-dimensional-psychopathology-10
+    name: Implications for assessment and services
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-transdiagnostic-dimensional-psychopathology.json
+  sha256: 36035169da985b2251f50ed2e26f2f906d267558a853ed252815c854ed4f8f74

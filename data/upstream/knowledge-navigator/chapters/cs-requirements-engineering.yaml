@@ -1,0 +1,39 @@
+id: cs-requirements-engineering
+name: Requirements Engineering
+category: Software Engineering
+level: 3
+priority: important
+summary: Discovering, specifying, validating and managing what a software system must do and how well it must do it.
+prerequisites:
+  - cs-software-engineering-process
+related: []
+topics:
+  - id: cs-requirements-engineering-1
+    name: Stakeholders and the role of requirements
+  - id: cs-requirements-engineering-2
+    name: "Elicitation techniques: interviews, observation and workshops"
+  - id: cs-requirements-engineering-3
+    name: Functional and non-functional (quality) requirements
+  - id: cs-requirements-engineering-4
+    name: Use cases and user stories
+  - id: cs-requirements-engineering-5
+    name: "Requirements modeling: domain models, state machines and sequence diagrams"
+  - id: cs-requirements-engineering-6
+    name: Prototyping and validating requirements
+  - id: cs-requirements-engineering-7
+    name: Specification documents and acceptance criteria
+  - id: cs-requirements-engineering-8
+    name: Prioritization and negotiation
+  - id: cs-requirements-engineering-9
+    name: Traceability and change management
+  - id: cs-requirements-engineering-10
+    name: Formal and semi-formal specification (Z, Alloy, OCL)
+  - id: cs-requirements-engineering-11
+    name: Safety, security and privacy requirements
+discipline: cs
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/cs/cs-requirements-engineering.json
+  sha256: cadd0ac9de79a8de3636c7aef7cbb4b5bbd328069e1680380675cac5a0802467

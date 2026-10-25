@@ -1,0 +1,48 @@
+id: py-behavioural-genetics
+name: Behavioural Genetics
+category: Biological Bases of Behaviour
+level: 3
+priority: important
+summary: How genes and environments combine to produce differences in personality, ability and mental health, and how researchers tell them apart.
+prerequisites:
+  - py-biological-psychology
+  - py-statistics-for-psychology
+related:
+  - bi-genetics
+  - bi-human-genetics
+  - bi-gene-regulation-epigenetics
+topics:
+  - id: py-behavioural-genetics-1
+    name: "Nature and nurture: framing the question properly"
+  - id: py-behavioural-genetics-2
+    name: "Heritability: meaning, estimation and common misunderstandings"
+  - id: py-behavioural-genetics-3
+    name: Family, twin and adoption designs
+    sub:
+      - id: py-behavioural-genetics-3-1
+        name: Shared and non-shared environment
+      - id: py-behavioural-genetics-3-2
+        name: Assumptions and critiques of twin studies
+  - id: py-behavioural-genetics-4
+    name: Gene-environment correlation and interaction
+  - id: py-behavioural-genetics-5
+    name: "Molecular genetics: candidate genes and why most failed to replicate"
+  - id: py-behavioural-genetics-6
+    name: Genome-wide association studies and polygenic scores
+  - id: py-behavioural-genetics-7
+    name: Genetics of intelligence and educational attainment
+  - id: py-behavioural-genetics-8
+    name: Genetics of personality
+  - id: py-behavioural-genetics-9
+    name: Genetics of psychiatric disorders and genetic overlap between them
+  - id: py-behavioural-genetics-10
+    name: "Epigenetics and behaviour: evidence vs hype"
+  - id: py-behavioural-genetics-11
+    name: "Ethical and social issues: determinism, genetic testing and eugenics history"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-behavioural-genetics.json
+  sha256: a424c273dfd9022d550bcf075dd6d70a5c76b11e538f1b07303f46a411960cac

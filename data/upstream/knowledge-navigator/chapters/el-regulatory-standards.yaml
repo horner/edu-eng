@@ -1,0 +1,31 @@
+id: el-regulatory-standards
+name: Medical Device Regulation & Standards
+category: Medical, Industrial & Other Application Domains
+level: 3
+priority: advanced
+summary: "The regulatory path for medical electronics: FDA 510(k)/PMA, EU MDR, IEC 60601, IEC 62304, ISO 13485 and ISO 14971."
+prerequisites:
+  - el-international-standards-organizations
+related: []
+topics:
+  - id: el-regulatory-standards-1
+    name: FDA regulations (510(k), PMA, De Novo)
+  - id: el-regulatory-standards-2
+    name: CE marking and MDR (Medical Device Regulation)
+  - id: el-regulatory-standards-3
+    name: IEC 60601 (electrical safety)
+  - id: el-regulatory-standards-4
+    name: IEC 62304 (software lifecycle)
+  - id: el-regulatory-standards-5
+    name: ISO 13485 (quality management)
+  - id: el-regulatory-standards-6
+    name: ISO 14971 (risk management)
+  - id: el-regulatory-standards-7
+    name: 21 CFR Part 11 (electronic records)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-regulatory-standards.json
+  sha256: ccf89ef5ec8a2d7cb279491ecad2aa95d3858235ba87920a7280165794033818

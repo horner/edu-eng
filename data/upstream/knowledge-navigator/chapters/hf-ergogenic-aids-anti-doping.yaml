@@ -1,0 +1,46 @@
+id: hf-ergogenic-aids-anti-doping
+name: Ergogenic Aids & Anti-Doping
+category: Sports Performance & Conditioning
+level: 3
+priority: advanced
+summary: Which performance aids work and are permitted, the health risks of doping, and how anti-doping works.
+prerequisites:
+  - hf-sports-nutrition
+related:
+  - bi-pharmacology
+topics:
+  - id: hf-ergogenic-aids-anti-doping-1
+    name: Classifying ergogenic aids
+  - id: hf-ergogenic-aids-anti-doping-2
+    name: Evidence-graded supplement frameworks such as the AIS Sports Supplement Framework
+  - id: hf-ergogenic-aids-anti-doping-3
+    name: Caffeine
+  - id: hf-ergogenic-aids-anti-doping-4
+    name: Creatine
+  - id: hf-ergogenic-aids-anti-doping-5
+    name: Dietary nitrate
+  - id: hf-ergogenic-aids-anti-doping-6
+    name: Beta-alanine and bicarbonate buffering
+  - id: hf-ergogenic-aids-anti-doping-7
+    name: Placebo effects in sport
+  - id: hf-ergogenic-aids-anti-doping-8
+    name: Contaminated supplements and inadvertent doping
+  - id: hf-ergogenic-aids-anti-doping-9
+    name: The WADA Code and the Prohibited List
+  - id: hf-ergogenic-aids-anti-doping-10
+    name: "Anabolic agents: health risks"
+  - id: hf-ergogenic-aids-anti-doping-11
+    name: "EPO and blood doping: health risks and detection"
+  - id: hf-ergogenic-aids-anti-doping-12
+    name: Testing, the Athlete Biological Passport and therapeutic use exemptions
+  - id: hf-ergogenic-aids-anti-doping-13
+    name: Ethics and the spirit of sport
+  - id: hf-ergogenic-aids-anti-doping-14
+    name: "Image- and performance-enhancing drug use in gyms: health risks and harm reduction"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-ergogenic-aids-anti-doping.json
+  sha256: 9cb8af57d75c411b7f76eb78d91c298821cb101065132d1a8bcbb9c9803bd30b

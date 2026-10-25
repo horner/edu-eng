@@ -1,0 +1,36 @@
+id: ea-geophysical-fluid-dynamics
+name: Geophysical Fluid Dynamics
+category: Meteorology & Atmospheric Science
+level: 4
+priority: advanced
+summary: The unified theory of large-scale flows in the atmosphere and ocean, governed by rotation and stratification.
+prerequisites:
+  - ea-atmospheric-dynamics
+  - ea-physical-oceanography
+related:
+  - ph-fluid-mechanics
+  - ma-fluid-mechanics
+topics:
+  - id: ea-geophysical-fluid-dynamics-1
+    name: "Rotating and stratified fluids: Rossby and Burger numbers"
+  - id: ea-geophysical-fluid-dynamics-2
+    name: Shallow-water equations and geostrophic adjustment
+  - id: ea-geophysical-fluid-dynamics-3
+    name: Potential-vorticity dynamics and inversion
+  - id: ea-geophysical-fluid-dynamics-4
+    name: "Linear waves: Poincaré, Kelvin and Rossby"
+  - id: ea-geophysical-fluid-dynamics-5
+    name: Barotropic and baroclinic instability
+  - id: ea-geophysical-fluid-dynamics-6
+    name: Geostrophic turbulence and eddy transport
+  - id: ea-geophysical-fluid-dynamics-7
+    name: Ocean and atmosphere boundary layers
+  - id: ea-geophysical-fluid-dynamics-8
+    name: Wind-driven and thermohaline circulation theory
+discipline: earth
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/earth/ea-geophysical-fluid-dynamics.json
+  sha256: 6bc32e0c1b2d3ee4c98b50d4dca6168d7adf91fb7f7918c4a7571a56daf3e7a1

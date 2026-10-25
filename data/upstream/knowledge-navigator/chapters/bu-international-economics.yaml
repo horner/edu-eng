@@ -1,0 +1,50 @@
+id: bu-international-economics
+name: International Economics
+category: Economics for Business
+level: 3
+priority: important
+summary: Why countries trade, how trade policy and exchange rates work, and how global economic forces affect firms.
+prerequisites:
+  - bu-macroeconomics-for-business
+related:
+  - bu-international-business
+  - bu-international-finance-treasury
+topics:
+  - id: bu-international-economics-1
+    name: Comparative advantage and the gains from trade
+  - id: bu-international-economics-2
+    name: Factor endowments, scale economies and new trade theory
+  - id: bu-international-economics-3
+    name: Global value chains and trade in intermediate goods
+  - id: bu-international-economics-4
+    name: "Trade policy instruments: tariffs, quotas, subsidies and non-tariff barriers"
+  - id: bu-international-economics-5
+    name: The political economy of protectionism and trade wars
+  - id: bu-international-economics-6
+    name: The WTO, regional trade agreements and economic blocs (EU, USMCA, RCEP)
+  - id: bu-international-economics-7
+    name: Foreign direct investment and multinational firms
+  - id: bu-international-economics-8
+    name: Balance of payments accounting
+  - id: bu-international-economics-9
+    name: Exchange-rate determination
+    sub:
+      - id: bu-international-economics-9-1
+        name: Purchasing power parity
+      - id: bu-international-economics-9-2
+        name: Interest rate parity
+      - id: bu-international-economics-9-3
+        name: Exchange-rate regimes
+  - id: bu-international-economics-10
+    name: Currency crises and capital flows
+  - id: bu-international-economics-11
+    name: "Emerging and developing economies: growth and institutions"
+  - id: bu-international-economics-12
+    name: Migration, offshoring and labour markets
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-international-economics.json
+  sha256: 5c1cad16bba8761650f9172af0685d9f0556acdec6d07aa70e7463d4cab1eaa7

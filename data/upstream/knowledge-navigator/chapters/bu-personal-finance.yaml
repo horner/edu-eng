@@ -1,0 +1,42 @@
+id: bu-personal-finance
+name: Personal Finance for Founders & Professionals
+category: Finance & Investment
+level: 1
+priority: optional
+summary: Managing your own money (budgets, debt, savings, insurance and investing), including the special risks of founders.
+prerequisites:
+  - bu-business-mathematics
+related:
+  - bu-investments-portfolio-management
+topics:
+  - id: bu-personal-finance-1
+    name: Budgeting and tracking spending
+  - id: bu-personal-finance-2
+    name: Emergency funds and personal runway before starting a business
+  - id: bu-personal-finance-3
+    name: Credit, credit scores and managing debt
+  - id: bu-personal-finance-4
+    name: Mortgages and the rent vs buy decision
+  - id: bu-personal-finance-5
+    name: "Insurance: health, life, disability and liability"
+  - id: bu-personal-finance-6
+    name: "Saving and investing basics: risk, return and diversification"
+  - id: bu-personal-finance-7
+    name: Index funds, fees and the case for low-cost investing
+  - id: bu-personal-finance-8
+    name: Retirement accounts and pensions (comparative overview)
+  - id: bu-personal-finance-9
+    name: Personal tax basics for employees and the self-employed
+  - id: bu-personal-finance-10
+    name: Separating personal and business finances
+  - id: bu-personal-finance-11
+    name: Founder equity, illiquidity and personal concentration risk
+  - id: bu-personal-finance-12
+    name: Scams, get-rich-quick schemes and financial red flags
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-personal-finance.json
+  sha256: 78781ff23f22338efef69adc1213efca3385e56a0175009ab184ea9466bc4957

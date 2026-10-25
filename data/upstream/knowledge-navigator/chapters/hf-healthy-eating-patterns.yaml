@@ -1,0 +1,45 @@
+id: hf-healthy-eating-patterns
+name: Healthy Eating Patterns & Dietary Guidelines
+category: Applied Nutrition & Dietetics
+level: 1
+priority: core
+summary: What official dietary guidelines recommend, the eating patterns with the strongest evidence, and how to apply them flexibly.
+prerequisites:
+  - hf-nutrition-fundamentals
+related: []
+topics:
+  - id: hf-healthy-eating-patterns-1
+    name: What food-based dietary guidelines are and how they are made
+  - id: hf-healthy-eating-patterns-2
+    name: The Dietary Guidelines for Americans, 2025-2030
+  - id: hf-healthy-eating-patterns-3
+    name: WHO healthy diet recommendations
+  - id: hf-healthy-eating-patterns-4
+    name: "Other national guides: the Eatwell Guide, Canada's Food Guide and others"
+  - id: hf-healthy-eating-patterns-5
+    name: Plate models and portion guidance
+  - id: hf-healthy-eating-patterns-6
+    name: The Mediterranean diet
+  - id: hf-healthy-eating-patterns-7
+    name: The DASH eating pattern
+  - id: hf-healthy-eating-patterns-8
+    name: "Vegetarian, vegan and plant-predominant eating: planning for B12, iron, iodine and omega-3"
+  - id: hf-healthy-eating-patterns-9
+    name: Whole foods versus ultra-processed foods
+  - id: hf-healthy-eating-patterns-10
+    name: Limits on free sugars, salt and saturated fat
+  - id: hf-healthy-eating-patterns-11
+    name: "Drinks: water, sugary drinks, juice, tea, coffee and alcohol"
+  - id: hf-healthy-eating-patterns-12
+    name: Culturally adapted and flexible eating
+  - id: hf-healthy-eating-patterns-13
+    name: Eating well on a budget
+  - id: hf-healthy-eating-patterns-14
+    name: "Intuitive and mindful eating: what the evidence shows"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-healthy-eating-patterns.json
+  sha256: a332e5fe42fe8e1c0c6757c4ded87c9689cbc1f8d116a1a3b9882f47d1001446

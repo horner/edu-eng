@@ -1,0 +1,35 @@
+id: ma-numerical-solutions-of-pdes
+name: Numerical Solutions of PDEs
+category: Numerical Analysis & Scientific Computing
+level: 4
+priority: important
+summary: "Discretising PDEs: finite difference, finite element, finite volume and spectral methods, with stability and convergence analysis."
+prerequisites:
+  - ma-numerical-solutions-of-odes
+  - ma-numerical-linear-algebra
+  - ma-partial-differential-equations-pdes
+related:
+  - ph-computational-physics
+  - me-finite-element-analysis
+topics:
+  - id: ma-numerical-solutions-of-pdes-1
+    name: Finite difference methods
+  - id: ma-numerical-solutions-of-pdes-6
+    name: "Stability: von Neumann analysis and the Lax equivalence theorem"
+  - id: ma-numerical-solutions-of-pdes-2
+    name: Finite element methods
+  - id: ma-numerical-solutions-of-pdes-3
+    name: Finite volume methods
+  - id: ma-numerical-solutions-of-pdes-4
+    name: Spectral methods
+  - id: ma-numerical-solutions-of-pdes-5
+    name: Boundary element methods
+  - id: ma-numerical-solutions-of-pdes-7
+    name: Multigrid methods
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-numerical-solutions-of-pdes.json
+  sha256: 6f78c4ada75b175b91fa6c918bc1ea75d2945b8f28eba2bcaf25b094503f1183

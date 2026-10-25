@@ -1,0 +1,33 @@
+id: ma-philosophy-of-mathematics
+name: Philosophy of Mathematics
+category: History, Philosophy & Education
+level: 3
+priority: optional
+summary: "What mathematical objects are and how we know mathematical truths: Platonism, formalism, intuitionism and structuralism."
+prerequisites:
+  - ma-logic-proof-theory
+  - ma-set-theory
+related:
+  - ma-foundations-philosophy
+topics:
+  - id: ma-philosophy-of-mathematics-1
+    name: Platonism
+  - id: ma-philosophy-of-mathematics-5
+    name: Logicism
+  - id: ma-philosophy-of-mathematics-2
+    name: Formalism
+  - id: ma-philosophy-of-mathematics-3
+    name: Intuitionism
+  - id: ma-philosophy-of-mathematics-4
+    name: Structuralism
+  - id: ma-philosophy-of-mathematics-6
+    name: Nominalism and fictionalism
+  - id: ma-philosophy-of-mathematics-7
+    name: Mathematical practice and explanation
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-philosophy-of-mathematics.json
+  sha256: d3a1ec26e0053ca6550e3e35ddb09408c711bbd3e90fb03b9a67a1e3ac14ac1f

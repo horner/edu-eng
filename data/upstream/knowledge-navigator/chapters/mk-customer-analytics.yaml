@@ -1,0 +1,46 @@
+id: mk-customer-analytics
+name: Customer Analytics
+category: Growth & Analytics
+level: 3
+priority: important
+summary: "Using customer data to measure value, predict behaviour and target marketing: lifetime value, segmentation, churn and propensity."
+prerequisites:
+  - mk-marketing-research-analytics
+  - mk-retention-loyalty
+related:
+  - ai-business-analytics
+  - ai-data-mining
+  - ai-recommender-systems
+  - bu-machine-learning-for-business
+topics:
+  - id: mk-customer-analytics-1
+    name: Customer-centric versus product-centric metrics
+  - id: mk-customer-analytics-2
+    name: Customer lifetime value models
+  - id: mk-customer-analytics-3
+    name: RFM analysis
+  - id: mk-customer-analytics-4
+    name: Data-driven segmentation with clustering
+  - id: mk-customer-analytics-5
+    name: Churn prediction
+  - id: mk-customer-analytics-6
+    name: Propensity and response models
+  - id: mk-customer-analytics-7
+    name: Uplift modelling
+  - id: mk-customer-analytics-8
+    name: Market basket analysis
+  - id: mk-customer-analytics-9
+    name: Recommendation systems for marketers
+  - id: mk-customer-analytics-10
+    name: Customer equity and valuing a customer base
+  - id: mk-customer-analytics-11
+    name: "Building analytic datasets: joins, features and leakage"
+  - id: mk-customer-analytics-12
+    name: Fairness and privacy in customer models
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-customer-analytics.json
+  sha256: ffdd85966d5013b1551fd67a38cbeede62fa1d2198e942de9a123f96895b5003

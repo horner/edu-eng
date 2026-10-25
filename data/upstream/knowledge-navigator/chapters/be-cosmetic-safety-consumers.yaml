@@ -1,0 +1,64 @@
+id: be-cosmetic-safety-consumers
+name: "Cosmetic Safety for Consumers: Reactions, Allergens & Controversies"
+category: Safety, Regulation & Industry
+level: 2
+priority: core
+summary: "How to use cosmetics safely: recognising reactions and allergies, understanding ingredient controversies, avoiding counterfeit and contaminated products, and reporting problems."
+prerequisites:
+  - be-cosmetic-chemistry-basics
+  - be-skin-biology
+related:
+  - bi-pharmacology
+  - ch-pharmacology-toxicology
+topics:
+  - id: be-cosmetic-safety-consumers-1
+    name: How cosmetic safety is ensured, in brief
+  - id: be-cosmetic-safety-consumers-2
+    name: "Irritation versus allergy: recognising reactions"
+  - id: be-cosmetic-safety-consumers-3
+    name: Patch testing at home and in a clinic
+  - id: be-cosmetic-safety-consumers-4
+    name: "Common allergens: fragrance, preservatives, hair dye, acrylates and lanolin"
+  - id: be-cosmetic-safety-consumers-5
+    name: Ingredient controversies, assessed
+    sub:
+      - id: be-cosmetic-safety-consumers-5-1
+        name: Parabens and phthalates
+      - id: be-cosmetic-safety-consumers-5-2
+        name: Sulfates and silicones
+      - id: be-cosmetic-safety-consumers-5-3
+        name: Aluminium and talc (asbestos contamination)
+      - id: be-cosmetic-safety-consumers-5-4
+        name: Formaldehyde and formaldehyde releasers
+      - id: be-cosmetic-safety-consumers-5-5
+        name: PFAS, benzene contamination and microplastics
+  - id: be-cosmetic-safety-consumers-6
+    name: "Endocrine disruptors: what is and is not known"
+  - id: be-cosmetic-safety-consumers-7
+    name: Product contamination and recalls
+  - id: be-cosmetic-safety-consumers-8
+    name: Counterfeit, grey-market and illegal products
+  - id: be-cosmetic-safety-consumers-9
+    name: "Children and cosmetics: toys, makeup kits and teen skincare trends"
+  - id: be-cosmetic-safety-consumers-10
+    name: Tattoos, piercings and body art
+    sub:
+      - id: be-cosmetic-safety-consumers-10-1
+        name: "Tattoo inks: composition and regulation"
+      - id: be-cosmetic-safety-consumers-10-2
+        name: Piercing hygiene and aftercare
+      - id: be-cosmetic-safety-consumers-10-3
+        name: Black henna and PPD reactions
+      - id: be-cosmetic-safety-consumers-10-4
+        name: Infection and allergy risks
+  - id: be-cosmetic-safety-consumers-11
+    name: Using products in the eye area and on broken skin
+  - id: be-cosmetic-safety-consumers-12
+    name: Reporting adverse reactions to regulators and brands
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-cosmetic-safety-consumers.json
+  sha256: 84684405febd9870b3895cd49bef384358ba12c7d622cd83f166bfa733ce2fc4

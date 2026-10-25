@@ -1,0 +1,39 @@
+id: ch-mass-spectrometry
+name: Mass Spectrometry
+category: Analytical Chemistry & Instrumentation
+level: 3
+priority: important
+summary: Ionization methods, mass analyzers and tandem MS for identification and quantification from small molecules to proteins.
+prerequisites:
+  - ch-instrumental-analysis
+related:
+  - bi-protein-biochemical-methods
+  - ea-analytical-methods-in-geochemistry
+topics:
+  - id: ch-mass-spectrometry-1
+    name: "Ionization methods: EI, CI, ESI, MALDI and APCI"
+  - id: ch-mass-spectrometry-2
+    name: "Mass analyzers: quadrupole, time-of-flight, ion trap, Orbitrap and FT-ICR"
+  - id: ch-mass-spectrometry-3
+    name: Resolution, mass accuracy and isotope patterns
+  - id: ch-mass-spectrometry-4
+    name: Tandem MS and fragmentation mechanisms
+  - id: ch-mass-spectrometry-5
+    name: "Quantitative MS: isotope dilution and SRM/MRM"
+  - id: ch-mass-spectrometry-6
+    name: Ion mobility spectrometry
+  - id: ch-mass-spectrometry-7
+    name: Proteomics and metabolomics workflows
+  - id: ch-mass-spectrometry-8
+    name: Imaging mass spectrometry
+  - id: ch-mass-spectrometry-9
+    name: Isotope-ratio mass spectrometry
+  - id: ch-mass-spectrometry-10
+    name: Ambient ionization and field-portable MS
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-mass-spectrometry.json
+  sha256: 6988e94d03fcef4c0e628c95cf10e5b165872bc970bbfa69d8d6c7c7ddaf7459

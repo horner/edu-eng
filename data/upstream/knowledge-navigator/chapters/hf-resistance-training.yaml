@@ -1,0 +1,59 @@
+id: hf-resistance-training
+name: Resistance & Strength Training
+category: Fitness Training & Programme Design
+level: 2
+priority: core
+summary: How to train with resistance safely and effectively for strength, muscle and health.
+prerequisites:
+  - hf-training-principles-adaptations
+related:
+  - hf-functional-anatomy-kinesiology
+topics:
+  - id: hf-resistance-training-1
+    name: Health benefits of resistance training
+  - id: hf-resistance-training-2
+    name: "Training goals: strength, hypertrophy, muscular endurance and power"
+  - id: hf-resistance-training-3
+    name: "Programme variables: load, repetitions, sets, rest, tempo and frequency"
+  - id: hf-resistance-training-4
+    name: "Effort: RPE and repetitions in reserve"
+  - id: hf-resistance-training-5
+    name: "Equipment: free weights, machines, cables, bands and bodyweight"
+  - id: hf-resistance-training-6
+    name: Technique fundamentals for the main lifts
+    sub:
+      - id: hf-resistance-training-6-1
+        name: Squat
+      - id: hf-resistance-training-6-2
+        name: Hip hinge and deadlift
+      - id: hf-resistance-training-6-3
+        name: Pressing
+      - id: hf-resistance-training-6-4
+        name: Pulling and rowing
+      - id: hf-resistance-training-6-5
+        name: Lunges and single-leg work
+      - id: hf-resistance-training-6-6
+        name: Loaded carries
+  - id: hf-resistance-training-7
+    name: Breathing, bracing and the Valsalva manoeuvre
+  - id: hf-resistance-training-8
+    name: Spotting and gym safety
+  - id: hf-resistance-training-9
+    name: "Beginner programmes: full-body and split routines"
+  - id: hf-resistance-training-10
+    name: Methods of progressive overload
+  - id: hf-resistance-training-11
+    name: "Training to failure: what the evidence shows"
+  - id: hf-resistance-training-12
+    name: "Building muscle: volume, effort and frequency evidence"
+  - id: hf-resistance-training-13
+    name: "Myths: 'toning', spot reduction and women getting 'bulky'"
+  - id: hf-resistance-training-14
+    name: Resistance training for older adults and young people
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-resistance-training.json
+  sha256: efc2663a14e3a6669c9db8c6de305350fcf3408cad8a4519890d62d1baacf51b

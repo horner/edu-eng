@@ -1,0 +1,48 @@
+id: bu-product-management
+name: Product Management
+category: Technology & Digital Business
+level: 3
+priority: important
+summary: "The product manager's job: deciding what to build, why and in what order, and working with design and engineering to deliver it."
+prerequisites:
+  - bu-lean-startup-mvp
+  - bu-management-information-systems
+related:
+  - cs-hci
+  - cs-software-engineering-process
+  - mk-marketing-principles
+  - mk-product-management
+topics:
+  - id: bu-product-management-1
+    name: The product manager's role and responsibilities
+  - id: bu-product-management-2
+    name: Product strategy and vision
+  - id: bu-product-management-3
+    name: "Continuous discovery: user research and opportunity trees"
+  - id: bu-product-management-4
+    name: "Prioritisation frameworks: RICE, Kano and opportunity scoring"
+  - id: bu-product-management-5
+    name: Roadmaps and communicating plans
+  - id: bu-product-management-6
+    name: Writing requirements, user stories and acceptance criteria
+  - id: bu-product-management-7
+    name: "Working with designers: UX principles and prototyping"
+  - id: bu-product-management-8
+    name: "Working with engineers: estimation, trade-offs and technical debt"
+  - id: bu-product-management-9
+    name: "Product metrics: north star metrics, funnels and retention"
+  - id: bu-product-management-10
+    name: Product launches and release management
+  - id: bu-product-management-11
+    name: Product-led growth
+  - id: bu-product-management-12
+    name: Platform, B2B and hardware product management differences
+  - id: bu-product-management-13
+    name: Product ethics and responsible design
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-product-management.json
+  sha256: 21d331590fedb757f1dc2a5a3602e5ad5187fa1063482bba7ce32e1a6185c5d8

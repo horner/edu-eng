@@ -1,0 +1,50 @@
+id: bu-business-mathematics
+name: Business Mathematics
+category: Foundations of Business
+level: 1
+priority: core
+summary: "The arithmetic and algebra used every day in business: percentages, margins, interest, break-even and simple financial formulas."
+prerequisites:
+  - ma-elementary-intermediate-algebra
+related:
+  - bu-personal-finance
+  - bu-bookkeeping-basics
+topics:
+  - id: bu-business-mathematics-1
+    name: Percentages, percentage change and percentage points
+  - id: bu-business-mathematics-2
+    name: Ratios, proportions and unit rates in business
+  - id: bu-business-mathematics-3
+    name: Markup, margin and discounts
+    sub:
+      - id: bu-business-mathematics-3-1
+        name: Markup on cost vs margin on price
+      - id: bu-business-mathematics-3-2
+        name: Trade, cash and volume discounts
+  - id: bu-business-mathematics-4
+    name: Sales tax, VAT and GST calculations
+  - id: bu-business-mathematics-5
+    name: "Payroll arithmetic: wages, overtime, deductions and commissions"
+  - id: bu-business-mathematics-6
+    name: Simple interest and short-term loans
+  - id: bu-business-mathematics-7
+    name: Compound interest, effective annual rates and APR
+  - id: bu-business-mathematics-8
+    name: "Time value of money: present and future value"
+  - id: bu-business-mathematics-9
+    name: Annuities, loan repayments and amortisation schedules
+  - id: bu-business-mathematics-10
+    name: "Depreciation methods: straight-line and reducing balance"
+  - id: bu-business-mathematics-11
+    name: Linear cost, revenue and profit functions
+  - id: bu-business-mathematics-12
+    name: Break-even analysis and contribution margin
+  - id: bu-business-mathematics-13
+    name: Index numbers, inflation adjustment and currency conversion
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-mathematics.json
+  sha256: 15e67528497dcdf10fd92810c9cae660caf7598ab84c9bd9956c759cde2358ee

@@ -1,0 +1,34 @@
+id: mt-high-entropy-alloys
+name: High-Entropy & Compositionally Complex Alloys
+category: Frontier Materials
+level: 5
+priority: advanced
+summary: Explores alloys made from many elements in near-equal amounts, which open a vast new design space for strong, tough and heat-resistant metals.
+prerequisites:
+  - mt-superalloys-refractory
+  - mt-calphad-icme
+related: []
+topics:
+  - id: mt-high-entropy-alloys-1
+    name: Concept and the four 'core effects' (entropy, lattice distortion, sluggish diffusion, cocktail)
+  - id: mt-high-entropy-alloys-2
+    name: Phase formation rules and CALPHAD-guided design
+  - id: mt-high-entropy-alloys-3
+    name: "Cantor alloy and FCC HEAs: exceptional cryogenic toughness"
+  - id: mt-high-entropy-alloys-4
+    name: Refractory high-entropy alloys for high-temperature service
+  - id: mt-high-entropy-alloys-5
+    name: Chemical short-range order and its effect on properties
+  - id: mt-high-entropy-alloys-6
+    name: "Deformation mechanisms: TWIP and TRIP in HEAs"
+  - id: mt-high-entropy-alloys-7
+    name: High-entropy ceramics, oxides and carbides
+  - id: mt-high-entropy-alloys-8
+    name: High-throughput and machine-learning exploration of HEA space
+discipline: materials
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/materials/mt-high-entropy-alloys.json
+  sha256: 9c84e153a916d6dcac9de49ff3e52b3f6076d1cc0e70e84df7f59d99765e0de8

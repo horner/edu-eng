@@ -1,0 +1,44 @@
+id: mk-luxury-fashion-beauty-marketing
+name: Luxury, Fashion & Beauty Marketing
+category: Specialised Marketing
+level: 3
+priority: optional
+summary: How luxury, fashion and beauty brands create desire, manage scarcity and exclusivity, and market responsibly to image-conscious consumers.
+prerequisites:
+  - mk-brand-management
+related:
+  - be-introduction-to-beauty-science
+  - py-body-image-self-perception
+  - be-beauty-industry-careers
+topics:
+  - id: mk-luxury-fashion-beauty-marketing-1
+    name: "What makes a brand luxury: the anti-laws of marketing"
+  - id: mk-luxury-fashion-beauty-marketing-2
+    name: Heritage, craftsmanship and brand storytelling
+  - id: mk-luxury-fashion-beauty-marketing-3
+    name: Scarcity, exclusivity and pricing in luxury
+  - id: mk-luxury-fashion-beauty-marketing-4
+    name: Fashion cycles and trend forecasting
+  - id: mk-luxury-fashion-beauty-marketing-5
+    name: Retail and flagship experience
+  - id: mk-luxury-fashion-beauty-marketing-6
+    name: "Beauty and cosmetics marketing: product claims and regulation"
+  - id: mk-luxury-fashion-beauty-marketing-7
+    name: Influencers and celebrity in fashion and beauty
+  - id: mk-luxury-fashion-beauty-marketing-8
+    name: Digital and e-commerce in luxury
+  - id: mk-luxury-fashion-beauty-marketing-9
+    name: Counterfeits, grey markets and brand protection
+  - id: mk-luxury-fashion-beauty-marketing-10
+    name: Sustainability and circular fashion
+  - id: mk-luxury-fashion-beauty-marketing-11
+    name: Body image, diversity and responsible beauty advertising
+  - id: mk-luxury-fashion-beauty-marketing-12
+    name: Masstige and luxury brand extensions
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-luxury-fashion-beauty-marketing.json
+  sha256: d73f86b73ec0c9c83aa324787cce9273f3a74058ef955598f6c57de6974b558c

@@ -1,0 +1,28 @@
+id: ph-cryophysics
+name: Cryophysics
+category: Condensed Matter Physics
+level: 3
+priority: advanced
+summary: "Physics near absolute zero: superfluid helium, quantum fluids and the techniques for reaching millikelvin temperatures."
+prerequisites:
+  - ph-thermodynamics-statistical-mechanics
+  - ph-quantum-mechanics
+related:
+  - ph-vacuum-cryogenic-systems
+  - mt-cryogenic-materials
+topics:
+  - id: ph-cryophysics-1
+    name: Low-temperature physics
+  - id: ph-cryophysics-2
+    name: Cryogenics
+  - id: ph-cryophysics-3
+    name: Quantum fluids (superfluid helium)
+  - id: ph-cryophysics-4
+    name: Dilution refrigeration
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-cryophysics.json
+  sha256: 05202ea8f86b9c8951f9a9fbbe2340d89f91fc1c3a77726bfcae5e9850dc4fa7

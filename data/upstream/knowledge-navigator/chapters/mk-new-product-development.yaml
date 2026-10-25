@@ -1,0 +1,46 @@
+id: mk-new-product-development
+name: New Product Development & Innovation
+category: Product, Price & Place
+level: 3
+priority: important
+summary: Generating, testing and launching new products and services, and the research methods that reduce the risk of failure.
+prerequisites:
+  - mk-product-management
+  - mk-customer-research-basics
+related:
+  - mk-marketing-models-choice-analytics
+  - bu-innovation-strategy
+topics:
+  - id: mk-new-product-development-1
+    name: Why new products fail; types of innovation
+  - id: mk-new-product-development-2
+    name: Innovation strategy and the innovation portfolio
+  - id: mk-new-product-development-3
+    name: Idea generation and systematic creativity techniques
+  - id: mk-new-product-development-4
+    name: Lead users, crowdsourcing and open innovation
+  - id: mk-new-product-development-5
+    name: Concept development and concept testing
+  - id: mk-new-product-development-6
+    name: Design thinking and prototyping
+  - id: mk-new-product-development-7
+    name: Stage-gate and agile approaches to development
+  - id: mk-new-product-development-8
+    name: Demand forecasting for new products
+  - id: mk-new-product-development-9
+    name: Conjoint analysis for product design (introduction)
+  - id: mk-new-product-development-10
+    name: Diffusion of innovations and adoption speed
+  - id: mk-new-product-development-11
+    name: Test marketing and soft launches
+  - id: mk-new-product-development-12
+    name: Launch strategy and timing
+  - id: mk-new-product-development-13
+    name: Measuring innovation performance
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-new-product-development.json
+  sha256: 6971455dbe05eaaebff5c5790538dccc93c6494997d2f9fde9e66f57d32a50d0

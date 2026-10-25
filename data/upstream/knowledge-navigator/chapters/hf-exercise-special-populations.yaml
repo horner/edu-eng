@@ -1,0 +1,46 @@
+id: hf-exercise-special-populations
+name: Exercise for Special Populations
+category: Fitness Training & Programme Design
+level: 3
+priority: important
+summary: Adapting exercise testing and prescription for life stages, pregnancy, disability and common chronic conditions.
+prerequisites:
+  - hf-exercise-prescription-program-design
+related:
+  - py-sport-exercise-psychology
+topics:
+  - id: hf-exercise-special-populations-1
+    name: Children and adolescents
+  - id: hf-exercise-special-populations-2
+    name: "Older adults: frailty, falls and sarcopenia"
+  - id: hf-exercise-special-populations-3
+    name: "Pregnancy and postpartum: guidance and warning signs"
+  - id: hf-exercise-special-populations-4
+    name: People living with obesity
+  - id: hf-exercise-special-populations-5
+    name: Hypertension
+  - id: hf-exercise-special-populations-6
+    name: Type 2 diabetes
+  - id: hf-exercise-special-populations-7
+    name: Stable cardiovascular disease
+  - id: hf-exercise-special-populations-8
+    name: Osteoporosis and osteoarthritis
+  - id: hf-exercise-special-populations-9
+    name: Low back pain
+  - id: hf-exercise-special-populations-10
+    name: Cancer survivors
+  - id: hf-exercise-special-populations-11
+    name: People with disabilities and adapted physical activity
+  - id: hf-exercise-special-populations-12
+    name: "Neurological conditions: Parkinson's disease, multiple sclerosis and stroke"
+  - id: hf-exercise-special-populations-13
+    name: Exercise alongside treatment for mental health conditions
+  - id: hf-exercise-special-populations-14
+    name: How common medications change exercise responses
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-exercise-special-populations.json
+  sha256: 954eb26efed159923c9cb61a15504acc72c14821559453de31a929e1fd32d37a

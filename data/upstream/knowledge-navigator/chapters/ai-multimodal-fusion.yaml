@@ -1,0 +1,33 @@
+id: ai-multimodal-fusion
+name: Multimodal Fusion
+category: Multimodal AI
+level: 4
+priority: important
+summary: Techniques for combining information from several modalities, from early and late fusion to cross-modal attention and multimodal transformers.
+prerequisites:
+  - ai-attention-transformers
+related: []
+topics:
+  - id: ai-multimodal-fusion-5
+    name: "Multimodal representations: joint versus coordinated embeddings"
+  - id: ai-multimodal-fusion-1
+    name: Early Fusion
+  - id: ai-multimodal-fusion-2
+    name: Late Fusion
+  - id: ai-multimodal-fusion-3
+    name: Cross-modal Attention
+  - id: ai-multimodal-fusion-4
+    name: Multimodal Transformers
+  - id: ai-multimodal-fusion-6
+    name: Cross-modal alignment
+  - id: ai-multimodal-fusion-7
+    name: Handling missing modalities
+  - id: ai-multimodal-fusion-8
+    name: Multimodal sensor fusion for robots and vehicles
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-multimodal-fusion.json
+  sha256: d2d323641469a98d0b16306ce968cee8b67d2bcc64b2fd5ad64f05e9b091ecf2

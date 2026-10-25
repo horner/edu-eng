@@ -1,0 +1,48 @@
+id: mk-persuasion-behavioral-economics
+name: Persuasion, Behavioural Economics & Choice Architecture
+category: Customers & Insight
+level: 3
+priority: important
+summary: How judgement, heuristics and social influence shape choice, how marketers use them, and where influence becomes manipulation.
+prerequisites:
+  - mk-consumer-behavior
+related:
+  - bu-microeconomics-for-business
+  - py-motivation-habits-behavior-change
+  - mk-marketing-ethics-sustainability
+  - bu-behavioral-economics
+  - py-social-influence-persuasion
+topics:
+  - id: mk-persuasion-behavioral-economics-1
+    name: Rational choice and its limits; bounded rationality
+  - id: mk-persuasion-behavioral-economics-2
+    name: "Dual-process models: fast and slow thinking"
+  - id: mk-persuasion-behavioral-economics-3
+    name: "Heuristics and biases: availability, anchoring, representativeness"
+  - id: mk-persuasion-behavioral-economics-4
+    name: Prospect theory, loss aversion and framing
+  - id: mk-persuasion-behavioral-economics-5
+    name: Mental accounting and price perception
+  - id: mk-persuasion-behavioral-economics-6
+    name: Choice overload, defaults and decoy effects
+  - id: mk-persuasion-behavioral-economics-7
+    name: The elaboration likelihood model and routes to persuasion
+  - id: mk-persuasion-behavioral-economics-8
+    name: "Principles of influence: reciprocity, commitment, social proof, authority, liking, scarcity"
+  - id: mk-persuasion-behavioral-economics-9
+    name: "Message factors: source credibility, fear appeals, humour, two-sided arguments"
+  - id: mk-persuasion-behavioral-economics-10
+    name: Nudges and choice architecture in marketing and public policy
+  - id: mk-persuasion-behavioral-economics-11
+    name: "Replication problems: which effects hold up and which do not"
+  - id: mk-persuasion-behavioral-economics-12
+    name: "Dark patterns: fake scarcity, confirmshaming, sneaking, forced continuity and roach motels"
+  - id: mk-persuasion-behavioral-economics-13
+    name: Regulation of manipulative design and an ethical persuasion checklist
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-persuasion-behavioral-economics.json
+  sha256: e256d9dc661c1cf3fd1a479cdeb0afe1c3b125325ed2e6afa3fd4ba5645fd477

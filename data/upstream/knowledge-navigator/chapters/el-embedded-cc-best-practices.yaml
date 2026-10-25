@@ -1,0 +1,33 @@
+id: el-embedded-cc-best-practices
+name: Embedded C/C++ Best Practices
+category: Embedded Software, Firmware & RTOS
+level: 3
+priority: important
+summary: "Writing safe, maintainable embedded C/C++: MISRA and CERT rules, type safety, callbacks, bit fields, macros and compiler optimization."
+prerequisites:
+  - el-bare-metal-programming
+  - el-programming-languages
+related:
+  - cs-systems-programming
+topics:
+  - id: el-embedded-cc-best-practices-1
+    name: Coding standards (MISRA C, CERT C)
+  - id: el-embedded-cc-best-practices-2
+    name: Const correctness and type safety
+  - id: el-embedded-cc-best-practices-3
+    name: Static and inline functions
+  - id: el-embedded-cc-best-practices-4
+    name: Function pointers and callbacks
+  - id: el-embedded-cc-best-practices-5
+    name: Bit fields and unions
+  - id: el-embedded-cc-best-practices-6
+    name: Preprocessor macros and conditional compilation
+  - id: el-embedded-cc-best-practices-7
+    name: Optimization levels and compiler flags
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-embedded-cc-best-practices.json
+  sha256: b5db5fc00114a4894988e193132e6a732f4b977233279421e3e3a0ead424e619

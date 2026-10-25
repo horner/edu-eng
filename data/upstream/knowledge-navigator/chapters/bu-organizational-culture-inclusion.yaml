@@ -1,0 +1,46 @@
+id: bu-organizational-culture-inclusion
+name: Organisational Culture, Diversity & Inclusion
+category: People, Organisations & Leadership
+level: 3
+priority: important
+summary: How organisational culture forms and changes, and how to build diverse, inclusive and fair workplaces.
+prerequisites:
+  - bu-organizational-behavior
+related:
+  - bu-international-business
+  - bu-business-ethics
+  - py-groups-prejudice-intergroup-relations
+topics:
+  - id: bu-organizational-culture-inclusion-1
+    name: "What culture is: artefacts, values and assumptions (Schein)"
+  - id: bu-organizational-culture-inclusion-2
+    name: Measuring and diagnosing culture
+  - id: bu-organizational-culture-inclusion-3
+    name: "Culture and performance: evidence"
+  - id: bu-organizational-culture-inclusion-4
+    name: How founders and leaders shape culture
+  - id: bu-organizational-culture-inclusion-5
+    name: Changing culture
+  - id: bu-organizational-culture-inclusion-6
+    name: Culture in mergers and global organisations
+  - id: bu-organizational-culture-inclusion-7
+    name: "Diversity: dimensions and business outcomes"
+  - id: bu-organizational-culture-inclusion-8
+    name: Bias in hiring, promotion and pay
+  - id: bu-organizational-culture-inclusion-9
+    name: Inclusion and belonging practices
+  - id: bu-organizational-culture-inclusion-10
+    name: "Diversity programmes: what the evidence supports and what backfires"
+  - id: bu-organizational-culture-inclusion-11
+    name: Accessibility and disability inclusion
+  - id: bu-organizational-culture-inclusion-12
+    name: "Legal context: equality and anti-discrimination law (comparative)"
+  - id: bu-organizational-culture-inclusion-13
+    name: Toxic cultures, harassment and speaking up
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-organizational-culture-inclusion.json
+  sha256: ed5d64afffa831b8489e16012a21f964534ab20f7ca6b4295a9ac7077574ea1a

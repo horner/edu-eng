@@ -1,0 +1,45 @@
+id: bu-organizational-design-change
+name: Organisational Design & Change
+category: People, Organisations & Leadership
+level: 3
+priority: important
+summary: How to structure an organisation and lead it through change, from reorganisations to transformations.
+prerequisites:
+  - bu-organizational-behavior
+related:
+  - bu-digital-transformation
+  - bu-scaling-ventures
+topics:
+  - id: bu-organizational-design-change-1
+    name: "Organisation design principles: differentiation and integration"
+  - id: bu-organizational-design-change-2
+    name: "Structural forms: functional, divisional, matrix and network"
+  - id: bu-organizational-design-change-3
+    name: Centralisation, decentralisation and spans of control
+  - id: bu-organizational-design-change-4
+    name: Coordination mechanisms and information flows
+  - id: bu-organizational-design-change-5
+    name: "Designing for agility: holacracy, squads and flat organisations"
+  - id: bu-organizational-design-change-6
+    name: Organisational life cycles and growth crises
+  - id: bu-organizational-design-change-7
+    name: "Change models: Lewin, Kotter and ADKAR"
+  - id: bu-organizational-design-change-8
+    name: Diagnosing the need for change
+  - id: bu-organizational-design-change-9
+    name: Resistance to change and how to work with it
+  - id: bu-organizational-design-change-10
+    name: Communication and engagement during change
+  - id: bu-organizational-design-change-11
+    name: Organisational development interventions
+  - id: bu-organizational-design-change-12
+    name: Restructuring, layoffs and managing survivors
+  - id: bu-organizational-design-change-13
+    name: Evaluating change programmes
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-organizational-design-change.json
+  sha256: e61094190d30c543eca1e9365b661f94dd34445452db58eba4b4a6bc3dc571a7

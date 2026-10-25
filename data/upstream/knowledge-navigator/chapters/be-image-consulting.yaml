@@ -1,0 +1,41 @@
+id: be-image-consulting
+name: Image Consulting & Professional Presence
+category: Personal Style & Image
+level: 3
+priority: optional
+summary: "The professional practice of image consulting: client assessment, wardrobe and grooming advice, personal branding and communication, as set out by professional bodies."
+prerequisites:
+  - be-personal-style-colour
+related: []
+topics:
+  - id: be-image-consulting-1
+    name: The image consulting profession and its standards
+  - id: be-image-consulting-2
+    name: Client consultation, needs analysis and goal setting
+  - id: be-image-consulting-3
+    name: Face shape and body shape analysis in practice
+  - id: be-image-consulting-4
+    name: Personal colour analysis as a service
+  - id: be-image-consulting-5
+    name: Wardrobe audits, personal shopping and styling sessions
+  - id: be-image-consulting-6
+    name: Grooming advice and working with other beauty professionals
+  - id: be-image-consulting-7
+    name: Nonverbal communication, posture and voice
+  - id: be-image-consulting-8
+    name: Etiquette and cross-cultural professional presence
+  - id: be-image-consulting-9
+    name: Personal branding and online image
+  - id: be-image-consulting-10
+    name: Corporate image and team training
+  - id: be-image-consulting-11
+    name: Ethics, inclusivity and avoiding harm to self-esteem
+  - id: be-image-consulting-12
+    name: Running an image consulting business
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-image-consulting.json
+  sha256: f716d4b3183caec546a77a86422cd41a829594790ad2d905574defb8128cfd07

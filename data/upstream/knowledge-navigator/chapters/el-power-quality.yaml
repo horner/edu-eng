@@ -1,0 +1,35 @@
+id: el-power-quality
+name: Power Quality & Harmonics
+category: Electrical Machines & Power Systems
+level: 3
+priority: advanced
+summary: "Voltage sags, transients, flicker and harmonics: their sources, effects, standards, measurement and mitigation."
+prerequisites:
+  - el-power-system-fundamentals
+  - el-power-electronics-fundamentals
+related:
+  - el-power-analysis
+topics:
+  - id: el-power-quality-1
+    name: "Power-quality phenomena: sags, swells, interruptions, transients, flicker"
+  - id: el-power-quality-2
+    name: "Harmonics: sources, effects and THD"
+  - id: el-power-quality-3
+    name: Harmonic standards (IEEE 519, IEC 61000-3)
+  - id: el-power-quality-4
+    name: Passive and active harmonic filters
+  - id: el-power-quality-5
+    name: Voltage unbalance
+  - id: el-power-quality-6
+    name: Power-quality monitoring (IEC 61000-4-30)
+  - id: el-power-quality-7
+    name: "Mitigation devices: UPS, DVR, STATCOM"
+  - id: el-power-quality-8
+    name: Wiring and grounding problems that cause PQ issues
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-power-quality.json
+  sha256: b4e88d2145cc2e9334f477fa46bbebefa52542bd2c1b697477730b1c3168a87a

@@ -1,0 +1,58 @@
+id: be-perfumery-composition
+name: Fragrance Chemistry & Perfume Composition
+category: Fragrance & Perfumery
+level: 3
+priority: advanced
+summary: The chemistry of aroma molecules, extraction of natural materials, the craft of composing perfumes, and fragrance evaluation, analysis and regulation.
+prerequisites:
+  - be-fragrance-fundamentals
+  - ch-organic-structure-bonding
+related:
+  - ch-natural-products-chemistry
+  - ch-separation-science
+  - ch-mass-spectrometry
+topics:
+  - id: be-perfumery-composition-1
+    name: "Structure-odour relationships: why molecules smell as they do"
+  - id: be-perfumery-composition-2
+    name: Classes of aroma chemicals
+    sub:
+      - id: be-perfumery-composition-2-1
+        name: Terpenes and terpenoids
+      - id: be-perfumery-composition-2-2
+        name: Aldehydes, ketones and esters
+      - id: be-perfumery-composition-2-3
+        name: "Musks: nitro, polycyclic, macrocyclic and alicyclic"
+      - id: be-perfumery-composition-2-4
+        name: Woody and amber materials
+      - id: be-perfumery-composition-2-5
+        name: Captive molecules
+  - id: be-perfumery-composition-3
+    name: "Extraction of naturals: distillation, expression, solvent extraction, CO2 and enfleurage"
+  - id: be-perfumery-composition-4
+    name: "Training the nose: olfactory memory and raw material study"
+  - id: be-perfumery-composition-5
+    name: Accords and composition techniques
+  - id: be-perfumery-composition-6
+    name: "The perfumer's formula: dilution, balance and evaporation curves"
+  - id: be-perfumery-composition-7
+    name: "Evaluation: smelling strips, skin trials and panels"
+  - id: be-perfumery-composition-8
+    name: "Analysis: gas chromatography, GC-MS and headspace"
+  - id: be-perfumery-composition-9
+    name: Stability, discolouration and fragrance in different product bases
+  - id: be-perfumery-composition-10
+    name: Encapsulation and controlled release of fragrance
+  - id: be-perfumery-composition-11
+    name: "Regulation: IFRA standards, RIFM assessments and allergen disclosure in the EU and US"
+  - id: be-perfumery-composition-12
+    name: "Sustainability: biotech aroma molecules, natural sourcing and green chemistry"
+  - id: be-perfumery-composition-13
+    name: "The fragrance industry: fragrance houses, briefs and niche perfumery"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-perfumery-composition.json
+  sha256: 7432f62baf6fbe28e5522567ae2ab89b631723f8a748542fd7fe70f5b8065211

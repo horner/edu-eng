@@ -1,0 +1,35 @@
+id: ch-pericyclic-reactions
+name: Pericyclic Reactions & Orbital Symmetry
+category: Organic Chemistry
+level: 3
+priority: important
+summary: Concerted cycloadditions, electrocyclizations and sigmatropic shifts explained with frontier-orbital and orbital-symmetry rules.
+prerequisites:
+  - ch-organic-reactions-ii
+related: []
+topics:
+  - id: ch-pericyclic-reactions-1
+    name: Frontier molecular orbital theory and Hückel MOs of π systems
+  - id: ch-pericyclic-reactions-2
+    name: Woodward-Hoffmann rules and orbital correlation diagrams
+  - id: ch-pericyclic-reactions-3
+    name: "Cycloadditions: [4+2], [2+2] and 1,3-dipolar"
+  - id: ch-pericyclic-reactions-4
+    name: "Electrocyclic reactions: conrotatory vs disrotatory"
+  - id: ch-pericyclic-reactions-5
+    name: "Sigmatropic rearrangements: Cope, Claisen and [1,5]-hydrogen shifts"
+  - id: ch-pericyclic-reactions-6
+    name: Group-transfer and ene reactions
+  - id: ch-pericyclic-reactions-7
+    name: Aromatic transition-state (Hückel-Möbius) analysis
+  - id: ch-pericyclic-reactions-8
+    name: Thermal vs photochemical selectivity
+  - id: ch-pericyclic-reactions-9
+    name: Regio- and stereocontrol in Diels-Alder reactions
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-pericyclic-reactions.json
+  sha256: 544563591f5052e920cfc896be5cd5c6e7c9c59aac9ebe4bb66a8530d940faa4

@@ -1,0 +1,52 @@
+id: mk-marketing-models-choice-analytics
+name: Marketing Models & Choice Analytics
+category: Customers & Insight
+level: 4
+priority: advanced
+summary: Quantitative models used in marketing science to explain and predict choice, demand and customer behaviour.
+prerequisites:
+  - mk-marketing-research-analytics
+  - ma-regression-analysis
+related:
+  - ma-multivariate-statistics
+  - ma-econometrics
+  - ai-causal-inference
+topics:
+  - id: mk-marketing-models-choice-analytics-1
+    name: Marketing response models and elasticities
+  - id: mk-marketing-models-choice-analytics-2
+    name: "Discrete choice models: logit and multinomial logit"
+  - id: mk-marketing-models-choice-analytics-3
+    name: Conjoint analysis
+    sub:
+      - id: mk-marketing-models-choice-analytics-3-1
+        name: Designing choice-based conjoint
+      - id: mk-marketing-models-choice-analytics-3-2
+        name: Estimating part-worths and willingness to pay
+      - id: mk-marketing-models-choice-analytics-3-3
+        name: Market simulators
+  - id: mk-marketing-models-choice-analytics-4
+    name: Perceptual mapping and multidimensional scaling
+  - id: mk-marketing-models-choice-analytics-5
+    name: Factor analysis for attitude data
+  - id: mk-marketing-models-choice-analytics-6
+    name: Cluster and latent-class segmentation
+  - id: mk-marketing-models-choice-analytics-7
+    name: Probability models for customer-base analysis (Pareto/NBD, BG/NBD)
+  - id: mk-marketing-models-choice-analytics-8
+    name: NBD-Dirichlet model of repeat buying
+  - id: mk-marketing-models-choice-analytics-9
+    name: "Diffusion models: the Bass model"
+  - id: mk-marketing-models-choice-analytics-10
+    name: Hierarchical Bayesian models in marketing
+  - id: mk-marketing-models-choice-analytics-11
+    name: Endogeneity and causal identification in marketing data
+  - id: mk-marketing-models-choice-analytics-12
+    name: "From model to decision: optimisation and simulation"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketing-models-choice-analytics.json
+  sha256: 4bdb54416d418d0015033d8bcba73c1943670887d430841695d952ab78b68ccb

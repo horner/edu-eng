@@ -1,0 +1,44 @@
+id: mk-martech-data-stack
+name: Marketing Technology & Data Stack
+category: Growth & Analytics
+level: 3
+priority: advanced
+summary: The software and data infrastructure behind modern marketing, and how to choose, integrate and govern it.
+prerequisites:
+  - mk-crm-marketing-automation
+  - mk-web-product-analytics
+related:
+  - ai-data-engineering
+  - cs-databases
+topics:
+  - id: mk-martech-data-stack-1
+    name: The martech landscape and stack categories
+  - id: mk-martech-data-stack-2
+    name: Marketing data sources and identity
+  - id: mk-martech-data-stack-3
+    name: Customer data platforms versus data warehouses
+  - id: mk-martech-data-stack-4
+    name: Warehouse-native marketing and reverse ETL
+  - id: mk-martech-data-stack-5
+    name: Identity resolution
+  - id: mk-martech-data-stack-6
+    name: Data clean rooms
+  - id: mk-martech-data-stack-7
+    name: SQL basics for marketers
+  - id: mk-martech-data-stack-8
+    name: Integration patterns and APIs
+  - id: mk-martech-data-stack-9
+    name: Selecting and buying martech
+  - id: mk-martech-data-stack-10
+    name: Martech governance, ownership and adoption
+  - id: mk-martech-data-stack-11
+    name: Marketing operations roles
+  - id: mk-martech-data-stack-12
+    name: Total cost and stack consolidation
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-martech-data-stack.json
+  sha256: 26142029d44d0089229f7f5fc5364ed596d5bdfd37ce3de7dc1b546ebc816b6d

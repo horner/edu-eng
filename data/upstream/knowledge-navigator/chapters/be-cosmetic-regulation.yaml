@@ -1,0 +1,64 @@
+id: be-cosmetic-regulation
+name: Cosmetic Regulation Worldwide
+category: Safety, Regulation & Industry
+level: 3
+priority: important
+summary: How cosmetics and related products are defined and regulated in the EU, UK, US and other major markets, including labelling, safety, claims and animal testing.
+prerequisites:
+  - be-cosmetic-safety-consumers
+  - be-cosmetic-ingredients
+related: []
+topics:
+  - id: be-cosmetic-regulation-1
+    name: "Defining a cosmetic: intended use and the cosmetic-drug borderline"
+  - id: be-cosmetic-regulation-2
+    name: "European Union: Regulation (EC) 1223/2009"
+    sub:
+      - id: be-cosmetic-regulation-2-1
+        name: The responsible person and product information file
+      - id: be-cosmetic-regulation-2-2
+        name: The cosmetic product safety report
+      - id: be-cosmetic-regulation-2-3
+        name: "Annexes II-VI: prohibited, restricted and permitted substances"
+      - id: be-cosmetic-regulation-2-4
+        name: Notification (CPNP), nanomaterials and CMR substances
+      - id: be-cosmetic-regulation-2-5
+        name: The animal testing and marketing bans
+      - id: be-cosmetic-regulation-2-6
+        name: Claims regulation and common criteria
+  - id: be-cosmetic-regulation-3
+    name: United Kingdom after Brexit
+  - id: be-cosmetic-regulation-4
+    name: United States
+    sub:
+      - id: be-cosmetic-regulation-4-1
+        name: The FD&C Act and the cosmetic-drug distinction
+      - id: be-cosmetic-regulation-4-2
+        name: "MoCRA (2022): registration, listing, safety substantiation and adverse event reporting"
+      - id: be-cosmetic-regulation-4-3
+        name: Colour additive approval
+      - id: be-cosmetic-regulation-4-4
+        name: "OTC drug monographs: sunscreens, antiperspirants, acne and anti-dandruff"
+  - id: be-cosmetic-regulation-5
+    name: Canada, Australia and New Zealand
+  - id: be-cosmetic-regulation-6
+    name: China, Japan (quasi-drugs), South Korea and ASEAN
+  - id: be-cosmetic-regulation-7
+    name: "Labelling requirements: INCI, warnings, net content, PAO and allergens"
+  - id: be-cosmetic-regulation-8
+    name: Advertising and marketing rules
+  - id: be-cosmetic-regulation-9
+    name: Natural, organic and vegan claims and certifications
+  - id: be-cosmetic-regulation-10
+    name: Cosmetovigilance and market surveillance
+  - id: be-cosmetic-regulation-11
+    name: Regulation of salons, devices and aesthetic treatments
+  - id: be-cosmetic-regulation-12
+    name: "International harmonisation: ICCR"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-cosmetic-regulation.json
+  sha256: 97c39bd7b0dfd54c7af1007282c423fada2784e4a0d28990cd66b1607e8c9504

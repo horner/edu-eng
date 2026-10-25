@@ -1,0 +1,38 @@
+id: py-couples-family-group-therapy
+name: Couples, Family & Group Therapies
+category: Assessment, Psychotherapy & Counselling
+level: 4
+priority: advanced
+summary: "Therapies that work with relationships and groups rather than individuals alone: systemic family therapy, couples therapy and group psychotherapy."
+prerequisites:
+  - py-psychotherapy-foundations
+related:
+  - py-close-relationships-social-connection
+topics:
+  - id: py-couples-family-group-therapy-1
+    name: "Systems thinking: circular causality and family life cycle"
+  - id: py-couples-family-group-therapy-2
+    name: Structural, strategic and Milan systemic family therapy
+  - id: py-couples-family-group-therapy-3
+    name: Family therapy for eating disorders, psychosis and adolescent problems
+  - id: py-couples-family-group-therapy-4
+    name: "Couples therapy: behavioural, emotionally focused and Gottman approaches"
+  - id: py-couples-family-group-therapy-5
+    name: Working with domestic violence safely
+  - id: py-couples-family-group-therapy-6
+    name: Parenting interventions as family therapy
+  - id: py-couples-family-group-therapy-7
+    name: "Group psychotherapy: Yalom's therapeutic factors"
+  - id: py-couples-family-group-therapy-8
+    name: "Group formats: psychoeducational, CBT groups and process groups"
+  - id: py-couples-family-group-therapy-9
+    name: Group stages, roles and leadership
+  - id: py-couples-family-group-therapy-10
+    name: Evidence for couples, family and group formats
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-couples-family-group-therapy.json
+  sha256: 0be4403bd1a5473cf5678a263a63f1c77fb60e9df6dd5e9ee1b21597b5ddf359

@@ -1,0 +1,63 @@
+id: be-skin-disorders-referral
+name: Skin Disorders, Contraindications & When to Refer
+category: Skin Conditions & Concerns
+level: 3
+priority: important
+summary: The skin diseases and lesions a beauty or aesthetic practitioner must recognise, which treatments they rule out, and how to refer clients to medical care.
+prerequisites:
+  - be-skin-types-skin-of-colour
+  - bi-microbiology
+related:
+  - bi-pathophysiology-human-disease
+  - bi-infectious-disease-pathogenesis
+  - bi-cancer-biology
+topics:
+  - id: be-skin-disorders-referral-1
+    name: "Describing skin: primary and secondary lesions"
+  - id: be-skin-disorders-referral-2
+    name: Infectious skin conditions
+    sub:
+      - id: be-skin-disorders-referral-2-1
+        name: "Bacterial: impetigo, folliculitis, cellulitis"
+      - id: be-skin-disorders-referral-2-2
+        name: "Viral: herpes simplex, warts, molluscum"
+      - id: be-skin-disorders-referral-2-3
+        name: "Fungal: tinea and candida"
+      - id: be-skin-disorders-referral-2-4
+        name: "Parasitic: scabies and lice"
+  - id: be-skin-disorders-referral-3
+    name: "Inflammatory disorders: eczema, psoriasis, lichen planus, urticaria"
+  - id: be-skin-disorders-referral-4
+    name: Disorders of the sebaceous and sweat glands
+  - id: be-skin-disorders-referral-5
+    name: "Pigmentary disorders: vitiligo, melasma, PIH"
+  - id: be-skin-disorders-referral-6
+    name: "Benign growths: naevi, seborrhoeic keratoses, cysts, lipomas"
+  - id: be-skin-disorders-referral-7
+    name: Skin cancer recognition
+    sub:
+      - id: be-skin-disorders-referral-7-1
+        name: Basal cell carcinoma
+      - id: be-skin-disorders-referral-7-2
+        name: Squamous cell carcinoma and actinic keratoses
+      - id: be-skin-disorders-referral-7-3
+        name: Melanoma and the ABCDE and "ugly duckling" signs
+      - id: be-skin-disorders-referral-7-4
+        name: Skin cancer on darker skin
+  - id: be-skin-disorders-referral-8
+    name: Skin signs of internal disease and medication side effects
+  - id: be-skin-disorders-referral-9
+    name: Contraindications and precautions for beauty and aesthetic treatments
+  - id: be-skin-disorders-referral-10
+    name: "Medications that affect treatment: isotretinoin, anticoagulants, photosensitisers"
+  - id: be-skin-disorders-referral-11
+    name: Consultation, record-keeping and consent
+  - id: be-skin-disorders-referral-12
+    name: How to refer and what to say to a client
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-skin-disorders-referral.json
+  sha256: 4fbc5aff7da9336c4cb080e1b1c922fb36686533787c2de12a1b59bfea6ac7c7

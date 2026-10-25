@@ -1,0 +1,41 @@
+id: py-consumer-psychology
+name: Consumer Psychology & Marketing
+category: Applied Psychology
+level: 3
+priority: optional
+summary: How people choose, buy and use products and services, and the psychology behind advertising, pricing and brands, including its ethical limits.
+prerequisites:
+  - py-judgement-decision-making
+  - py-social-influence-persuasion
+related:
+  - mk-consumer-behavior
+topics:
+  - id: py-consumer-psychology-1
+    name: Consumer decision process
+  - id: py-consumer-psychology-2
+    name: Perception, attention and advertising
+  - id: py-consumer-psychology-3
+    name: Brand attitudes, loyalty and identity
+  - id: py-consumer-psychology-4
+    name: "Pricing psychology: anchors, decoys and charm prices"
+  - id: py-consumer-psychology-5
+    name: Emotion and consumer behaviour
+  - id: py-consumer-psychology-6
+    name: "Social influence: reviews, influencers and social proof"
+  - id: py-consumer-psychology-7
+    name: "Neuromarketing: claims vs evidence"
+  - id: py-consumer-psychology-8
+    name: Materialism, compulsive buying and wellbeing
+  - id: py-consumer-psychology-9
+    name: Sustainable consumption
+  - id: py-consumer-psychology-10
+    name: Consumer research methods
+  - id: py-consumer-psychology-11
+    name: Ethics and consumer protection
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-consumer-psychology.json
+  sha256: 93576cba7b8676d9cb3abf96488a785fd27908b0bc084f17ee102722b8894e43

@@ -1,0 +1,35 @@
+id: el-dc-ac-conversion-inverters
+name: DC-AC Conversion (Inverters)
+category: Power Electronics & Power Management
+level: 3
+priority: important
+summary: "Inverters that turn DC into AC: H-bridge and three-phase inverters, output waveforms, grid-tied and microgrid use."
+prerequisites:
+  - el-power-electronics-fundamentals
+related: []
+topics:
+  - id: el-dc-ac-conversion-inverters-1
+    name: H-bridge inverters
+  - id: el-dc-ac-conversion-inverters-2
+    name: Three-phase inverters
+  - id: el-dc-ac-conversion-inverters-3
+    name: Sine wave, modified sine wave, square wave
+  - id: el-dc-ac-conversion-inverters-4
+    name: Grid-tied inverters
+  - id: el-dc-ac-conversion-inverters-5
+    name: Microgrid applications
+  - id: el-dc-ac-conversion-inverters-6
+    name: Sinusoidal and space-vector PWM
+  - id: el-dc-ac-conversion-inverters-7
+    name: Dead time and its effects
+  - id: el-dc-ac-conversion-inverters-8
+    name: Output filters and harmonic content
+  - id: el-dc-ac-conversion-inverters-9
+    name: Inverter current control and protection
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-dc-ac-conversion-inverters.json
+  sha256: 9151b3af879e4a1e969182d182571dc100d3c843e2730a1c791d320ae9d79ca2

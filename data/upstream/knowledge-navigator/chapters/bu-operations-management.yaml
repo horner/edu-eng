@@ -1,0 +1,46 @@
+id: bu-operations-management
+name: Operations Management
+category: Operations, Supply Chain & Projects
+level: 2
+priority: core
+summary: How organisations turn inputs into goods and services efficiently, reliably and at the right quality.
+prerequisites:
+  - bu-principles-of-management
+  - bu-business-mathematics
+related:
+  - bu-managerial-cost-accounting
+  - ma-operations-research
+topics:
+  - id: bu-operations-management-1
+    name: Operations as a source of competitive advantage
+  - id: bu-operations-management-2
+    name: "Process analysis: flow charts, capacity and bottlenecks"
+  - id: bu-operations-management-3
+    name: Little's law, flow time and inventory
+  - id: bu-operations-management-4
+    name: "Process types and layouts: job shop, batch, line and continuous"
+  - id: bu-operations-management-5
+    name: Product and service design
+  - id: bu-operations-management-6
+    name: Waiting lines and the economics of variability
+  - id: bu-operations-management-7
+    name: Capacity planning and utilisation
+  - id: bu-operations-management-8
+    name: "Inventory basics: why firms hold stock, EOQ and reorder points"
+  - id: bu-operations-management-9
+    name: Lean operations and the Toyota Production System
+  - id: bu-operations-management-10
+    name: Quality basics and the cost of quality
+  - id: bu-operations-management-11
+    name: "Service operations: service design, blueprints and yield management"
+  - id: bu-operations-management-12
+    name: Sustainable operations and the circular economy
+  - id: bu-operations-management-13
+    name: "Technology in operations: automation, robotics and digital twins"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-operations-management.json
+  sha256: f616ebc656089a4b278d8502edec2f79b2d81a7724a498e616df1527fe35d7f0

@@ -1,0 +1,43 @@
+id: ch-cheminformatics-ml
+name: Cheminformatics & Machine Learning for Chemistry
+category: Computational & Theoretical Chemistry
+level: 4
+priority: advanced
+summary: Representing molecules as data and using databases, QSAR and machine learning to predict and design chemistry.
+prerequisites:
+  - ch-chemical-nomenclature-representation
+  - ch-organic-structure-bonding
+  - ai-core-ml-concepts
+related:
+  - ma-mathematical-chemistry
+  - ai-ai-for-science
+  - ai-graph-based-ml
+  - mt-materials-informatics
+topics:
+  - id: ch-cheminformatics-ml-1
+    name: "Molecular representations: fingerprints, descriptors and graphs"
+  - id: ch-cheminformatics-ml-2
+    name: Chemical databases and substructure and similarity searching
+  - id: ch-cheminformatics-ml-3
+    name: QSAR and QSPR modeling
+  - id: ch-cheminformatics-ml-4
+    name: Virtual screening and molecular docking
+  - id: ch-cheminformatics-ml-5
+    name: Graph neural networks and learned molecular representations
+  - id: ch-cheminformatics-ml-6
+    name: Machine-learned interatomic potentials
+  - id: ch-cheminformatics-ml-7
+    name: Generative models for molecular design
+  - id: ch-cheminformatics-ml-8
+    name: Computer-aided synthesis planning and reaction prediction
+  - id: ch-cheminformatics-ml-9
+    name: Data quality, applicability domain and uncertainty
+  - id: ch-cheminformatics-ml-10
+    name: Materials informatics and high-throughput virtual screening
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-cheminformatics-ml.json
+  sha256: 9fa6d15ca0f33cee0b4629fa591e1568c0eb443a2caeec317791be80ba36cb83

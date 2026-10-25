@@ -1,0 +1,52 @@
+id: bu-managerial-cost-accounting
+name: Managerial & Cost Accounting
+category: Accounting, Audit & Tax
+level: 2
+priority: core
+summary: Using cost and performance information inside the firm for pricing, budgeting, planning and control.
+prerequisites:
+  - bu-financial-accounting
+related:
+  - bu-performance-management-control
+  - bu-operations-management
+topics:
+  - id: bu-managerial-cost-accounting-1
+    name: "Cost concepts: direct, indirect, fixed, variable, sunk and opportunity costs"
+  - id: bu-managerial-cost-accounting-2
+    name: Cost behaviour and cost estimation
+  - id: bu-managerial-cost-accounting-3
+    name: Cost-volume-profit analysis and operating leverage
+  - id: bu-managerial-cost-accounting-4
+    name: Job costing and process costing
+  - id: bu-managerial-cost-accounting-5
+    name: Overhead allocation and its distortions
+  - id: bu-managerial-cost-accounting-6
+    name: Activity-based costing and activity-based management
+  - id: bu-managerial-cost-accounting-7
+    name: Absorption vs variable costing
+  - id: bu-managerial-cost-accounting-8
+    name: Relevant costing for decisions
+    sub:
+      - id: bu-managerial-cost-accounting-8-1
+        name: Make or buy
+      - id: bu-managerial-cost-accounting-8-2
+        name: Special orders and pricing
+      - id: bu-managerial-cost-accounting-8-3
+        name: Dropping products or segments
+      - id: bu-managerial-cost-accounting-8-4
+        name: Constrained resources
+  - id: bu-managerial-cost-accounting-9
+    name: "Budgeting: master budget, cash budget and flexible budgets"
+  - id: bu-managerial-cost-accounting-10
+    name: Standard costing and variance analysis
+  - id: bu-managerial-cost-accounting-11
+    name: Target costing, life-cycle costing and kaizen costing
+  - id: bu-managerial-cost-accounting-12
+    name: Customer and product profitability analysis
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-managerial-cost-accounting.json
+  sha256: 9e19138b8bf42f3b9ed7ddc37355743d96b14374c25ae0e48333a698a2c53cf0

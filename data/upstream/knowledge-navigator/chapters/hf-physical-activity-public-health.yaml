@@ -1,0 +1,47 @@
+id: hf-physical-activity-public-health
+name: Physical Activity & Public Health
+category: Public & Global Health
+level: 3
+priority: important
+summary: The epidemiology of physical activity and inactivity, and the policies and programmes that get populations moving.
+prerequisites:
+  - hf-exercise-fundamentals
+  - bi-epidemiology
+related:
+  - hf-research-methods-health-exercise
+topics:
+  - id: hf-physical-activity-public-health-1
+    name: "Landmark studies: Morris's bus drivers and Paffenbarger's alumni"
+  - id: hf-physical-activity-public-health-2
+    name: Dose-response relationships between activity and health
+  - id: hf-physical-activity-public-health-3
+    name: "Measuring physical activity in populations: questionnaires and accelerometers"
+  - id: hf-physical-activity-public-health-4
+    name: Global prevalence and trends in inactivity
+  - id: hf-physical-activity-public-health-5
+    name: The epidemiology of sedentary behaviour
+  - id: hf-physical-activity-public-health-6
+    name: How physical activity guidelines are developed
+  - id: hf-physical-activity-public-health-7
+    name: The WHO Global Action Plan on Physical Activity
+  - id: hf-physical-activity-public-health-8
+    name: Individual, community and environmental interventions
+  - id: hf-physical-activity-public-health-9
+    name: Active travel and urban design
+  - id: hf-physical-activity-public-health-10
+    name: Physical activity in schools
+  - id: hf-physical-activity-public-health-11
+    name: Physical activity at work
+  - id: hf-physical-activity-public-health-12
+    name: Mass-participation events and parkrun
+  - id: hf-physical-activity-public-health-13
+    name: Inequalities in physical activity
+  - id: hf-physical-activity-public-health-14
+    name: The economic cost of inactivity
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-physical-activity-public-health.json
+  sha256: 5a08cff6380f3a0b9aecb9f1b429f8b61ad4f5f50d2f7ba02627991cf9cc02b6

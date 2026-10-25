@@ -1,0 +1,44 @@
+id: be-psychology-of-appearance
+name: Psychology of Appearance, Self-Care & Wellbeing
+category: Lifestyle, Wellbeing & Appearance
+level: 2
+priority: important
+summary: "The psychological side of beauty: body image, appearance anxiety, social media, visible difference, and how self-care can support or harm wellbeing."
+prerequisites:
+  - be-beauty-ideals-culture-history
+related:
+  - py-body-image-self-perception
+  - py-positive-psychology-wellbeing
+  - py-eating-behavior-disorders
+topics:
+  - id: be-psychology-of-appearance-1
+    name: "Why appearance matters to people: self-presentation and identity"
+  - id: be-psychology-of-appearance-2
+    name: Body image and self-esteem
+  - id: be-psychology-of-appearance-3
+    name: Appearance comparison, social media and photo filters
+  - id: be-psychology-of-appearance-4
+    name: "Grooming and makeup as self-care and ritual: wellbeing evidence"
+  - id: be-psychology-of-appearance-5
+    name: Appearance anxiety and appearance-related bullying
+  - id: be-psychology-of-appearance-6
+    name: "Body dysmorphic disorder: signs and where to get help"
+  - id: be-psychology-of-appearance-7
+    name: "Psychodermatology: skin conditions and mental health"
+  - id: be-psychology-of-appearance-8
+    name: "Living with a visible difference: scars, burns and conditions"
+  - id: be-psychology-of-appearance-9
+    name: Beauty and cancer care
+  - id: be-psychology-of-appearance-10
+    name: Ageing, appearance and identity
+  - id: be-psychology-of-appearance-11
+    name: Beauty work, time, money and pressure
+  - id: be-psychology-of-appearance-12
+    name: Body neutrality, acceptance and healthy self-care
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-psychology-of-appearance.json
+  sha256: 149b5fe876084d82936fc296a85b4bb7c773d46a3cc8a1e86a2911659656f754

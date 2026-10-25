@@ -1,0 +1,48 @@
+id: hf-pregnancy-postpartum-health
+name: Pregnancy & Postpartum Health
+category: Life Stages & Hormonal Health
+level: 2
+priority: important
+summary: Staying healthy before, during and after pregnancy, including nutrition, physical activity and recovery after birth.
+prerequisites:
+  - hf-hormonal-health
+related:
+  - py-stress-coping-resilience
+topics:
+  - id: hf-pregnancy-postpartum-health-1
+    name: How the body changes in pregnancy
+  - id: hf-pregnancy-postpartum-health-2
+    name: Preconception health
+  - id: hf-pregnancy-postpartum-health-3
+    name: Antenatal care and screening
+  - id: hf-pregnancy-postpartum-health-4
+    name: Nutrition and weight gain in pregnancy
+  - id: hf-pregnancy-postpartum-health-5
+    name: Food safety in pregnancy
+  - id: hf-pregnancy-postpartum-health-6
+    name: "Physical activity in pregnancy: guidelines and warning signs to stop"
+  - id: hf-pregnancy-postpartum-health-7
+    name: Common discomforts of pregnancy
+  - id: hf-pregnancy-postpartum-health-8
+    name: Gestational diabetes, high blood pressure and pre-eclampsia
+  - id: hf-pregnancy-postpartum-health-9
+    name: Alcohol, smoking and medicines in pregnancy
+  - id: hf-pregnancy-postpartum-health-10
+    name: "Labour and birth: an overview"
+  - id: hf-pregnancy-postpartum-health-11
+    name: "Postpartum recovery: pelvic floor and abdominal separation"
+  - id: hf-pregnancy-postpartum-health-12
+    name: Returning to exercise after birth
+  - id: hf-pregnancy-postpartum-health-13
+    name: Breastfeeding
+  - id: hf-pregnancy-postpartum-health-14
+    name: Perinatal mental health
+  - id: hf-pregnancy-postpartum-health-15
+    name: Sleep for new parents
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-pregnancy-postpartum-health.json
+  sha256: 051c47a470ddd54a63ef6b6e41c7f859913a5838bd8034dc617090d61a216b62

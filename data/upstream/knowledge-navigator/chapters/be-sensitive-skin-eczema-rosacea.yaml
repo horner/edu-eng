@@ -1,0 +1,60 @@
+id: be-sensitive-skin-eczema-rosacea
+name: Sensitive Skin, Eczema, Dermatitis & Rosacea
+category: Skin Conditions & Concerns
+level: 2
+priority: important
+summary: Understanding and caring for reactive, red, itchy or inflamed skin, including eczema, contact dermatitis and rosacea, and knowing when medical help is needed.
+prerequisites:
+  - be-skin-barrier-hydration
+related:
+  - bi-immunology
+topics:
+  - id: be-sensitive-skin-eczema-rosacea-1
+    name: "Sensitive skin syndrome: definition and triggers"
+  - id: be-sensitive-skin-eczema-rosacea-2
+    name: Atopic eczema
+    sub:
+      - id: be-sensitive-skin-eczema-rosacea-2-1
+        name: Barrier defects, filaggrin and immune drivers
+      - id: be-sensitive-skin-eczema-rosacea-2-2
+        name: Itch-scratch cycle
+      - id: be-sensitive-skin-eczema-rosacea-2-3
+        name: Emollient therapy and bathing advice
+      - id: be-sensitive-skin-eczema-rosacea-2-4
+        name: Flares, triggers and infection
+  - id: be-sensitive-skin-eczema-rosacea-3
+    name: Irritant contact dermatitis
+  - id: be-sensitive-skin-eczema-rosacea-4
+    name: Allergic contact dermatitis and patch testing
+  - id: be-sensitive-skin-eczema-rosacea-5
+    name: "Common cosmetic allergens: fragrance, preservatives, hair dye and acrylates"
+  - id: be-sensitive-skin-eczema-rosacea-6
+    name: Rosacea
+    sub:
+      - id: be-sensitive-skin-eczema-rosacea-6-1
+        name: Subtypes and phenotype-based classification
+      - id: be-sensitive-skin-eczema-rosacea-6-2
+        name: "Triggers: heat, alcohol, spicy food, sun"
+      - id: be-sensitive-skin-eczema-rosacea-6-3
+        name: Demodex mites and other factors
+      - id: be-sensitive-skin-eczema-rosacea-6-4
+        name: Gentle skincare and makeup for rosacea
+  - id: be-sensitive-skin-eczema-rosacea-7
+    name: Perioral dermatitis and steroid-induced skin problems
+  - id: be-sensitive-skin-eczema-rosacea-8
+    name: Seborrhoeic dermatitis of the face
+  - id: be-sensitive-skin-eczema-rosacea-9
+    name: "Psoriasis: appearance, triggers and skincare"
+  - id: be-sensitive-skin-eczema-rosacea-10
+    name: "Choosing products for reactive skin: minimal ingredient lists and testing"
+  - id: be-sensitive-skin-eczema-rosacea-11
+    name: "Prescription treatments: an overview of what a doctor may offer"
+  - id: be-sensitive-skin-eczema-rosacea-12
+    name: Red flags and when to see a doctor
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-sensitive-skin-eczema-rosacea.json
+  sha256: 984a95c146c89068d209fba10586985f3aa733386f29bd8a9a125b5051fa55fd

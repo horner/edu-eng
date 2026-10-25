@@ -1,0 +1,44 @@
+id: hf-periodisation-load-monitoring
+name: Periodisation, Training Load & Athlete Monitoring
+category: Sports Performance & Conditioning
+level: 3
+priority: important
+summary: How training is planned over weeks to years and how load and readiness are monitored.
+prerequisites:
+  - hf-exercise-prescription-program-design
+related:
+  - hf-research-methods-health-exercise
+topics:
+  - id: hf-periodisation-load-monitoring-1
+    name: History and concepts of periodisation (Matveyev, Bompa)
+  - id: hf-periodisation-load-monitoring-2
+    name: Macrocycles, mesocycles and microcycles
+  - id: hf-periodisation-load-monitoring-3
+    name: Linear, undulating and block periodisation
+  - id: hf-periodisation-load-monitoring-4
+    name: What studies comparing periodisation models show
+  - id: hf-periodisation-load-monitoring-5
+    name: Peaking and tapering
+  - id: hf-periodisation-load-monitoring-6
+    name: In-season and off-season planning
+  - id: hf-periodisation-load-monitoring-7
+    name: Managing concurrent strength and endurance training
+  - id: hf-periodisation-load-monitoring-8
+    name: Internal and external training load
+  - id: hf-periodisation-load-monitoring-9
+    name: Session RPE and training impulse
+  - id: hf-periodisation-load-monitoring-10
+    name: The acute:chronic workload ratio and its critique
+  - id: hf-periodisation-load-monitoring-11
+    name: Heart rate variability, wellness questionnaires and readiness
+  - id: hf-periodisation-load-monitoring-12
+    name: GPS and wearables in team sports
+  - id: hf-periodisation-load-monitoring-13
+    name: Turning monitoring data into decisions
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-periodisation-load-monitoring.json
+  sha256: c9e592072c7339b8921880415e49ec31f1cc25b61889b05b37f6173d1ce3fc54

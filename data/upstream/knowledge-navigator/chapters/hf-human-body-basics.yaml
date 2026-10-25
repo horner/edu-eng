@@ -1,0 +1,52 @@
+id: hf-human-body-basics
+name: "The Human Body: Anatomy & Physiology Essentials"
+category: Foundations of Health & Wellness
+level: 1
+priority: core
+summary: A plain-language tour of the body's organ systems and how they work together, as a base for understanding nutrition, exercise and health.
+prerequisites:
+  - bi-introductory-biology
+related:
+  - bi-human-anatomy
+  - bi-human-physiology
+  - be-skin-biology
+topics:
+  - id: hf-human-body-basics-1
+    name: "Levels of organisation: cells, tissues, organs and systems"
+  - id: hf-human-body-basics-2
+    name: Anatomical position, directions and body regions
+  - id: hf-human-body-basics-3
+    name: "Homeostasis and feedback: how the body keeps conditions stable"
+  - id: hf-human-body-basics-4
+    name: "The skeletal system: bones, joints and bone remodelling"
+  - id: hf-human-body-basics-5
+    name: "The muscular system: muscle types and how muscles create movement"
+  - id: hf-human-body-basics-6
+    name: "The nervous system: brain, spinal cord, nerves and reflexes"
+  - id: hf-human-body-basics-7
+    name: "The endocrine system: hormones as chemical messengers"
+  - id: hf-human-body-basics-8
+    name: The heart, blood vessels and blood
+  - id: hf-human-body-basics-9
+    name: "The respiratory system: breathing and gas exchange"
+  - id: hf-human-body-basics-10
+    name: "The digestive system: from mouth to gut"
+  - id: hf-human-body-basics-11
+    name: The kidneys and fluid balance
+  - id: hf-human-body-basics-12
+    name: The immune and lymphatic systems
+  - id: hf-human-body-basics-13
+    name: Skin, hair and nails as an organ system
+  - id: hf-human-body-basics-14
+    name: The reproductive systems
+  - id: hf-human-body-basics-15
+    name: "Energy and metabolism: how the body uses food"
+  - id: hf-human-body-basics-16
+    name: "Putting it together: what happens in the body during exercise, eating and sleep"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-human-body-basics.json
+  sha256: 489e6d4fcc6cbde1f3c669ab125b4856c86f8efcf9e751c5c852b12260f4fdf8

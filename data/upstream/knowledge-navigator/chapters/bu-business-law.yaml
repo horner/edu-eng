@@ -1,0 +1,43 @@
+id: bu-business-law
+name: Business Law
+category: Law, Governance, Ethics & Sustainability
+level: 2
+priority: core
+summary: "The legal environment of business: legal systems, courts, contracts, torts, agency and regulation, compared across jurisdictions."
+prerequisites:
+  - bu-introduction-to-business
+related:
+  - bu-legal-foundations-for-founders
+  - mk-marketing-law-regulation
+topics:
+  - id: bu-business-law-1
+    name: Sources of law and legal reasoning
+  - id: bu-business-law-2
+    name: Common law and civil law systems compared
+  - id: bu-business-law-3
+    name: "Court systems and dispute resolution: litigation, arbitration and mediation"
+  - id: bu-business-law-4
+    name: Constitutional and administrative law affecting business
+  - id: bu-business-law-5
+    name: "Contract law essentials: formation, terms and remedies"
+  - id: bu-business-law-6
+    name: "Torts: negligence, product liability and business torts"
+  - id: bu-business-law-7
+    name: "Agency: authority and liability for agents and employees"
+  - id: bu-business-law-8
+    name: "Property law: real, personal and intellectual property"
+  - id: bu-business-law-9
+    name: "Business organisations: an overview of legal forms"
+  - id: bu-business-law-10
+    name: Consumer protection law
+  - id: bu-business-law-11
+    name: "Criminal law and business: fraud, bribery and corporate crime"
+  - id: bu-business-law-12
+    name: International business law and conflicts of law
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-law.json
+  sha256: 9f7c716464652d98e408e5f4e4084749fce8316b877bff99d8d21683fa0a7c27

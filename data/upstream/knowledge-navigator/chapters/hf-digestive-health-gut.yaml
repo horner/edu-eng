@@ -1,0 +1,46 @@
+id: hf-digestive-health-gut
+name: Digestion, Gut Health & Food Reactions
+category: Nutrition Science
+level: 2
+priority: important
+summary: How the gut digests and absorbs food, what the microbiome does, and how to tell food allergy, intolerance and unproven 'sensitivities' apart.
+prerequisites:
+  - hf-nutrition-fundamentals
+related:
+  - bi-microbiome
+  - bi-immunology
+  - bi-human-physiology
+topics:
+  - id: hf-digestive-health-gut-1
+    name: Anatomy of the digestive tract and accessory organs
+  - id: hf-digestive-health-gut-2
+    name: Digestion and absorption of carbohydrates, proteins and fats
+  - id: hf-digestive-health-gut-3
+    name: The gut-brain axis
+  - id: hf-digestive-health-gut-4
+    name: "The gut microbiome: composition and how diet shapes it"
+  - id: hf-digestive-health-gut-5
+    name: "Prebiotics, probiotics and fermented foods: what the evidence shows"
+  - id: hf-digestive-health-gut-6
+    name: Fibre, bowel habits and constipation
+  - id: hf-digestive-health-gut-7
+    name: "Common complaints: reflux, bloating and wind"
+  - id: hf-digestive-health-gut-8
+    name: Irritable bowel syndrome and the dietitian-led low-FODMAP approach
+  - id: hf-digestive-health-gut-9
+    name: Coeliac disease and gluten
+  - id: hf-digestive-health-gut-10
+    name: Food allergy (IgE-mediated) versus food intolerance (such as lactose)
+  - id: hf-digestive-health-gut-11
+    name: Allergen labelling and recognising anaphylaxis
+  - id: hf-digestive-health-gut-12
+    name: "Unproven tests and claims: IgG food panels, hair analysis and 'leaky gut'"
+  - id: hf-digestive-health-gut-13
+    name: "Red flags in digestive health: bleeding, weight loss and swallowing problems"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-digestive-health-gut.json
+  sha256: 6dd478c909f94982b9755c450220f8e301ffa5050766b4d44e539c583ff1c6c3

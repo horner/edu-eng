@@ -1,0 +1,45 @@
+id: ai-traditional-nlp-techniques
+name: Traditional NLP Techniques
+category: Natural Language & Speech Processing
+level: 3
+priority: important
+summary: "Pre-neural NLP: bag-of-words and TF-IDF, n-gram language models, tagging, parsing, semantic role labelling and coreference."
+prerequisites:
+  - ai-text-preprocessing
+  - ai-types-of-machine-learning
+related: []
+topics:
+  - id: ai-traditional-nlp-techniques-1
+    name: Bag of Words
+  - id: ai-traditional-nlp-techniques-2
+    name: TF-IDF
+  - id: ai-traditional-nlp-techniques-3
+    name: N-grams
+  - id: ai-traditional-nlp-techniques-9
+    name: N-gram language models and smoothing
+  - id: ai-traditional-nlp-techniques-4
+    name: Part-of-Speech Tagging
+  - id: ai-traditional-nlp-techniques-5
+    name: Named Entity Recognition (NER)
+  - id: ai-traditional-nlp-techniques-6
+    name: Syntactic Parsing
+    sub:
+      - id: ai-traditional-nlp-techniques-6-1
+        name: Constituency parsing
+      - id: ai-traditional-nlp-techniques-6-2
+        name: Dependency parsing
+  - id: ai-traditional-nlp-techniques-7
+    name: Semantic Role Labeling
+  - id: ai-traditional-nlp-techniques-8
+    name: Coreference Resolution
+  - id: ai-traditional-nlp-techniques-10
+    name: Text classification with Naive Bayes and logistic regression
+  - id: ai-traditional-nlp-techniques-11
+    name: HMM and CRF sequence taggers
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-traditional-nlp-techniques.json
+  sha256: f6135a079c602d017b3f3729d47897aaa0eedf7cd5bf7528aa6c07e0c43b3bdb

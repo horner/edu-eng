@@ -1,0 +1,54 @@
+id: py-eating-behavior-disorders
+name: Eating Behaviour & Eating Disorders
+category: Mental Health & Psychopathology
+level: 3
+priority: important
+summary: The psychology of everyday eating and the main eating disorders, including their causes, warning signs and evidence-based treatment.
+prerequisites:
+  - py-psychopathology-foundations
+  - py-body-image-self-perception
+related:
+  - hf-nutrition-fundamentals
+  - hf-weight-management-body-composition
+  - hf-obesity-science-treatment
+topics:
+  - id: py-eating-behavior-disorders-1
+    name: "Hunger, appetite and satiety: biological and psychological signals"
+  - id: py-eating-behavior-disorders-2
+    name: Learned food preferences and the eating environment
+  - id: py-eating-behavior-disorders-3
+    name: Emotional eating, stress and comfort food
+  - id: py-eating-behavior-disorders-4
+    name: Dieting, restraint and the restraint-disinhibition cycle
+  - id: py-eating-behavior-disorders-5
+    name: Weight stigma and its effects
+  - id: py-eating-behavior-disorders-6
+    name: Eating disorders
+    sub:
+      - id: py-eating-behavior-disorders-6-1
+        name: Anorexia nervosa
+      - id: py-eating-behavior-disorders-6-2
+        name: Bulimia nervosa
+      - id: py-eating-behavior-disorders-6-3
+        name: Binge eating disorder
+      - id: py-eating-behavior-disorders-6-4
+        name: ARFID and other specified eating disorders
+  - id: py-eating-behavior-disorders-7
+    name: "Risk factors: genetics, perfectionism, body image and sociocultural pressure"
+  - id: py-eating-behavior-disorders-8
+    name: Medical complications and why eating disorders are serious
+  - id: py-eating-behavior-disorders-9
+    name: Early warning signs and how to raise concerns
+  - id: py-eating-behavior-disorders-10
+    name: "Treatments: CBT-E, family-based treatment and specialist care"
+  - id: py-eating-behavior-disorders-11
+    name: Orthorexia, muscle dysmorphia and eating issues in men and athletes
+  - id: py-eating-behavior-disorders-12
+    name: "Prevention programmes and intuitive eating: evidence"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-eating-behavior-disorders.json
+  sha256: 35c378b7e44826433af884880cd9a147f7b27e5cda19d007a6d402cd8d1fe638

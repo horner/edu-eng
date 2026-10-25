@@ -1,0 +1,55 @@
+id: hf-fitness-assessment
+name: Health & Fitness Assessment
+category: Fitness Training & Programme Design
+level: 3
+priority: core
+summary: How to screen clients and measure health-related fitness reliably, then interpret and communicate the results.
+prerequisites:
+  - hf-training-principles-adaptations
+related:
+  - hf-applied-exercise-physiology
+topics:
+  - id: hf-fitness-assessment-1
+    name: Purpose and sequence of fitness assessment
+  - id: hf-fitness-assessment-2
+    name: "Pre-participation screening: the ACSM algorithm, PAR-Q+ and informed consent"
+  - id: hf-fitness-assessment-3
+    name: Health history and cardiovascular risk factors
+  - id: hf-fitness-assessment-4
+    name: "Resting measures: heart rate and blood pressure"
+  - id: hf-fitness-assessment-5
+    name: Body composition assessment
+  - id: hf-fitness-assessment-6
+    name: Cardiorespiratory fitness testing
+    sub:
+      - id: hf-fitness-assessment-6-1
+        name: Field tests
+      - id: hf-fitness-assessment-6-2
+        name: Submaximal cycle and step tests
+      - id: hf-fitness-assessment-6-3
+        name: Treadmill protocols
+      - id: hf-fitness-assessment-6-4
+        name: Laboratory VO2max testing
+  - id: hf-fitness-assessment-7
+    name: Muscular strength (1RM and estimated 1RM) and muscular endurance tests
+  - id: hf-fitness-assessment-8
+    name: Power, speed and agility tests
+  - id: hf-fitness-assessment-9
+    name: Flexibility tests
+  - id: hf-fitness-assessment-10
+    name: Balance and functional tests, including the Senior Fitness Test and Timed Up and Go
+  - id: hf-fitness-assessment-11
+    name: Movement screens and their evidence
+  - id: hf-fitness-assessment-12
+    name: Reliability, validity and normative data
+  - id: hf-fitness-assessment-13
+    name: Interpreting and communicating results
+  - id: hf-fitness-assessment-14
+    name: Re-assessment and tracking change
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-fitness-assessment.json
+  sha256: dac97caa5f9628a5415f9b84047e638a13fd5a3d296c78a0ecb4f9a81c356218

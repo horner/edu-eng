@@ -1,0 +1,56 @@
+id: bu-investments-portfolio-management
+name: Investments & Portfolio Management
+category: Finance & Investment
+level: 3
+priority: important
+summary: How financial assets are priced and combined into portfolios, and how investment performance is judged.
+prerequisites:
+  - bu-corporate-finance
+related:
+  - ma-financial-mathematics
+  - bu-personal-finance
+topics:
+  - id: bu-investments-portfolio-management-1
+    name: "Asset classes and investment vehicles: funds, ETFs and pooled products"
+  - id: bu-investments-portfolio-management-2
+    name: Return and risk measurement
+  - id: bu-investments-portfolio-management-3
+    name: Modern portfolio theory and the efficient frontier
+  - id: bu-investments-portfolio-management-4
+    name: CAPM, factor models and arbitrage pricing
+  - id: bu-investments-portfolio-management-5
+    name: Market efficiency and anomalies
+  - id: bu-investments-portfolio-management-6
+    name: "Behavioural finance: biases of investors"
+  - id: bu-investments-portfolio-management-7
+    name: Equity analysis and valuation for investors
+  - id: bu-investments-portfolio-management-8
+    name: Bond basics for portfolio managers
+  - id: bu-investments-portfolio-management-9
+    name: Alternative investments
+    sub:
+      - id: bu-investments-portfolio-management-9-1
+        name: Real estate and REITs
+      - id: bu-investments-portfolio-management-9-2
+        name: Hedge funds
+      - id: bu-investments-portfolio-management-9-3
+        name: Commodities and infrastructure
+      - id: bu-investments-portfolio-management-9-4
+        name: Private markets
+  - id: bu-investments-portfolio-management-10
+    name: Active vs passive management and fees
+  - id: bu-investments-portfolio-management-11
+    name: "Performance evaluation: Sharpe, alpha and attribution"
+  - id: bu-investments-portfolio-management-12
+    name: Asset allocation and the investment policy statement
+  - id: bu-investments-portfolio-management-13
+    name: "ESG and sustainable investing: approaches and evidence"
+  - id: bu-investments-portfolio-management-14
+    name: Professional ethics in investment management
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-investments-portfolio-management.json
+  sha256: 30d63b411fd72e28b0ec55dc6c631947ada9aa9d41ce83c0fe222b4c8a61fcde

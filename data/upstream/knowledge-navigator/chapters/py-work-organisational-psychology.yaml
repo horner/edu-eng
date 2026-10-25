@@ -1,0 +1,48 @@
+id: py-work-organisational-psychology
+name: Work & Organisational Psychology
+category: Applied Psychology
+level: 3
+priority: important
+summary: "Psychology applied to work: selection, performance, motivation, leadership, teams, wellbeing and organisational change."
+prerequisites:
+  - py-social-psychology
+  - py-research-methods-in-psychology
+related:
+  - bu-organizational-behavior
+  - bu-human-resource-management
+topics:
+  - id: py-work-organisational-psychology-1
+    name: "Industrial-organisational psychology: history and scope"
+  - id: py-work-organisational-psychology-2
+    name: Job analysis and competency modelling
+  - id: py-work-organisational-psychology-3
+    name: "Personnel selection: interviews, tests, assessment centres and validity"
+  - id: py-work-organisational-psychology-4
+    name: Performance appraisal and feedback
+  - id: py-work-organisational-psychology-5
+    name: Work motivation and job design
+  - id: py-work-organisational-psychology-6
+    name: Job satisfaction, engagement and commitment
+  - id: py-work-organisational-psychology-7
+    name: "Leadership theories: trait, transformational and authentic leadership"
+  - id: py-work-organisational-psychology-8
+    name: Teams and team effectiveness
+  - id: py-work-organisational-psychology-9
+    name: Organisational culture and change
+  - id: py-work-organisational-psychology-10
+    name: Occupational stress, burnout and wellbeing at work
+  - id: py-work-organisational-psychology-11
+    name: Diversity, inclusion and bias in organisations
+  - id: py-work-organisational-psychology-12
+    name: Training and development
+  - id: py-work-organisational-psychology-13
+    name: Remote and hybrid work
+  - id: py-work-organisational-psychology-14
+    name: Counterproductive behaviour, bullying and psychological safety
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-work-organisational-psychology.json
+  sha256: 4bbcf6ea976202b327bb0c4f95c01afa520c7e394cf5bfce290310fd1730eeb5

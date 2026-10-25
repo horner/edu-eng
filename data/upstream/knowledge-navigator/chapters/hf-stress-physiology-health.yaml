@@ -1,0 +1,50 @@
+id: hf-stress-physiology-health
+name: Stress, the Body & Physical Health
+category: Sleep, Recovery & Stress
+level: 2
+priority: important
+summary: How the stress response works, how chronic stress affects physical health, and which stress-reduction methods have evidence.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - py-stress-coping-resilience
+  - py-mindfulness-contemplative-science
+  - py-health-psychology
+topics:
+  - id: hf-stress-physiology-health-1
+    name: "The stress response: the HPA axis and the sympathetic nervous system"
+  - id: hf-stress-physiology-health-2
+    name: Cortisol rhythms and the 'adrenal fatigue' myth
+  - id: hf-stress-physiology-health-3
+    name: Acute versus chronic stress
+  - id: hf-stress-physiology-health-4
+    name: Allostasis and allostatic load
+  - id: hf-stress-physiology-health-5
+    name: Stress and cardiovascular health
+  - id: hf-stress-physiology-health-6
+    name: Stress, immunity and inflammation
+  - id: hf-stress-physiology-health-7
+    name: Stress, digestion and appetite
+  - id: hf-stress-physiology-health-8
+    name: Stress and sleep
+  - id: hf-stress-physiology-health-9
+    name: Heart rate variability as a marker of stress and recovery
+  - id: hf-stress-physiology-health-10
+    name: Exercise as stress management
+  - id: hf-stress-physiology-health-11
+    name: "Slow breathing techniques: what the evidence shows"
+  - id: hf-stress-physiology-health-12
+    name: Relaxation methods and time in nature
+  - id: hf-stress-physiology-health-13
+    name: Social support and physical health
+  - id: hf-stress-physiology-health-14
+    name: Work stress and burnout
+  - id: hf-stress-physiology-health-15
+    name: When stress needs professional help
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-stress-physiology-health.json
+  sha256: cc39782fefb6f18ee43649d82345a43c521c7f325db9bb2c25240ba48358d9cd

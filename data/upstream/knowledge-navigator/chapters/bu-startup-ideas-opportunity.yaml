@@ -1,0 +1,42 @@
+id: bu-startup-ideas-opportunity
+name: Startup Ideas & Opportunity Recognition
+category: Entrepreneurship & Startups
+level: 2
+priority: important
+summary: Where good startup ideas come from and how to judge whether an opportunity is big enough and right for you.
+prerequisites:
+  - bu-entrepreneurship-startups
+related:
+  - bu-innovation-strategy
+topics:
+  - id: bu-startup-ideas-opportunity-1
+    name: "Sources of ideas: personal problems, expertise, change and trends"
+  - id: bu-startup-ideas-opportunity-2
+    name: Problem-first vs solution-first thinking
+  - id: bu-startup-ideas-opportunity-3
+    name: Why now? Technology, regulatory and behavioural shifts
+  - id: bu-startup-ideas-opportunity-4
+    name: Founder-market fit and unfair advantages
+  - id: bu-startup-ideas-opportunity-5
+    name: Common bad-idea patterns and tar-pit ideas
+  - id: bu-startup-ideas-opportunity-6
+    name: "Market sizing: TAM, SAM and SOM, top-down and bottom-up"
+  - id: bu-startup-ideas-opportunity-7
+    name: Beachhead market selection
+  - id: bu-startup-ideas-opportunity-8
+    name: Competitive landscape and alternatives customers already use
+  - id: bu-startup-ideas-opportunity-9
+    name: Opportunity evaluation frameworks and scorecards
+  - id: bu-startup-ideas-opportunity-10
+    name: Idea generation techniques and keeping an idea journal
+  - id: bu-startup-ideas-opportunity-11
+    name: Evaluating side projects and turning them into companies
+  - id: bu-startup-ideas-opportunity-12
+    name: Ethics and legality checks on new ideas
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-startup-ideas-opportunity.json
+  sha256: deab3a2b0632d582b7cf813e0ec58adb3ed2a0e0257203eed60d50e16ccbed11

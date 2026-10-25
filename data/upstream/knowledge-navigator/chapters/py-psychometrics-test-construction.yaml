@@ -1,0 +1,53 @@
+id: py-psychometrics-test-construction
+name: Psychometrics & Test Construction
+category: Research Methods, Statistics & Measurement
+level: 3
+priority: important
+summary: "How psychological tests and questionnaires are built and checked: reliability, validity, factor structure and item response theory."
+prerequisites:
+  - py-statistics-for-psychology
+  - py-research-methods-in-psychology
+related:
+  - ma-multivariate-statistics
+topics:
+  - id: py-psychometrics-test-construction-1
+    name: "Measurement theory: latent constructs and observed scores"
+  - id: py-psychometrics-test-construction-2
+    name: Classical test theory
+    sub:
+      - id: py-psychometrics-test-construction-2-1
+        name: True score, error and reliability
+      - id: py-psychometrics-test-construction-2-2
+        name: Cronbach's alpha, omega and their limits
+      - id: py-psychometrics-test-construction-2-3
+        name: Standard error of measurement
+  - id: py-psychometrics-test-construction-3
+    name: Item writing, scaling and response formats (Likert, forced choice)
+  - id: py-psychometrics-test-construction-4
+    name: "Item analysis: difficulty, discrimination and item-total correlations"
+  - id: py-psychometrics-test-construction-5
+    name: "Exploratory factor analysis: extraction, rotation and number of factors"
+  - id: py-psychometrics-test-construction-6
+    name: Confirmatory factor analysis in outline
+  - id: py-psychometrics-test-construction-7
+    name: Validity evidence
+    sub:
+      - id: py-psychometrics-test-construction-7-1
+        name: Content, criterion and construct validity
+      - id: py-psychometrics-test-construction-7-2
+        name: Convergent and discriminant validity and the MTMM matrix
+  - id: py-psychometrics-test-construction-8
+    name: Norms, standardisation and score interpretation (percentiles, T-scores)
+  - id: py-psychometrics-test-construction-9
+    name: "Item response theory: Rasch, 2PL models and adaptive testing"
+  - id: py-psychometrics-test-construction-10
+    name: Measurement invariance and test fairness across groups
+  - id: py-psychometrics-test-construction-11
+    name: Test standards and ethical test use
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychometrics-test-construction.json
+  sha256: 86305ecf01f39a293a92323cf2a4d12d9d6d23a9eb4c4249bfedfe9a8ead07bc

@@ -1,0 +1,43 @@
+id: mk-sales-promotion-direct-marketing
+name: Sales Promotion & Direct Marketing
+category: Communications & Creative
+level: 2
+priority: important
+summary: "Short-term incentives and direct, addressable communication: how they work, what they cost and what the evidence says about their effects."
+prerequisites:
+  - mk-integrated-marketing-communications
+  - mk-marketing-maths-metrics
+related:
+  - mk-email-lifecycle-marketing
+topics:
+  - id: mk-sales-promotion-direct-marketing-1
+    name: "Consumer promotions: coupons, price-offs, multibuys, samples, premiums"
+  - id: mk-sales-promotion-direct-marketing-2
+    name: Trade promotions and their cost
+  - id: mk-sales-promotion-direct-marketing-3
+    name: "Promotion effects: baseline, uplift, stockpiling and post-promotion dips"
+  - id: mk-sales-promotion-direct-marketing-4
+    name: Evidence on long-term effects of promotions on brands
+  - id: mk-sales-promotion-direct-marketing-5
+    name: Designing and evaluating a promotion
+  - id: mk-sales-promotion-direct-marketing-6
+    name: "Direct marketing principles: lists, offers, creative"
+  - id: mk-sales-promotion-direct-marketing-7
+    name: Direct mail and door drops
+  - id: mk-sales-promotion-direct-marketing-8
+    name: Telemarketing and the rules on calls
+  - id: mk-sales-promotion-direct-marketing-9
+    name: Customer databases and RFM targeting
+  - id: mk-sales-promotion-direct-marketing-10
+    name: Testing in direct marketing
+  - id: mk-sales-promotion-direct-marketing-11
+    name: Response measurement and break-even response rates
+  - id: mk-sales-promotion-direct-marketing-12
+    name: Promotions and direct marketing law
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-sales-promotion-direct-marketing.json
+  sha256: 6915bda730dcdd0721e0e624920add122c2987c9afca8bdf7722008efbcdf155

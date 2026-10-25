@@ -1,0 +1,43 @@
+id: be-nail-cosmetics-enhancements
+name: Nail Polish, Gels & Nail Enhancements
+category: Nails, Hands & Feet
+level: 2
+priority: important
+summary: The chemistry and safe use of nail polish, gel polish, acrylics and other nail enhancements, including allergies and salon safety.
+prerequisites:
+  - be-nails-hands-feet
+  - be-cosmetic-chemistry-basics
+related:
+  - ch-polymer-chemistry
+topics:
+  - id: be-nail-cosmetics-enhancements-1
+    name: "Nail polish chemistry: film formers, plasticisers, solvents and pigments"
+  - id: be-nail-cosmetics-enhancements-2
+    name: '"Free-from" polishes: what the numbers mean'
+  - id: be-nail-cosmetics-enhancements-3
+    name: "Removers: acetone and alternatives"
+  - id: be-nail-cosmetics-enhancements-4
+    name: "Nail hardeners and treatments: evidence"
+  - id: be-nail-cosmetics-enhancements-5
+    name: "Gel polish: UV and LED curing chemistry"
+  - id: be-nail-cosmetics-enhancements-6
+    name: Acrylic (monomer and polymer) enhancements
+  - id: be-nail-cosmetics-enhancements-7
+    name: Tips, wraps, builder gels and press-ons
+  - id: be-nail-cosmetics-enhancements-8
+    name: "Methacrylate allergy: causes, symptoms and prevention"
+  - id: be-nail-cosmetics-enhancements-9
+    name: UV nail lamps and skin safety
+  - id: be-nail-cosmetics-enhancements-10
+    name: Damage from enhancements and safe removal
+  - id: be-nail-cosmetics-enhancements-11
+    name: "Nail salon safety: ventilation, dust, MMA and worker health"
+  - id: be-nail-cosmetics-enhancements-12
+    name: Nail art and design principles
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-nail-cosmetics-enhancements.json
+  sha256: 5c8c2e84dfbfa166fd66a5b5fc27da66ff0468447d760eeef40b0dccce0727ef

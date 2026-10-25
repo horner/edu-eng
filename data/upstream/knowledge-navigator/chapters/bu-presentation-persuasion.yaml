@@ -1,0 +1,43 @@
+id: bu-presentation-persuasion
+name: Presentations, Persuasion & Storytelling
+category: People, Organisations & Leadership
+level: 2
+priority: important
+summary: Structuring arguments and delivering presentations that inform and persuade decision-makers.
+prerequisites:
+  - bu-business-communication
+related:
+  - bu-data-visualization-dashboards
+  - bu-management-consulting
+topics:
+  - id: bu-presentation-persuasion-1
+    name: Knowing your audience and objective
+  - id: bu-presentation-persuasion-2
+    name: "Structuring arguments: the pyramid principle and SCQA"
+  - id: bu-presentation-persuasion-3
+    name: Storytelling in business
+  - id: bu-presentation-persuasion-4
+    name: Designing clear slides
+  - id: bu-presentation-persuasion-5
+    name: Presenting data and numbers
+  - id: bu-presentation-persuasion-6
+    name: "Delivery: voice, body language and handling nerves"
+  - id: bu-presentation-persuasion-7
+    name: Handling questions and objections
+  - id: bu-presentation-persuasion-8
+    name: Principles of persuasion and their ethical use
+  - id: bu-presentation-persuasion-9
+    name: Pitching an idea in a short time
+  - id: bu-presentation-persuasion-10
+    name: Executive briefings and board papers
+  - id: bu-presentation-persuasion-11
+    name: Virtual presentations and webinars
+  - id: bu-presentation-persuasion-12
+    name: Media interviews and public speaking
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-presentation-persuasion.json
+  sha256: 62a5f08872a9cd3186efc34bf7468f5500964be178c2cffc431ebbff99adf8a6

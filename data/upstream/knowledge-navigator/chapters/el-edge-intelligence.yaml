@@ -1,0 +1,29 @@
+id: el-edge-intelligence
+name: Edge Intelligence
+category: Emerging & Advanced Topics
+level: 5
+priority: advanced
+summary: Distributed and collaborative AI across edge devices and the cloud, including swarm intelligence and hierarchical processing.
+prerequisites:
+  - el-deep-learning-on-edge
+  - el-edge-computing
+related:
+  - ai-edge-ai-embedded-ml
+topics:
+  - id: el-edge-intelligence-1
+    name: Distributed AI across edge devices
+  - id: el-edge-intelligence-2
+    name: Swarm intelligence
+  - id: el-edge-intelligence-3
+    name: Collaborative sensing and learning
+  - id: el-edge-intelligence-4
+    name: Edge-cloud collaboration
+  - id: el-edge-intelligence-5
+    name: Hierarchical processing architectures
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-edge-intelligence.json
+  sha256: 65ed7e38ffd2c25cb24a4d771238c0a02b023a6332a004349ad552aaebad3947

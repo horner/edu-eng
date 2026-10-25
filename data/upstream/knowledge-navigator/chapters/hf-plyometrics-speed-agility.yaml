@@ -1,0 +1,40 @@
+id: hf-plyometrics-speed-agility
+name: Plyometrics, Speed & Agility
+category: Sports Performance & Conditioning
+level: 3
+priority: important
+summary: Training the stretch-shortening cycle, sprinting and change of direction for sport.
+prerequisites:
+  - hf-resistance-training
+  - hf-biomechanics-of-exercise
+related: []
+topics:
+  - id: hf-plyometrics-speed-agility-1
+    name: The stretch-shortening cycle
+  - id: hf-plyometrics-speed-agility-2
+    name: Plyometric progressions and volume
+  - id: hf-plyometrics-speed-agility-3
+    name: Landing mechanics
+  - id: hf-plyometrics-speed-agility-4
+    name: "Sprint mechanics: acceleration and maximum velocity"
+  - id: hf-plyometrics-speed-agility-5
+    name: "Sprint training methods: resisted and assisted"
+  - id: hf-plyometrics-speed-agility-6
+    name: Change of direction versus agility
+  - id: hf-plyometrics-speed-agility-7
+    name: Perception and decision-making in reactive agility
+  - id: hf-plyometrics-speed-agility-8
+    name: Speed endurance and repeated-sprint ability
+  - id: hf-plyometrics-speed-agility-9
+    name: Integrating plyometrics, speed and agility into a programme
+  - id: hf-plyometrics-speed-agility-10
+    name: Testing speed and agility
+  - id: hf-plyometrics-speed-agility-11
+    name: Plyometrics for young athletes
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-plyometrics-speed-agility.json
+  sha256: 37de662f9be7297b91b3ef790d51aa0279702619427c091f444397cfa5b15fcb

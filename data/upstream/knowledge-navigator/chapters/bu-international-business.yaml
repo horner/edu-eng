@@ -1,0 +1,55 @@
+id: bu-international-business
+name: International Business
+category: Strategy & Global Business
+level: 2
+priority: important
+summary: How and why firms do business across borders, from exporting to running multinational operations.
+prerequisites:
+  - bu-introduction-to-business
+related:
+  - bu-international-economics
+  - bu-organizational-culture-inclusion
+  - mk-international-marketing
+topics:
+  - id: bu-international-business-1
+    name: "Globalisation: drivers, measures and backlash"
+  - id: bu-international-business-2
+    name: "National differences: political, legal and economic systems"
+  - id: bu-international-business-3
+    name: "Culture and business: Hofstede, GLOBE and their critiques"
+  - id: bu-international-business-4
+    name: Ethics and corruption in international business
+  - id: bu-international-business-5
+    name: "International trade and investment: an overview for managers"
+  - id: bu-international-business-6
+    name: Regional integration and trade agreements
+  - id: bu-international-business-7
+    name: "Choosing markets: country attractiveness and risk"
+  - id: bu-international-business-8
+    name: Entry modes
+    sub:
+      - id: bu-international-business-8-1
+        name: Exporting and importing
+      - id: bu-international-business-8-2
+        name: Licensing and franchising
+      - id: bu-international-business-8-3
+        name: Joint ventures
+      - id: bu-international-business-8-4
+        name: Wholly owned subsidiaries
+  - id: bu-international-business-9
+    name: "Import and export operations: Incoterms, customs and documentation"
+  - id: bu-international-business-10
+    name: Managing currency and payment risk in trade
+  - id: bu-international-business-11
+    name: Global supply chains and offshoring
+  - id: bu-international-business-12
+    name: "Managing people across borders: expatriates and local talent"
+  - id: bu-international-business-13
+    name: Emerging markets and base-of-the-pyramid business
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-international-business.json
+  sha256: de774e2113909a74c5ab38a2b2975a0c23ce93dba86ceba114d35e4f8738fe3e

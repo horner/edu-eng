@@ -1,0 +1,56 @@
+id: py-judgement-decision-making
+name: Judgement, Decision-Making & Behavioural Economics
+category: Social Psychology & Behavioural Science
+level: 2
+priority: important
+summary: "How people actually make choices: heuristics and biases, prospect theory, nudges, and which famous effects have and have not replicated."
+prerequisites:
+  - py-cognitive-psychology
+related:
+  - ma-game-theory
+  - ma-elementary-probability
+  - bu-behavioral-economics
+  - bu-managerial-decision-making
+topics:
+  - id: py-judgement-decision-making-1
+    name: Rational choice and expected utility as a benchmark
+  - id: py-judgement-decision-making-2
+    name: Bounded rationality and satisficing (Simon)
+  - id: py-judgement-decision-making-3
+    name: Heuristics and biases
+    sub:
+      - id: py-judgement-decision-making-3-1
+        name: Availability, representativeness and anchoring
+      - id: py-judgement-decision-making-3-2
+        name: Overconfidence and the planning fallacy
+      - id: py-judgement-decision-making-3-3
+        name: Framing effects
+  - id: py-judgement-decision-making-4
+    name: "Prospect theory: loss aversion, reference points and probability weighting"
+  - id: py-judgement-decision-making-5
+    name: Mental accounting, sunk costs and the endowment effect
+  - id: py-judgement-decision-making-6
+    name: "Intertemporal choice: present bias and hyperbolic discounting"
+  - id: py-judgement-decision-making-7
+    name: Risk perception and dread
+  - id: py-judgement-decision-making-8
+    name: "Social preferences: fairness, trust and the ultimatum game"
+  - id: py-judgement-decision-making-9
+    name: Fast-and-frugal heuristics and ecological rationality (Gigerenzer)
+  - id: py-judgement-decision-making-10
+    name: "Choice architecture and nudges: defaults, salience and simplification"
+  - id: py-judgement-decision-making-11
+    name: "The replication record: priming, ego depletion and other contested effects"
+  - id: py-judgement-decision-making-12
+    name: Debiasing and decision aids
+  - id: py-judgement-decision-making-13
+    name: Emotion and intuition in decision-making
+  - id: py-judgement-decision-making-14
+    name: Behavioural economics in money, health and everyday life
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-judgement-decision-making.json
+  sha256: a5defb93677ca8a49a98abf42a91ee45918570de3d65c25a3b5ddc9c09a2b164

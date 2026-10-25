@@ -1,0 +1,25 @@
+id: el-fog-computing
+name: Fog Computing
+category: IoT Architectures, Platforms & Data
+level: 3
+priority: advanced
+summary: Hierarchical edge-to-cloud computing with fog nodes, distributed storage and orchestration.
+prerequisites:
+  - el-edge-computing
+related: []
+topics:
+  - id: el-fog-computing-1
+    name: Hierarchical edge-to-cloud architecture
+  - id: el-fog-computing-2
+    name: Distributed computing and storage
+  - id: el-fog-computing-3
+    name: Fog nodes and orchestration
+  - id: el-fog-computing-4
+    name: OpenFog reference architecture
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-fog-computing.json
+  sha256: cfdc930d768ef50d867670e45c1572eea5a9a43abf6ae238b923761e3822b4e4

@@ -1,0 +1,30 @@
+id: el-iot-data-models
+name: IoT Data Models
+category: IoT Architectures, Platforms & Data
+level: 3
+priority: advanced
+summary: "Shared vocabularies that let devices interoperate: LwM2M objects, oneM2M, OCF, W3C Web of Things and semantic models."
+prerequisites:
+  - el-data-serialization-formats
+  - el-iot-application-protocols
+related: []
+topics:
+  - id: el-iot-data-models-1
+    name: LWM2M (Lightweight M2M) objects
+  - id: el-iot-data-models-2
+    name: OMA SpecWorks data models
+  - id: el-iot-data-models-3
+    name: oneM2M (IoT standards)
+  - id: el-iot-data-models-4
+    name: OCF (Open Connectivity Foundation)
+  - id: el-iot-data-models-5
+    name: W3C Web of Things (WoT)
+  - id: el-iot-data-models-6
+    name: Semantic Web technologies (RDF, OWL)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-iot-data-models.json
+  sha256: 0ffcaa210f667de003169efa27f48d251ade5248d0bedc6231c69fb10a4ea30c

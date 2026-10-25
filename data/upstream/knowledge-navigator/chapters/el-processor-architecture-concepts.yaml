@@ -1,0 +1,41 @@
+id: el-processor-architecture-concepts
+name: Processor Architecture Concepts
+category: Microcontrollers, Processors & Architectures
+level: 3
+priority: core
+summary: "How processors execute code: ISAs, RISC vs CISC, pipelining, branch prediction, caches, coherency, MMUs, MPUs and virtual memory."
+prerequisites:
+  - el-embedded-systems-fundamentals
+related:
+  - cs-computer-organization
+  - cs-computer-architecture
+topics:
+  - id: el-processor-architecture-concepts-10
+    name: Von Neumann vs Harvard architectures and the instruction cycle
+  - id: el-processor-architecture-concepts-11
+    name: Computer arithmetic and the ALU
+  - id: el-processor-architecture-concepts-1
+    name: RISC vs CISC architectures
+  - id: el-processor-architecture-concepts-2
+    name: Instruction set architecture (ISA)
+  - id: el-processor-architecture-concepts-3
+    name: Pipelining and superscalar execution
+  - id: el-processor-architecture-concepts-4
+    name: Branch prediction and speculative execution
+  - id: el-processor-architecture-concepts-5
+    name: Cache hierarchy (L1, L2, L3)
+  - id: el-processor-architecture-concepts-6
+    name: Cache coherency protocols
+  - id: el-processor-architecture-concepts-7
+    name: Memory Management Unit (MMU)
+  - id: el-processor-architecture-concepts-8
+    name: Memory Protection Unit (MPU)
+  - id: el-processor-architecture-concepts-9
+    name: Virtual memory and paging
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-processor-architecture-concepts.json
+  sha256: de9209b34ec1157c39b28dd47f1296af454472eea86a4f6c048bdacdbfd3a4f2

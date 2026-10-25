@@ -1,0 +1,38 @@
+id: ae-multidisciplinary-design-optimization
+name: Multidisciplinary Design Optimisation
+category: Systems Engineering, Test & Safety
+level: 4
+priority: advanced
+summary: Optimising aerospace vehicles across coupled disciplines at once, using gradient-based methods, surrogates and MDO architectures.
+prerequisites:
+  - ae-aircraft-design
+  - ma-nonlinear-programming
+related:
+  - ma-optimization-algorithms
+  - me-design-optimization
+topics:
+  - id: ae-multidisciplinary-design-optimization-1
+    name: Design optimisation problem formulation
+  - id: ae-multidisciplinary-design-optimization-2
+    name: Gradient-based optimisation and constraints
+  - id: ae-multidisciplinary-design-optimization-3
+    name: "Computing derivatives: finite differences, complex step, algorithmic differentiation, adjoints"
+  - id: ae-multidisciplinary-design-optimization-4
+    name: Multidisciplinary analysis and coupled systems
+  - id: ae-multidisciplinary-design-optimization-5
+    name: "MDO architectures: MDF, IDF, collaborative optimisation"
+  - id: ae-multidisciplinary-design-optimization-6
+    name: Surrogate models and design of experiments
+  - id: ae-multidisciplinary-design-optimization-7
+    name: Gradient-free and multi-objective optimisation
+  - id: ae-multidisciplinary-design-optimization-8
+    name: Uncertainty quantification and robust design
+  - id: ae-multidisciplinary-design-optimization-9
+    name: "Tools: OpenMDAO and aerostructural optimisation examples"
+discipline: aerospace
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/aerospace/ae-multidisciplinary-design-optimization.json
+  sha256: 2525f5fa9685824bf23a90912916ed8d0c2c1e18f924d3fc408ff816211a4b3a

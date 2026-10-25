@@ -1,0 +1,30 @@
+id: ai-dynamic-programming
+name: Dynamic Programming (RL)
+category: Reinforcement Learning
+level: 3
+priority: core
+summary: Solving known MDPs exactly with policy evaluation, policy iteration and value iteration, the foundation of all RL algorithms.
+prerequisites:
+  - ai-rl-fundamentals
+related:
+  - ma-dynamic-programming
+topics:
+  - id: ai-dynamic-programming-1
+    name: Policy Evaluation
+  - id: ai-dynamic-programming-2
+    name: Policy Iteration
+  - id: ai-dynamic-programming-3
+    name: Value Iteration
+  - id: ai-dynamic-programming-4
+    name: Generalized policy iteration
+  - id: ai-dynamic-programming-5
+    name: Asynchronous dynamic programming
+  - id: ai-dynamic-programming-6
+    name: Curse of dimensionality and approximate dynamic programming
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-dynamic-programming.json
+  sha256: 17c7d78139957946054883e4e98e7df17e97452667d9eb6aeb7bbfb6e9fcb739

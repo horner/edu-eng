@@ -1,0 +1,25 @@
+id: el-remote-debugging
+name: Remote Debugging
+category: Embedded Development Practices & Debugging
+level: 3
+priority: advanced
+summary: Debugging over a connection with gdbserver, OpenOCD, QEMU and cloud-based debug tools.
+prerequisites:
+  - el-hardware-debugging
+related: []
+topics:
+  - id: el-remote-debugging-1
+    name: Remote GDB (gdbserver)
+  - id: el-remote-debugging-2
+    name: OpenOCD (Open On-Chip Debugger)
+  - id: el-remote-debugging-3
+    name: QEMU for emulation
+  - id: el-remote-debugging-4
+    name: Cloud-based debugging
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-remote-debugging.json
+  sha256: d554fad8fe31ddbca87af08bacba21da5dcef3af30c31a3c4eff7a182da7373b

@@ -1,0 +1,33 @@
+id: el-privacy-protection
+name: Privacy Protection
+category: Security, Privacy & Trust
+level: 3
+priority: important
+summary: "Protecting personal data collected by devices: anonymization, differential privacy, on-device processing and consent."
+prerequisites:
+  - el-iot-architecture-layers
+related:
+  - ai-privacy-in-ai
+  - cs-security-governance-privacy
+topics:
+  - id: el-privacy-protection-1
+    name: Data anonymization and pseudonymization
+  - id: el-privacy-protection-2
+    name: Privacy-preserving techniques
+  - id: el-privacy-protection-3
+    name: Differential privacy
+  - id: el-privacy-protection-4
+    name: Federated learning
+  - id: el-privacy-protection-5
+    name: On-device processing vs cloud
+  - id: el-privacy-protection-6
+    name: Consent management
+  - id: el-privacy-protection-7
+    name: Right to erasure (GDPR)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-privacy-protection.json
+  sha256: 7f7ab7b831ce069548de0d150f7a5d45a8f318e94a86e2143d4151b5afadaa5c

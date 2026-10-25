@@ -1,0 +1,43 @@
+id: bu-first-time-manager
+name: Managing People Day to Day
+category: People, Organisations & Leadership
+level: 2
+priority: important
+summary: "The practical skills of a new manager or founder: one-to-ones, feedback, delegation, hiring and difficult conversations."
+prerequisites:
+  - bu-organizational-behavior
+related:
+  - bu-leadership
+  - py-stress-coping-resilience
+topics:
+  - id: bu-first-time-manager-1
+    name: The shift from individual contributor to manager
+  - id: bu-first-time-manager-2
+    name: Setting expectations and goals with your team
+  - id: bu-first-time-manager-3
+    name: One-to-one meetings
+  - id: bu-first-time-manager-4
+    name: Giving and receiving feedback
+  - id: bu-first-time-manager-5
+    name: "Delegation: what, to whom and how"
+  - id: bu-first-time-manager-6
+    name: Coaching conversations
+  - id: bu-first-time-manager-7
+    name: Running team meetings and rhythms
+  - id: bu-first-time-manager-8
+    name: "Hiring basics: interviews and selection for managers"
+  - id: bu-first-time-manager-9
+    name: Onboarding new team members
+  - id: bu-first-time-manager-10
+    name: Managing underperformance and difficult conversations
+  - id: bu-first-time-manager-11
+    name: Managing up and across
+  - id: bu-first-time-manager-12
+    name: Protecting your own time, energy and wellbeing as a manager
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-first-time-manager.json
+  sha256: f36d320fd5ef8569939d58a08649b33bcf792236247d9d7f54e874e0aad2a28a

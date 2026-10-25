@@ -1,0 +1,30 @@
+id: ph-neutrino-astronomy
+name: Neutrino Astronomy
+category: High-Energy & Multi-Messenger Astrophysics
+level: 4
+priority: advanced
+summary: Using neutrinos from the Sun, supernovae and distant cosmic accelerators as a window on the Universe.
+prerequisites:
+  - ph-astroparticle-physics
+  - ph-stellar-astrophysics
+related: []
+topics:
+  - id: ph-neutrino-astronomy-4
+    name: Neutrino detection
+  - id: ph-neutrino-astronomy-5
+    name: Neutrino oscillations in matter (MSW effect)
+  - id: ph-neutrino-astronomy-1
+    name: Solar neutrinos
+  - id: ph-neutrino-astronomy-2
+    name: Supernova neutrinos
+  - id: ph-neutrino-astronomy-3
+    name: High-energy neutrino sources
+  - id: ph-neutrino-astronomy-6
+    name: The cosmic neutrino background
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-neutrino-astronomy.json
+  sha256: c5b9843a54a99de44971107e2c8bb509c33428da4f79db8db41a474c4971234b

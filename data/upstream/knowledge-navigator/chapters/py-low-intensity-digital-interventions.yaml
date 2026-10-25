@@ -1,0 +1,38 @@
+id: py-low-intensity-digital-interventions
+name: Low-Intensity, Self-Help & Digital Psychological Interventions
+category: Assessment, Psychotherapy & Counselling
+level: 3
+priority: advanced
+summary: Brief, guided self-help and digital interventions that make psychological help available at scale, and how to judge their quality.
+prerequisites:
+  - py-cognitive-behavioural-therapy
+related:
+  - cs-hci
+topics:
+  - id: py-low-intensity-digital-interventions-1
+    name: Stepped care and NHS Talking Therapies (formerly IAPT)
+  - id: py-low-intensity-digital-interventions-2
+    name: "Low-intensity CBT: guided self-help, behavioural activation and worry management"
+  - id: py-low-intensity-digital-interventions-3
+    name: "Bibliotherapy and self-help books: what the evidence shows"
+  - id: py-low-intensity-digital-interventions-4
+    name: Internet-delivered CBT
+  - id: py-low-intensity-digital-interventions-5
+    name: "Mental health apps: evidence, engagement and regulation"
+  - id: py-low-intensity-digital-interventions-6
+    name: Single-session interventions
+  - id: py-low-intensity-digital-interventions-7
+    name: "Chatbots and AI-delivered support: possibilities and risks"
+  - id: py-low-intensity-digital-interventions-8
+    name: Peer support and lay-delivered interventions
+  - id: py-low-intensity-digital-interventions-9
+    name: Measuring outcomes and recovery rates
+  - id: py-low-intensity-digital-interventions-10
+    name: Privacy, safety and ethics in digital mental health
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-low-intensity-digital-interventions.json
+  sha256: 25dd652efa0a6dd6f335b8b9c2e1b11b2295f71d9f633ae4030b2d2aab0445a0

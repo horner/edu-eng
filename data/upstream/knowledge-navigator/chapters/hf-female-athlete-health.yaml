@@ -1,0 +1,43 @@
+id: hf-female-athlete-health
+name: "The Female Athlete: Physiology & Health"
+category: Sports Performance & Conditioning
+level: 3
+priority: important
+summary: Sex-specific physiology, health risks and training considerations for female athletes and exercisers.
+prerequisites:
+  - hf-applied-exercise-physiology
+  - hf-hormonal-health
+related:
+  - py-eating-behavior-disorders
+topics:
+  - id: hf-female-athlete-health-1
+    name: Sex differences in physiology and performance
+  - id: hf-female-athlete-health-2
+    name: "The menstrual cycle and training: what the evidence shows"
+  - id: hf-female-athlete-health-3
+    name: Hormonal contraception and performance
+  - id: hf-female-athlete-health-4
+    name: RED-S and the female athlete triad
+  - id: hf-female-athlete-health-5
+    name: Screening for low energy availability
+  - id: hf-female-athlete-health-6
+    name: Bone health and bone stress injuries
+  - id: hf-female-athlete-health-7
+    name: ACL injury risk and prevention
+  - id: hf-female-athlete-health-8
+    name: Iron deficiency in female athletes
+  - id: hf-female-athlete-health-9
+    name: Pregnancy and returning to sport
+  - id: hf-female-athlete-health-10
+    name: Pelvic floor and breast health in sport
+  - id: hf-female-athlete-health-11
+    name: Menopause and masters athletes
+  - id: hf-female-athlete-health-12
+    name: The under-representation of women in sport science research
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-female-athlete-health.json
+  sha256: a7a69d3769e6b5b9d551358ed2c70c714aaf5e6b0ce920d117507edc6b83a00b

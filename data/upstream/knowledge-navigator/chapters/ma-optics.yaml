@@ -1,0 +1,31 @@
+id: ma-optics
+name: Optics
+category: Mathematical Physics
+level: 3
+priority: advanced
+summary: "Mathematical optics: ray optics, wave optics, diffraction and Fourier optics."
+prerequisites:
+  - ma-electromagnetism
+related:
+  - ph-classical-optics
+  - ph-modern-optics
+topics:
+  - id: ma-optics-1
+    name: Geometric optics
+  - id: ma-optics-4
+    name: Fermat's principle and ray tracing
+  - id: ma-optics-2
+    name: Wave optics
+  - id: ma-optics-5
+    name: Interference and diffraction
+  - id: ma-optics-3
+    name: Fourier optics
+  - id: ma-optics-6
+    name: Polarisation and Jones calculus
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-optics.json
+  sha256: 94d32004f5539b5f108ac2549294d7a634825cd0519553c0876d669b8695d539

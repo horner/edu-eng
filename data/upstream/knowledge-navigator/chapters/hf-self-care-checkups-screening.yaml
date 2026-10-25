@@ -1,0 +1,47 @@
+id: hf-self-care-checkups-screening
+name: Self-Care, Medicines & Health Check-ups
+category: Preventive Health & Lifestyle Medicine
+level: 2
+priority: important
+summary: How to use health checks, screening, medicines and health services wisely, and when self-care is enough.
+prerequisites:
+  - hf-health-literacy-evidence
+  - hf-human-body-basics
+related:
+  - bi-pharmacology
+topics:
+  - id: hf-self-care-checkups-screening-1
+    name: "Knowing your numbers: blood pressure, waist, cholesterol and blood glucose"
+  - id: hf-self-care-checkups-screening-2
+    name: Routine health checks by age
+  - id: hf-self-care-checkups-screening-3
+    name: "Principles of screening: Wilson-Jungner criteria, lead-time bias and overdiagnosis"
+  - id: hf-self-care-checkups-screening-4
+    name: Understanding blood test results and reference ranges
+  - id: hf-self-care-checkups-screening-5
+    name: "Direct-to-consumer tests and full-body scans: benefits and drawbacks"
+  - id: hf-self-care-checkups-screening-6
+    name: Self-care for minor illnesses
+  - id: hf-self-care-checkups-screening-7
+    name: "Over-the-counter medicines: safe use of paracetamol and anti-inflammatories"
+  - id: hf-self-care-checkups-screening-8
+    name: Using antibiotics responsibly
+  - id: hf-self-care-checkups-screening-9
+    name: Taking medicines correctly and adherence
+  - id: hf-self-care-checkups-screening-10
+    name: Polypharmacy in older adults
+  - id: hf-self-care-checkups-screening-11
+    name: "Choosing the right service: pharmacy, GP, urgent care or emergency department"
+  - id: hf-self-care-checkups-screening-12
+    name: Preparing for a medical appointment
+  - id: hf-self-care-checkups-screening-13
+    name: Health records, consent and patient rights
+  - id: hf-self-care-checkups-screening-14
+    name: Recording a family health history
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-self-care-checkups-screening.json
+  sha256: 4c50350f2515c490eb8d949fe31f3017f80b5f1326b2339cea2f44fb1139863d

@@ -1,0 +1,50 @@
+id: mk-segmentation-targeting-positioning
+name: Segmentation, Targeting & Positioning
+category: Brand & Strategy
+level: 2
+priority: core
+summary: How to divide a market into meaningful groups, choose which to serve and define a clear, competitive position for them.
+prerequisites:
+  - mk-consumer-behavior
+related: []
+topics:
+  - id: mk-segmentation-targeting-positioning-1
+    name: "Why segment: heterogeneity of needs and responsiveness"
+  - id: mk-segmentation-targeting-positioning-2
+    name: Bases for segmentation
+    sub:
+      - id: mk-segmentation-targeting-positioning-2-1
+        name: Demographic and geographic
+      - id: mk-segmentation-targeting-positioning-2-2
+        name: Psychographic and lifestyle
+      - id: mk-segmentation-targeting-positioning-2-3
+        name: "Behavioural: usage, benefits, occasions"
+      - id: mk-segmentation-targeting-positioning-2-4
+        name: Needs-based segmentation
+  - id: mk-segmentation-targeting-positioning-3
+    name: "Business market segmentation: firmographics and needs"
+  - id: mk-segmentation-targeting-positioning-4
+    name: "Evaluating segments: size, growth, accessibility, profitability"
+  - id: mk-segmentation-targeting-positioning-5
+    name: "Targeting strategies: mass, differentiated, niche and one-to-one"
+  - id: mk-segmentation-targeting-positioning-6
+    name: "Sophisticated mass marketing versus tight targeting: the evidence debate"
+  - id: mk-segmentation-targeting-positioning-7
+    name: "Positioning: frame of reference, points of parity and points of difference"
+  - id: mk-segmentation-targeting-positioning-8
+    name: Value propositions and positioning statements
+  - id: mk-segmentation-targeting-positioning-9
+    name: Perceptual maps and competitive positioning
+  - id: mk-segmentation-targeting-positioning-10
+    name: Differentiation strategies and sustainability of a position
+  - id: mk-segmentation-targeting-positioning-11
+    name: Repositioning and its risks
+  - id: mk-segmentation-targeting-positioning-12
+    name: Ethical issues in targeting
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-segmentation-targeting-positioning.json
+  sha256: 76dfb2c0882bc99d850a71db1a26c3180fcfb3683d7364e843b5a9f3a1742f52

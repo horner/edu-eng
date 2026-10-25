@@ -1,0 +1,57 @@
+id: py-psychopathology-foundations
+name: "Abnormal Psychology: Foundations & Classification"
+category: Mental Health & Psychopathology
+level: 2
+priority: core
+summary: How mental disorders are defined, classified and explained, and the models that link biology, psychology and social context.
+prerequisites:
+  - py-introduction-to-psychology
+related: []
+topics:
+  - id: py-psychopathology-foundations-1
+    name: "Defining abnormality: distress, dysfunction, deviance and harm"
+  - id: py-psychopathology-foundations-2
+    name: History of madness and its treatment
+  - id: py-psychopathology-foundations-3
+    name: Classification systems
+    sub:
+      - id: py-psychopathology-foundations-3-1
+        name: DSM-5-TR structure and criteria
+      - id: py-psychopathology-foundations-3-2
+        name: ICD-11 chapter 6
+      - id: py-psychopathology-foundations-3-3
+        name: Reliability, validity and critiques of diagnosis
+  - id: py-psychopathology-foundations-4
+    name: "Dimensional alternatives in outline: HiTOP and RDoC"
+  - id: py-psychopathology-foundations-5
+    name: Explanatory models
+    sub:
+      - id: py-psychopathology-foundations-5-1
+        name: Biological and genetic models
+      - id: py-psychopathology-foundations-5-2
+        name: "Psychological models: psychodynamic, behavioural and cognitive"
+      - id: py-psychopathology-foundations-5-3
+        name: Social and cultural models
+      - id: py-psychopathology-foundations-5-4
+        name: Biopsychosocial and diathesis-stress models
+  - id: py-psychopathology-foundations-6
+    name: "Epidemiology: prevalence, comorbidity and age of onset"
+  - id: py-psychopathology-foundations-7
+    name: Clinical assessment and formulation in outline
+  - id: py-psychopathology-foundations-8
+    name: Overview of treatments and their evidence base
+  - id: py-psychopathology-foundations-9
+    name: Stigma, labelling and the anti-psychiatry critique
+  - id: py-psychopathology-foundations-10
+    name: Culture and the expression of distress
+  - id: py-psychopathology-foundations-11
+    name: Mental health law and rights in outline
+  - id: py-psychopathology-foundations-12
+    name: Recovery and the lived-experience movement
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychopathology-foundations.json
+  sha256: 57bf8d0b6ced41489eeaccc8c9e27ab7d4b630ea1854ee37dc725274c3fbb5ae

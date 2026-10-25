@@ -1,0 +1,47 @@
+id: bu-leadership
+name: Leadership
+category: People, Organisations & Leadership
+level: 2
+priority: core
+summary: What leadership is, what makes leaders effective, and how to develop your own leadership.
+prerequisites:
+  - bu-organizational-behavior
+related:
+  - py-emotion-and-emotion-regulation
+  - bu-first-time-manager
+topics:
+  - id: bu-leadership-1
+    name: Leadership vs management
+  - id: bu-leadership-2
+    name: Trait and skills approaches
+  - id: bu-leadership-3
+    name: "Behavioural approaches: task and relationship orientation"
+  - id: bu-leadership-4
+    name: Situational and contingency theories
+  - id: bu-leadership-5
+    name: Transformational and charismatic leadership
+  - id: bu-leadership-6
+    name: Servant, authentic and ethical leadership
+  - id: bu-leadership-7
+    name: Leader-member exchange and followership
+  - id: bu-leadership-8
+    name: Power, influence tactics and persuasion
+  - id: bu-leadership-9
+    name: Leading change and setting vision
+  - id: bu-leadership-10
+    name: Gender, diversity and leadership
+  - id: bu-leadership-11
+    name: Leadership across cultures
+  - id: bu-leadership-12
+    name: Self-awareness, feedback and 360-degree reviews
+  - id: bu-leadership-13
+    name: Coaching and developing others
+  - id: bu-leadership-14
+    name: "Leadership development: evidence on what works"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-leadership.json
+  sha256: 1f3070f22cd70b9a78d290aca71686e9aa23a3d54f148a7d7d77bd0a5ed70434

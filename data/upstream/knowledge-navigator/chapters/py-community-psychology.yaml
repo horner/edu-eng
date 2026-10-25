@@ -1,0 +1,39 @@
+id: py-community-psychology
+name: Community Psychology
+category: Applied Psychology
+level: 3
+priority: advanced
+summary: Working with communities to prevent problems and promote wellbeing, with a focus on social context, empowerment and social justice.
+prerequisites:
+  - py-social-psychology
+related: []
+topics:
+  - id: py-community-psychology-1
+    name: "Values of community psychology: prevention, empowerment and social justice"
+  - id: py-community-psychology-2
+    name: Ecological levels of analysis (Bronfenbrenner)
+  - id: py-community-psychology-3
+    name: Sense of community and social capital
+  - id: py-community-psychology-4
+    name: Prevention and promotion programmes
+  - id: py-community-psychology-5
+    name: Empowerment and participatory action research
+  - id: py-community-psychology-6
+    name: Community mental health and psychiatric deinstitutionalisation
+  - id: py-community-psychology-7
+    name: Homelessness, poverty and housing first
+  - id: py-community-psychology-8
+    name: Liberation psychology and critical perspectives
+  - id: py-community-psychology-9
+    name: Program evaluation
+  - id: py-community-psychology-10
+    name: Community responses to disasters and violence
+  - id: py-community-psychology-11
+    name: Working with marginalised communities
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-community-psychology.json
+  sha256: ee246f441c7635aef7ab9cedd3c737f30b931259156e02c951ec501e2fba40a3

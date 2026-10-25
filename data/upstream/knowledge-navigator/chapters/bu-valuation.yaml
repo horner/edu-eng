@@ -1,0 +1,52 @@
+id: bu-valuation
+name: Business Valuation
+category: Finance & Investment
+level: 3
+priority: important
+summary: Estimating what a business or project is worth using cash flow, multiples and option-based methods.
+prerequisites:
+  - bu-corporate-finance
+  - bu-financial-statement-analysis
+related:
+  - bu-mergers-acquisitions
+topics:
+  - id: bu-valuation-1
+    name: "Value vs price: intrinsic and relative valuation"
+  - id: bu-valuation-2
+    name: Discounted cash flow valuation
+    sub:
+      - id: bu-valuation-2-1
+        name: Forecasting free cash flows
+      - id: bu-valuation-2-2
+        name: Terminal value
+      - id: bu-valuation-2-3
+        name: Choosing the discount rate
+  - id: bu-valuation-3
+    name: Enterprise value vs equity value
+  - id: bu-valuation-4
+    name: "Valuation multiples: EV/EBITDA, P/E and revenue multiples"
+  - id: bu-valuation-5
+    name: Choosing comparable companies and precedent transactions
+  - id: bu-valuation-6
+    name: Dividend discount and residual income models
+  - id: bu-valuation-7
+    name: Sum-of-the-parts valuation for conglomerates
+  - id: bu-valuation-8
+    name: Valuing young, loss-making and high-growth companies
+  - id: bu-valuation-9
+    name: "Startup valuation methods: VC method, scorecard and comparables"
+  - id: bu-valuation-10
+    name: "Valuing private companies: discounts for illiquidity and control"
+  - id: bu-valuation-11
+    name: Real options in valuation
+  - id: bu-valuation-12
+    name: "Leveraged buyout analysis: an introduction"
+  - id: bu-valuation-13
+    name: Common valuation errors and sanity checks
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-valuation.json
+  sha256: ade79fd8ef89a8b37fe07135ab5b11c851c9b0e57372159ddba85f2b9d49cb1d

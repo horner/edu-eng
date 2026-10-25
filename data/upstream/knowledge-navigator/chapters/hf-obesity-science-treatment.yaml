@@ -1,0 +1,47 @@
+id: hf-obesity-science-treatment
+name: "Obesity: Science, Prevention & Treatment"
+category: Applied Nutrition & Dietetics
+level: 3
+priority: important
+summary: The biology, epidemiology and evidence-based treatment of obesity, from lifestyle programmes to medication and surgery.
+prerequisites:
+  - hf-weight-management-body-composition
+  - bi-human-physiology
+related:
+  - bi-pathophysiology-human-disease
+  - py-health-psychology
+  - py-eating-behavior-disorders
+topics:
+  - id: hf-obesity-science-treatment-1
+    name: "Defining obesity: BMI, the Edmonton staging system and the clinical-obesity framework"
+  - id: hf-obesity-science-treatment-2
+    name: Global epidemiology and trends
+  - id: hf-obesity-science-treatment-3
+    name: "Causes: genetics, epigenetics, development and the obesogenic environment"
+  - id: hf-obesity-science-treatment-4
+    name: Adipose tissue as an endocrine organ
+  - id: hf-obesity-science-treatment-5
+    name: Obesity-related diseases
+  - id: hf-obesity-science-treatment-6
+    name: Weight bias in health care and person-first language
+  - id: hf-obesity-science-treatment-7
+    name: "Intensive lifestyle interventions: the Diabetes Prevention Program and Look AHEAD"
+  - id: hf-obesity-science-treatment-8
+    name: Dietary approaches, including total diet replacement
+  - id: hf-obesity-science-treatment-9
+    name: Physical activity in obesity treatment
+  - id: hf-obesity-science-treatment-10
+    name: "Anti-obesity medicines such as GLP-1 receptor agonists: how they work, benefits and side effects (clinician-led)"
+  - id: hf-obesity-science-treatment-11
+    name: "Metabolic and bariatric surgery: an overview"
+  - id: hf-obesity-science-treatment-12
+    name: "Childhood obesity: family-based and non-stigmatising approaches"
+  - id: hf-obesity-science-treatment-13
+    name: Prevention and policy
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-obesity-science-treatment.json
+  sha256: 2098b85c18dbddca83acfa8f44afc07e74beea08eae1845f47cab4e31d275ddb

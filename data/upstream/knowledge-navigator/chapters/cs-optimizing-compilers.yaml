@@ -1,0 +1,42 @@
+id: cs-optimizing-compilers
+name: Optimizing Compilers & Program Analysis
+category: Programming Languages & Compilers
+level: 4
+priority: advanced
+summary: "Analyses and transformations that make compiled code fast: dataflow analysis, SSA, loop and interprocedural optimizations, scheduling and modern compiler frameworks."
+prerequisites:
+  - cs-compilers
+  - cs-computer-architecture
+related: []
+topics:
+  - id: cs-optimizing-compilers-1
+    name: Control-flow graphs and dominators
+  - id: cs-optimizing-compilers-2
+    name: The dataflow-analysis framework
+  - id: cs-optimizing-compilers-3
+    name: SSA construction and SSA-based optimizations
+  - id: cs-optimizing-compilers-4
+    name: Loop optimizations and loop transformations
+  - id: cs-optimizing-compilers-5
+    name: Interprocedural analysis and inlining
+  - id: cs-optimizing-compilers-6
+    name: Pointer and alias analysis
+  - id: cs-optimizing-compilers-7
+    name: Instruction scheduling
+  - id: cs-optimizing-compilers-8
+    name: "Advanced register allocation: graph colouring and linear scan"
+  - id: cs-optimizing-compilers-9
+    name: Vectorization and polyhedral compilation
+  - id: cs-optimizing-compilers-10
+    name: Profile-guided and link-time optimization
+  - id: cs-optimizing-compilers-11
+    name: Writing LLVM passes
+  - id: cs-optimizing-compilers-12
+    name: MLIR and compilers for machine-learning accelerators
+discipline: cs
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/cs/cs-optimizing-compilers.json
+  sha256: 444a5d711f4b9edee0e439c6dd6a7e5a74549948e7ff775f30da37e8ca07a057

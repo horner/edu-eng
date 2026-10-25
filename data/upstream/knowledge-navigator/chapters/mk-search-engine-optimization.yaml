@@ -1,0 +1,57 @@
+id: mk-search-engine-optimization
+name: Search Engine Optimisation
+category: Digital Marketing
+level: 2
+priority: important
+summary: How search engines find, rank and show content, and how to earn organic visibility with useful content and a sound technical base.
+prerequisites:
+  - mk-digital-marketing
+related:
+  - cs-web-fundamentals
+topics:
+  - id: mk-search-engine-optimization-1
+    name: How search engines crawl, index and rank
+  - id: mk-search-engine-optimization-2
+    name: Search intent and keyword research
+  - id: mk-search-engine-optimization-3
+    name: "On-page SEO: titles, headings, content and snippets"
+  - id: mk-search-engine-optimization-4
+    name: Content quality, helpfulness and E-E-A-T
+  - id: mk-search-engine-optimization-5
+    name: Site structure, internal linking and URLs
+  - id: mk-search-engine-optimization-6
+    name: Technical SEO
+    sub:
+      - id: mk-search-engine-optimization-6-1
+        name: Crawlability, robots.txt and sitemaps
+      - id: mk-search-engine-optimization-6-2
+        name: Canonicalisation and duplicate content
+      - id: mk-search-engine-optimization-6-3
+        name: JavaScript rendering
+      - id: mk-search-engine-optimization-6-4
+        name: Page experience and mobile-friendliness
+  - id: mk-search-engine-optimization-7
+    name: Structured data and rich results
+  - id: mk-search-engine-optimization-8
+    name: "Links and digital PR: earning authority"
+  - id: mk-search-engine-optimization-9
+    name: Local SEO and business profiles
+  - id: mk-search-engine-optimization-10
+    name: International SEO and hreflang
+  - id: mk-search-engine-optimization-11
+    name: Image and video search
+  - id: mk-search-engine-optimization-12
+    name: Search Console and SEO measurement
+  - id: mk-search-engine-optimization-13
+    name: AI-generated answers and how search is changing
+  - id: mk-search-engine-optimization-14
+    name: Spam policies, penalties and risky tactics
+  - id: mk-search-engine-optimization-15
+    name: Site migrations and SEO audits
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-search-engine-optimization.json
+  sha256: 11d075a9329b54961edc41fad2de62541e7fee75ff2c0e83d40341b5611745c7

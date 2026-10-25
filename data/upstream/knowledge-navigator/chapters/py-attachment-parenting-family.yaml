@@ -1,0 +1,43 @@
+id: py-attachment-parenting-family
+name: Attachment, Parenting & Family Relationships
+category: Developmental Psychology
+level: 2
+priority: important
+summary: How early relationships shape development and what research says about parenting, family life and child wellbeing.
+prerequisites:
+  - py-lifespan-development
+related: []
+topics:
+  - id: py-attachment-parenting-family-1
+    name: "Attachment theory: secure base and internal working models"
+  - id: py-attachment-parenting-family-2
+    name: Strange Situation and attachment classifications
+  - id: py-attachment-parenting-family-3
+    name: Attachment in adults and intergenerational transmission
+  - id: py-attachment-parenting-family-4
+    name: "Parenting styles: authoritative, authoritarian, permissive and neglectful"
+  - id: py-attachment-parenting-family-5
+    name: "Discipline: what works, and the evidence against smacking"
+  - id: py-attachment-parenting-family-6
+    name: Temperament and goodness of fit
+  - id: py-attachment-parenting-family-7
+    name: Siblings, birth order myths and family systems
+  - id: py-attachment-parenting-family-8
+    name: Divorce, separation, step-families and co-parenting
+  - id: py-attachment-parenting-family-9
+    name: "Diverse families: single parents, same-sex parents, adoption and foster care"
+  - id: py-attachment-parenting-family-10
+    name: Childcare and early education effects
+  - id: py-attachment-parenting-family-11
+    name: Adverse childhood experiences (ACEs) and resilience
+  - id: py-attachment-parenting-family-12
+    name: Evidence-based parenting programmes (Triple P, Incredible Years)
+  - id: py-attachment-parenting-family-13
+    name: Screens, play and family life
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-attachment-parenting-family.json
+  sha256: 92034d3c946449d94eb36597bee6e763347353aabb54070d846ad4fdb6a041c7

@@ -1,0 +1,38 @@
+id: ea-engineering-geology
+name: Engineering Geology
+category: Earth Resources & Applied Geology
+level: 3
+priority: important
+summary: "Geology applied to construction and infrastructure: site investigation, soil and rock behaviour, and ground hazards."
+prerequisites:
+  - ea-structural-geology
+  - me-mechanics-of-materials
+related:
+  - ma-solid-mechanics
+  - mt-construction-materials
+topics:
+  - id: ea-engineering-geology-1
+    name: "Engineering properties of soils: classification, consolidation and strength"
+  - id: ea-engineering-geology-2
+    name: Rock mechanics and rock-mass classification (RMR, Q-system)
+  - id: ea-engineering-geology-3
+    name: "Site investigation: drilling, sampling and in-situ testing"
+  - id: ea-engineering-geology-4
+    name: Foundations and ground conditions
+  - id: ea-engineering-geology-5
+    name: Dams and reservoirs
+  - id: ea-engineering-geology-6
+    name: Tunnels and underground excavations
+  - id: ea-engineering-geology-7
+    name: Slopes, cuts and embankments
+  - id: ea-engineering-geology-8
+    name: Ground subsidence, sinkholes and swelling soils
+  - id: ea-engineering-geology-9
+    name: Engineering geology of waste-disposal sites
+discipline: earth
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/earth/ea-engineering-geology.json
+  sha256: ba427c4ac3bee5fe15b8b7e9c1f5e809bb9ff9b48256a30a0b9015b30ee9c5ed

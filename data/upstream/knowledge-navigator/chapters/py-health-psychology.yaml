@@ -1,0 +1,53 @@
+id: py-health-psychology
+name: Health Psychology
+category: Health, Wellbeing & Positive Psychology
+level: 3
+priority: important
+summary: How psychological and social factors affect physical health, illness and recovery, and how psychology helps people change health behaviours and live with illness.
+prerequisites:
+  - py-stress-coping-resilience
+  - py-motivation-habits-behavior-change
+related:
+  - bi-epidemiology
+  - bi-immunology
+  - hf-introduction-to-health-wellness
+  - hf-health-behaviour-change
+topics:
+  - id: py-health-psychology-1
+    name: The biopsychosocial model of health and illness
+  - id: py-health-psychology-2
+    name: "Health behaviour theories: health belief model, theory of planned behaviour and health action process approach"
+  - id: py-health-psychology-3
+    name: "Health behaviours: smoking, alcohol, diet, physical activity and sleep"
+  - id: py-health-psychology-4
+    name: Psychoneuroimmunology and stress-related illness
+  - id: py-health-psychology-5
+    name: Illness perceptions and the common-sense model
+  - id: py-health-psychology-6
+    name: Patient-practitioner communication and adherence
+  - id: py-health-psychology-7
+    name: Pain
+    sub:
+      - id: py-health-psychology-7-1
+        name: Gate control theory and the biopsychosocial view of pain
+      - id: py-health-psychology-7-2
+        name: Chronic pain and psychological treatments
+  - id: py-health-psychology-8
+    name: "Living with chronic illness: diabetes, heart disease, cancer and HIV"
+  - id: py-health-psychology-9
+    name: Placebo and nocebo effects
+  - id: py-health-psychology-10
+    name: Health inequalities and social determinants
+  - id: py-health-psychology-11
+    name: Screening, risk perception and health decisions
+  - id: py-health-psychology-12
+    name: Digital health interventions
+  - id: py-health-psychology-13
+    name: Clinical health psychology roles in hospitals and primary care
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-health-psychology.json
+  sha256: 44c5e20b05de458a4dbd21278270c9f9d9f8b96b88f6fa87c98d53d0e7d88d29

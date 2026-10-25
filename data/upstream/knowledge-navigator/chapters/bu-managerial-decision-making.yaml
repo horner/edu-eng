@@ -1,0 +1,45 @@
+id: bu-managerial-decision-making
+name: Judgement & Decision-Making for Managers
+category: People, Organisations & Leadership
+level: 2
+priority: important
+summary: How managers can make better decisions alone and in groups by understanding biases and using structured methods.
+prerequisites:
+  - bu-organizational-behavior
+  - ma-elementary-probability
+related:
+  - bu-behavioral-economics
+  - bu-decision-models-optimization
+  - py-judgement-decision-making
+topics:
+  - id: bu-managerial-decision-making-1
+    name: Rational decision-making and its limits
+  - id: bu-managerial-decision-making-2
+    name: System 1 and System 2 thinking
+  - id: bu-managerial-decision-making-3
+    name: "Common biases: overconfidence, confirmation and sunk cost"
+  - id: bu-managerial-decision-making-4
+    name: Noise in judgement and how to reduce it
+  - id: bu-managerial-decision-making-5
+    name: Thinking in probabilities and base rates
+  - id: bu-managerial-decision-making-6
+    name: Expected value and decision trees
+  - id: bu-managerial-decision-making-7
+    name: "Structured decision methods: criteria, weighting and pre-mortems"
+  - id: bu-managerial-decision-making-8
+    name: Group decisions and the wisdom (and madness) of crowds
+  - id: bu-managerial-decision-making-9
+    name: Forecasting and calibration
+  - id: bu-managerial-decision-making-10
+    name: Ethical decision-making
+  - id: bu-managerial-decision-making-11
+    name: Decisions under time pressure and uncertainty
+  - id: bu-managerial-decision-making-12
+    name: "Learning from decisions: separating outcome from process"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-managerial-decision-making.json
+  sha256: c0cc6e0d536bb168eb21d62cf03a3203a44645559de56b080f0d1790bb81e3da

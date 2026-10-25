@@ -1,0 +1,45 @@
+id: hf-dietetic-practice-counselling
+name: "Dietetic Practice: Nutrition Care Process, Counselling & Education"
+category: Professional Practice & Careers
+level: 3
+priority: important
+summary: "The professional skills of dietetics: the Nutrition Care Process, counselling, education, foodservice and ethics."
+prerequisites:
+  - hf-nutrition-assessment
+  - hf-health-behaviour-change
+related:
+  - hf-clinical-nutrition
+topics:
+  - id: hf-dietetic-practice-counselling-1
+    name: The dietetics profession, regulation and scope of practice
+  - id: hf-dietetic-practice-counselling-2
+    name: The Nutrition Care Process and standardised terminology
+  - id: hf-dietetic-practice-counselling-3
+    name: Nutrition counselling skills
+  - id: hf-dietetic-practice-counselling-4
+    name: Motivational interviewing in nutrition
+  - id: hf-dietetic-practice-counselling-5
+    name: Cognitive-behavioural approaches to eating
+  - id: hf-dietetic-practice-counselling-6
+    name: Designing nutrition education for groups
+  - id: hf-dietetic-practice-counselling-7
+    name: Cultural humility in nutrition practice
+  - id: hf-dietetic-practice-counselling-8
+    name: Documentation (ADIME)
+  - id: hf-dietetic-practice-counselling-9
+    name: Evidence-based practice and evidence analysis libraries
+  - id: hf-dietetic-practice-counselling-10
+    name: Foodservice systems and menu planning
+  - id: hf-dietetic-practice-counselling-11
+    name: Quality improvement and outcomes
+  - id: hf-dietetic-practice-counselling-12
+    name: Professional ethics
+  - id: hf-dietetic-practice-counselling-13
+    name: Working in multidisciplinary teams
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-dietetic-practice-counselling.json
+  sha256: de05ab823c48f40a8e3c682003221e2a98c9a6fbc3014e2294232abaefe92fa4

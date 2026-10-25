@@ -1,0 +1,44 @@
+id: py-educational-psychology
+name: Educational Psychology
+category: Applied Psychology
+level: 3
+priority: important
+summary: How people learn in schools and other settings, and how psychology improves teaching, assessment and support for learners with additional needs.
+prerequisites:
+  - py-cognitive-psychology
+  - py-lifespan-development
+related: []
+topics:
+  - id: py-educational-psychology-1
+    name: "Learning theories applied to education: behaviourist, cognitive and constructivist"
+  - id: py-educational-psychology-2
+    name: Cognitive load theory and instructional design
+  - id: py-educational-psychology-3
+    name: Desirable difficulties in the classroom
+  - id: py-educational-psychology-4
+    name: Motivation, mindset and the replication of growth mindset effects
+  - id: py-educational-psychology-5
+    name: Self-regulated learning and metacognition
+  - id: py-educational-psychology-6
+    name: Classroom management and behaviour
+  - id: py-educational-psychology-7
+    name: Assessment, feedback and grading
+  - id: py-educational-psychology-8
+    name: "Individual differences: intelligence, giftedness and achievement"
+  - id: py-educational-psychology-9
+    name: Special educational needs and inclusive education
+  - id: py-educational-psychology-10
+    name: Reading, mathematics and the science of literacy instruction
+  - id: py-educational-psychology-11
+    name: Bullying and school climate
+  - id: py-educational-psychology-12
+    name: "Educational technology: evidence and hype"
+  - id: py-educational-psychology-13
+    name: The educational psychologist's role
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-educational-psychology.json
+  sha256: 7b8338f88285e2c4470793d95c5b0a6ff0cc8e8c9fc8b1f11438bebb60e9cdcc

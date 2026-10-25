@@ -1,0 +1,50 @@
+id: hf-healthy-aging-longevity
+name: Healthy Ageing & Longevity
+category: Life Stages & Hormonal Health
+level: 3
+priority: important
+summary: How to stay healthy and independent in later life, what biology says about ageing, and how to judge longevity claims.
+prerequisites:
+  - hf-lifestyle-medicine
+  - hf-musculoskeletal-health
+related:
+  - bi-biology-of-aging
+  - py-adult-development-ageing
+topics:
+  - id: hf-healthy-aging-longevity-1
+    name: Population ageing
+  - id: hf-healthy-aging-longevity-2
+    name: Lifespan versus healthspan
+  - id: hf-healthy-aging-longevity-3
+    name: "The biology of ageing: hallmarks in brief"
+  - id: hf-healthy-aging-longevity-4
+    name: Intrinsic capacity and functional ability (WHO ICOPE)
+  - id: hf-healthy-aging-longevity-5
+    name: "Centenarians and 'blue zones': what can and cannot be concluded"
+  - id: hf-healthy-aging-longevity-6
+    name: "Exercise in later life: strength, balance and multicomponent training"
+  - id: hf-healthy-aging-longevity-7
+    name: Nutrition for older adults
+  - id: hf-healthy-aging-longevity-8
+    name: Sarcopenia and frailty
+  - id: hf-healthy-aging-longevity-9
+    name: Preventing falls
+  - id: hf-healthy-aging-longevity-10
+    name: Brain health and modifiable risk factors for dementia
+  - id: hf-healthy-aging-longevity-11
+    name: Hearing, vision and healthy ageing
+  - id: hf-healthy-aging-longevity-12
+    name: Sleep in older age
+  - id: hf-healthy-aging-longevity-13
+    name: Social connection and purpose
+  - id: hf-healthy-aging-longevity-14
+    name: Medicines and polypharmacy in older age
+  - id: hf-healthy-aging-longevity-15
+    name: "Longevity claims: calorie restriction, fasting, metformin, rapamycin and NAD+ supplements"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-healthy-aging-longevity.json
+  sha256: 53a996a0d520c8116863fa24e4a17a403ccdb3625f93cc9cfaff14010f2845b9

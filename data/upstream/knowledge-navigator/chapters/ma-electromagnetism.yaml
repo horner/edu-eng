@@ -1,0 +1,33 @@
+id: ma-electromagnetism
+name: Electromagnetism
+category: Mathematical Physics
+level: 3
+priority: advanced
+summary: "Maxwell's equations as vector-calculus PDEs: electrostatics, magnetostatics, waves and potentials."
+prerequisites:
+  - ma-mathematical-methods
+  - ph-introductory-electricity-magnetism
+related:
+  - ph-classical-electromagnetism
+  - el-electromagnetics
+  - ph-advanced-electrodynamics
+topics:
+  - id: ma-electromagnetism-3
+    name: Magnetostatics and electrostatics
+  - id: ma-electromagnetism-4
+    name: Boundary value problems in electrostatics
+  - id: ma-electromagnetism-1
+    name: Maxwell's equations
+  - id: ma-electromagnetism-5
+    name: Potentials and gauge transformations
+  - id: ma-electromagnetism-2
+    name: Electromagnetic waves
+  - id: ma-electromagnetism-6
+    name: Radiation from moving charges
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-electromagnetism.json
+  sha256: f2fd5bec143b02a74d30b6f7aa8316061797bf323fbc21906e00102ae5f8f66c

@@ -1,0 +1,44 @@
+id: bu-platform-digital-strategy
+name: Platform & Digital Strategy
+category: Strategy & Global Business
+level: 3
+priority: advanced
+summary: Strategy for digital businesses and platforms, where network effects, data and ecosystems drive competition.
+prerequisites:
+  - bu-business-strategy
+related:
+  - bu-ecommerce
+  - bu-digital-transformation
+  - ma-network-science
+topics:
+  - id: bu-platform-digital-strategy-1
+    name: "Economics of information goods: zero marginal cost and versioning"
+  - id: bu-platform-digital-strategy-2
+    name: "Network effects: direct, indirect and data network effects"
+  - id: bu-platform-digital-strategy-3
+    name: Multi-sided platforms and marketplaces
+  - id: bu-platform-digital-strategy-4
+    name: Solving the chicken-and-egg problem in platform launches
+  - id: bu-platform-digital-strategy-5
+    name: "Platform pricing: subsidy sides and money sides"
+  - id: bu-platform-digital-strategy-6
+    name: "Platform governance: openness, curation and trust"
+  - id: bu-platform-digital-strategy-7
+    name: Winner-take-all dynamics, multi-homing and switching costs
+  - id: bu-platform-digital-strategy-8
+    name: Ecosystem strategy and complementors
+  - id: bu-platform-digital-strategy-9
+    name: Data as a strategic asset and AI-driven competition
+  - id: bu-platform-digital-strategy-10
+    name: Aggregators, gatekeepers and platform envelopment
+  - id: bu-platform-digital-strategy-11
+    name: Platform regulation (EU Digital Markets Act, antitrust cases)
+  - id: bu-platform-digital-strategy-12
+    name: Incumbent responses to digital disruption
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-platform-digital-strategy.json
+  sha256: 6ce7a5ebcdfa12140217beecb1f67e0389620ada4573cfc25561a02208252a9b

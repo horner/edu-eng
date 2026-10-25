@@ -1,0 +1,43 @@
+id: hf-motor-learning-control
+name: Motor Control & Motor Learning
+category: Exercise Science
+level: 3
+priority: important
+summary: How movement is controlled and how motor skills are learned, applied to teaching exercise and sport.
+prerequisites:
+  - hf-functional-anatomy-kinesiology
+related:
+  - bi-motor-systems
+  - py-sport-exercise-psychology
+topics:
+  - id: hf-motor-learning-control-1
+    name: "Theories of motor control: motor programmes and dynamical systems"
+  - id: hf-motor-learning-control-2
+    name: "Sensory contributions: proprioception, vision and the vestibular system"
+  - id: hf-motor-learning-control-3
+    name: Reaction time, anticipation and decision-making
+  - id: hf-motor-learning-control-4
+    name: Stages of learning (Fitts and Posner)
+  - id: hf-motor-learning-control-5
+    name: "Practice structure: blocked, random and variable practice"
+  - id: hf-motor-learning-control-6
+    name: "Feedback: types, timing and frequency"
+  - id: hf-motor-learning-control-7
+    name: Instructions, demonstrations and attentional focus
+  - id: hf-motor-learning-control-8
+    name: The constraints-led approach
+  - id: hf-motor-learning-control-9
+    name: Retention and transfer
+  - id: hf-motor-learning-control-10
+    name: Motor development across the lifespan
+  - id: hf-motor-learning-control-11
+    name: Assessing motor skill
+  - id: hf-motor-learning-control-12
+    name: Applying motor learning to coaching exercise technique
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-motor-learning-control.json
+  sha256: 09f89b50a6b783ae73370d0aee79a58752d74022883d3fd73e212124dc034ab9

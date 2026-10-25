@@ -1,0 +1,44 @@
+id: py-mental-health-literacy
+name: "Mental Health Literacy: Understanding Mental Health & Getting Help"
+category: Mental Health & Psychopathology
+level: 1
+priority: core
+summary: "Plain-language basics for everyone: what mental health and mental illness are, how to spot problems early, how to support others and where to get help."
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - hf-introduction-to-health-wellness
+topics:
+  - id: py-mental-health-literacy-1
+    name: "Mental health as a continuum: flourishing, struggling and illness"
+  - id: py-mental-health-literacy-2
+    name: How common mental health problems are
+  - id: py-mental-health-literacy-3
+    name: "Causes in plain terms: biology, life events, relationships and society"
+  - id: py-mental-health-literacy-4
+    name: Recognising early signs in yourself and others
+  - id: py-mental-health-literacy-5
+    name: "Common conditions in brief: anxiety, depression, trauma, psychosis, eating disorders and addiction"
+  - id: py-mental-health-literacy-6
+    name: Stigma, self-stigma and how to challenge them
+  - id: py-mental-health-literacy-7
+    name: "Talking about mental health: how to start a conversation"
+  - id: py-mental-health-literacy-8
+    name: "Mental health first aid: listen, reassure, signpost"
+  - id: py-mental-health-literacy-9
+    name: "Who does what: GPs, psychologists, psychiatrists, counsellors and peer workers"
+  - id: py-mental-health-literacy-10
+    name: "Types of help: self-help, talking therapies, medication and community support"
+  - id: py-mental-health-literacy-11
+    name: "Crisis: urgent warning signs and emergency contacts"
+  - id: py-mental-health-literacy-12
+    name: Evaluating mental health information, apps and influencers
+  - id: py-mental-health-literacy-13
+    name: Looking after yourself while supporting someone else
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-mental-health-literacy.json
+  sha256: 3d14e72c803e52d741d73d1d00b37649dcac29adfb5204675c83ce2d878861a4

@@ -1,0 +1,60 @@
+id: mk-marketing-research-analytics
+name: Marketing Research & Analytics
+category: Customers & Insight
+level: 3
+priority: core
+summary: The full marketing research process, from problem definition and research design to data collection, statistical analysis and reporting for decisions.
+prerequisites:
+  - mk-customer-research-basics
+  - mk-consumer-behavior
+  - bu-business-statistics-analytics
+related:
+  - ma-inferential-statistics
+  - ai-exploratory-data-analysis-eda
+topics:
+  - id: mk-marketing-research-analytics-1
+    name: The research process and the research brief
+  - id: mk-marketing-research-analytics-2
+    name: "Research designs: exploratory, descriptive and causal"
+  - id: mk-marketing-research-analytics-3
+    name: Secondary data, syndicated data and panels
+  - id: mk-marketing-research-analytics-4
+    name: "Qualitative methods overview: depth interviews and focus groups"
+  - id: mk-marketing-research-analytics-5
+    name: Questionnaire design
+    sub:
+      - id: mk-marketing-research-analytics-5-1
+        name: Question wording and order
+      - id: mk-marketing-research-analytics-5-2
+        name: "Measurement scales: nominal to ratio"
+      - id: mk-marketing-research-analytics-5-3
+        name: Likert, semantic differential and rating scales
+      - id: mk-marketing-research-analytics-5-4
+        name: Reliability and validity
+  - id: mk-marketing-research-analytics-6
+    name: Survey modes, online panels and data quality
+  - id: mk-marketing-research-analytics-7
+    name: "Sampling: probability and non-probability designs, sample size"
+  - id: mk-marketing-research-analytics-8
+    name: Experiments and test markets in marketing
+  - id: mk-marketing-research-analytics-9
+    name: Data preparation, coding and cleaning
+  - id: mk-marketing-research-analytics-10
+    name: Cross-tabulation, chi-square and tests of differences
+  - id: mk-marketing-research-analytics-11
+    name: Correlation and regression for marketing questions
+  - id: mk-marketing-research-analytics-12
+    name: Introduction to factor and cluster analysis
+  - id: mk-marketing-research-analytics-13
+    name: Brand tracking, customer satisfaction and NPS research
+  - id: mk-marketing-research-analytics-14
+    name: Presenting findings and turning insight into recommendations
+  - id: mk-marketing-research-analytics-15
+    name: Research ethics, codes (MRS, ESOMAR) and data protection
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketing-research-analytics.json
+  sha256: 162b616ed161c01d652af241c540c9cf62a318007bf959ae46f1c58b6c8a8312

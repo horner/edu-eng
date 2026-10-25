@@ -1,0 +1,33 @@
+id: el-data-management
+name: IoT Data Management
+category: IoT Architectures, Platforms & Data
+level: 3
+priority: important
+summary: "Storing and moving IoT data: time-series and NoSQL databases, stream processing, data lakes, retention and data quality."
+prerequisites:
+  - el-cloud-computing-for-iot
+  - cs-databases
+related:
+  - ai-databases
+  - ai-data-engineering
+  - cs-data-engineering
+topics:
+  - id: el-data-management-1
+    name: Time-series databases (InfluxDB, TimescaleDB, QuestDB)
+  - id: el-data-management-2
+    name: NoSQL databases (MongoDB, Cassandra, DynamoDB)
+  - id: el-data-management-3
+    name: Stream processing (Apache Kafka, Apache Flink, AWS Kinesis)
+  - id: el-data-management-4
+    name: Data lakes and data warehouses
+  - id: el-data-management-5
+    name: Data retention and archival
+  - id: el-data-management-6
+    name: Data quality and validation
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-data-management.json
+  sha256: dd2b7408766f3d70ad610c4e964eb5d82a64f47e4ae2e14eb9d6bc897419a2ec

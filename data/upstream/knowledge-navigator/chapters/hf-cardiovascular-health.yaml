@@ -1,0 +1,46 @@
+id: hf-cardiovascular-health
+name: Heart & Circulatory Health
+category: Preventive Health & Lifestyle Medicine
+level: 2
+priority: core
+summary: How heart disease and stroke develop, which risk factors matter, and how to prevent them.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-pathophysiology-human-disease
+topics:
+  - id: hf-cardiovascular-health-1
+    name: "How the heart and blood vessels work: a recap"
+  - id: hf-cardiovascular-health-2
+    name: Atherosclerosis
+  - id: hf-cardiovascular-health-3
+    name: Modifiable and non-modifiable risk factors
+  - id: hf-cardiovascular-health-4
+    name: "Blood pressure: measuring it, categories and home monitoring"
+  - id: hf-cardiovascular-health-5
+    name: "Lowering blood pressure: salt, DASH, activity, weight and alcohol"
+  - id: hf-cardiovascular-health-6
+    name: "Cholesterol and lipoproteins: LDL, HDL, triglycerides and Lp(a)"
+  - id: hf-cardiovascular-health-7
+    name: Cardiovascular risk calculators
+  - id: hf-cardiovascular-health-8
+    name: Warning signs of heart attack and stroke
+  - id: hf-cardiovascular-health-9
+    name: Atrial fibrillation and palpitations
+  - id: hf-cardiovascular-health-10
+    name: Heart failure basics
+  - id: hf-cardiovascular-health-11
+    name: "Heart medicines: statins and blood pressure drugs (overview)"
+  - id: hf-cardiovascular-health-12
+    name: Women and heart disease
+  - id: hf-cardiovascular-health-13
+    name: Exercise, the heart and sudden cardiac death
+  - id: hf-cardiovascular-health-14
+    name: Preventing a second event
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-cardiovascular-health.json
+  sha256: 8b89d2baf0e9982537f5e71109a8c48cba357724b0f6b6845790576c3fb2d8b0

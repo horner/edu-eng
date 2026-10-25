@@ -1,0 +1,41 @@
+id: py-somatic-impulse-control-other-disorders
+name: Somatic Symptom, Impulse-Control & Other Disorders
+category: Mental Health & Psychopathology
+level: 3
+priority: advanced
+summary: "Less common diagnostic groups: bodily distress and functional disorders, impulse-control and conduct problems, and other DSM/ICD categories."
+prerequisites:
+  - py-psychopathology-foundations
+related: []
+topics:
+  - id: py-somatic-impulse-control-other-disorders-1
+    name: Somatic symptom disorder and bodily distress disorder
+  - id: py-somatic-impulse-control-other-disorders-2
+    name: Illness anxiety (hypochondriasis)
+  - id: py-somatic-impulse-control-other-disorders-3
+    name: Functional neurological disorder
+  - id: py-somatic-impulse-control-other-disorders-4
+    name: Factitious disorder
+  - id: py-somatic-impulse-control-other-disorders-5
+    name: "Impulse-control disorders: intermittent explosive disorder, kleptomania and pyromania"
+  - id: py-somatic-impulse-control-other-disorders-6
+    name: Compulsive sexual behaviour disorder
+  - id: py-somatic-impulse-control-other-disorders-7
+    name: "Disruptive behaviour: oppositional defiant and conduct disorder"
+  - id: py-somatic-impulse-control-other-disorders-8
+    name: Elimination disorders
+  - id: py-somatic-impulse-control-other-disorders-9
+    name: Sexual dysfunctions in outline
+  - id: py-somatic-impulse-control-other-disorders-10
+    name: Paraphilic disorders
+  - id: py-somatic-impulse-control-other-disorders-11
+    name: "Gender incongruence: classification history and current debates"
+  - id: py-somatic-impulse-control-other-disorders-12
+    name: Medically unexplained symptoms and collaborative care
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-somatic-impulse-control-other-disorders.json
+  sha256: bfeeb68339aea68e8a783a6c05e49832da689498460f3e758590e63be7afa909

@@ -1,0 +1,47 @@
+id: hf-health-behaviour-change
+name: Health Behaviour Change
+category: Health Behaviour, Coaching & Digital Health
+level: 2
+priority: core
+summary: The main theories of health behaviour and practical, evidence-based techniques for changing habits.
+prerequisites:
+  - hf-introduction-to-health-wellness
+related:
+  - py-motivation-habits-behavior-change
+  - py-health-psychology
+topics:
+  - id: hf-health-behaviour-change-1
+    name: Why behaviour matters for health
+  - id: hf-health-behaviour-change-2
+    name: The Health Belief Model and the Theory of Planned Behaviour
+  - id: hf-health-behaviour-change-3
+    name: The Transtheoretical Model (stages of change) and its critiques
+  - id: hf-health-behaviour-change-4
+    name: Social cognitive theory and self-efficacy
+  - id: hf-health-behaviour-change-5
+    name: The COM-B model and the Behaviour Change Wheel
+  - id: hf-health-behaviour-change-6
+    name: The behaviour change technique taxonomy
+  - id: hf-health-behaviour-change-7
+    name: "Habit formation: cues, context and repetition"
+  - id: hf-health-behaviour-change-8
+    name: Goal setting and implementation intentions
+  - id: hf-health-behaviour-change-9
+    name: Self-monitoring
+  - id: hf-health-behaviour-change-10
+    name: Social support and changing your environment
+  - id: hf-health-behaviour-change-11
+    name: Nudges and choice architecture
+  - id: hf-health-behaviour-change-12
+    name: Self-determination theory and motivation for exercise and eating
+  - id: hf-health-behaviour-change-13
+    name: Relapse prevention
+  - id: hf-health-behaviour-change-14
+    name: Designing a personal behaviour change plan
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-health-behaviour-change.json
+  sha256: c1c85a9f5dc5222ec5c2470a34a51465f64a8eed1740452cdc703784761e3a30

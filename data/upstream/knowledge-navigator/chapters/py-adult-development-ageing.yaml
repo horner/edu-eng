@@ -1,0 +1,45 @@
+id: py-adult-development-ageing
+name: Adult Development & Psychology of Ageing
+category: Developmental Psychology
+level: 3
+priority: important
+summary: How cognition, personality, relationships and wellbeing change through adulthood and old age, and what supports ageing well.
+prerequisites:
+  - py-lifespan-development
+related:
+  - hf-healthy-aging-longevity
+  - bi-biology-of-aging
+topics:
+  - id: py-adult-development-ageing-1
+    name: Theories of adult development and the life course
+  - id: py-adult-development-ageing-2
+    name: "Cognitive ageing: fluid vs crystallised abilities"
+  - id: py-adult-development-ageing-3
+    name: Memory and attention changes with age
+  - id: py-adult-development-ageing-4
+    name: Cognitive reserve and lifestyle factors
+  - id: py-adult-development-ageing-5
+    name: Personality stability and change in adulthood
+  - id: py-adult-development-ageing-6
+    name: Socioemotional selectivity theory and the positivity effect
+  - id: py-adult-development-ageing-7
+    name: The paradox of ageing and wellbeing
+  - id: py-adult-development-ageing-8
+    name: Work, retirement and purpose
+  - id: py-adult-development-ageing-9
+    name: Relationships, caregiving and loneliness in later life
+  - id: py-adult-development-ageing-10
+    name: Ageism and stereotype embodiment
+  - id: py-adult-development-ageing-11
+    name: "Mental health in older adults: depression and anxiety"
+  - id: py-adult-development-ageing-12
+    name: Dementia and mild cognitive impairment in outline
+  - id: py-adult-development-ageing-13
+    name: End of life, death attitudes and legacy
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-adult-development-ageing.json
+  sha256: 452792c2fe1de2d2b569e298f8b75fe11c6f369c790fd6392d3c5eb1aa87a77c

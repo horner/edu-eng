@@ -1,0 +1,44 @@
+id: mk-nonprofit-social-marketing
+name: Non-profit & Social Marketing
+category: Specialised Marketing
+level: 3
+priority: advanced
+summary: "Marketing for charities and public causes: fundraising, campaigning and using marketing to change behaviour for social good."
+prerequisites:
+  - mk-integrated-marketing-communications
+related:
+  - py-motivation-habits-behavior-change
+  - py-health-psychology
+  - bu-nonprofit-management
+topics:
+  - id: mk-nonprofit-social-marketing-1
+    name: Marketing in non-profit organisations
+  - id: mk-nonprofit-social-marketing-2
+    name: Donor behaviour and the psychology of giving
+  - id: mk-nonprofit-social-marketing-3
+    name: "Fundraising channels: direct, digital, events, legacies, major donors"
+  - id: mk-nonprofit-social-marketing-4
+    name: Charity branding and trust
+  - id: mk-nonprofit-social-marketing-5
+    name: Campaigning and advocacy
+  - id: mk-nonprofit-social-marketing-6
+    name: Volunteer marketing
+  - id: mk-nonprofit-social-marketing-7
+    name: "Social marketing: definition and benchmark criteria"
+  - id: mk-nonprofit-social-marketing-8
+    name: Behaviour change models in social marketing
+  - id: mk-nonprofit-social-marketing-9
+    name: Planning a social marketing programme
+  - id: mk-nonprofit-social-marketing-10
+    name: "Public health and environmental campaigns: evidence of what works"
+  - id: mk-nonprofit-social-marketing-11
+    name: Evaluating social impact
+  - id: mk-nonprofit-social-marketing-12
+    name: "Ethics: poverty imagery, guilt appeals and fundraising regulation"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-nonprofit-social-marketing.json
+  sha256: dfc2c77291966c2b5a38afe149bdefefc61581acccb28f0219bb5bef4dd5b7b8

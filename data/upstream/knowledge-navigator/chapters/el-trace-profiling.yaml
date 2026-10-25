@@ -1,0 +1,30 @@
+id: el-trace-profiling
+name: Trace & Profiling
+category: Embedded Development Practices & Debugging
+level: 3
+priority: advanced
+summary: Seeing exactly what code does over time with instruction and data trace, event tracing and tools such as SystemView and Tracealyzer.
+prerequisites:
+  - el-hardware-debugging
+related:
+  - cs-performance-engineering
+topics:
+  - id: el-trace-profiling-1
+    name: Instruction trace
+  - id: el-trace-profiling-2
+    name: Data trace
+  - id: el-trace-profiling-3
+    name: Code profiling and execution time
+  - id: el-trace-profiling-4
+    name: Event tracing
+  - id: el-trace-profiling-5
+    name: Segger SystemView, Tracealyzer
+  - id: el-trace-profiling-6
+    name: Printf debugging vs trace
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-trace-profiling.json
+  sha256: 42bf986d1ea7c44e95eafbbee2a7d35973a4967a04de4c0371aa06cfd109ef3e

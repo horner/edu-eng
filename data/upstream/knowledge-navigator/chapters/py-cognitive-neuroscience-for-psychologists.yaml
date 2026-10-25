@@ -1,0 +1,56 @@
+id: py-cognitive-neuroscience-for-psychologists
+name: Cognitive Neuroscience for Psychologists
+category: Biological Bases of Behaviour
+level: 3
+priority: important
+summary: How brain systems support perception, attention, memory, language and control, linking psychological theories to brain evidence.
+prerequisites:
+  - py-biological-psychology
+  - py-cognitive-psychology
+related:
+  - bi-cognitive-neuroscience
+  - bi-systems-neuroscience
+  - bi-behavioral-neuroscience
+topics:
+  - id: py-cognitive-neuroscience-for-psychologists-1
+    name: "From mind to brain: localisation, networks and levels of explanation"
+  - id: py-cognitive-neuroscience-for-psychologists-2
+    name: Methods and their limits
+    sub:
+      - id: py-cognitive-neuroscience-for-psychologists-2-1
+        name: Neuropsychological lesion studies and dissociations
+      - id: py-cognitive-neuroscience-for-psychologists-2-2
+        name: EEG/ERP and MEG
+      - id: py-cognitive-neuroscience-for-psychologists-2-3
+        name: fMRI and the reverse-inference problem
+      - id: py-cognitive-neuroscience-for-psychologists-2-4
+        name: TMS and tDCS
+  - id: py-cognitive-neuroscience-for-psychologists-3
+    name: Visual and object recognition systems
+  - id: py-cognitive-neuroscience-for-psychologists-4
+    name: Attention networks and neglect
+  - id: py-cognitive-neuroscience-for-psychologists-5
+    name: "Memory systems: hippocampus, consolidation and amnesia"
+  - id: py-cognitive-neuroscience-for-psychologists-6
+    name: Language networks and aphasia
+  - id: py-cognitive-neuroscience-for-psychologists-7
+    name: Executive functions and the prefrontal cortex
+  - id: py-cognitive-neuroscience-for-psychologists-8
+    name: Reward, learning and decision-making circuits
+  - id: py-cognitive-neuroscience-for-psychologists-9
+    name: Motor control and action
+  - id: py-cognitive-neuroscience-for-psychologists-10
+    name: Emotion and the brain in outline
+  - id: py-cognitive-neuroscience-for-psychologists-11
+    name: Default mode network and mind-wandering
+  - id: py-cognitive-neuroscience-for-psychologists-12
+    name: Neurodevelopment and ageing of cognition
+  - id: py-cognitive-neuroscience-for-psychologists-13
+    name: Neuroscience hype and how to read brain-imaging claims
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-cognitive-neuroscience-for-psychologists.json
+  sha256: d2cdb1a6c0b2282775919be607c81904f22064abe0b2067d0c043b36b9297d99

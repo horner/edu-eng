@@ -1,0 +1,48 @@
+id: hf-health-promotion-communication
+name: Health Promotion & Health Communication
+category: Public & Global Health
+level: 3
+priority: important
+summary: How health promotion programmes and health messages are planned, delivered and evaluated.
+prerequisites:
+  - hf-health-behaviour-change
+  - hf-public-health-foundations
+related:
+  - py-health-psychology
+  - mk-health-wellness-marketing
+topics:
+  - id: hf-health-promotion-communication-1
+    name: The Ottawa Charter and the principles of health promotion
+  - id: hf-health-promotion-communication-2
+    name: Health promotion and health education
+  - id: hf-health-promotion-communication-3
+    name: "The settings approach: schools, workplaces and cities"
+  - id: hf-health-promotion-communication-4
+    name: The socio-ecological model
+  - id: hf-health-promotion-communication-5
+    name: "Planning models: PRECEDE-PROCEED and intervention mapping"
+  - id: hf-health-promotion-communication-6
+    name: Needs assessment
+  - id: hf-health-promotion-communication-7
+    name: Social marketing
+  - id: hf-health-promotion-communication-8
+    name: Mass-media campaigns
+  - id: hf-health-promotion-communication-9
+    name: Risk and crisis communication
+  - id: hf-health-promotion-communication-10
+    name: Countering health misinformation
+  - id: hf-health-promotion-communication-11
+    name: Community engagement and co-production
+  - id: hf-health-promotion-communication-12
+    name: "Workplace wellness programmes: the evidence"
+  - id: hf-health-promotion-communication-13
+    name: Evaluation with logic models and RE-AIM
+  - id: hf-health-promotion-communication-14
+    name: Digital health promotion
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-health-promotion-communication.json
+  sha256: 043cb069aac378174675a997782fd22c1a35049bca71ac7118bdf7d34e8c3264

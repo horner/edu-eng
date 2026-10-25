@@ -1,0 +1,67 @@
+id: be-sun-protection-photoaging
+name: Sun Protection & Photoageing
+category: Sun Protection
+level: 2
+priority: core
+summary: How sunlight damages skin, what SPF and UVA ratings really mean, and how to protect skin of every tone from burning, ageing and skin cancer.
+prerequisites:
+  - be-skin-biology
+related:
+  - bi-radiation-biology
+  - ch-photochemistry
+  - bi-cancer-biology
+  - hf-cancer-prevention-screening
+topics:
+  - id: be-sun-protection-photoaging-1
+    name: "The solar spectrum: UVB, UVA, visible light and infrared"
+  - id: be-sun-protection-photoaging-2
+    name: "The UV index and what affects exposure: latitude, altitude, season, reflection"
+  - id: be-sun-protection-photoaging-3
+    name: Sunburn, tanning and how skin defends itself
+  - id: be-sun-protection-photoaging-4
+    name: Photoageing
+    sub:
+      - id: be-sun-protection-photoaging-4-1
+        name: DNA damage and collagen breakdown
+      - id: be-sun-protection-photoaging-4-2
+        name: Wrinkles, sagging, spots and texture
+      - id: be-sun-protection-photoaging-4-3
+        name: Visible light and pigmentation
+  - id: be-sun-protection-photoaging-5
+    name: "Skin cancer: how UV causes basal cell, squamous cell carcinoma and melanoma"
+  - id: be-sun-protection-photoaging-6
+    name: Reading a sunscreen
+    sub:
+      - id: be-sun-protection-photoaging-6-1
+        name: SPF and what it measures
+      - id: be-sun-protection-photoaging-6-2
+        name: "UVA ratings: broad spectrum, PA, UVA circle and star ratings"
+      - id: be-sun-protection-photoaging-6-3
+        name: Water resistance
+      - id: be-sun-protection-photoaging-6-4
+        name: Chemical (organic) versus mineral (inorganic) filters
+  - id: be-sun-protection-photoaging-7
+    name: How much to apply, reapplication and why real-world SPF is lower
+  - id: be-sun-protection-photoaging-8
+    name: "Sunscreen for darker skin tones: white cast and tinted options"
+  - id: be-sun-protection-photoaging-9
+    name: Shade, clothing, hats and UPF-rated fabrics
+  - id: be-sun-protection-photoaging-10
+    name: Children, babies and sun protection
+  - id: be-sun-protection-photoaging-11
+    name: "Sunbeds and indoor tanning: risks and regulation"
+  - id: be-sun-protection-photoaging-12
+    name: "Self-tanners and sunless tanning: how DHA works"
+  - id: be-sun-protection-photoaging-13
+    name: "Vitamin D and sun protection: balancing the two"
+  - id: be-sun-protection-photoaging-14
+    name: "Sunscreen safety questions: absorption studies, nanoparticles and reef concerns"
+  - id: be-sun-protection-photoaging-15
+    name: "Checking your skin: moles, self-examination and when to see a doctor"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-sun-protection-photoaging.json
+  sha256: fb4d5cbd387a6beb9c4b287252644e5408464b13a205c95f2379c116cb969380

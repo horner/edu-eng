@@ -1,0 +1,56 @@
+id: bu-organizational-behavior
+name: Organisational Behaviour
+category: People, Organisations & Leadership
+level: 2
+priority: core
+summary: How individuals and groups think, feel and act at work, and what managers can do about it.
+prerequisites:
+  - bu-introduction-to-business
+related:
+  - py-introduction-to-psychology
+  - py-motivation-habits-behavior-change
+  - bu-principles-of-management
+  - py-work-organisational-psychology
+topics:
+  - id: bu-organizational-behavior-1
+    name: What organisational behaviour studies and how we know (evidence-based management)
+  - id: bu-organizational-behavior-2
+    name: Personality and individual differences at work
+  - id: bu-organizational-behavior-3
+    name: Perception, attribution and decision biases
+  - id: bu-organizational-behavior-4
+    name: Attitudes, job satisfaction and engagement
+  - id: bu-organizational-behavior-5
+    name: Emotions, moods and emotional intelligence at work
+  - id: bu-organizational-behavior-6
+    name: Motivation theories
+    sub:
+      - id: bu-organizational-behavior-6-1
+        name: Needs theories
+      - id: bu-organizational-behavior-6-2
+        name: Expectancy and equity theory
+      - id: bu-organizational-behavior-6-3
+        name: Goal-setting theory
+      - id: bu-organizational-behavior-6-4
+        name: Self-determination theory
+  - id: bu-organizational-behavior-7
+    name: Job design and work motivation
+  - id: bu-organizational-behavior-8
+    name: "Groups: roles, norms, cohesion and social loafing"
+  - id: bu-organizational-behavior-9
+    name: Communication in organisations
+  - id: bu-organizational-behavior-10
+    name: Power, influence and organisational politics
+  - id: bu-organizational-behavior-11
+    name: Conflict and its management
+  - id: bu-organizational-behavior-12
+    name: Stress and wellbeing at work
+  - id: bu-organizational-behavior-13
+    name: "Organisational culture: an introduction"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-organizational-behavior.json
+  sha256: eddcc9d317f102fcd93c588a3fece7db57f624bcaf77c2e8ee5e47969de64625

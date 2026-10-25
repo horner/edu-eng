@@ -1,0 +1,42 @@
+id: mk-prospecting-lead-generation
+name: Prospecting & Lead Generation
+category: Sales & Customer Relationships
+level: 2
+priority: important
+summary: Finding and starting conversations with potential customers through outbound and inbound methods.
+prerequisites:
+  - mk-sales-fundamentals
+related:
+  - mk-content-marketing
+topics:
+  - id: mk-prospecting-lead-generation-1
+    name: Ideal customer profile and target account lists
+  - id: mk-prospecting-lead-generation-2
+    name: "Lead sources: inbound, outbound, referrals, partners, events"
+  - id: mk-prospecting-lead-generation-3
+    name: Researching prospects and finding triggers
+  - id: mk-prospecting-lead-generation-4
+    name: "Cold calling: structure and openers"
+  - id: mk-prospecting-lead-generation-5
+    name: "Cold email: personalisation, sequences and deliverability"
+  - id: mk-prospecting-lead-generation-6
+    name: Social selling on professional networks
+  - id: mk-prospecting-lead-generation-7
+    name: "Qualification frameworks: BANT, CHAMP and others"
+  - id: mk-prospecting-lead-generation-8
+    name: Sales development roles and handover to account executives
+  - id: mk-prospecting-lead-generation-9
+    name: Lead scoring and marketing-qualified versus sales-qualified leads
+  - id: mk-prospecting-lead-generation-10
+    name: Prospecting data, tools and data protection rules
+  - id: mk-prospecting-lead-generation-11
+    name: "Prospecting metrics: activity, connect and meeting rates"
+  - id: mk-prospecting-lead-generation-12
+    name: Referral and network-based prospecting
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-prospecting-lead-generation.json
+  sha256: 46378c54b62d964ab6efc7321ad9bb2acf5642abc696a1bb1f534f5a65a75ed0

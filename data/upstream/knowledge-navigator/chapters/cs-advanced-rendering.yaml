@@ -1,0 +1,40 @@
+id: cs-advanced-rendering
+name: Advanced Rendering
+category: Graphics, Visualization & Games
+level: 4
+priority: advanced
+summary: "Physically based image synthesis: radiometry, the rendering equation, Monte Carlo path tracing, global illumination and modern real-time and neural rendering."
+prerequisites:
+  - cs-computer-graphics
+  - cs-probability-statistics-for-cs
+related:
+  - ma-monte-carlo-methods
+  - ph-classical-optics
+topics:
+  - id: cs-advanced-rendering-1
+    name: Radiometry and the rendering equation
+  - id: cs-advanced-rendering-2
+    name: Physically based materials and BRDFs
+  - id: cs-advanced-rendering-3
+    name: Monte Carlo path tracing
+  - id: cs-advanced-rendering-4
+    name: Importance sampling and multiple importance sampling
+  - id: cs-advanced-rendering-5
+    name: Acceleration structures (BVH, k-d trees)
+  - id: cs-advanced-rendering-6
+    name: "Global illumination: photon mapping and radiosity"
+  - id: cs-advanced-rendering-7
+    name: Participating media and subsurface scattering
+  - id: cs-advanced-rendering-8
+    name: "Real-time rendering: deferred shading, shadows and PBR pipelines"
+  - id: cs-advanced-rendering-9
+    name: Hardware ray tracing and denoising
+  - id: cs-advanced-rendering-10
+    name: Neural rendering and radiance fields
+discipline: cs
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/cs/cs-advanced-rendering.json
+  sha256: f6b4c1f822d381ff488c4d88038a3b9db91fb725f31610ffe44e8b83bd720f9f

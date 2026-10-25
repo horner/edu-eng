@@ -1,0 +1,51 @@
+id: py-groups-prejudice-intergroup-relations
+name: Groups, Prejudice & Intergroup Relations
+category: Social Psychology & Behavioural Science
+level: 3
+priority: important
+summary: How groups work and why they conflict, covering social identity, prejudice, discrimination and evidence-based ways to reduce them.
+prerequisites:
+  - py-social-psychology
+related:
+  - bu-organizational-culture-inclusion
+topics:
+  - id: py-groups-prejudice-intergroup-relations-1
+    name: "What makes a group: entitativity, norms and roles"
+  - id: py-groups-prejudice-intergroup-relations-2
+    name: "Group performance: social facilitation, loafing and process loss"
+  - id: py-groups-prejudice-intergroup-relations-3
+    name: "Group decision-making: polarisation and groupthink"
+  - id: py-groups-prejudice-intergroup-relations-4
+    name: Leadership in groups
+  - id: py-groups-prejudice-intergroup-relations-5
+    name: Social identity theory and self-categorisation theory
+  - id: py-groups-prejudice-intergroup-relations-6
+    name: Minimal group paradigm and ingroup bias
+  - id: py-groups-prejudice-intergroup-relations-7
+    name: Realistic conflict theory and the Robbers Cave study
+  - id: py-groups-prejudice-intergroup-relations-8
+    name: "Prejudice: old-fashioned, modern and aversive forms"
+  - id: py-groups-prejudice-intergroup-relations-9
+    name: Stereotype threat and its replication record
+  - id: py-groups-prejudice-intergroup-relations-10
+    name: Discrimination and its effects on health
+  - id: py-groups-prejudice-intergroup-relations-11
+    name: Reducing prejudice
+    sub:
+      - id: py-groups-prejudice-intergroup-relations-11-1
+        name: Contact hypothesis and extended contact
+      - id: py-groups-prejudice-intergroup-relations-11-2
+        name: Common ingroup identity and recategorisation
+      - id: py-groups-prejudice-intergroup-relations-11-3
+        name: What diversity training does and does not achieve
+  - id: py-groups-prejudice-intergroup-relations-12
+    name: Collective action, protest and social change
+  - id: py-groups-prejudice-intergroup-relations-13
+    name: Dehumanisation, genocide and reconciliation
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-groups-prejudice-intergroup-relations.json
+  sha256: 731e213fc3abef93788794b9b0f5553941a49433b4ed2041266c8a0ea1ef5027

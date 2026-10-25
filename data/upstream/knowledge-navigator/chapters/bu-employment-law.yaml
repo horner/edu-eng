@@ -1,0 +1,44 @@
+id: bu-employment-law
+name: Employment Law
+category: Law, Governance, Ethics & Sustainability
+level: 3
+priority: important
+summary: The legal rules governing the employment relationship, from hiring and pay to discipline and dismissal, compared across countries.
+prerequisites:
+  - bu-business-law
+related:
+  - bu-human-resource-management
+topics:
+  - id: bu-employment-law-1
+    name: "Employment status: employees, workers and independent contractors"
+  - id: bu-employment-law-2
+    name: Employment contracts and implied terms
+  - id: bu-employment-law-3
+    name: Recruitment and anti-discrimination law
+  - id: bu-employment-law-4
+    name: Wages, working time and minimum standards
+  - id: bu-employment-law-5
+    name: "Leave entitlements: sick, parental and annual leave"
+  - id: bu-employment-law-6
+    name: Health and safety duties of employers
+  - id: bu-employment-law-7
+    name: Discipline, grievances and workplace investigations
+  - id: bu-employment-law-8
+    name: "Termination: at-will employment vs unfair dismissal regimes"
+  - id: bu-employment-law-9
+    name: Redundancy and collective consultation
+  - id: bu-employment-law-10
+    name: Trade unions and collective labour law
+  - id: bu-employment-law-11
+    name: Restrictive covenants and non-competes
+  - id: bu-employment-law-12
+    name: Employee privacy and monitoring
+  - id: bu-employment-law-13
+    name: "Comparative overview: US, UK, EU and India"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-employment-law.json
+  sha256: 38e17efe26f5f8e1ee6f51e40d62ecda2a34b05bd489ade5daff45405995b4ae

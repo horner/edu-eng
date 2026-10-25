@@ -1,0 +1,46 @@
+id: hf-recovery-overtraining
+name: Recovery, Fatigue & Overtraining
+category: Sleep, Recovery & Stress
+level: 2
+priority: important
+summary: How the body recovers from training, which recovery methods have evidence, and how to recognise overtraining.
+prerequisites:
+  - hf-training-principles-adaptations
+  - hf-sleep-science
+related: []
+topics:
+  - id: hf-recovery-overtraining-1
+    name: "What fatigue is: central and peripheral"
+  - id: hf-recovery-overtraining-2
+    name: Delayed-onset muscle soreness and muscle damage
+  - id: hf-recovery-overtraining-3
+    name: Recovery timelines for different kinds of training
+  - id: hf-recovery-overtraining-4
+    name: Sleep as recovery
+  - id: hf-recovery-overtraining-5
+    name: Nutrition for recovery
+  - id: hf-recovery-overtraining-6
+    name: Active recovery and deload weeks
+  - id: hf-recovery-overtraining-7
+    name: "Cold-water immersion: evidence and the trade-off with muscle gain"
+  - id: hf-recovery-overtraining-8
+    name: Heat and sauna
+  - id: hf-recovery-overtraining-9
+    name: Massage, compression garments and percussion devices
+  - id: hf-recovery-overtraining-10
+    name: Anti-inflammatory painkillers and recovery
+  - id: hf-recovery-overtraining-11
+    name: Functional overreaching, non-functional overreaching and overtraining syndrome
+  - id: hf-recovery-overtraining-12
+    name: Recognising and monitoring overtraining
+  - id: hf-recovery-overtraining-13
+    name: Life stress and training
+  - id: hf-recovery-overtraining-14
+    name: "Training when ill: the 'neck check' and returning after illness"
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-recovery-overtraining.json
+  sha256: ac15f8f294f81ea295d4083db1ebef244e4bb093e30c3de339455443fcf6cebd

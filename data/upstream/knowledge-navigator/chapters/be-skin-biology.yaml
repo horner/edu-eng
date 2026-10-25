@@ -1,0 +1,57 @@
+id: be-skin-biology
+name: Skin Structure & Biology
+category: Skin Science
+level: 1
+priority: core
+summary: "A plain-language tour of the skin: its layers, cells, glands and everyday functions, as the basis for understanding skincare."
+prerequisites:
+  - be-introduction-to-beauty-science
+  - bi-introductory-biology
+related:
+  - bi-human-anatomy
+  - bi-microbiome
+  - bi-immunology
+  - hf-human-body-basics
+topics:
+  - id: be-skin-biology-1
+    name: "The skin as an organ: size, thickness and what it does"
+  - id: be-skin-biology-2
+    name: The epidermis
+    sub:
+      - id: be-skin-biology-2-1
+        name: Layers from basal cells to the stratum corneum
+      - id: be-skin-biology-2-2
+        name: Keratinocytes and how skin renews itself
+      - id: be-skin-biology-2-3
+        name: Melanocytes and skin colour
+      - id: be-skin-biology-2-4
+        name: Langerhans cells and immune defence
+  - id: be-skin-biology-3
+    name: "The dermis: collagen, elastin, blood vessels and nerves"
+  - id: be-skin-biology-4
+    name: The fat layer (hypodermis) and facial volume
+  - id: be-skin-biology-5
+    name: "Sebaceous glands and sebum: oily and dry skin explained"
+  - id: be-skin-biology-6
+    name: "Sweat glands: eccrine and apocrine"
+  - id: be-skin-biology-7
+    name: Hair follicles and nails as skin appendages
+  - id: be-skin-biology-8
+    name: "Skin functions: barrier, temperature control, sensation and vitamin D"
+  - id: be-skin-biology-9
+    name: The skin's acid mantle and pH
+  - id: be-skin-biology-10
+    name: The skin microbiome in brief
+  - id: be-skin-biology-11
+    name: How skin differs by body site, age, sex and skin tone
+  - id: be-skin-biology-12
+    name: "How skin heals: the stages of wound healing"
+  - id: be-skin-biology-13
+    name: Signs that skin needs a doctor rather than a product
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-skin-biology.json
+  sha256: 97da555f74b631d56e4249dace975df1ad5665b46f8396608da25c43fe9f5fa4

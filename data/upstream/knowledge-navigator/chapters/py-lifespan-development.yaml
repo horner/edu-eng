@@ -1,0 +1,46 @@
+id: py-lifespan-development
+name: Lifespan Developmental Psychology
+category: Developmental Psychology
+level: 2
+priority: core
+summary: How people change physically, cognitively, emotionally and socially from conception to old age.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - bi-developmental-biology
+topics:
+  - id: py-lifespan-development-1
+    name: "Themes: nature and nurture, continuity and stages, critical and sensitive periods"
+  - id: py-lifespan-development-2
+    name: Research designs for studying development
+  - id: py-lifespan-development-3
+    name: Prenatal development and teratogens
+  - id: py-lifespan-development-4
+    name: "Infancy: perception, motor development and early learning"
+  - id: py-lifespan-development-5
+    name: Piaget's stages of cognitive development
+  - id: py-lifespan-development-6
+    name: Vygotsky and sociocultural development
+  - id: py-lifespan-development-7
+    name: "Attachment: Bowlby, Ainsworth and attachment styles"
+  - id: py-lifespan-development-8
+    name: Language development
+  - id: py-lifespan-development-9
+    name: "Moral development: Kohlberg, Gilligan and modern views"
+  - id: py-lifespan-development-10
+    name: Erikson's psychosocial stages
+  - id: py-lifespan-development-11
+    name: "Adolescence: puberty, identity and the teenage brain"
+  - id: py-lifespan-development-12
+    name: "Emerging and middle adulthood: work, partnership and parenthood"
+  - id: py-lifespan-development-13
+    name: "Late adulthood: cognitive ageing, wisdom and wellbeing"
+  - id: py-lifespan-development-14
+    name: Death, dying and bereavement across the lifespan
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-lifespan-development.json
+  sha256: 3b0c0fd092fc6581002b19242f0a24af96e021a7a9de6accfb6a0dbea13466a6

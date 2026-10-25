@@ -1,0 +1,39 @@
+id: mk-personal-branding
+name: Personal Branding & Professional Visibility
+category: Specialised Marketing
+level: 1
+priority: optional
+summary: "Applying basic marketing ideas to yourself: clarifying what you offer, building a reputation and being visible online and offline."
+prerequisites:
+  - mk-marketing-principles
+related:
+  - mk-social-media-marketing
+  - bu-professional-effectiveness
+topics:
+  - id: mk-personal-branding-1
+    name: What a personal brand is and is not
+  - id: mk-personal-branding-2
+    name: Clarifying your strengths, audience and value
+  - id: mk-personal-branding-3
+    name: Positioning yourself and your story
+  - id: mk-personal-branding-4
+    name: Professional profiles and portfolios
+  - id: mk-personal-branding-5
+    name: Creating and sharing useful content
+  - id: mk-personal-branding-6
+    name: Networking and relationships
+  - id: mk-personal-branding-7
+    name: Speaking, writing and media opportunities
+  - id: mk-personal-branding-8
+    name: Online reputation and privacy
+  - id: mk-personal-branding-9
+    name: Personal brands for freelancers and founders
+  - id: mk-personal-branding-10
+    name: Authenticity, burnout and boundaries
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-personal-branding.json
+  sha256: 21cf5e94de795a0dbd7e3debc5244cace29d531e98fbcf642b3d30859bf3f0d5

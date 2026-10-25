@@ -1,0 +1,55 @@
+id: be-product-testing-claims
+name: Product Testing, Claims Substantiation & Sensory Evaluation
+category: Cosmetic Chemistry & Formulation
+level: 3
+priority: important
+summary: How the performance of cosmetics is measured on skin and hair, how clinical and consumer studies are designed, and how marketing claims are supported.
+prerequisites:
+  - be-skin-barrier-hydration
+  - be-evaluating-beauty-claims
+  - ma-inferential-statistics
+related:
+  - bi-quantitative-biology-data-analysis
+  - bi-epidemiology
+  - mk-marketing-law-regulation
+topics:
+  - id: be-product-testing-claims-1
+    name: Types of claims and the evidence each needs
+  - id: be-product-testing-claims-2
+    name: Instrumental skin measurement
+    sub:
+      - id: be-product-testing-claims-2-1
+        name: Corneometry and skin hydration
+      - id: be-product-testing-claims-2-2
+        name: TEWL and barrier function
+      - id: be-product-testing-claims-2-3
+        name: Sebum, pH and elasticity
+      - id: be-product-testing-claims-2-4
+        name: Colorimetry, imaging and 3D profilometry
+      - id: be-product-testing-claims-2-5
+        name: Ultrasound and confocal microscopy
+  - id: be-product-testing-claims-3
+    name: "Hair measurements: combing force, tensile strength, shine and frizz"
+  - id: be-product-testing-claims-4
+    name: "Clinical study design: controls, randomisation, blinding and panels"
+  - id: be-product-testing-claims-5
+    name: Expert grading and photographic scales
+  - id: be-product-testing-claims-6
+    name: "Sensory evaluation: trained panels and descriptive analysis"
+  - id: be-product-testing-claims-7
+    name: Consumer testing and perception studies
+  - id: be-product-testing-claims-8
+    name: "Statistics for claims: power, significance and effect size"
+  - id: be-product-testing-claims-9
+    name: "In vitro and ex vivo efficacy models: reconstructed skin and explants"
+  - id: be-product-testing-claims-10
+    name: "Regulatory rules on claims: EU common criteria, US FTC and advertising standards"
+  - id: be-product-testing-claims-11
+    name: Ethics and informed consent in cosmetic testing
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-product-testing-claims.json
+  sha256: d21289dbc84d28daadba1df22cab937d780a9dc8268eb6c980129f28ce436594

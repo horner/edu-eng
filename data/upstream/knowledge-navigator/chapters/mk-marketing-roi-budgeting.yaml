@@ -1,0 +1,43 @@
+id: mk-marketing-roi-budgeting
+name: Marketing Budgeting, ROI & Finance
+category: Growth & Analytics
+level: 3
+priority: important
+summary: "Linking marketing to financial results: budgets, return on investment, customer economics and talking to finance."
+prerequisites:
+  - mk-marketing-maths-metrics
+  - bu-financial-accounting
+related:
+  - bu-corporate-finance
+topics:
+  - id: mk-marketing-roi-budgeting-1
+    name: How marketing shows up in financial statements
+  - id: mk-marketing-roi-budgeting-2
+    name: Marketing as investment versus expense
+  - id: mk-marketing-roi-budgeting-3
+    name: "Budget-setting methods: percentage of sales, objective-and-task, competitive parity, SOV"
+  - id: mk-marketing-roi-budgeting-4
+    name: Contribution margin and marketing profitability
+  - id: mk-marketing-roi-budgeting-5
+    name: ROI, ROAS, marginal ROI and their misuses
+  - id: mk-marketing-roi-budgeting-6
+    name: Customer lifetime value and customer equity in valuation
+  - id: mk-marketing-roi-budgeting-7
+    name: "SaaS and subscription metrics: LTV:CAC, net revenue retention, payback"
+  - id: mk-marketing-roi-budgeting-8
+    name: Brand valuation and brand as an asset
+  - id: mk-marketing-roi-budgeting-9
+    name: Forecasting sales and marketing impact
+  - id: mk-marketing-roi-budgeting-10
+    name: Allocating budget across channels and over time
+  - id: mk-marketing-roi-budgeting-11
+    name: Scenario planning and risk
+  - id: mk-marketing-roi-budgeting-12
+    name: Building a business case for marketing investment
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketing-roi-budgeting.json
+  sha256: e6b9c1b2f0a71b0770e205faa4cc164d92f055c28451a447b8a8fd2da5d69508

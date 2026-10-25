@@ -1,0 +1,39 @@
+id: py-applied-behaviour-analysis
+name: Applied Behaviour Analysis
+category: Applied Psychology
+level: 3
+priority: advanced
+summary: Using learning principles to understand and change socially important behaviour, with attention to evidence, ethics and current controversies.
+prerequisites:
+  - py-learning-conditioning
+related: []
+topics:
+  - id: py-applied-behaviour-analysis-1
+    name: Radical behaviourism and the dimensions of ABA
+  - id: py-applied-behaviour-analysis-2
+    name: Measuring behaviour and single-case experimental designs
+  - id: py-applied-behaviour-analysis-3
+    name: Functional behaviour assessment and functional analysis
+  - id: py-applied-behaviour-analysis-4
+    name: Reinforcement-based interventions
+  - id: py-applied-behaviour-analysis-5
+    name: "Teaching new skills: prompting, shaping and chaining"
+  - id: py-applied-behaviour-analysis-6
+    name: Reducing challenging behaviour
+  - id: py-applied-behaviour-analysis-7
+    name: Positive behaviour support
+  - id: py-applied-behaviour-analysis-8
+    name: "Applications: developmental disabilities, education, health and organisations"
+  - id: py-applied-behaviour-analysis-9
+    name: Organisational behaviour management
+  - id: py-applied-behaviour-analysis-10
+    name: Autistic community critiques of ABA and the ethics debate
+  - id: py-applied-behaviour-analysis-11
+    name: Professional certification and ethics codes
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-applied-behaviour-analysis.json
+  sha256: d387a6ef8927704abd6de05833fcfbfc6ec1b492915660b24b9f335a408d9f40

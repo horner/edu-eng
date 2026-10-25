@@ -1,0 +1,52 @@
+id: py-cognitive-behavioural-therapy
+name: Cognitive Behavioural Therapy (CBT)
+category: Assessment, Psychotherapy & Counselling
+level: 3
+priority: core
+summary: The theory and techniques of CBT, the most researched talking therapy, and how it is adapted for different problems.
+prerequisites:
+  - py-psychotherapy-foundations
+related: []
+topics:
+  - id: py-cognitive-behavioural-therapy-1
+    name: "Origins: behaviour therapy, Beck's cognitive therapy and Ellis's REBT"
+  - id: py-cognitive-behavioural-therapy-2
+    name: "The cognitive model: situations, thoughts, emotions, body and behaviour"
+  - id: py-cognitive-behavioural-therapy-3
+    name: "Levels of cognition: automatic thoughts, assumptions and core beliefs"
+  - id: py-cognitive-behavioural-therapy-4
+    name: Structure of CBT sessions, agenda setting and homework
+  - id: py-cognitive-behavioural-therapy-5
+    name: Collaborative empiricism and Socratic questioning
+  - id: py-cognitive-behavioural-therapy-6
+    name: Behavioural activation
+  - id: py-cognitive-behavioural-therapy-7
+    name: Cognitive restructuring and thought records
+  - id: py-cognitive-behavioural-therapy-8
+    name: Exposure-based methods
+    sub:
+      - id: py-cognitive-behavioural-therapy-8-1
+        name: Graded exposure and fear hierarchies
+      - id: py-cognitive-behavioural-therapy-8-2
+        name: Exposure and response prevention
+      - id: py-cognitive-behavioural-therapy-8-3
+        name: Inhibitory learning approaches
+  - id: py-cognitive-behavioural-therapy-9
+    name: Behavioural experiments
+  - id: py-cognitive-behavioural-therapy-10
+    name: Problem-solving therapy
+  - id: py-cognitive-behavioural-therapy-11
+    name: Disorder-specific CBT models (panic, social anxiety, OCD, PTSD)
+  - id: py-cognitive-behavioural-therapy-12
+    name: CBT for insomnia, pain and health conditions
+  - id: py-cognitive-behavioural-therapy-13
+    name: Evidence, limitations and critiques of CBT
+  - id: py-cognitive-behavioural-therapy-14
+    name: Competences and the Cognitive Therapy Scale
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-cognitive-behavioural-therapy.json
+  sha256: 4d9d4b384e130a2e06d317daa9e5313f45574c6040981fdb274e02839a40a62f

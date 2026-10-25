@@ -1,0 +1,60 @@
+id: py-research-methods-in-psychology
+name: Research Methods in Psychology
+category: Research Methods, Statistics & Measurement
+level: 2
+priority: core
+summary: How psychologists design studies, measure mental processes and draw sound conclusions from data.
+prerequisites:
+  - py-introduction-to-psychology
+related:
+  - bi-biological-inquiry
+  - ma-experimental-design
+  - hf-research-methods-health-exercise
+topics:
+  - id: py-research-methods-in-psychology-1
+    name: "The scientific method in psychology: theories, hypotheses and falsification"
+  - id: py-research-methods-in-psychology-2
+    name: "Operationalising constructs: variables, measures and levels of measurement"
+  - id: py-research-methods-in-psychology-3
+    name: Reliability and validity
+    sub:
+      - id: py-research-methods-in-psychology-3-1
+        name: Test-retest, inter-rater and internal consistency
+      - id: py-research-methods-in-psychology-3-2
+        name: Construct, internal, external and ecological validity
+  - id: py-research-methods-in-psychology-4
+    name: "Sampling: populations, convenience samples and WEIRD participants"
+  - id: py-research-methods-in-psychology-5
+    name: Observational, survey and correlational designs
+  - id: py-research-methods-in-psychology-6
+    name: Experimental designs
+    sub:
+      - id: py-research-methods-in-psychology-6-1
+        name: Between-subjects and within-subjects designs
+      - id: py-research-methods-in-psychology-6-2
+        name: Counterbalancing, order effects and randomisation
+      - id: py-research-methods-in-psychology-6-3
+        name: Factorial designs and interactions
+  - id: py-research-methods-in-psychology-7
+    name: Quasi-experiments, natural experiments and single-case designs
+  - id: py-research-methods-in-psychology-8
+    name: Longitudinal, cross-sectional and cohort designs
+  - id: py-research-methods-in-psychology-9
+    name: "Threats to validity: confounds, demand characteristics, experimenter bias and placebo"
+  - id: py-research-methods-in-psychology-10
+    name: Questionnaire design and response biases
+  - id: py-research-methods-in-psychology-11
+    name: Introduction to qualitative and mixed methods
+  - id: py-research-methods-in-psychology-12
+    name: "Research ethics: consent, deception, debriefing and ethics committees"
+  - id: py-research-methods-in-psychology-13
+    name: Online studies and experiment software (PsychoPy, jsPsych, Qualtrics)
+  - id: py-research-methods-in-psychology-14
+    name: Writing and reading a research report in APA style
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-research-methods-in-psychology.json
+  sha256: bd3e8202759b3ae0188079d66b0d0187348b530e19e0e96ab508708d15bf30d3

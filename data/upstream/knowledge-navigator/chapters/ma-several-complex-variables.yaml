@@ -1,0 +1,30 @@
+id: ma-several-complex-variables
+name: Several Complex Variables
+category: Analysis
+level: 4
+priority: advanced
+summary: Holomorphic functions of several complex variables, where new phenomena such as Hartogs extension and domains of holomorphy appear.
+prerequisites:
+  - ma-complex-analysis
+  - ma-differential-topology
+related: []
+topics:
+  - id: ma-several-complex-variables-1
+    name: Holomorphic functions in several variables and the Cauchy integral formula on polydiscs
+  - id: ma-several-complex-variables-2
+    name: Hartogs' extension phenomenon
+  - id: ma-several-complex-variables-3
+    name: Plurisubharmonic functions and pseudoconvexity
+  - id: ma-several-complex-variables-4
+    name: Domains of holomorphy and holomorphic convexity
+  - id: ma-several-complex-variables-5
+    name: The d-bar problem and L2 methods
+  - id: ma-several-complex-variables-6
+    name: Complex manifolds and analytic spaces
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-several-complex-variables.json
+  sha256: 300ba1e39247883dfd24be6d6cddcf21c0bb7746db0407feb3e46693db979789

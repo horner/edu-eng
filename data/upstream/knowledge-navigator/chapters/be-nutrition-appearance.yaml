@@ -1,0 +1,46 @@
+id: be-nutrition-appearance
+name: Nutrition, Supplements & Appearance
+category: Lifestyle, Wellbeing & Appearance
+level: 2
+priority: important
+summary: What diet and supplements can and cannot do for skin, hair and nails, based on current evidence.
+prerequisites:
+  - be-skin-biology
+  - hf-nutrition-fundamentals
+related:
+  - hf-micronutrients
+  - hf-dietary-supplements
+topics:
+  - id: be-nutrition-appearance-1
+    name: Nutrients the skin, hair and nails need
+  - id: be-nutrition-appearance-2
+    name: "Deficiencies that show in appearance: iron, zinc, protein, B vitamins, vitamin C"
+  - id: be-nutrition-appearance-3
+    name: "Diet and acne: glycaemic load and dairy"
+  - id: be-nutrition-appearance-4
+    name: "Diet and skin ageing: antioxidants, sugar and glycation"
+  - id: be-nutrition-appearance-5
+    name: "Hydration and skin: drinking water myths"
+  - id: be-nutrition-appearance-6
+    name: Omega-3 fatty acids and skin
+  - id: be-nutrition-appearance-7
+    name: "Collagen supplements: evidence"
+  - id: be-nutrition-appearance-8
+    name: "Biotin and hair supplements: evidence and lab-test interference"
+  - id: be-nutrition-appearance-9
+    name: Carotenoids and skin colour
+  - id: be-nutrition-appearance-10
+    name: Alcohol, caffeine and smoking
+  - id: be-nutrition-appearance-11
+    name: Restrictive dieting, rapid weight loss and appearance
+  - id: be-nutrition-appearance-12
+    name: "Food allergies, intolerances and skin: separating fact from myth"
+  - id: be-nutrition-appearance-13
+    name: Choosing supplements safely
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-nutrition-appearance.json
+  sha256: a6db4e1ee7a8d7c69232b5e97fb55aca6f8bc79878dddb0d8e743bbcfd110893

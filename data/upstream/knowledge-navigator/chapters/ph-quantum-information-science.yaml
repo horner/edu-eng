@@ -1,0 +1,39 @@
+id: ph-quantum-information-science
+name: Quantum Information Science
+category: Quantum Physics
+level: 3
+priority: important
+summary: Using superposition and entanglement to compute, communicate and protect information, and the hardware that does it.
+prerequisites:
+  - ph-quantum-mechanics
+related:
+  - ma-quantum-computation-theory
+  - el-quantum-technologies
+  - ai-quantum-machine-learning
+  - cs-quantum-computing
+topics:
+  - id: ph-quantum-information-science-1
+    name: Quantum computing
+  - id: ph-quantum-information-science-2
+    name: Quantum algorithms
+  - id: ph-quantum-information-science-3
+    name: Quantum communication
+  - id: ph-quantum-information-science-4
+    name: Quantum cryptography
+  - id: ph-quantum-information-science-5
+    name: Quantum error correction
+  - id: ph-quantum-information-science-6
+    name: Quantum circuits
+  - id: ph-quantum-information-science-7
+    name: Superconducting quantum circuits
+  - id: ph-quantum-information-science-8
+    name: Trapped ions
+  - id: ph-quantum-information-science-9
+    name: Quantum networks
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-quantum-information-science.json
+  sha256: 2b8afd777d7cb8c9493fcdbaa2eae7567229da6e2621a350858f3551457ed829

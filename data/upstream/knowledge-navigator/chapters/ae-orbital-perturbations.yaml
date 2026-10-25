@@ -1,0 +1,45 @@
+id: ae-orbital-perturbations
+name: Orbital Perturbations and Orbit Propagation
+category: Orbital Mechanics & Astrodynamics
+level: 3
+priority: core
+summary: "How real orbits deviate from Kepler: Earth oblateness, drag, solar pressure and third bodies, and how to propagate orbits numerically."
+prerequisites:
+  - ae-orbital-mechanics
+  - ae-computational-methods-aerospace
+related:
+  - ph-celestial-mechanics
+topics:
+  - id: ae-orbital-perturbations-1
+    name: Perturbing forces overview
+  - id: ae-orbital-perturbations-2
+    name: "Earth's gravity field: spherical harmonics and J2"
+  - id: ae-orbital-perturbations-3
+    name: Nodal regression and apsidal precession
+  - id: ae-orbital-perturbations-4
+    name: Sun-synchronous, frozen and repeat-ground-track orbits
+  - id: ae-orbital-perturbations-5
+    name: Atmospheric drag and orbital decay; atmospheric density models
+  - id: ae-orbital-perturbations-6
+    name: Solar radiation pressure
+  - id: ae-orbital-perturbations-7
+    name: Third-body perturbations from Sun and Moon
+  - id: ae-orbital-perturbations-8
+    name: "Variation of parameters: Lagrange and Gauss planetary equations"
+  - id: ae-orbital-perturbations-9
+    name: Cowell's and Encke's methods
+  - id: ae-orbital-perturbations-10
+    name: Numerical integrators for orbit propagation
+  - id: ae-orbital-perturbations-11
+    name: Analytical and semi-analytical propagators; TLEs and SGP4
+  - id: ae-orbital-perturbations-12
+    name: Relativistic effects and high-precision force models
+  - id: ae-orbital-perturbations-13
+    name: "Tools: GMAT, Orekit, STK"
+discipline: aerospace
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/aerospace/ae-orbital-perturbations.json
+  sha256: d24ee662cd29d0c516625d3aa94f875e7fe84b16df3ff04ae02e7f11b20192cd

@@ -1,0 +1,36 @@
+id: el-linear-regulators
+name: Linear Regulators
+category: Power Electronics & Power Management
+level: 2
+priority: important
+summary: "How linear and LDO regulators work and how to apply them: dropout, regulation, efficiency and thermal limits."
+prerequisites:
+  - el-diode-transistor-circuits
+  - el-operational-amplifiers
+related: []
+topics:
+  - id: el-linear-regulators-1
+    name: Linear voltage regulators
+  - id: el-linear-regulators-2
+    name: Low-Dropout (LDO) regulators
+  - id: el-linear-regulators-3
+    name: Thermal considerations
+  - id: el-linear-regulators-4
+    name: Load regulation and line regulation
+  - id: el-linear-regulators-5
+    name: Dropout voltage and efficiency
+  - id: el-linear-regulators-6
+    name: "Series regulator architecture: pass element, error amplifier and reference"
+  - id: el-linear-regulators-7
+    name: Stability and output-capacitor ESR requirements
+  - id: el-linear-regulators-8
+    name: PSRR and output noise of LDOs
+  - id: el-linear-regulators-9
+    name: Shunt regulators and adjustable references (TL431)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-linear-regulators.json
+  sha256: 87450c374803968095df0a4f6ee8940d494de12b24c58db7de21c61f78770f56

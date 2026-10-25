@@ -1,0 +1,58 @@
+id: bu-introduction-to-business
+name: Introduction to Business
+category: Foundations of Business
+level: 1
+priority: core
+summary: What businesses are, how they create value, and how their main functions (operations, marketing, finance, people) fit together.
+prerequisites: []
+related:
+  - bu-history-of-business
+  - mk-marketing-principles
+topics:
+  - id: bu-introduction-to-business-1
+    name: "What a business is: value creation, profit and stakeholders"
+  - id: bu-introduction-to-business-2
+    name: "The economic environment of business: markets, competition and the role of government"
+  - id: bu-introduction-to-business-3
+    name: Forms of business ownership
+    sub:
+      - id: bu-introduction-to-business-3-1
+        name: Sole traders and partnerships
+      - id: bu-introduction-to-business-3-2
+        name: Companies and limited liability
+      - id: bu-introduction-to-business-3-3
+        name: Co-operatives, franchises and social enterprises
+  - id: bu-introduction-to-business-4
+    name: Small business, startups and large corporations compared
+  - id: bu-introduction-to-business-5
+    name: Business functions and how they interact
+    sub:
+      - id: bu-introduction-to-business-5-1
+        name: Operations and production
+      - id: bu-introduction-to-business-5-2
+        name: Marketing and sales
+      - id: bu-introduction-to-business-5-3
+        name: Finance and accounting
+      - id: bu-introduction-to-business-5-4
+        name: People and human resources
+  - id: bu-introduction-to-business-6
+    name: "Management basics: planning, organising, leading and controlling"
+  - id: bu-introduction-to-business-7
+    name: Reading a simple income statement and balance sheet
+  - id: bu-introduction-to-business-8
+    name: Money, banking and how businesses are financed
+  - id: bu-introduction-to-business-9
+    name: "Business ethics and corporate social responsibility: an overview"
+  - id: bu-introduction-to-business-10
+    name: "Global business: trade, outsourcing and multinational firms"
+  - id: bu-introduction-to-business-11
+    name: Technology, data and digital business models
+  - id: bu-introduction-to-business-12
+    name: Careers in business and the main professional paths
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-introduction-to-business.json
+  sha256: 1e885f021d97d01dbbf7ce764fac066264f7b5476e49c1d048205502ccc0a0a1

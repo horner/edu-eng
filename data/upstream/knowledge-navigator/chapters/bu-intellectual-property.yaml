@@ -1,0 +1,45 @@
+id: bu-intellectual-property
+name: Intellectual Property for Business
+category: Law, Governance, Ethics & Sustainability
+level: 3
+priority: important
+summary: How patents, trademarks, copyright and trade secrets protect business assets, and how to build an IP strategy.
+prerequisites:
+  - bu-business-law
+related:
+  - bu-innovation-strategy
+  - bu-legal-foundations-for-founders
+topics:
+  - id: bu-intellectual-property-1
+    name: Why IP matters to business
+  - id: bu-intellectual-property-2
+    name: "Patents: patentability, application and claims"
+  - id: bu-intellectual-property-3
+    name: "Patent strategy: filing, freedom to operate and portfolios"
+  - id: bu-intellectual-property-4
+    name: Trademarks and brand protection
+  - id: bu-intellectual-property-5
+    name: Copyright and software
+  - id: bu-intellectual-property-6
+    name: Trade secrets and confidentiality
+  - id: bu-intellectual-property-7
+    name: Design rights
+  - id: bu-intellectual-property-8
+    name: Licensing and technology transfer
+  - id: bu-intellectual-property-9
+    name: IP valuation and IP as collateral
+  - id: bu-intellectual-property-10
+    name: IP enforcement and litigation
+  - id: bu-intellectual-property-11
+    name: "International IP: PCT, Madrid system and regional differences"
+  - id: bu-intellectual-property-12
+    name: "IP and AI: authorship, training data and inventorship debates"
+  - id: bu-intellectual-property-13
+    name: Open source licences and business
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-intellectual-property.json
+  sha256: 899999507bff5758b03545f103ce9139503d000597239dcbf8ce654447674a97

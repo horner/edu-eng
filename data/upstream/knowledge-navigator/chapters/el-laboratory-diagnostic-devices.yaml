@@ -1,0 +1,31 @@
+id: el-laboratory-diagnostic-devices
+name: Laboratory & Diagnostic Devices
+category: Medical, Industrial & Other Application Domains
+level: 3
+priority: optional
+summary: "Electronic lab and point-of-care devices: blood analyzers, glucose meters, spectrophotometers, PCR and immunoassay instruments."
+prerequisites:
+  - el-biosensors-medical-sensors
+related: []
+topics:
+  - id: el-laboratory-diagnostic-devices-1
+    name: Blood analyzers
+  - id: el-laboratory-diagnostic-devices-2
+    name: Glucose meters
+  - id: el-laboratory-diagnostic-devices-3
+    name: Point-of-care testing (POCT)
+  - id: el-laboratory-diagnostic-devices-4
+    name: Spectrophotometers
+  - id: el-laboratory-diagnostic-devices-5
+    name: Centrifuges
+  - id: el-laboratory-diagnostic-devices-6
+    name: PCR and genetic testing equipment
+  - id: el-laboratory-diagnostic-devices-7
+    name: Immunoassay analyzers
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-laboratory-diagnostic-devices.json
+  sha256: b6188e6e357f16d20a51a0f9e9361cbd0d1ac0a4e837dc279a491a2751dcb4fa

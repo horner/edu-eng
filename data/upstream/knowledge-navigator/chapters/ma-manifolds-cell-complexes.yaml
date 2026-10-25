@@ -1,0 +1,34 @@
+id: ma-manifolds-cell-complexes
+name: Manifolds & Cell Complexes
+category: Topology
+level: 4
+priority: advanced
+summary: "Building and classifying manifolds: simplicial and CW complexes, classification of surfaces, PL topology, handle decompositions and surgery."
+prerequisites:
+  - ma-algebraic-topology
+  - ma-differential-topology
+related: []
+topics:
+  - id: ma-manifolds-cell-complexes-1
+    name: "Topological manifolds: definitions and examples"
+  - id: ma-manifolds-cell-complexes-2
+    name: Classification of compact surfaces
+  - id: ma-manifolds-cell-complexes-3
+    name: Simplicial complexes and triangulations
+  - id: ma-manifolds-cell-complexes-4
+    name: CW complexes and cellular homology
+  - id: ma-manifolds-cell-complexes-5
+    name: Piecewise-linear topology
+  - id: ma-manifolds-cell-complexes-6
+    name: Handle decompositions and Morse theory
+  - id: ma-manifolds-cell-complexes-7
+    name: Poincare duality
+  - id: ma-manifolds-cell-complexes-8
+    name: Cobordism, surgery and the h-cobordism theorem
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-manifolds-cell-complexes.json
+  sha256: 0664080e5e475384a353917f7b7ee5958650cef794e195e60a934c4b92786b65

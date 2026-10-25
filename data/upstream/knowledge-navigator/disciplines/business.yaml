@@ -1,0 +1,25 @@
+id: business
+name: Business & Management
+icon: 💼
+color: "#94a3b8"
+prefix: bu
+description: "How organisations are started, financed, run and grown: economics for managers, accounting and finance, strategy, operations, people and leadership, entrepreneurship and startups, law, data and technology, to MBA depth."
+categories:
+  - Foundations of Business
+  - Economics for Business
+  - Accounting, Audit & Tax
+  - Finance & Investment
+  - Strategy & Global Business
+  - Operations, Supply Chain & Projects
+  - People, Organisations & Leadership
+  - Entrepreneurship & Startups
+  - Analytics & Decision Sciences
+  - Technology & Digital Business
+  - Law, Governance, Ethics & Sustainability
+  - Sectors, Careers & Professional Practice
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/discipline.json
+  sha256: 0083ab7e8ce2fb85363afbdd14093115ccc675ec1740209818b1c91f45036ba2

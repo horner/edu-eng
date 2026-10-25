@@ -1,0 +1,45 @@
+id: py-child-adolescent-mental-health
+name: Child & Adolescent Mental Health
+category: Mental Health & Psychopathology
+level: 3
+priority: important
+summary: Mental health problems in children and teenagers, the developmental psychopathology approach, and evidence-based help for young people and families.
+prerequisites:
+  - py-psychopathology-foundations
+  - py-lifespan-development
+related:
+  - hf-child-adolescent-health
+topics:
+  - id: py-child-adolescent-mental-health-1
+    name: "Developmental psychopathology: risk, resilience and pathways"
+  - id: py-child-adolescent-mental-health-2
+    name: Prevalence and age of onset
+  - id: py-child-adolescent-mental-health-3
+    name: Anxiety and school refusal in children
+  - id: py-child-adolescent-mental-health-4
+    name: Depression and self-harm in young people
+  - id: py-child-adolescent-mental-health-5
+    name: "Behavioural problems: ODD and conduct disorder"
+  - id: py-child-adolescent-mental-health-6
+    name: Trauma, abuse and safeguarding
+  - id: py-child-adolescent-mental-health-7
+    name: Attachment difficulties and children in care
+  - id: py-child-adolescent-mental-health-8
+    name: Bullying and cyberbullying
+  - id: py-child-adolescent-mental-health-9
+    name: "Assessment with children: multiple informants and play"
+  - id: py-child-adolescent-mental-health-10
+    name: Parent training and family interventions
+  - id: py-child-adolescent-mental-health-11
+    name: CBT adapted for children and adolescents
+  - id: py-child-adolescent-mental-health-12
+    name: School-based mental health and prevention
+  - id: py-child-adolescent-mental-health-13
+    name: "Services: CAMHS, transitions and access"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-child-adolescent-mental-health.json
+  sha256: 228aded7aaabc71dfcbf35f396100d0e3bb97e4dbd3c76284ad45acf4ea6e4da

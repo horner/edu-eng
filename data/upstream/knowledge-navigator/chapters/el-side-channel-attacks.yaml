@@ -1,0 +1,29 @@
+id: el-side-channel-attacks
+name: Side-Channel Attacks
+category: Security, Privacy & Trust
+level: 4
+priority: advanced
+summary: Attacks that exploit physical leakage (power, timing, EM emissions, fault injection) and how to harden against them.
+prerequisites:
+  - el-cryptography-fundamentals
+  - el-oscilloscope-techniques
+related:
+  - cs-systems-security
+topics:
+  - id: el-side-channel-attacks-1
+    name: Power analysis attacks (SPA, DPA)
+  - id: el-side-channel-attacks-2
+    name: Timing attacks
+  - id: el-side-channel-attacks-3
+    name: Electromagnetic emissions
+  - id: el-side-channel-attacks-4
+    name: Fault injection attacks
+  - id: el-side-channel-attacks-5
+    name: Countermeasures and hardening
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-side-channel-attacks.json
+  sha256: 2e9a968f3cff7b74f08252e26f4e1855d22b445247416801b9eebf58072832a4

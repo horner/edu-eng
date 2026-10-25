@@ -1,0 +1,41 @@
+id: cs-site-reliability-engineering
+name: Site Reliability Engineering & Observability
+category: Cloud Computing & DevOps
+level: 4
+priority: advanced
+summary: "Keeping production services reliable: SLOs and error budgets, monitoring and tracing, incident response, capacity planning and chaos engineering."
+prerequisites:
+  - cs-devops-cicd
+  - cs-distributed-systems
+related:
+  - el-observability-telemetry
+  - el-logging-monitoring
+  - ai-monitoring-maintenance
+topics:
+  - id: cs-site-reliability-engineering-1
+    name: SRE principles and error budgets
+  - id: cs-site-reliability-engineering-2
+    name: SLIs, SLOs and SLAs
+  - id: cs-site-reliability-engineering-3
+    name: Monitoring and alerting
+  - id: cs-site-reliability-engineering-4
+    name: Logs, metrics and distributed tracing (OpenTelemetry)
+  - id: cs-site-reliability-engineering-5
+    name: Incident response and on-call practice
+  - id: cs-site-reliability-engineering-6
+    name: Blameless postmortems
+  - id: cs-site-reliability-engineering-7
+    name: Capacity planning and load testing
+  - id: cs-site-reliability-engineering-8
+    name: Toil reduction and automation
+  - id: cs-site-reliability-engineering-9
+    name: Chaos engineering
+  - id: cs-site-reliability-engineering-10
+    name: Release engineering and progressive delivery
+discipline: cs
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/cs/cs-site-reliability-engineering.json
+  sha256: bde79f3b3c46c2f7ef52440196af5203130dad601e7fad3ccd59ad2413618fc2

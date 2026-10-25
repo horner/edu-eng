@@ -1,0 +1,41 @@
+version: 1.1.0
+disciplines:
+  - math
+  - physics
+  - chemistry
+  - biology
+  - earth
+  - cs
+  - electronics
+  - ai
+  - mechanical
+  - materials
+  - aerospace
+  - psychology
+  - health
+  - beauty
+  - business
+  - marketing
+roadmaps:
+  - cosmos
+  - rocket-science
+  - astrobiology
+  - robotics
+  - iron-man
+  - electrical-electronics-engineer
+  - embedded-iot
+  - computer-engineer
+  - software-engineer
+  - ai-engineer
+  - data-scientist
+  - quantum
+  - theoretical-physicist
+  - mental-wellness
+  - fitness-physical-wellness
+  - beauty-self-care
+  - whole-person-wellbeing
+  - psychologist
+  - understanding-people
+  - startup-founder
+  - business-fundamentals
+  - digital-marketer

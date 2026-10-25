@@ -1,0 +1,67 @@
+id: mk-marketing-principles
+name: Principles of Marketing
+category: Marketing Foundations
+level: 1
+priority: core
+summary: What marketing is and how organisations create, communicate and capture value by understanding customers and markets.
+prerequisites: []
+related:
+  - bu-introduction-to-business
+topics:
+  - id: mk-marketing-principles-1
+    name: "What marketing is: needs, wants, demand and exchange"
+  - id: mk-marketing-principles-2
+    name: Customer value, satisfaction and the marketing concept
+  - id: mk-marketing-principles-3
+    name: "Marketing orientations: production, product, selling, marketing and societal"
+  - id: mk-marketing-principles-4
+    name: The marketing process
+    sub:
+      - id: mk-marketing-principles-4-1
+        name: Understanding the market
+      - id: mk-marketing-principles-4-2
+        name: Designing a customer-driven strategy
+      - id: mk-marketing-principles-4-3
+        name: Building a marketing programme
+      - id: mk-marketing-principles-4-4
+        name: Building relationships and capturing value
+  - id: mk-marketing-principles-5
+    name: "The marketing environment: micro and macro forces (PESTLE)"
+  - id: mk-marketing-principles-6
+    name: Competitor and market analysis basics, SWOT
+  - id: mk-marketing-principles-7
+    name: Introduction to segmentation, targeting and positioning
+  - id: mk-marketing-principles-8
+    name: "The marketing mix: 4Ps and 7Ps"
+    sub:
+      - id: mk-marketing-principles-8-1
+        name: Product
+      - id: mk-marketing-principles-8-2
+        name: Price
+      - id: mk-marketing-principles-8-3
+        name: Place
+      - id: mk-marketing-principles-8-4
+        name: Promotion
+      - id: mk-marketing-principles-8-5
+        name: People, process and physical evidence for services
+  - id: mk-marketing-principles-9
+    name: Brands and why they matter to buyers and firms
+  - id: mk-marketing-principles-10
+    name: Introduction to marketing communications and channels
+  - id: mk-marketing-principles-11
+    name: Digital and social media in the modern marketing mix
+  - id: mk-marketing-principles-12
+    name: Relationship marketing and customer lifetime value (intuition)
+  - id: mk-marketing-principles-13
+    name: "Marketing in different contexts: consumer, business, services, non-profit"
+  - id: mk-marketing-principles-14
+    name: Responsible marketing and the social role of marketing
+  - id: mk-marketing-principles-15
+    name: Marketing jobs and how marketing teams are organised
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketing-principles.json
+  sha256: c1a16b15577643d8c42cfab6b48d46457cad63fc7f9965291a3b35e065b0037d

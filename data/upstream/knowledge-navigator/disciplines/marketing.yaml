@@ -1,0 +1,22 @@
+id: marketing
+name: Marketing & Sales
+icon: 📣
+color: "#f43f5e"
+prefix: mk
+description: "How customers are found, persuaded and kept: consumer behaviour and research, brand and marketing strategy, product, price and channels, communications and creative, digital marketing, growth and analytics, and professional selling, to degree and MBA depth."
+categories:
+  - Marketing Foundations
+  - Customers & Insight
+  - Brand & Strategy
+  - Product, Price & Place
+  - Communications & Creative
+  - Digital Marketing
+  - Growth & Analytics
+  - Sales & Customer Relationships
+  - Specialised Marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/discipline.json
+  sha256: f1c9a82d4b8408ba9f8698dac79097226506ec55e70482d01e59ce6ad03b3d97

@@ -1,0 +1,44 @@
+id: mk-qualitative-consumer-research
+name: Qualitative & Ethnographic Consumer Research
+category: Customers & Insight
+level: 3
+priority: advanced
+summary: Deep, interpretive methods for understanding the meanings, practices and contexts behind consumer behaviour.
+prerequisites:
+  - mk-marketing-research-analytics
+related:
+  - cs-ux-design
+  - bu-business-research-methods
+  - py-qualitative-research-methods
+topics:
+  - id: mk-qualitative-consumer-research-1
+    name: Interpretive versus positivist approaches to consumer research
+  - id: mk-qualitative-consumer-research-2
+    name: Depth interviews and laddering (means-end chains)
+  - id: mk-qualitative-consumer-research-3
+    name: "Focus groups: design, moderation and limits"
+  - id: mk-qualitative-consumer-research-4
+    name: Ethnography and in-home observation
+  - id: mk-qualitative-consumer-research-5
+    name: Netnography and online communities
+  - id: mk-qualitative-consumer-research-6
+    name: Diary, mobile and video-based studies
+  - id: mk-qualitative-consumer-research-7
+    name: Projective and creative techniques
+  - id: mk-qualitative-consumer-research-8
+    name: Semiotics and cultural analysis of brands and ads
+  - id: mk-qualitative-consumer-research-9
+    name: Coding and thematic analysis
+  - id: mk-qualitative-consumer-research-10
+    name: "Rigour in qualitative work: credibility and transferability"
+  - id: mk-qualitative-consumer-research-11
+    name: Combining qualitative and quantitative evidence
+  - id: mk-qualitative-consumer-research-12
+    name: Writing insight stories for stakeholders
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-qualitative-consumer-research.json
+  sha256: cc7694ff88873a46157512699cb71ac5bf28ff63268c98361fbaabf5f58a82e2

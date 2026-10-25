@@ -1,0 +1,30 @@
+id: el-prototyping
+name: Prototyping
+category: PCB Design & Hardware Development
+level: 1
+priority: important
+summary: "Turning an idea into working hardware quickly: breadboards, perfboard, quick-turn PCBs, 3D-printed enclosures and dev boards."
+prerequisites:
+  - el-hands-on-electronics
+related:
+  - el-prototyping-rapid-development
+topics:
+  - id: el-prototyping-1
+    name: Breadboarding
+  - id: el-prototyping-2
+    name: Perfboard / stripboard
+  - id: el-prototyping-3
+    name: Rapid prototyping services
+  - id: el-prototyping-4
+    name: 3D printed enclosures
+  - id: el-prototyping-5
+    name: Arduino/Raspberry Pi shields
+  - id: el-prototyping-6
+    name: Development boards and eval kits
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-prototyping.json
+  sha256: eac09e3b9e65239365761faa5569022d066f93d231b68b118244ce6238898e3c

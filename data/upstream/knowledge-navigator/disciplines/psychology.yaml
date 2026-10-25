@@ -1,0 +1,27 @@
+id: psychology
+name: Psychology
+icon: 🧠
+color: "#e879f9"
+prefix: py
+description: The science of mind and behaviour, from brain and perception to thought, emotion, development, personality and social life, plus mental health, psychotherapy, wellbeing and applied psychology.
+categories:
+  - Foundations of Psychology
+  - Research Methods, Statistics & Measurement
+  - Biological Bases of Behaviour
+  - Sensation, Perception & Consciousness
+  - Learning, Memory & Cognition
+  - Emotion & Motivation
+  - Developmental Psychology
+  - Personality & Individual Differences
+  - Social Psychology & Behavioural Science
+  - Mental Health & Psychopathology
+  - Assessment, Psychotherapy & Counselling
+  - Health, Wellbeing & Positive Psychology
+  - Applied Psychology
+  - History, Philosophy & Professional Ethics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/discipline.json
+  sha256: 51be0e4616bac663c0bdd8075e1668be4ccace20ef6cc7c20300902bb8b8e6e3

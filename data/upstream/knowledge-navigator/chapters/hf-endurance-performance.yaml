@@ -1,0 +1,44 @@
+id: hf-endurance-performance
+name: Endurance Performance Training
+category: Sports Performance & Conditioning
+level: 3
+priority: important
+summary: How endurance athletes train, from aerobic base and threshold work to tapering and race preparation.
+prerequisites:
+  - hf-cardiorespiratory-training
+  - hf-applied-exercise-physiology
+related: []
+topics:
+  - id: hf-endurance-performance-1
+    name: "Determinants of endurance performance: VO2max, threshold and economy"
+  - id: hf-endurance-performance-2
+    name: "Training intensity distribution: polarised, pyramidal and threshold models"
+  - id: hf-endurance-performance-3
+    name: Building an aerobic base
+  - id: hf-endurance-performance-4
+    name: Threshold and VO2max interval sessions
+  - id: hf-endurance-performance-5
+    name: Long sessions and race-specific training
+  - id: hf-endurance-performance-6
+    name: Running economy and strength training
+  - id: hf-endurance-performance-7
+    name: Marathon and half-marathon preparation
+  - id: hf-endurance-performance-8
+    name: Cycling and triathlon
+  - id: hf-endurance-performance-9
+    name: Tapering
+  - id: hf-endurance-performance-10
+    name: Heat and altitude training camps
+  - id: hf-endurance-performance-11
+    name: Monitoring with heart rate, power and pace
+  - id: hf-endurance-performance-12
+    name: Overreaching in endurance athletes
+  - id: hf-endurance-performance-13
+    name: Masters endurance athletes
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-endurance-performance.json
+  sha256: 7415297193b90b1a72ddcc28efc56b53a642435f9685d9bcff3765a74633f9e5

@@ -1,0 +1,44 @@
+id: py-applied-behavioural-science-policy
+name: "Applied Behavioural Science: Nudges, Policy & Behaviour Change at Scale"
+category: Applied Psychology
+level: 3
+priority: advanced
+summary: How behavioural insights are used by governments, organisations and health services to design interventions, test them and scale them responsibly.
+prerequisites:
+  - py-judgement-decision-making
+  - py-motivation-habits-behavior-change
+  - py-research-methods-in-psychology
+related:
+  - ma-experimental-design
+  - ma-econometrics
+  - bu-behavioral-economics
+topics:
+  - id: py-applied-behavioural-science-policy-1
+    name: Behavioural insights teams and the rise of applied behavioural science
+  - id: py-applied-behavioural-science-policy-2
+    name: "Frameworks: EAST, MINDSPACE and the Behaviour Change Wheel"
+  - id: py-applied-behavioural-science-policy-3
+    name: "Diagnosing behaviour: behavioural mapping and barriers analysis"
+  - id: py-applied-behavioural-science-policy-4
+    name: "Designing interventions: defaults, reminders, social norms and commitment devices"
+  - id: py-applied-behavioural-science-policy-5
+    name: Testing with randomised trials and A/B tests
+  - id: py-applied-behavioural-science-policy-6
+    name: Effect sizes of nudges and publication bias in nudge research
+  - id: py-applied-behavioural-science-policy-7
+    name: "Scaling up: the voltage effect and implementation science"
+  - id: py-applied-behavioural-science-policy-8
+    name: Boosts and sludge
+  - id: py-applied-behavioural-science-policy-9
+    name: "Applications: tax, pensions, health, energy and education"
+  - id: py-applied-behavioural-science-policy-10
+    name: "Ethics of nudging: autonomy, transparency and manipulation"
+  - id: py-applied-behavioural-science-policy-11
+    name: Behavioural science in organisations and product design
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-applied-behavioural-science-policy.json
+  sha256: 515a5ecba05db9e2f64b544414892133a146679bfbbdb0466f9f4ad496ccb7d8

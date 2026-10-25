@@ -1,0 +1,34 @@
+id: mt-self-healing-materials
+name: Self-Healing & Adaptive Materials
+category: Frontier Materials
+level: 5
+priority: advanced
+summary: Studies materials that repair damage on their own, extending service life of coatings, composites, concrete and soft robots.
+prerequisites:
+  - mt-composites
+  - mt-smart-materials
+related: []
+topics:
+  - id: mt-self-healing-materials-1
+    name: Damage and healing concepts; healing efficiency
+  - id: mt-self-healing-materials-2
+    name: "Extrinsic healing: microcapsules and vascular networks"
+  - id: mt-self-healing-materials-3
+    name: "Intrinsic healing polymers: reversible covalent bonds (Diels-Alder) and supramolecular chemistry"
+  - id: mt-self-healing-materials-4
+    name: Vitrimers and covalent adaptable networks
+  - id: mt-self-healing-materials-5
+    name: Self-healing composites and coatings
+  - id: mt-self-healing-materials-6
+    name: Self-healing concrete (bacterial and autogenous)
+  - id: mt-self-healing-materials-7
+    name: Self-healing metals and ceramics
+  - id: mt-self-healing-materials-8
+    name: Self-healing soft robots and electronics
+discipline: materials
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/materials/mt-self-healing-materials.json
+  sha256: 9c3f8b835c329ff55bf33168954ebebe4dcda6301a13a72b1c840b3280b5268a

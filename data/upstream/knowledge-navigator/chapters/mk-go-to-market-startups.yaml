@@ -1,0 +1,47 @@
+id: mk-go-to-market-startups
+name: Go-to-Market Strategy & Startup Marketing
+category: Brand & Strategy
+level: 2
+priority: important
+summary: How a new company or product finds its first customers, chooses channels and builds a repeatable path to market.
+prerequisites:
+  - mk-segmentation-targeting-positioning
+  - mk-customer-research-basics
+related:
+  - bu-entrepreneurship-startups
+  - mk-growth-marketing
+  - bu-startup-go-to-market
+topics:
+  - id: mk-go-to-market-startups-1
+    name: "Product-market fit: definitions and signals"
+  - id: mk-go-to-market-startups-2
+    name: Ideal customer profile and beachhead market
+  - id: mk-go-to-market-startups-3
+    name: "Crossing the chasm: early adopters to mainstream"
+  - id: mk-go-to-market-startups-4
+    name: Positioning a new product against existing alternatives
+  - id: mk-go-to-market-startups-5
+    name: "Pricing a new product: early pricing and packaging decisions"
+  - id: mk-go-to-market-startups-6
+    name: "Choosing go-to-market motions: self-serve, product-led, sales-led, partner-led"
+  - id: mk-go-to-market-startups-7
+    name: Channel selection and channel-market fit
+  - id: mk-go-to-market-startups-8
+    name: Founder-led sales and early marketing
+  - id: mk-go-to-market-startups-9
+    name: "Launch planning: pre-launch, launch and post-launch"
+  - id: mk-go-to-market-startups-10
+    name: Building an audience and community before launch
+  - id: mk-go-to-market-startups-11
+    name: Unit economics for early-stage go-to-market
+  - id: mk-go-to-market-startups-12
+    name: When to hire the first marketer and salesperson
+  - id: mk-go-to-market-startups-13
+    name: Common go-to-market mistakes
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-go-to-market-startups.json
+  sha256: 2f595c5e89ef918862b56cefc7b6c646082b1b041f95b06e916f5e0f5e0c57aa

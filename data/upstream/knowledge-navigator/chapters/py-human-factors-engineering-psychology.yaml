@@ -1,0 +1,43 @@
+id: py-human-factors-engineering-psychology
+name: Human Factors & Engineering Psychology
+category: Applied Psychology
+level: 3
+priority: advanced
+summary: Applying knowledge of perception, cognition and error to design safer, easier-to-use systems, from cockpits to medical devices and software.
+prerequisites:
+  - py-cognitive-psychology
+  - py-sensation-perception
+related:
+  - cs-hci
+  - cs-ux-design
+  - ai-human-robot-interaction-hri
+topics:
+  - id: py-human-factors-engineering-psychology-1
+    name: "Human factors and ergonomics: scope and history"
+  - id: py-human-factors-engineering-psychology-2
+    name: Human information processing in system design
+  - id: py-human-factors-engineering-psychology-3
+    name: Displays and controls design
+  - id: py-human-factors-engineering-psychology-4
+    name: Mental workload measurement
+  - id: py-human-factors-engineering-psychology-5
+    name: Situation awareness
+  - id: py-human-factors-engineering-psychology-6
+    name: "Human error: Reason's Swiss cheese model and error taxonomies"
+  - id: py-human-factors-engineering-psychology-7
+    name: Automation, trust and complacency
+  - id: py-human-factors-engineering-psychology-8
+    name: Fatigue, shift work and performance
+  - id: py-human-factors-engineering-psychology-9
+    name: Usability testing and user-centred design
+  - id: py-human-factors-engineering-psychology-10
+    name: Aviation, driving and healthcare safety
+  - id: py-human-factors-engineering-psychology-11
+    name: Human-AI teaming
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-human-factors-engineering-psychology.json
+  sha256: fa300112d8836b906de1e57ef43b1dd620c45fdfc5cca8ecf44b8aaed0e1b64e

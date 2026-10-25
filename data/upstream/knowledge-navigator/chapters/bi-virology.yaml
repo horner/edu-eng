@@ -1,0 +1,41 @@
+id: bi-virology
+name: Virology
+category: Microbiology, Virology & Immunology
+level: 3
+priority: important
+summary: "Viruses as molecular parasites: structure, replication strategies, evolution, disease and antiviral defences."
+prerequisites:
+  - bi-microbiology
+related: []
+topics:
+  - id: bi-virology-1
+    name: What is a virus? Structure, capsids, envelopes and classification
+  - id: bi-virology-2
+    name: The Baltimore classification of viral genomes
+  - id: bi-virology-3
+    name: "Viral replication cycle: attachment, entry, uncoating, replication, assembly, release"
+  - id: bi-virology-4
+    name: "Bacteriophages: lytic and lysogenic cycles, phage therapy"
+  - id: bi-virology-5
+    name: DNA viruses (herpes, papilloma, pox)
+  - id: bi-virology-6
+    name: RNA viruses (influenza, coronaviruses, polio, measles)
+  - id: bi-virology-7
+    name: Retroviruses and HIV
+  - id: bi-virology-8
+    name: Viral pathogenesis, tropism and persistence
+  - id: bi-virology-9
+    name: Oncogenic viruses
+  - id: bi-virology-10
+    name: Viral evolution, emergence and zoonoses
+  - id: bi-virology-11
+    name: Antiviral drugs and vaccines
+  - id: bi-virology-12
+    name: Viroids, prions and giant viruses
+discipline: biology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/biology/bi-virology.json
+  sha256: c38ef2bf8bd98a0fc3d40a0416e0eb73ed27ed4b6375de11351b5283a810eb69

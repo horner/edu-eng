@@ -1,0 +1,53 @@
+id: bu-business-models
+name: Business Models & Unit Economics
+category: Entrepreneurship & Startups
+level: 2
+priority: core
+summary: How a business creates, delivers and captures value, and whether each customer or unit sold makes money.
+prerequisites:
+  - bu-entrepreneurship-startups
+  - bu-business-mathematics
+related:
+  - bu-platform-digital-strategy
+  - bu-managerial-cost-accounting
+topics:
+  - id: bu-business-models-1
+    name: What a business model is
+  - id: bu-business-models-2
+    name: The Business Model Canvas and Lean Canvas
+  - id: bu-business-models-3
+    name: Value Proposition Canvas
+  - id: bu-business-models-4
+    name: "Revenue models: sales, subscription, usage, licensing, advertising and commission"
+  - id: bu-business-models-5
+    name: "Common patterns: freemium, marketplace, razor-and-blades and franchise"
+  - id: bu-business-models-6
+    name: Cost structures and fixed vs variable cost
+  - id: bu-business-models-7
+    name: Unit economics
+    sub:
+      - id: bu-business-models-7-1
+        name: Contribution margin per unit
+      - id: bu-business-models-7-2
+        name: Customer acquisition cost (CAC)
+      - id: bu-business-models-7-3
+        name: Customer lifetime value (LTV)
+      - id: bu-business-models-7-4
+        name: CAC payback period
+  - id: bu-business-models-8
+    name: "SaaS and subscription metrics: MRR/ARR, churn and net revenue retention"
+  - id: bu-business-models-9
+    name: "Marketplace metrics: GMV, take rate and liquidity"
+  - id: bu-business-models-10
+    name: Pricing strategy for new ventures
+  - id: bu-business-models-11
+    name: Business model innovation and testing alternatives
+  - id: bu-business-models-12
+    name: "When unit economics do not work: warning signs"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-models.json
+  sha256: c674459ab3c99a75b9c1c9595fdfb55bf563e21fdad3c2dede52317b062b2038

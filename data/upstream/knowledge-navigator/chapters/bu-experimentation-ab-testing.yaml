@@ -1,0 +1,44 @@
+id: bu-experimentation-ab-testing
+name: Business Experiments & A/B Testing
+category: Analytics & Decision Sciences
+level: 3
+priority: important
+summary: Designing, running and interpreting controlled experiments to test business changes.
+prerequisites:
+  - bu-business-statistics-analytics
+related:
+  - mk-marketing-research-analytics
+  - ma-inferential-statistics
+  - mk-ab-testing-experimentation
+topics:
+  - id: bu-experimentation-ab-testing-1
+    name: "Why experiment: causality and the limits of intuition"
+  - id: bu-experimentation-ab-testing-2
+    name: Formulating hypotheses and choosing metrics
+  - id: bu-experimentation-ab-testing-3
+    name: Randomisation and units of analysis
+  - id: bu-experimentation-ab-testing-4
+    name: Sample size and statistical power
+  - id: bu-experimentation-ab-testing-5
+    name: Running A/B tests online
+  - id: bu-experimentation-ab-testing-6
+    name: "Analysing results: significance, confidence intervals and effect sizes"
+  - id: bu-experimentation-ab-testing-7
+    name: "Pitfalls: peeking, multiple testing and novelty effects"
+  - id: bu-experimentation-ab-testing-8
+    name: Guardrail metrics and long-term effects
+  - id: bu-experimentation-ab-testing-9
+    name: "Field experiments offline: stores, pricing and sales teams"
+  - id: bu-experimentation-ab-testing-10
+    name: Multivariate tests and multi-armed bandits
+  - id: bu-experimentation-ab-testing-11
+    name: Building an experimentation culture and platform
+  - id: bu-experimentation-ab-testing-12
+    name: Ethics of experimenting on customers and employees
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-experimentation-ab-testing.json
+  sha256: dabc4e3df27a1ad28cf83b5a35cfca369b762ebd1c29589cbb37f0b9751bf41e

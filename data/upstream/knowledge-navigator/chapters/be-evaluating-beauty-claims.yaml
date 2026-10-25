@@ -1,0 +1,64 @@
+id: be-evaluating-beauty-claims
+name: Judging Beauty Claims, Trends & Evidence
+category: Foundations of Beauty Science
+level: 1
+priority: core
+summary: How to tell which beauty products, ingredients and trends are backed by evidence and which are marketing, myth or risk.
+prerequisites:
+  - be-introduction-to-beauty-science
+related:
+  - bi-biological-inquiry
+  - ma-descriptive-statistics
+  - bi-epidemiology
+topics:
+  - id: be-evaluating-beauty-claims-1
+    name: 'Kinds of beauty claims: cosmetic, structure/function, clinical and "free-from"'
+  - id: be-evaluating-beauty-claims-2
+    name: Reading a study
+    sub:
+      - id: be-evaluating-beauty-claims-2-1
+        name: In vitro, ex vivo and in vivo results
+      - id: be-evaluating-beauty-claims-2-2
+        name: Sample size, controls, placebo and vehicle
+      - id: be-evaluating-beauty-claims-2-3
+        name: Self-assessment versus instrument measurement
+      - id: be-evaluating-beauty-claims-2-4
+        name: Statistical versus visible significance
+      - id: be-evaluating-beauty-claims-2-5
+        name: Who funded it and where it was published
+  - id: be-evaluating-beauty-claims-3
+    name: "The hierarchy of evidence: anecdote, case series, trials, systematic reviews"
+  - id: be-evaluating-beauty-claims-4
+    name: 'Percentages in adverts: "87% saw a difference" and what lies behind it'
+  - id: be-evaluating-beauty-claims-5
+    name: 'Hazard versus risk, dose and exposure: why "chemical-free" is meaningless'
+  - id: be-evaluating-beauty-claims-6
+    name: "Natural, clean and non-toxic: marketing terms without legal definitions"
+  - id: be-evaluating-beauty-claims-7
+    name: "Influencers, reviews and social media trends: incentives and bias"
+  - id: be-evaluating-beauty-claims-8
+    name: Common trends, claims versus evidence
+    sub:
+      - id: be-evaluating-beauty-claims-8-1
+        name: Detox products and cleanses
+      - id: be-evaluating-beauty-claims-8-2
+        name: Jade rollers, gua sha and facial yoga
+      - id: be-evaluating-beauty-claims-8-3
+        name: DIY skincare with kitchen ingredients
+      - id: be-evaluating-beauty-claims-8-4
+        name: Skin fasting, slugging and skin cycling
+      - id: be-evaluating-beauty-claims-8-5
+        name: Ingestible beauty and beauty supplements
+  - id: be-evaluating-beauty-claims-9
+    name: "Dupes, price and quality: what more money does and does not buy"
+  - id: be-evaluating-beauty-claims-10
+    name: "Reliable sources: dermatology bodies, regulators and peer-reviewed reviews"
+  - id: be-evaluating-beauty-claims-11
+    name: "Red flags: miracle claims, before-and-after photos and pressure selling"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-evaluating-beauty-claims.json
+  sha256: c094f7633e685e89f89a2cf59cf61e993ff3cdd039cba8758e0ac05a0f067158

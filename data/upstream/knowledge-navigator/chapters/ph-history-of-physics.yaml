@@ -1,0 +1,27 @@
+id: ph-history-of-physics
+name: History of Physics
+category: Foundations, History & Education
+level: 1
+priority: optional
+summary: How physics developed from ancient natural philosophy to the quantum and relativistic revolutions.
+prerequisites: []
+related:
+  - ph-introductory-astronomy
+topics:
+  - id: ph-history-of-physics-1
+    name: Ancient and medieval physics
+  - id: ph-history-of-physics-2
+    name: Scientific revolution
+  - id: ph-history-of-physics-3
+    name: Classical physics era
+  - id: ph-history-of-physics-4
+    name: Quantum revolution
+  - id: ph-history-of-physics-5
+    name: Modern developments
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-history-of-physics.json
+  sha256: 5abc5502edb90c6d002a3aa3a0590165278781c03e4cc5252cb31fcb13b8eaa0

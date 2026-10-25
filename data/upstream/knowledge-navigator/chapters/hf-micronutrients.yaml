@@ -1,0 +1,65 @@
+id: hf-micronutrients
+name: Vitamins, Minerals & Micronutrients
+category: Nutrition Science
+level: 2
+priority: core
+summary: What each vitamin and mineral does, where it comes from, who is at risk of deficiency or excess, and how status is assessed.
+prerequisites:
+  - hf-nutrition-fundamentals
+related:
+  - bi-biochemistry
+  - be-sun-protection-photoaging
+topics:
+  - id: hf-micronutrients-1
+    name: Classification and general roles of micronutrients
+  - id: hf-micronutrients-2
+    name: Fat-soluble vitamins
+    sub:
+      - id: hf-micronutrients-2-1
+        name: Vitamin A and carotenoids
+      - id: hf-micronutrients-2-2
+        name: Vitamin D
+      - id: hf-micronutrients-2-3
+        name: Vitamin E
+      - id: hf-micronutrients-2-4
+        name: Vitamin K
+  - id: hf-micronutrients-3
+    name: Water-soluble vitamins
+    sub:
+      - id: hf-micronutrients-3-1
+        name: Thiamin, riboflavin and niacin
+      - id: hf-micronutrients-3-2
+        name: Vitamin B6, folate and vitamin B12
+      - id: hf-micronutrients-3-3
+        name: Biotin and pantothenic acid
+      - id: hf-micronutrients-3-4
+        name: Vitamin C
+  - id: hf-micronutrients-4
+    name: "Major minerals: calcium, phosphorus and magnesium"
+  - id: hf-micronutrients-5
+    name: "Electrolytes: sodium, potassium, chloride and water balance"
+  - id: hf-micronutrients-6
+    name: "Trace minerals: iron, zinc, iodine, selenium, copper and fluoride"
+  - id: hf-micronutrients-7
+    name: Bioavailability and nutrient interactions
+  - id: hf-micronutrients-8
+    name: "Classic deficiency diseases: scurvy, rickets, anaemia, goitre and beriberi"
+  - id: hf-micronutrients-9
+    name: Toxicity and tolerable upper intake levels
+  - id: hf-micronutrients-10
+    name: "Groups at risk of shortfalls: vegans, older adults, pregnant women and adolescents"
+  - id: hf-micronutrients-11
+    name: Vitamin D, sunlight and supplementation
+  - id: hf-micronutrients-12
+    name: Food fortification
+  - id: hf-micronutrients-13
+    name: "Phytochemicals and polyphenols: claims versus evidence"
+  - id: hf-micronutrients-14
+    name: Assessing micronutrient status and the limits of blood tests
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-micronutrients.json
+  sha256: a3bd8dba1e59a33db67e3c7a4ce67f3ac27f15b05a6e82b79a0139161b61bef8

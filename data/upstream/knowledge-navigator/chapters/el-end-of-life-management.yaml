@@ -1,0 +1,27 @@
+id: el-end-of-life-management
+name: End-of-Life Management
+category: Professional Practice, Business & Community
+level: 3
+priority: optional
+summary: "Ending a product responsibly: lifecycle planning, obsolescence and last-time buys, legacy support and e-waste recycling."
+prerequisites:
+  - el-supply-chain-sourcing
+related: []
+topics:
+  - id: el-end-of-life-management-1
+    name: Product lifecycle planning
+  - id: el-end-of-life-management-2
+    name: Obsolescence management
+  - id: el-end-of-life-management-3
+    name: Last-time-buy strategies
+  - id: el-end-of-life-management-4
+    name: Legacy support
+  - id: el-end-of-life-management-5
+    name: Recycling and disposal (e-waste)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-end-of-life-management.json
+  sha256: 86b11d29250859628821a5d2c9c661e8caf75dac0259b18aaf5e02f35f413a6f

@@ -1,0 +1,40 @@
+id: mk-political-marketing
+name: Political Marketing & Campaigns
+category: Specialised Marketing
+level: 3
+priority: optional
+summary: How marketing ideas and tools are used in elections, political parties and issue campaigns, and the ethical and democratic questions this raises.
+prerequisites:
+  - mk-integrated-marketing-communications
+related:
+  - mk-privacy-consent-data-protection
+topics:
+  - id: mk-political-marketing-1
+    name: Political marketing as a field
+  - id: mk-political-marketing-2
+    name: Voter behaviour and segmentation
+  - id: mk-political-marketing-3
+    name: Party and candidate branding
+  - id: mk-political-marketing-4
+    name: Campaign strategy and message development
+  - id: mk-political-marketing-5
+    name: "Political advertising: broadcast and digital"
+  - id: mk-political-marketing-6
+    name: Microtargeting and data in campaigns
+  - id: mk-political-marketing-7
+    name: Grassroots organising and get-out-the-vote
+  - id: mk-political-marketing-8
+    name: Media relations and debates
+  - id: mk-political-marketing-9
+    name: Rules on political advertising, spending and transparency
+  - id: mk-political-marketing-10
+    name: Misinformation and disinformation
+  - id: mk-political-marketing-11
+    name: Ethics and democratic concerns
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-political-marketing.json
+  sha256: e04ce1f892ff7e2e902ce064d152671c5a86bd3b991f0f7b88f9691560d9cc4d

@@ -1,0 +1,30 @@
+id: ph-detector-physics
+name: Detector Physics
+category: Experimental Physics & Instrumentation
+level: 3
+priority: advanced
+summary: How radiation and particles interact with matter and how detectors turn those interactions into signals.
+prerequisites:
+  - ph-measurement-instrumentation
+  - ph-nuclear-physics
+related: []
+topics:
+  - id: ph-detector-physics-1
+    name: Particle detectors
+  - id: ph-detector-physics-2
+    name: Scintillators
+  - id: ph-detector-physics-3
+    name: Calorimeters
+  - id: ph-detector-physics-4
+    name: Tracking detectors
+  - id: ph-detector-physics-5
+    name: Photomultipliers and photodetectors
+  - id: ph-detector-physics-6
+    name: Semiconductor detectors
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-detector-physics.json
+  sha256: 1e312c48f0e4d9fe6c3bdf50e58ad657c73f900fd65523b350e484ea252a5bb6

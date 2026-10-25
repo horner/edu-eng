@@ -1,0 +1,41 @@
+id: py-cultural-psychology
+name: Cultural & Cross-Cultural Psychology
+category: Social Psychology & Behavioural Science
+level: 3
+priority: important
+summary: How culture shapes thinking, emotion, self and behaviour, and why findings from Western samples may not generalise.
+prerequisites:
+  - py-social-psychology
+related: []
+topics:
+  - id: py-cultural-psychology-1
+    name: Culture defined; cultural vs cross-cultural psychology
+  - id: py-cultural-psychology-2
+    name: WEIRD samples and the generalisability problem
+  - id: py-cultural-psychology-3
+    name: Individualism-collectivism and other dimensions (Hofstede, Schwartz)
+  - id: py-cultural-psychology-4
+    name: "Culture and cognition: analytic vs holistic thinking"
+  - id: py-cultural-psychology-5
+    name: Culture and the self
+  - id: py-cultural-psychology-6
+    name: Culture and emotion
+  - id: py-cultural-psychology-7
+    name: "Culture, morality and norms: tight vs loose cultures"
+  - id: py-cultural-psychology-8
+    name: Acculturation and migration
+  - id: py-cultural-psychology-9
+    name: Indigenous psychologies
+  - id: py-cultural-psychology-10
+    name: "Culture and mental health: idioms of distress and culture-bound syndromes"
+  - id: py-cultural-psychology-11
+    name: "Methods: translation, equivalence and measurement invariance"
+  - id: py-cultural-psychology-12
+    name: Cultural competence and humility in practice
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-cultural-psychology.json
+  sha256: e21ac55837e5a15a394a7a0d08cbdc61daef1e9af9ea65ac4463693bbc80c45d

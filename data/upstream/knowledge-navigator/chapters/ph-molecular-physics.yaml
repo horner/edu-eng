@@ -1,0 +1,44 @@
+id: ph-molecular-physics
+name: Molecular Physics & Spectroscopy
+category: Atomic, Molecular & Optical Physics
+level: 3
+priority: important
+summary: How atoms bind into molecules and how rotational, vibrational and electronic spectra reveal their structure.
+prerequisites:
+  - ph-atomic-physics
+related:
+  - ph-chemical-physics-physical-chemistry
+  - ch-molecular-spectroscopy
+  - ch-quantum-chemistry
+topics:
+  - id: ph-molecular-physics-1
+    name: The Born-Oppenheimer approximation
+  - id: ph-molecular-physics-2
+    name: The hydrogen molecular ion and covalent bonding
+  - id: ph-molecular-physics-3
+    name: Molecular orbitals and diatomic molecules
+  - id: ph-molecular-physics-4
+    name: "Rotational spectroscopy: rigid rotor and centrifugal distortion"
+  - id: ph-molecular-physics-5
+    name: "Vibrational spectroscopy: harmonic and anharmonic oscillators"
+  - id: ph-molecular-physics-6
+    name: Rovibrational spectra
+  - id: ph-molecular-physics-7
+    name: Electronic transitions and the Franck-Condon principle
+  - id: ph-molecular-physics-8
+    name: Raman scattering and spectroscopy
+  - id: ph-molecular-physics-9
+    name: Molecular symmetry and group theory in spectroscopy
+  - id: ph-molecular-physics-10
+    name: Polyatomic molecules and normal modes
+  - id: ph-molecular-physics-11
+    name: Intermolecular forces and molecular collisions
+  - id: ph-molecular-physics-12
+    name: Molecules in astrophysics and the atmosphere
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-molecular-physics.json
+  sha256: 9370a3145e984d7ef2dab7e22a6d8a92e1b22f0d9819d953c7aca7a1513c8dad

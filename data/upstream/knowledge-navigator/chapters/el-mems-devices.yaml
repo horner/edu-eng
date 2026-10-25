@@ -1,0 +1,31 @@
+id: el-mems-devices
+name: MEMS Devices
+category: Semiconductor Devices & Fabrication
+level: 3
+priority: advanced
+summary: "Micro-electromechanical devices built with chip technology: accelerometers, gyroscopes, pressure sensors, microphones, oscillators and micro-mirrors."
+prerequisites:
+  - el-cmos-technology
+related:
+  - me-micro-nano-mechanics
+  - el-mems-sensor-technologies
+topics:
+  - id: el-mems-devices-1
+    name: MEMS accelerometers and gyroscopes
+  - id: el-mems-devices-2
+    name: MEMS pressure sensors
+  - id: el-mems-devices-3
+    name: MEMS microphones
+  - id: el-mems-devices-4
+    name: MEMS oscillators
+  - id: el-mems-devices-5
+    name: MEMS actuators
+  - id: el-mems-devices-6
+    name: Optical MEMS and micro-mirrors
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-mems-devices.json
+  sha256: 1b2274110bc841da2fd0e01ecc854d8e58725bec46b85d9d3a8a6478ccda6919

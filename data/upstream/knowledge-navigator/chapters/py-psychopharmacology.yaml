@@ -1,0 +1,63 @@
+id: py-psychopharmacology
+name: "Psychopharmacology: Drugs, Brain & Behaviour"
+category: Biological Bases of Behaviour
+level: 3
+priority: important
+summary: How psychoactive drugs and psychiatric medicines act on the brain, what the evidence says about them, and what psychologists need to know when clients take them.
+prerequisites:
+  - py-biological-psychology
+related:
+  - bi-pharmacology
+  - ch-pharmacology-toxicology
+topics:
+  - id: py-psychopharmacology-1
+    name: "Principles of pharmacology: pharmacokinetics, pharmacodynamics, receptors and dose-response"
+  - id: py-psychopharmacology-2
+    name: Tolerance, dependence, withdrawal and sensitisation
+  - id: py-psychopharmacology-3
+    name: Neurotransmitter systems as drug targets
+  - id: py-psychopharmacology-4
+    name: Psychiatric medications
+    sub:
+      - id: py-psychopharmacology-4-1
+        name: "Antidepressants: SSRIs, SNRIs and others"
+      - id: py-psychopharmacology-4-2
+        name: "Anxiolytics and hypnotics: benzodiazepines and alternatives"
+      - id: py-psychopharmacology-4-3
+        name: "Antipsychotics: first and second generation"
+      - id: py-psychopharmacology-4-4
+        name: "Mood stabilisers: lithium and anticonvulsants"
+      - id: py-psychopharmacology-4-5
+        name: Stimulants and non-stimulants for ADHD
+  - id: py-psychopharmacology-5
+    name: Side effects, discontinuation and adherence
+  - id: py-psychopharmacology-6
+    name: "Evidence and controversy: antidepressant efficacy, placebo response and trial design"
+  - id: py-psychopharmacology-7
+    name: Drugs of abuse
+    sub:
+      - id: py-psychopharmacology-7-1
+        name: Alcohol and sedatives
+      - id: py-psychopharmacology-7-2
+        name: "Stimulants: caffeine, nicotine, cocaine and amphetamines"
+      - id: py-psychopharmacology-7-3
+        name: Opioids
+      - id: py-psychopharmacology-7-4
+        name: Cannabis
+      - id: py-psychopharmacology-7-5
+        name: Hallucinogens and dissociatives
+  - id: py-psychopharmacology-8
+    name: Combining medication and psychotherapy
+  - id: py-psychopharmacology-9
+    name: "Working with prescribers: the psychologist's role and limits"
+  - id: py-psychopharmacology-10
+    name: "Prescribing psychologists: debates and jurisdictions"
+  - id: py-psychopharmacology-11
+    name: Drug development, new targets and ketamine-type treatments in outline
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychopharmacology.json
+  sha256: 920d193dddd7bd44e0a60d6bcf99f8cc4de25a4527bdcbbcf45c13281403cf06

@@ -1,0 +1,38 @@
+id: ae-spacecraft-bus-fundamentals
+name: Spacecraft Systems Fundamentals
+category: Spacecraft Subsystems
+level: 2
+priority: core
+summary: "An end-to-end view of a spacecraft: payload and bus, the subsystems, how they interact and the budgets that tie them together."
+prerequisites:
+  - ae-space-environment
+related:
+  - el-space-satellite-systems
+topics:
+  - id: ae-spacecraft-bus-fundamentals-1
+    name: Spacecraft classes and missions
+  - id: ae-spacecraft-bus-fundamentals-2
+    name: Payload versus bus
+  - id: ae-spacecraft-bus-fundamentals-3
+    name: "Subsystem overview: ADCS, propulsion, power, thermal, communications, C&DH, structures"
+  - id: ae-spacecraft-bus-fundamentals-4
+    name: Spacecraft configurations and layout
+  - id: ae-spacecraft-bus-fundamentals-5
+    name: Mass, power, data, pointing and delta-v budgets
+  - id: ae-spacecraft-bus-fundamentals-6
+    name: Margins and contingency
+  - id: ae-spacecraft-bus-fundamentals-7
+    name: Launch vehicle interfaces and the payload user's guide
+  - id: ae-spacecraft-bus-fundamentals-8
+    name: "Mission phases: launch, early operations, commissioning, operations, disposal"
+  - id: ae-spacecraft-bus-fundamentals-9
+    name: Reliability and redundancy at spacecraft level
+  - id: ae-spacecraft-bus-fundamentals-10
+    name: "Case studies: a communications satellite, an Earth observer, a planetary probe"
+discipline: aerospace
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/aerospace/ae-spacecraft-bus-fundamentals.json
+  sha256: bc578034cefe3dd95f1a85481daacdbccb4782bbb3d81203622feceb6ed4568a

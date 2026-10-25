@@ -1,0 +1,46 @@
+id: mk-web-product-analytics
+name: Web & Product Analytics
+category: Growth & Analytics
+level: 2
+priority: core
+summary: Measuring how people find and use websites and products, and turning that data into decisions.
+prerequisites:
+  - mk-digital-marketing
+  - ma-descriptive-statistics
+related:
+  - cs-information-visualization
+  - ai-exploratory-data-analysis-eda
+topics:
+  - id: mk-web-product-analytics-1
+    name: "What to measure: goals, KPIs and a measurement plan"
+  - id: mk-web-product-analytics-2
+    name: "How tracking works: tags, events, cookies and first-party data"
+  - id: mk-web-product-analytics-3
+    name: Event-based analytics (for example GA4)
+  - id: mk-web-product-analytics-4
+    name: Tag management
+  - id: mk-web-product-analytics-5
+    name: Campaign tracking with UTM parameters
+  - id: mk-web-product-analytics-6
+    name: Traffic sources and channel groupings
+  - id: mk-web-product-analytics-7
+    name: Funnels and conversion paths
+  - id: mk-web-product-analytics-8
+    name: Cohorts and retention curves
+  - id: mk-web-product-analytics-9
+    name: "Product analytics: activation, engagement and feature adoption"
+  - id: mk-web-product-analytics-10
+    name: Dashboards and data storytelling
+  - id: mk-web-product-analytics-11
+    name: Data quality, sampling and consent gaps
+  - id: mk-web-product-analytics-12
+    name: Server-side tagging and modelled conversions
+  - id: mk-web-product-analytics-13
+    name: Avoiding vanity metrics
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-web-product-analytics.json
+  sha256: 8e8c5ba3e7dc05e3d5d29d46a693dab499551bbc66481a641e7025a70a2b8f9e

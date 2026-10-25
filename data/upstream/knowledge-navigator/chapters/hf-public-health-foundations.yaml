@@ -1,0 +1,44 @@
+id: hf-public-health-foundations
+name: Foundations of Public Health
+category: Public & Global Health
+level: 2
+priority: important
+summary: How public health protects and improves the health of whole populations, and the core ideas and tools it uses.
+prerequisites:
+  - hf-determinants-of-health
+related:
+  - bi-epidemiology
+topics:
+  - id: hf-public-health-foundations-1
+    name: "History of public health: sanitation, Snow, vaccines and tobacco control"
+  - id: hf-public-health-foundations-2
+    name: Core functions and the 10 Essential Public Health Services
+  - id: hf-public-health-foundations-3
+    name: "Levels of prevention: primary, secondary and tertiary"
+  - id: hf-public-health-foundations-4
+    name: Population and high-risk approaches (Rose's prevention paradox)
+  - id: hf-public-health-foundations-5
+    name: "Measuring population health: mortality, morbidity, DALYs and QALYs"
+  - id: hf-public-health-foundations-6
+    name: "Basic epidemiology: incidence, prevalence and rates"
+  - id: hf-public-health-foundations-7
+    name: Public health surveillance
+  - id: hf-public-health-foundations-8
+    name: Controlling communicable diseases and outbreaks
+  - id: hf-public-health-foundations-9
+    name: Preventing non-communicable diseases
+  - id: hf-public-health-foundations-10
+    name: "Injury prevention: roads, falls and drowning"
+  - id: hf-public-health-foundations-11
+    name: Public health law and ethics
+  - id: hf-public-health-foundations-12
+    name: Public health organisations and workforce
+  - id: hf-public-health-foundations-13
+    name: National health objectives such as Healthy People 2030
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-public-health-foundations.json
+  sha256: 3dfe5bb83ea73f43a364b3b3e5bc8090874d545d3cf57f9081e8906f4de9ace6

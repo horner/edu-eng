@@ -1,0 +1,49 @@
+id: hf-oral-eye-hearing-health
+name: Oral, Eye & Hearing Health
+category: Preventive Health & Lifestyle Medicine
+level: 1
+priority: important
+summary: Looking after teeth and gums, eyesight and hearing, and knowing when to get them checked.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-sensory-systems
+  - be-oral-care-smile
+topics:
+  - id: hf-oral-eye-hearing-health-1
+    name: "Teeth and gums: structure"
+  - id: hf-oral-eye-hearing-health-2
+    name: "Tooth decay and diet: sugar frequency matters"
+  - id: hf-oral-eye-hearing-health-3
+    name: Fluoride
+  - id: hf-oral-eye-hearing-health-4
+    name: Brushing, flossing and cleaning between teeth
+  - id: hf-oral-eye-hearing-health-5
+    name: Gum disease and links to general health
+  - id: hf-oral-eye-hearing-health-6
+    name: Mouth cancer and mouth checks
+  - id: hf-oral-eye-hearing-health-7
+    name: Dental check-ups and tooth whitening
+  - id: hf-oral-eye-hearing-health-8
+    name: The eye and common vision problems
+  - id: hf-oral-eye-hearing-health-9
+    name: Myopia in children and time outdoors
+  - id: hf-oral-eye-hearing-health-10
+    name: Screens and digital eye strain
+  - id: hf-oral-eye-hearing-health-11
+    name: "Eye diseases: cataract, glaucoma, macular degeneration and diabetic retinopathy"
+  - id: hf-oral-eye-hearing-health-12
+    name: Eye tests and protecting eyes from UV and injury
+  - id: hf-oral-eye-hearing-health-13
+    name: How hearing works and noise-induced hearing loss
+  - id: hf-oral-eye-hearing-health-14
+    name: Safe listening, hearing tests and hearing aids
+  - id: hf-oral-eye-hearing-health-15
+    name: Tinnitus
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-oral-eye-hearing-health.json
+  sha256: 5936e8dc81acaba692d4053c9f2d84081ecc28c39e060e4e9d929a2256037a25

@@ -1,0 +1,46 @@
+id: hf-womens-health
+name: Women's Health
+category: Life Stages & Hormonal Health
+level: 2
+priority: important
+summary: Health topics specific to or more common in women, from menstrual health to menopause.
+prerequisites:
+  - hf-hormonal-health
+related:
+  - py-body-image-self-perception
+topics:
+  - id: hf-womens-health-1
+    name: "Menstrual health: what is normal and what is not"
+  - id: hf-womens-health-2
+    name: Period pain and heavy periods
+  - id: hf-womens-health-3
+    name: PMS and PMDD
+  - id: hf-womens-health-4
+    name: Polycystic ovary syndrome (PCOS)
+  - id: hf-womens-health-5
+    name: Endometriosis
+  - id: hf-womens-health-6
+    name: Choosing contraception and its side effects
+  - id: hf-womens-health-7
+    name: Fertility and preconception health
+  - id: hf-womens-health-8
+    name: Breast health and screening
+  - id: hf-womens-health-9
+    name: Cervical health, HPV and screening
+  - id: hf-womens-health-10
+    name: Pelvic floor health
+  - id: hf-womens-health-11
+    name: Perimenopause and menopause symptoms
+  - id: hf-womens-health-12
+    name: "Menopausal hormone therapy: benefits and risks"
+  - id: hf-womens-health-13
+    name: Bone and heart health after menopause
+  - id: hf-womens-health-14
+    name: The under-representation of women in medical research
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-womens-health.json
+  sha256: 90abac0c00c43093eabb0de252ef7a15a9a017cff2466b49c5ee06ced7753fc5

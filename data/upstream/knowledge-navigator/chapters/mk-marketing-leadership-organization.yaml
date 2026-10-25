@@ -1,0 +1,43 @@
+id: mk-marketing-leadership-organization
+name: Marketing Leadership, Organisation & Agencies
+category: Brand & Strategy
+level: 4
+priority: advanced
+summary: How marketing functions are led, structured, resourced and held to account, including working with agencies and partners.
+prerequisites:
+  - mk-marketing-strategy-planning
+  - mk-marketing-roi-budgeting
+related:
+  - bu-organizational-behavior
+topics:
+  - id: mk-marketing-leadership-organization-1
+    name: The chief marketing officer role and marketing's influence in the firm
+  - id: mk-marketing-leadership-organization-2
+    name: "Marketing organisation structures: functional, product, market, matrix"
+  - id: mk-marketing-leadership-organization-3
+    name: Centralised versus local marketing in multi-market firms
+  - id: mk-marketing-leadership-organization-4
+    name: Marketing operations and planning cycles
+  - id: mk-marketing-leadership-organization-5
+    name: "The agency landscape: creative, media, digital, PR and specialist"
+  - id: mk-marketing-leadership-organization-6
+    name: Writing a brief and evaluating creative work
+  - id: mk-marketing-leadership-organization-7
+    name: Agency selection, pitching, remuneration and contracts
+  - id: mk-marketing-leadership-organization-8
+    name: In-housing versus outsourcing
+  - id: mk-marketing-leadership-organization-9
+    name: Marketing and sales alignment
+  - id: mk-marketing-leadership-organization-10
+    name: Building marketing capabilities and teams
+  - id: mk-marketing-leadership-organization-11
+    name: Communicating marketing value to the board and finance
+  - id: mk-marketing-leadership-organization-12
+    name: Marketing transformation and change management
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-marketing-leadership-organization.json
+  sha256: ac28df668f263d7c2410ea150314500305a75ff30cb62f201dfac8f61cf2ffae

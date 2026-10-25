@@ -1,0 +1,59 @@
+id: mk-sales-fundamentals
+name: Selling & Sales Fundamentals
+category: Sales & Customer Relationships
+level: 2
+priority: core
+summary: "How professional selling works: the sales process, buyer conversations, handling objections and closing ethically."
+prerequisites:
+  - mk-marketing-principles
+related:
+  - mk-persuasion-behavioral-economics
+topics:
+  - id: mk-sales-fundamentals-1
+    name: The role of selling in marketing and the business
+  - id: mk-sales-fundamentals-2
+    name: "Types of sales roles: inside, field, account management, retail"
+  - id: mk-sales-fundamentals-3
+    name: The buyer's journey versus the sales process
+  - id: mk-sales-fundamentals-4
+    name: The sales process
+    sub:
+      - id: mk-sales-fundamentals-4-1
+        name: Prospecting and qualifying
+      - id: mk-sales-fundamentals-4-2
+        name: Preparing and pre-call planning
+      - id: mk-sales-fundamentals-4-3
+        name: Opening and discovery
+      - id: mk-sales-fundamentals-4-4
+        name: Presenting solutions
+      - id: mk-sales-fundamentals-4-5
+        name: Handling objections
+      - id: mk-sales-fundamentals-4-6
+        name: Gaining commitment
+      - id: mk-sales-fundamentals-4-7
+        name: Follow-up
+  - id: mk-sales-fundamentals-5
+    name: Questioning and active listening
+  - id: mk-sales-fundamentals-6
+    name: Building trust and rapport
+  - id: mk-sales-fundamentals-7
+    name: Features, advantages and benefits
+  - id: mk-sales-fundamentals-8
+    name: Value propositions in sales conversations
+  - id: mk-sales-fundamentals-9
+    name: Communication styles and adapting to buyers
+  - id: mk-sales-fundamentals-10
+    name: Pipeline management and forecasting basics
+  - id: mk-sales-fundamentals-11
+    name: Using CRM day to day
+  - id: mk-sales-fundamentals-12
+    name: Self-management, resilience and handling rejection
+  - id: mk-sales-fundamentals-13
+    name: Sales ethics and professional standards
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-sales-fundamentals.json
+  sha256: 86c51f5b872082810aa45cc7d96f812fce942b9cf98d816c20987dd180ff1298

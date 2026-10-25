@@ -1,0 +1,43 @@
+id: bu-business-plans-financial-projections
+name: Business Plans & Startup Financial Projections
+category: Entrepreneurship & Startups
+level: 2
+priority: important
+summary: Writing a business plan and pitch deck and building the financial projections that support them.
+prerequisites:
+  - bu-business-models
+  - bu-spreadsheet-modelling
+related:
+  - bu-financial-modelling
+topics:
+  - id: bu-business-plans-financial-projections-1
+    name: When a business plan is useful and when it is not
+  - id: bu-business-plans-financial-projections-2
+    name: Structure of a business plan
+  - id: bu-business-plans-financial-projections-3
+    name: Writing the executive summary
+  - id: bu-business-plans-financial-projections-4
+    name: Market, competition and go-to-market sections
+  - id: bu-business-plans-financial-projections-5
+    name: Operations and team sections
+  - id: bu-business-plans-financial-projections-6
+    name: Revenue forecasts built from drivers
+  - id: bu-business-plans-financial-projections-7
+    name: Cost, hiring and expense plans
+  - id: bu-business-plans-financial-projections-8
+    name: Projected income statement, cash flow and balance sheet
+  - id: bu-business-plans-financial-projections-9
+    name: Break-even, burn rate and runway
+  - id: bu-business-plans-financial-projections-10
+    name: Scenarios and key assumptions
+  - id: bu-business-plans-financial-projections-11
+    name: "Pitch decks: structure and storytelling"
+  - id: bu-business-plans-financial-projections-12
+    name: "Plans for lenders, grant bodies and investors: what each looks for"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-business-plans-financial-projections.json
+  sha256: faf2457be3731b8373a416e5152585e5a15ba2db55c940d1d5f2f375057915c1

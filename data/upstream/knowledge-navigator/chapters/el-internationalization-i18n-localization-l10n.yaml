@@ -1,0 +1,27 @@
+id: el-internationalization-i18n-localization-l10n
+name: Internationalization (i18n) & Localization (l10n)
+category: Embedded Software, Firmware & RTOS
+level: 3
+priority: optional
+summary: "Making device software work across languages and regions: Unicode, formats for dates, numbers, currencies and units."
+prerequisites:
+  - el-firmware-development
+related: []
+topics:
+  - id: el-internationalization-i18n-localization-l10n-1
+    name: Multi-language support
+  - id: el-internationalization-i18n-localization-l10n-2
+    name: Unicode and UTF-8 handling
+  - id: el-internationalization-i18n-localization-l10n-3
+    name: Date, time, and number formatting
+  - id: el-internationalization-i18n-localization-l10n-4
+    name: Currency and unit conversions
+  - id: el-internationalization-i18n-localization-l10n-5
+    name: Locale-specific features
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-internationalization-i18n-localization-l10n.json
+  sha256: d9f7321a6268f2874131320dc92516578de9c5ba1df4f133d4ea85cbc20b3972

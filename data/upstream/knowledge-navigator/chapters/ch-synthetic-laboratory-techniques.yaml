@@ -1,0 +1,42 @@
+id: ch-synthetic-laboratory-techniques
+name: Synthetic & Preparative Laboratory Techniques
+category: Laboratory & Professional Skills
+level: 2
+priority: core
+summary: The hands-on skills for running, working up and purifying reactions, including air-sensitive work.
+prerequisites:
+  - ch-laboratory-safety-basic-skills
+  - ch-states-of-matter-solutions
+related: []
+topics:
+  - id: ch-synthetic-laboratory-techniques-1
+    name: "Reaction setup: glassware assembly, stirring, heating and reflux"
+  - id: ch-synthetic-laboratory-techniques-2
+    name: Measuring and transferring reagents, including syringe and cannula techniques
+  - id: ch-synthetic-laboratory-techniques-3
+    name: Recrystallization and melting-point determination
+  - id: ch-synthetic-laboratory-techniques-4
+    name: Liquid-liquid extraction and drying agents
+  - id: ch-synthetic-laboratory-techniques-5
+    name: Simple, fractional, vacuum and steam distillation; rotary evaporation
+  - id: ch-synthetic-laboratory-techniques-6
+    name: Thin-layer chromatography and flash column chromatography
+  - id: ch-synthetic-laboratory-techniques-7
+    name: Sublimation and other purification methods
+  - id: ch-synthetic-laboratory-techniques-8
+    name: "Air- and moisture-sensitive techniques: Schlenk line, inert gas and glovebox"
+  - id: ch-synthetic-laboratory-techniques-9
+    name: Low-temperature reactions and handling cryogens
+  - id: ch-synthetic-laboratory-techniques-10
+    name: Reaction monitoring and work-up strategies
+  - id: ch-synthetic-laboratory-techniques-11
+    name: Microscale and continuous-flow techniques
+  - id: ch-synthetic-laboratory-techniques-12
+    name: Scale-up considerations and thermal-runaway hazards
+discipline: chemistry
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/chemistry/ch-synthetic-laboratory-techniques.json
+  sha256: 79b863c89779e0114bc4cd785755648b4f7038d1bc09d2b82fb94581ab06ff96

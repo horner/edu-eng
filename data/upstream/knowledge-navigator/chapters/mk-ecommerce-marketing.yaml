@@ -1,0 +1,45 @@
+id: mk-ecommerce-marketing
+name: E-commerce Marketing
+category: Digital Marketing
+level: 2
+priority: important
+summary: "Attracting, converting and retaining online shoppers: store merchandising, acquisition channels, retention and e-commerce economics."
+prerequisites:
+  - mk-conversion-rate-optimization
+related:
+  - mk-retail-shopper-marketing
+  - bu-ecommerce
+topics:
+  - id: mk-ecommerce-marketing-1
+    name: "E-commerce business models: D2C, marketplaces, subscription"
+  - id: mk-ecommerce-marketing-2
+    name: E-commerce platforms and store setup
+  - id: mk-ecommerce-marketing-3
+    name: "Product pages: imagery, copy, reviews and trust"
+  - id: mk-ecommerce-marketing-4
+    name: Site search, navigation and merchandising
+  - id: mk-ecommerce-marketing-5
+    name: Checkout optimisation and payment options
+  - id: mk-ecommerce-marketing-6
+    name: Acquisition channels for online stores
+  - id: mk-ecommerce-marketing-7
+    name: Product feeds and shopping ads
+  - id: mk-ecommerce-marketing-8
+    name: "Retention: email, SMS, loyalty and subscriptions"
+  - id: mk-ecommerce-marketing-9
+    name: "Average order value: bundles, cross-sell and upsell"
+  - id: mk-ecommerce-marketing-10
+    name: Shipping, returns and customer service as marketing
+  - id: mk-ecommerce-marketing-11
+    name: "E-commerce metrics and unit economics: AOV, contribution margin, repeat rate"
+  - id: mk-ecommerce-marketing-12
+    name: Social commerce
+  - id: mk-ecommerce-marketing-13
+    name: Consumer rights in online selling
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-ecommerce-marketing.json
+  sha256: 4dda1747f621d2133ee7c2c89032b209054c3d24e62912b08c3f2732ca2fb99e

@@ -1,0 +1,29 @@
+id: ma-actuarial-mathematics
+name: Actuarial Mathematics
+category: Applied & Interdisciplinary Mathematics
+level: 3
+priority: advanced
+summary: "Mathematics of insurance and pensions: interest theory, survival models and life contingencies."
+prerequisites:
+  - ma-inferential-statistics
+related: []
+topics:
+  - id: ma-actuarial-mathematics-4
+    name: Theory of interest and annuities
+  - id: ma-actuarial-mathematics-5
+    name: Survival models and life tables
+  - id: ma-actuarial-mathematics-1
+    name: Life contingencies
+  - id: ma-actuarial-mathematics-3
+    name: Insurance mathematics
+  - id: ma-actuarial-mathematics-6
+    name: Loss models and credibility theory
+  - id: ma-actuarial-mathematics-2
+    name: Pension mathematics
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-actuarial-mathematics.json
+  sha256: b797c5f91fdc781f679b0a6cac7236cda135d897eaae3c5da14667b9701d977d

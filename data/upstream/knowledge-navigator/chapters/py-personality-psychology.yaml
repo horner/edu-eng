@@ -1,0 +1,48 @@
+id: py-personality-psychology
+name: Personality Psychology
+category: Personality & Individual Differences
+level: 2
+priority: core
+summary: The main theories of personality, from Freud to the Big Five, and how personality is measured, develops and matters for life outcomes.
+prerequisites:
+  - py-introduction-to-psychology
+related: []
+topics:
+  - id: py-personality-psychology-1
+    name: "What personality is: consistency, uniqueness and the person-situation debate"
+  - id: py-personality-psychology-2
+    name: "Psychodynamic theories: Freud, defence mechanisms and neo-Freudians"
+  - id: py-personality-psychology-3
+    name: "Humanistic theories: Rogers and Maslow"
+  - id: py-personality-psychology-4
+    name: Trait theories
+    sub:
+      - id: py-personality-psychology-4-1
+        name: Allport, Cattell and Eysenck
+      - id: py-personality-psychology-4-2
+        name: The Big Five (OCEAN) and the lexical hypothesis
+      - id: py-personality-psychology-4-3
+        name: HEXACO and honesty-humility
+  - id: py-personality-psychology-5
+    name: "Social-cognitive theories: Bandura, Mischel and the CAPS model"
+  - id: py-personality-psychology-6
+    name: "Biological bases: temperament, heritability and neuroscience of traits"
+  - id: py-personality-psychology-7
+    name: "Personality assessment: self-report, observer ratings and projective tests"
+  - id: py-personality-psychology-8
+    name: Personality development and change across life
+  - id: py-personality-psychology-9
+    name: "Personality and life outcomes: health, work and relationships"
+  - id: py-personality-psychology-10
+    name: "The dark triad: narcissism, Machiavellianism and psychopathy"
+  - id: py-personality-psychology-11
+    name: Culture and personality
+  - id: py-personality-psychology-12
+    name: Popular typologies (MBTI, enneagram) vs scientific models
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-personality-psychology.json
+  sha256: 5f17948d3c9d523abe1ff1320567c2a6d116f51e7355d11fa9b7f945a7d7739c

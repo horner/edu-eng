@@ -1,0 +1,41 @@
+id: py-self-compassion-inner-critic
+name: Self-Compassion, Perfectionism & the Inner Critic
+category: Health, Wellbeing & Positive Psychology
+level: 2
+priority: important
+summary: Research on self-criticism, perfectionism and shame, and how self-compassion offers a healthier and evidence-based alternative to harsh self-judgement.
+prerequisites:
+  - py-emotion-and-emotion-regulation
+related: []
+topics:
+  - id: py-self-compassion-inner-critic-1
+    name: "Self-criticism and the inner critic: forms and functions"
+  - id: py-self-compassion-inner-critic-2
+    name: Shame vs guilt
+  - id: py-self-compassion-inner-critic-3
+    name: "Perfectionism: perfectionistic strivings vs concerns"
+  - id: py-self-compassion-inner-critic-4
+    name: Impostor feelings
+  - id: py-self-compassion-inner-critic-5
+    name: "Self-compassion: Neff's three components"
+  - id: py-self-compassion-inner-critic-6
+    name: Gilbert's threat, drive and soothing systems
+  - id: py-self-compassion-inner-critic-7
+    name: Self-compassion vs self-esteem vs self-indulgence
+  - id: py-self-compassion-inner-critic-8
+    name: Evidence on self-compassion and wellbeing, motivation and mental health
+  - id: py-self-compassion-inner-critic-9
+    name: Fears of compassion and why kindness can feel threatening
+  - id: py-self-compassion-inner-critic-10
+    name: "Practices: compassionate letter, self-compassion break and compassionate imagery"
+  - id: py-self-compassion-inner-critic-11
+    name: Mindful Self-Compassion programme and CFT
+  - id: py-self-compassion-inner-critic-12
+    name: "Treating perfectionism: CBT approaches"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-self-compassion-inner-critic.json
+  sha256: 6fa241ee8468e67f6b12bae7bf26d3c92762d3d5b74dd223547e49fd8b3ef57b

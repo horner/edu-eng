@@ -1,0 +1,30 @@
+id: el-field-level-buses
+name: Field-Level Buses
+category: Communication Protocols & Connectivity
+level: 3
+priority: advanced
+summary: "Fieldbuses that connect sensors and actuators to controllers: PROFIBUS DP/PA, DeviceNet, CANopen, AS-i, Foundation Fieldbus and HART."
+prerequisites:
+  - el-industrial-protocols
+related:
+  - el-industrial-protocols
+topics:
+  - id: el-field-level-buses-1
+    name: Profibus DP/PA
+  - id: el-field-level-buses-2
+    name: DeviceNet
+  - id: el-field-level-buses-3
+    name: CANopen
+  - id: el-field-level-buses-4
+    name: AS-Interface (AS-i)
+  - id: el-field-level-buses-5
+    name: Foundation Fieldbus
+  - id: el-field-level-buses-6
+    name: HART protocol
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-field-level-buses.json
+  sha256: 4169ccd16aec55c0351ff5f5406e2e7e7959e4c5d6b7ec54dddd1ab6d89c6954

@@ -1,0 +1,44 @@
+id: bu-general-management
+name: General Management & Senior Leadership
+category: Strategy & Global Business
+level: 4
+priority: advanced
+summary: "Running a whole organisation: integrating functions, allocating resources, working with boards and leading through crises."
+prerequisites:
+  - bu-business-strategy
+  - bu-leadership
+  - bu-corporate-finance
+related:
+  - bu-corporate-governance
+topics:
+  - id: bu-general-management-1
+    name: "The general manager's role: from functional to enterprise view"
+  - id: bu-general-management-2
+    name: "Setting direction: purpose, strategy and priorities"
+  - id: bu-general-management-3
+    name: Designing the top team and the operating rhythm
+  - id: bu-general-management-4
+    name: Resource and capital allocation decisions
+  - id: bu-general-management-5
+    name: Working with the board and investors
+  - id: bu-general-management-6
+    name: Managing performance across business units
+  - id: bu-general-management-7
+    name: Leading transformation and turnarounds
+  - id: bu-general-management-8
+    name: Crisis leadership and decision-making under pressure
+  - id: bu-general-management-9
+    name: Stakeholder management at the top
+  - id: bu-general-management-10
+    name: CEO succession and leadership transitions
+  - id: bu-general-management-11
+    name: Building organisational capabilities for the long term
+  - id: bu-general-management-12
+    name: Personal effectiveness and judgement of senior leaders
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-general-management.json
+  sha256: 86ca7f86b09b75180b6992667fdfa360927ecaf67f13d0be699735217bc694a4

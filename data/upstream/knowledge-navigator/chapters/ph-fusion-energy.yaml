@@ -1,0 +1,37 @@
+id: ph-fusion-energy
+name: Fusion Plasma Physics & Energy
+category: Plasma Physics
+level: 4
+priority: advanced
+summary: The physics and engineering challenges of harnessing nuclear fusion in magnetically or inertially confined plasmas.
+prerequisites:
+  - ph-plasma-physics
+  - ph-nuclear-physics
+related:
+  - ph-energy-physics
+topics:
+  - id: ph-fusion-energy-1
+    name: Fusion reactions, cross-sections and the Lawson criterion
+  - id: ph-fusion-energy-2
+    name: "Magnetic confinement: tokamaks and stellarators"
+  - id: ph-fusion-energy-3
+    name: Plasma heating and current drive
+  - id: ph-fusion-energy-4
+    name: Tokamak equilibrium, stability and disruptions
+  - id: ph-fusion-energy-5
+    name: Turbulent transport and confinement scaling
+  - id: ph-fusion-energy-6
+    name: "Inertial confinement fusion: lasers, NIF and ignition"
+  - id: ph-fusion-energy-7
+    name: Plasma-wall interaction and fusion materials
+  - id: ph-fusion-energy-8
+    name: Burning plasmas, ITER and the road to fusion power plants
+  - id: ph-fusion-energy-9
+    name: Alternative confinement concepts
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-fusion-energy.json
+  sha256: 25d0d70bf1789451ad26153151dad2a12502f71a0f8b13402d6a2d8ce1dd7260

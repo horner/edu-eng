@@ -1,0 +1,43 @@
+id: bu-founding-teams-early-hiring
+name: Co-founders, Early Hiring & Startup Culture
+category: Entrepreneurship & Startups
+level: 2
+priority: important
+summary: Choosing co-founders, splitting equity, making the first hires and setting the culture of a young company.
+prerequisites:
+  - bu-entrepreneurship-startups
+related:
+  - bu-total-rewards
+  - bu-organizational-culture-inclusion
+topics:
+  - id: bu-founding-teams-early-hiring-1
+    name: Solo founder vs co-founders
+  - id: bu-founding-teams-early-hiring-2
+    name: Finding and evaluating co-founders
+  - id: bu-founding-teams-early-hiring-3
+    name: Splitting equity fairly and dynamic equity
+  - id: bu-founding-teams-early-hiring-4
+    name: Founder roles, titles and decision rights
+  - id: bu-founding-teams-early-hiring-5
+    name: Founder conflict and breakups
+  - id: bu-founding-teams-early-hiring-6
+    name: When and whom to hire first
+  - id: bu-founding-teams-early-hiring-7
+    name: "Recruiting without a brand: networks, referrals and outreach"
+  - id: bu-founding-teams-early-hiring-8
+    name: Interviewing and work trials for early employees
+  - id: bu-founding-teams-early-hiring-9
+    name: "Employee equity: option grants, vesting and communicating value"
+  - id: bu-founding-teams-early-hiring-10
+    name: Remote-first and distributed early teams
+  - id: bu-founding-teams-early-hiring-11
+    name: Writing down values and building early culture
+  - id: bu-founding-teams-early-hiring-12
+    name: Advisers and early boards
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-founding-teams-early-hiring.json
+  sha256: c8f841cda41e1f9e06a77c49508f018214692cfb0dab6210b311208ad8563478

@@ -1,0 +1,51 @@
+id: hf-applied-exercise-physiology
+name: Applied Exercise Physiology
+category: Exercise Science
+level: 3
+priority: core
+summary: How body systems respond and adapt to exercise, applied to testing, training and performance.
+prerequisites:
+  - hf-training-principles-adaptations
+  - bi-human-physiology
+related:
+  - bi-exercise-physiology
+  - bi-muscle-biology
+  - bi-metabolism
+topics:
+  - id: hf-applied-exercise-physiology-1
+    name: "Bioenergetics: phosphocreatine, glycolytic and oxidative systems"
+  - id: hf-applied-exercise-physiology-2
+    name: Substrate use during exercise and the crossover concept
+  - id: hf-applied-exercise-physiology-3
+    name: Oxygen uptake kinetics, oxygen deficit and EPOC
+  - id: hf-applied-exercise-physiology-4
+    name: VO2max and its determinants (the Fick equation)
+  - id: hf-applied-exercise-physiology-5
+    name: Lactate and ventilatory thresholds
+  - id: hf-applied-exercise-physiology-6
+    name: "Cardiovascular responses: cardiac output, stroke volume and blood pressure"
+  - id: hf-applied-exercise-physiology-7
+    name: Pulmonary responses and limits to ventilation
+  - id: hf-applied-exercise-physiology-8
+    name: Neuromuscular fatigue
+  - id: hf-applied-exercise-physiology-9
+    name: Endocrine responses to exercise
+  - id: hf-applied-exercise-physiology-10
+    name: "Mechanisms of muscle hypertrophy: mTOR signalling and satellite cells"
+  - id: hf-applied-exercise-physiology-11
+    name: Concurrent training and the interference effect
+  - id: hf-applied-exercise-physiology-12
+    name: Thermoregulation and exercise in heat and cold
+  - id: hf-applied-exercise-physiology-13
+    name: Exercise at altitude
+  - id: hf-applied-exercise-physiology-14
+    name: Sex differences and ageing in exercise physiology
+  - id: hf-applied-exercise-physiology-15
+    name: Exercise and the immune system
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-applied-exercise-physiology.json
+  sha256: 45e47686dedfa4249cef893d15e14abc334222448378a1ee11db3b2b8c2c6932

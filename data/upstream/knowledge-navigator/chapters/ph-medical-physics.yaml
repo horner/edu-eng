@@ -1,0 +1,39 @@
+id: ph-medical-physics
+name: Medical Physics
+category: Applied Physics
+level: 3
+priority: advanced
+summary: "Physics in medicine: imaging, radiotherapy, dosimetry and radiation protection."
+prerequisites:
+  - ph-nuclear-physics
+  - bi-human-anatomy
+related:
+  - el-diagnostic-equipment
+  - bi-radiation-biology
+  - ch-magnetic-resonance
+  - ch-applied-radiochemistry
+  - bi-neurotechnology-methods
+topics:
+  - id: ph-medical-physics-1
+    name: Medical imaging (MRI, CT, PET, ultrasound)
+  - id: ph-medical-physics-2
+    name: Radiotherapy
+  - id: ph-medical-physics-3
+    name: Radiation dosimetry
+  - id: ph-medical-physics-4
+    name: Health physics
+  - id: ph-medical-physics-5
+    name: Nuclear medicine
+  - id: ph-medical-physics-6
+    name: Biophysics applications
+  - id: ph-medical-physics-7
+    name: Optical coherence tomography
+  - id: ph-medical-physics-8
+    name: Therapeutic ultrasound
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-medical-physics.json
+  sha256: f3a2324d2757fd2db71a3383e6e64f71e14725866302da37224c839f05e0624a

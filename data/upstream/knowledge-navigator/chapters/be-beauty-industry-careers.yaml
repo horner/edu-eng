@@ -1,0 +1,53 @@
+id: be-beauty-industry-careers
+name: The Beauty Industry, Business & Careers
+category: Safety, Regulation & Industry
+level: 1
+priority: optional
+summary: How the global beauty industry works, how beauty businesses are run and marketed, and the main career paths and qualifications in beauty and personal care.
+prerequisites:
+  - be-introduction-to-beauty-science
+related:
+  - mk-luxury-fashion-beauty-marketing
+topics:
+  - id: be-beauty-industry-careers-1
+    name: Size and structure of the global beauty market
+  - id: be-beauty-industry-careers-2
+    name: "Product categories and market segments: mass, prestige, professional and indie"
+  - id: be-beauty-industry-careers-3
+    name: "How a beauty brand is built: positioning, branding and storytelling"
+  - id: be-beauty-industry-careers-4
+    name: Retail and e-commerce, direct-to-consumer and social commerce
+  - id: be-beauty-industry-careers-5
+    name: Influencer marketing and its regulation
+  - id: be-beauty-industry-careers-6
+    name: Pricing, dupes and private label
+  - id: be-beauty-industry-careers-7
+    name: "Running a salon, spa or clinic: services, staffing and finance"
+  - id: be-beauty-industry-careers-8
+    name: Careers
+    sub:
+      - id: be-beauty-industry-careers-8-1
+        name: Esthetician, cosmetologist, barber and nail technician
+      - id: be-beauty-industry-careers-8-2
+        name: Makeup artist and hairstylist
+      - id: be-beauty-industry-careers-8-3
+        name: Cosmetic chemist, formulator and safety assessor
+      - id: be-beauty-industry-careers-8-4
+        name: Dermatologist, aesthetic nurse and cosmetic surgeon
+      - id: be-beauty-industry-careers-8-5
+        name: Perfumer and fragrance evaluator
+      - id: be-beauty-industry-careers-8-6
+        name: Image consultant, beauty writer and marketer
+  - id: be-beauty-industry-careers-9
+    name: Licensing, training routes and qualifications by country
+  - id: be-beauty-industry-careers-10
+    name: "Professional bodies: SCC, IFSCC, CIDESCO, AICI and others"
+  - id: be-beauty-industry-careers-11
+    name: Ethics, professionalism and continuing education
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-beauty-industry-careers.json
+  sha256: 4d3e34e127a4a74eb9ce25bc505d19b1c00d2b45ddea9c1c9f4a64e08fdaf176

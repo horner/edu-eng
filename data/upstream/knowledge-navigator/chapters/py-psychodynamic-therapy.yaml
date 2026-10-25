@@ -1,0 +1,37 @@
+id: py-psychodynamic-therapy
+name: Psychodynamic & Psychoanalytic Therapies
+category: Assessment, Psychotherapy & Counselling
+level: 3
+priority: important
+summary: Therapies rooted in psychoanalysis that focus on unconscious patterns, relationships and the past, and the evidence on short-term dynamic work.
+prerequisites:
+  - py-psychotherapy-foundations
+related: []
+topics:
+  - id: py-psychodynamic-therapy-1
+    name: Freud's legacy and psychoanalytic theory in outline
+  - id: py-psychodynamic-therapy-2
+    name: Ego psychology, object relations and self psychology
+  - id: py-psychodynamic-therapy-3
+    name: Attachment theory and relational psychoanalysis
+  - id: py-psychodynamic-therapy-4
+    name: "Core concepts: unconscious, defences, transference and countertransference"
+  - id: py-psychodynamic-therapy-5
+    name: The therapeutic frame and technique
+  - id: py-psychodynamic-therapy-6
+    name: Short-term psychodynamic psychotherapy
+  - id: py-psychodynamic-therapy-7
+    name: Dynamic interpersonal therapy and mentalisation-based treatment
+  - id: py-psychodynamic-therapy-8
+    name: Psychodynamic formulation
+  - id: py-psychodynamic-therapy-9
+    name: "Evidence base: meta-analyses and critiques"
+  - id: py-psychodynamic-therapy-10
+    name: Psychoanalytic ideas in culture and their scientific status
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-psychodynamic-therapy.json
+  sha256: 2a2cf3c60f3bc29c8ca52932625940632d1ef04bc6e7d70bf26b3ef7f92907e1

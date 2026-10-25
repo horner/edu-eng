@@ -1,0 +1,28 @@
+id: el-time-sensitive-networking-tsn
+name: Time-Sensitive Networking (TSN)
+category: Communication Protocols & Connectivity
+level: 4
+priority: advanced
+summary: "IEEE 802.1 TSN: gPTP time synchronization, scheduled traffic, frame preemption and redundancy for deterministic Ethernet."
+prerequisites:
+  - el-deterministic-networking
+related:
+  - cs-advanced-networking
+topics:
+  - id: el-time-sensitive-networking-tsn-1
+    name: IEEE 802.1 TSN standards
+  - id: el-time-sensitive-networking-tsn-2
+    name: Time synchronization (IEEE 802.1AS, gPTP)
+  - id: el-time-sensitive-networking-tsn-3
+    name: Traffic shaping and scheduling
+  - id: el-time-sensitive-networking-tsn-4
+    name: Frame preemption
+  - id: el-time-sensitive-networking-tsn-5
+    name: Redundancy and reliability
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-time-sensitive-networking-tsn.json
+  sha256: 5870d11aa818f0a9044f5f966405e3371be10ccb2db7316c9395bf210cf63aa3

@@ -1,0 +1,40 @@
+id: py-personality-science-advanced
+name: "Personality Science: Structure, Development & Change"
+category: Personality & Individual Differences
+level: 3
+priority: advanced
+summary: Current research on how personality is structured, how it develops and changes, and how it links to behaviour and mental health.
+prerequisites:
+  - py-personality-psychology
+  - py-psychometrics-test-construction
+related: []
+topics:
+  - id: py-personality-science-advanced-1
+    name: "Hierarchical models: facets, aspects and higher-order factors"
+  - id: py-personality-science-advanced-2
+    name: Personality states, whole-trait theory and within-person variability
+  - id: py-personality-science-advanced-3
+    name: Experience sampling approaches to personality
+  - id: py-personality-science-advanced-4
+    name: "Personality development: mean-level and rank-order change"
+  - id: py-personality-science-advanced-5
+    name: Can personality be deliberately changed? Intervention studies
+  - id: py-personality-science-advanced-6
+    name: "Personality and psychopathology: dimensional models"
+  - id: py-personality-science-advanced-7
+    name: Narrative identity and life stories (McAdams)
+  - id: py-personality-science-advanced-8
+    name: Motives, values and goals (Schwartz values)
+  - id: py-personality-science-advanced-9
+    name: "Personality in the digital age: digital footprints and prediction"
+  - id: py-personality-science-advanced-10
+    name: Animal personality
+  - id: py-personality-science-advanced-11
+    name: Cross-cultural replicability of trait models
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-personality-science-advanced.json
+  sha256: f4efa0e33ae408b29866f4e991c7e2bc81a5a4853cbf67f9897014fec32a4515

@@ -1,0 +1,45 @@
+id: py-ethics-professional-practice
+name: Ethics & Professional Practice in Psychology
+category: History, Philosophy & Professional Ethics
+level: 3
+priority: important
+summary: Ethical principles, codes and regulation for psychologists in research and practice, plus training routes and careers in the profession.
+prerequisites:
+  - py-research-methods-in-psychology
+related:
+  - bi-bioethics-biosafety
+  - cs-computing-ethics
+topics:
+  - id: py-ethics-professional-practice-1
+    name: "Ethical principles: beneficence, non-maleficence, autonomy, justice and integrity"
+  - id: py-ethics-professional-practice-2
+    name: APA Ethics Code and BPS Code of Ethics and Conduct
+  - id: py-ethics-professional-practice-3
+    name: "Research ethics: informed consent, deception, vulnerable groups and data protection"
+  - id: py-ethics-professional-practice-4
+    name: Confidentiality and its limits; duty to warn
+  - id: py-ethics-professional-practice-5
+    name: Boundaries and multiple relationships
+  - id: py-ethics-professional-practice-6
+    name: Competence, supervision and continuing professional development
+  - id: py-ethics-professional-practice-7
+    name: Equity, diversity, inclusion and cultural responsiveness
+  - id: py-ethics-professional-practice-8
+    name: Ethical decision-making models
+  - id: py-ethics-professional-practice-9
+    name: "Regulation and titles: HCPC, licensing and protected titles"
+  - id: py-ethics-professional-practice-10
+    name: Telehealth, social media and digital ethics
+  - id: py-ethics-professional-practice-11
+    name: Psychologists in national security, courts and the media
+  - id: py-ethics-professional-practice-12
+    name: "Careers and training routes: clinical, counselling, educational, occupational, forensic, health, sport and research"
+  - id: py-ethics-professional-practice-13
+    name: Self-care, burnout and impairment in practitioners
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-ethics-professional-practice.json
+  sha256: f13529576e8e3b3340bdc7a9da7ef39f6747712b9146ee6535ea23b78bcc65eb

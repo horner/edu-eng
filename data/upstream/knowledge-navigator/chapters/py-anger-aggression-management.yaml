@@ -1,0 +1,61 @@
+id: py-anger-aggression-management
+name: Anger, Aggression & Anger Management
+category: Emotion & Motivation
+level: 2
+priority: important
+summary: Where anger and aggression come from, why venting backfires, and evidence-based ways to manage anger and de-escalate conflict.
+prerequisites:
+  - py-emotion-and-emotion-regulation
+related: []
+topics:
+  - id: py-anger-aggression-management-1
+    name: "Anger as an emotion: triggers, functions and costs"
+  - id: py-anger-aggression-management-2
+    name: Anger vs hostility vs aggression; types of aggression (reactive and proactive)
+  - id: py-anger-aggression-management-3
+    name: "The body in anger: arousal, heart rate and the stress response"
+  - id: py-anger-aggression-management-4
+    name: Theories of aggression
+    sub:
+      - id: py-anger-aggression-management-4-1
+        name: Frustration-aggression hypothesis and its revisions
+      - id: py-anger-aggression-management-4-2
+        name: Social learning of aggression
+      - id: py-anger-aggression-management-4-3
+        name: The General Aggression Model
+  - id: py-anger-aggression-management-5
+    name: Hostile attribution bias and anger-provoking thinking
+  - id: py-anger-aggression-management-6
+    name: "Situational factors: heat, alcohol, provocation, crowding and weapons"
+  - id: py-anger-aggression-management-7
+    name: "Media violence and video games: what the evidence shows"
+  - id: py-anger-aggression-management-8
+    name: Why catharsis and venting backfire
+  - id: py-anger-aggression-management-9
+    name: Evidence-based anger management
+    sub:
+      - id: py-anger-aggression-management-9-1
+        name: Recognising early warning signs and anger logs
+      - id: py-anger-aggression-management-9-2
+        name: "Arousal reduction: time-outs, breathing and relaxation"
+      - id: py-anger-aggression-management-9-3
+        name: Cognitive restructuring of anger thoughts
+      - id: py-anger-aggression-management-9-4
+        name: Novaco's approach and stress inoculation training
+  - id: py-anger-aggression-management-10
+    name: Assertiveness vs aggression vs passivity
+  - id: py-anger-aggression-management-11
+    name: Conflict de-escalation skills
+  - id: py-anger-aggression-management-12
+    name: Forgiveness and letting go of grudges
+  - id: py-anger-aggression-management-13
+    name: Road rage, online anger and workplace aggression
+  - id: py-anger-aggression-management-14
+    name: "When anger signals a bigger problem: intermittent explosive disorder, domestic abuse and where to get help"
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-anger-aggression-management.json
+  sha256: 83d95efaac24fcbb69af647d533c17d8af56e677a5cf38084f20eda8424c0252

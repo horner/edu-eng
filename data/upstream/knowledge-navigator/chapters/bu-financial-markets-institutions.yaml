@@ -1,0 +1,50 @@
+id: bu-financial-markets-institutions
+name: Financial Markets, Banking & Institutions
+category: Finance & Investment
+level: 2
+priority: important
+summary: How money flows through banks, markets and other institutions, and how they are regulated.
+prerequisites:
+  - bu-macroeconomics-for-business
+related:
+  - bu-fintech
+  - bu-investments-portfolio-management
+topics:
+  - id: bu-financial-markets-institutions-1
+    name: The role of the financial system in the economy
+  - id: bu-financial-markets-institutions-2
+    name: Interest rates, yields and the term structure
+  - id: bu-financial-markets-institutions-3
+    name: Commercial banking
+    sub:
+      - id: bu-financial-markets-institutions-3-1
+        name: Balance sheet, deposits and lending
+      - id: bu-financial-markets-institutions-3-2
+        name: Bank capital and liquidity
+      - id: bu-financial-markets-institutions-3-3
+        name: Business banking products
+  - id: bu-financial-markets-institutions-4
+    name: Central banks, lender of last resort and deposit insurance
+  - id: bu-financial-markets-institutions-5
+    name: Money markets and short-term funding
+  - id: bu-financial-markets-institutions-6
+    name: Bond markets and credit ratings
+  - id: bu-financial-markets-institutions-7
+    name: Equity markets, exchanges and IPOs
+  - id: bu-financial-markets-institutions-8
+    name: Investment banks, asset managers and pension funds
+  - id: bu-financial-markets-institutions-9
+    name: Insurance companies and risk pooling
+  - id: bu-financial-markets-institutions-10
+    name: Shadow banking and non-bank lenders
+  - id: bu-financial-markets-institutions-11
+    name: "Financial regulation: Basel accords and national regulators (Fed/SEC, FCA/PRA, ECB, RBI/SEBI)"
+  - id: bu-financial-markets-institutions-12
+    name: "Financial crises: bank runs, contagion and systemic risk"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-financial-markets-institutions.json
+  sha256: f9c44a1a9952cf2fcff2cc43dde0428d85e7b6a88ed6c5912a2e3c1cec0ed0db

@@ -1,0 +1,33 @@
+id: el-long-range-wireless-lpwan
+name: Long-Range Wireless (LPWAN)
+category: Communication Protocols & Connectivity
+level: 3
+priority: important
+summary: "Low-power wide-area networks for kilometre-range IoT: LoRaWAN, Sigfox, NB-IoT and LTE-M."
+prerequisites:
+  - el-short-range-wireless
+related: []
+topics:
+  - id: el-long-range-wireless-lpwan-1
+    name: LoRa / LoRaWAN - chirp spread spectrum, long-range
+  - id: el-long-range-wireless-lpwan-2
+    name: Sigfox - ultra-narrowband, global network
+  - id: el-long-range-wireless-lpwan-3
+    name: NB-IoT (Narrowband IoT) - 3GPP cellular standard
+  - id: el-long-range-wireless-lpwan-4
+    name: LTE-M (Cat-M1) - LTE for machines
+  - id: el-long-range-wireless-lpwan-5
+    name: EC-GSM-IoT - extended coverage GSM
+  - id: el-long-range-wireless-lpwan-6
+    name: LPWAN link budgets, duty-cycle limits and battery life
+  - id: el-long-range-wireless-lpwan-7
+    name: "LoRaWAN network architecture: gateways, network and join servers"
+  - id: el-long-range-wireless-lpwan-8
+    name: Choosing between LPWAN technologies
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-long-range-wireless-lpwan.json
+  sha256: 3b9192b9ff7de0f1a534063fe95b8d9751fdcc69ac241f745cd5c5e4b2cf6e38

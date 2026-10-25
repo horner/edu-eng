@@ -1,0 +1,34 @@
+id: el-neuromorphic-computing
+name: Neuromorphic Computing
+category: Emerging & Advanced Topics
+level: 5
+priority: advanced
+summary: "Brain-inspired hardware: spiking neural networks, event-driven computation, neuromorphic chips and event cameras."
+prerequisites:
+  - el-digital-vlsi-design
+  - ai-neural-network-foundations
+related:
+  - ai-bio-inspired-ai
+  - bi-computational-neuroscience
+  - cs-emerging-systems
+  - ai-hardware-for-ai
+topics:
+  - id: el-neuromorphic-computing-1
+    name: Spiking Neural Networks (SNN)
+  - id: el-neuromorphic-computing-2
+    name: Event-driven computation
+  - id: el-neuromorphic-computing-3
+    name: Brain-inspired architectures
+  - id: el-neuromorphic-computing-4
+    name: Neuromorphic chips (Intel Loihi, IBM TrueNorth, BrainScaleS)
+  - id: el-neuromorphic-computing-5
+    name: Energy-efficient AI
+  - id: el-neuromorphic-computing-6
+    name: Event-based cameras (DVS sensors)
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-neuromorphic-computing.json
+  sha256: 2ff04df0f8daacf9fcd880a6957b17195212e65b438cd9765f6552a31be74ccf

@@ -1,0 +1,45 @@
+id: mk-brand-growth-marketing-science
+name: "How Brands Grow: Evidence-Based Marketing"
+category: Brand & Strategy
+level: 3
+priority: important
+summary: Empirical regularities in buying behaviour and advertising effectiveness, and what they imply for brand strategy and budgets.
+prerequisites:
+  - mk-brand-management
+related:
+  - mk-marketing-models-choice-analytics
+  - mk-attribution-mix-modeling
+topics:
+  - id: mk-brand-growth-marketing-science-1
+    name: Empirical generalisations and how marketing science establishes them
+  - id: mk-brand-growth-marketing-science-2
+    name: "Double jeopardy: small brands have fewer and slightly less loyal buyers"
+  - id: mk-brand-growth-marketing-science-3
+    name: Duplication of purchase and brand competition
+  - id: mk-brand-growth-marketing-science-4
+    name: Light and heavy buyers and the NBD distribution
+  - id: mk-brand-growth-marketing-science-5
+    name: "Loyalty is normal and divided: polygamous loyalty"
+  - id: mk-brand-growth-marketing-science-6
+    name: Mental availability and category entry points
+  - id: mk-brand-growth-marketing-science-7
+    name: "Physical availability: presence, prominence and portfolio"
+  - id: mk-brand-growth-marketing-science-8
+    name: "Distinctive assets: building and measuring them"
+  - id: mk-brand-growth-marketing-science-9
+    name: Reach, continuity and the case for broad targeting
+  - id: mk-brand-growth-marketing-science-10
+    name: Brand building versus sales activation (Binet and Field, IPA databank)
+  - id: mk-brand-growth-marketing-science-11
+    name: Share of voice and excess share of voice
+  - id: mk-brand-growth-marketing-science-12
+    name: Emotional versus rational advertising effects
+  - id: mk-brand-growth-marketing-science-13
+    name: "Debates and limits: where the laws hold and where critics disagree"
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-brand-growth-marketing-science.json
+  sha256: ebf2cdd4d25e0aa67e83bf21591f00ff5f6021090312a6006750b468bf478699

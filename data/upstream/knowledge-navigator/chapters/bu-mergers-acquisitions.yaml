@@ -1,0 +1,44 @@
+id: bu-mergers-acquisitions
+name: Mergers, Acquisitions & Restructuring
+category: Finance & Investment
+level: 4
+priority: advanced
+summary: Why and how companies buy, merge with, sell or restructure businesses, and why many deals fail.
+prerequisites:
+  - bu-valuation
+  - bu-corporate-strategy
+related:
+  - bu-competition-regulatory-law
+  - bu-corporate-governance
+topics:
+  - id: bu-mergers-acquisitions-1
+    name: Motives for M&A and the evidence on value creation
+  - id: bu-mergers-acquisitions-2
+    name: "Types of deals: mergers, acquisitions, divestitures, spin-offs and carve-outs"
+  - id: bu-mergers-acquisitions-3
+    name: "The deal process: targeting, approach, negotiation and closing"
+  - id: bu-mergers-acquisitions-4
+    name: Valuing synergies and setting the bid
+  - id: bu-mergers-acquisitions-5
+    name: "Deal structuring: cash vs stock, earn-outs and asset vs share deals"
+  - id: bu-mergers-acquisitions-6
+    name: Financing acquisitions
+  - id: bu-mergers-acquisitions-7
+    name: Takeover regulation, defences and hostile bids
+  - id: bu-mergers-acquisitions-8
+    name: Antitrust review and merger control
+  - id: bu-mergers-acquisitions-9
+    name: Due diligence and representations and warranties
+  - id: bu-mergers-acquisitions-10
+    name: Post-merger integration and culture
+  - id: bu-mergers-acquisitions-11
+    name: Financial distress, restructuring and insolvency regimes (Chapter 11, UK administration, India IBC)
+  - id: bu-mergers-acquisitions-12
+    name: Shareholder activism and corporate restructuring
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-mergers-acquisitions.json
+  sha256: 78141e91026e49c1da31c7ee37f5076c35207f6c3fb8e29f6b7c22f6a82bd415

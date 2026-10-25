@@ -1,0 +1,33 @@
+id: el-vehicle-electronics-architecture
+name: Vehicle Electronics Architecture
+category: Automotive, Aerospace & Defense Systems
+level: 3
+priority: important
+summary: "How a modern vehicle's electronics are organized: ECUs, domain and zonal architectures, central compute and service-oriented software."
+prerequisites:
+  - el-automotive-protocols
+related: []
+topics:
+  - id: el-vehicle-electronics-architecture-1
+    name: Electronic Control Units (ECUs)
+  - id: el-vehicle-electronics-architecture-2
+    name: Domain controllers (powertrain, chassis, body, infotainment)
+  - id: el-vehicle-electronics-architecture-3
+    name: Zonal architectures
+  - id: el-vehicle-electronics-architecture-4
+    name: Central compute platforms
+  - id: el-vehicle-electronics-architecture-5
+    name: Service-Oriented Architecture (SOA)
+  - id: el-vehicle-electronics-architecture-6
+    name: Vehicle power distribution and wiring harnesses
+  - id: el-vehicle-electronics-architecture-7
+    name: Automotive-grade components (AEC-Q100) and operating environment
+  - id: el-vehicle-electronics-architecture-8
+    name: Software-defined vehicles
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-vehicle-electronics-architecture.json
+  sha256: 406c7b2b43d7e92690834781a6890af53c0e940502756589e1e4ea164c885336

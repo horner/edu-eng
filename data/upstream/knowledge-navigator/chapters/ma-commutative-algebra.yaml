@@ -1,0 +1,37 @@
+id: ma-commutative-algebra
+name: Commutative Algebra
+category: Algebra
+level: 4
+priority: important
+summary: Commutative rings and modules (Noetherian rings, localisation, primary decomposition, dimension), the algebraic engine of algebraic geometry and number theory.
+prerequisites:
+  - ma-ring-theory
+related: []
+topics:
+  - id: ma-commutative-algebra-1
+    name: Ideals and modules
+  - id: ma-commutative-algebra-5
+    name: Exact sequences and tensor products
+  - id: ma-commutative-algebra-3
+    name: Localization
+  - id: ma-commutative-algebra-2
+    name: Noetherian rings
+  - id: ma-commutative-algebra-6
+    name: Hilbert's basis theorem and Nullstellensatz
+  - id: ma-commutative-algebra-4
+    name: Primary decomposition
+  - id: ma-commutative-algebra-7
+    name: Integral extensions
+  - id: ma-commutative-algebra-8
+    name: Dimension theory and Krull dimension
+  - id: ma-commutative-algebra-9
+    name: Dedekind domains and discrete valuation rings
+  - id: ma-commutative-algebra-10
+    name: Completions
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-commutative-algebra.json
+  sha256: 4034e19c57fe3e8a7981a223de248fe5e0dc248eb8fd2c1ae53c98109206d228

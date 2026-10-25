@@ -1,0 +1,42 @@
+id: py-infancy-child-development
+name: Infancy & Child Development
+category: Developmental Psychology
+level: 3
+priority: important
+summary: Cognitive, social and emotional development from birth to late childhood, with the experiments that reveal what babies and children know.
+prerequisites:
+  - py-lifespan-development
+related:
+  - bi-developmental-neurobiology
+topics:
+  - id: py-infancy-child-development-1
+    name: "Methods for studying infants: habituation, looking time and eye tracking"
+  - id: py-infancy-child-development-2
+    name: Infant perception and core knowledge
+  - id: py-infancy-child-development-3
+    name: "Cognitive development after Piaget: information processing and theory theory"
+  - id: py-infancy-child-development-4
+    name: Theory of mind and false-belief tasks
+  - id: py-infancy-child-development-5
+    name: Executive function development
+  - id: py-infancy-child-development-6
+    name: "Language acquisition: statistical learning and the vocabulary spurt"
+  - id: py-infancy-child-development-7
+    name: "Social and emotional development: temperament and emotion understanding"
+  - id: py-infancy-child-development-8
+    name: Play and peer relations
+  - id: py-infancy-child-development-9
+    name: Self-concept and gender development
+  - id: py-infancy-child-development-10
+    name: Moral and prosocial development
+  - id: py-infancy-child-development-11
+    name: Early adversity, poverty and child development
+  - id: py-infancy-child-development-12
+    name: Atypical development in outline
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-infancy-child-development.json
+  sha256: 5edc4f6a44b2359a7f15ee0614e7dfcbcff14df09685f57eefdea935fc2408af

@@ -1,0 +1,39 @@
+id: ph-chemical-physics-physical-chemistry
+name: Chemical Physics & Physical Chemistry
+category: Interdisciplinary Physics
+level: 3
+priority: advanced
+summary: "Physics applied to chemistry: quantum chemistry, reaction dynamics, spectroscopy and surfaces."
+prerequisites:
+  - ph-molecular-physics
+  - ph-thermodynamics-statistical-mechanics
+  - ch-chemical-equilibrium
+related:
+  - ma-mathematical-chemistry
+  - ch-chemical-thermodynamics
+  - ch-quantum-chemistry
+  - ch-chemical-kinetics
+  - ch-molecular-spectroscopy
+  - ch-molecular-reaction-dynamics
+topics:
+  - id: ph-chemical-physics-physical-chemistry-1
+    name: Reaction dynamics
+  - id: ph-chemical-physics-physical-chemistry-2
+    name: Spectroscopy (all types)
+  - id: ph-chemical-physics-physical-chemistry-3
+    name: Molecular structure
+  - id: ph-chemical-physics-physical-chemistry-4
+    name: Quantum chemistry
+  - id: ph-chemical-physics-physical-chemistry-5
+    name: Surface chemistry
+  - id: ph-chemical-physics-physical-chemistry-6
+    name: Photochemistry
+  - id: ph-chemical-physics-physical-chemistry-7
+    name: Catalysis physics
+discipline: physics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/physics/ph-chemical-physics-physical-chemistry.json
+  sha256: fd0758efb68106da5d925f8b180a67e6f5700f6b32e009a41be40b57f5d0f00a

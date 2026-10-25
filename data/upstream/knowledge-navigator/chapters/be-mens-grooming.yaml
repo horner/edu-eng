@@ -1,0 +1,41 @@
+id: be-mens-grooming
+name: Men's Grooming & Skincare
+category: Body Care & Grooming
+level: 1
+priority: important
+summary: "Practical grooming for men: skincare, shaving and beard care, hair, body grooming and fragrance, grounded in how male skin and hair differ."
+prerequisites:
+  - be-skincare-fundamentals
+related: []
+topics:
+  - id: be-mens-grooming-1
+    name: "How male skin differs: thickness, oil and hair"
+  - id: be-mens-grooming-2
+    name: A simple men's skincare routine
+  - id: be-mens-grooming-3
+    name: Wet shaving and electric shaving
+  - id: be-mens-grooming-4
+    name: Beard growth, care, trimming and beard oils
+  - id: be-mens-grooming-5
+    name: Moustache and neckline grooming
+  - id: be-mens-grooming-6
+    name: Hair styling and choosing a barber
+  - id: be-mens-grooming-7
+    name: "Thinning hair and receding hairlines: options"
+  - id: be-mens-grooming-8
+    name: Body grooming and manscaping safely
+  - id: be-mens-grooming-9
+    name: "Fragrance for men: choosing and wearing"
+  - id: be-mens-grooming-10
+    name: Sun protection for men
+  - id: be-mens-grooming-11
+    name: Grooming for work and special occasions
+  - id: be-mens-grooming-12
+    name: "Men's makeup and cosmetic treatments: trends"
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-mens-grooming.json
+  sha256: de835a9d412908954316b37521cb06d559a148f8fb94c0c95ad01957b7f375f3

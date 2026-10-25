@@ -1,0 +1,43 @@
+id: hf-fitness-professional-practice
+name: Fitness Professional Practice, Ethics & Business
+category: Professional Practice & Careers
+level: 3
+priority: optional
+summary: The legal, ethical, safety and business side of working as a fitness or exercise professional.
+prerequisites:
+  - hf-exercise-prescription-program-design
+related: []
+topics:
+  - id: hf-fitness-professional-practice-1
+    name: Careers in fitness, exercise science and health
+  - id: hf-fitness-professional-practice-2
+    name: "Certifications and accreditation: NCCA, CIMSPA and others"
+  - id: hf-fitness-professional-practice-3
+    name: Scope of practice and when to refer
+  - id: hf-fitness-professional-practice-4
+    name: "Legal issues: negligence, liability, informed consent and waivers"
+  - id: hf-fitness-professional-practice-5
+    name: Risk management and emergency action plans
+  - id: hf-fitness-professional-practice-6
+    name: Facility design, layout and maintenance
+  - id: hf-fitness-professional-practice-7
+    name: Equipment safety
+  - id: hf-fitness-professional-practice-8
+    name: Record keeping and data protection
+  - id: hf-fitness-professional-practice-9
+    name: Professional ethics and boundaries
+  - id: hf-fitness-professional-practice-10
+    name: "Business models: gym, personal training and online coaching"
+  - id: hf-fitness-professional-practice-11
+    name: Ethical marketing without false claims
+  - id: hf-fitness-professional-practice-12
+    name: Continuing education and evidence-based practice
+  - id: hf-fitness-professional-practice-13
+    name: Working in multidisciplinary teams
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-fitness-professional-practice.json
+  sha256: 561108b83f188e4b7e00fc90471f098758dda0e915d1752747cf6dfc560001ad

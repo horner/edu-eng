@@ -1,0 +1,40 @@
+id: mk-events-experiential-sponsorship
+name: Events, Experiential Marketing & Sponsorship
+category: Communications & Creative
+level: 2
+priority: important
+summary: Using live and immersive experiences and sponsorship deals to build brands and relationships.
+prerequisites:
+  - mk-integrated-marketing-communications
+related:
+  - mk-b2b-marketing
+topics:
+  - id: mk-events-experiential-sponsorship-1
+    name: "Why experiences work: memory, emotion and word of mouth"
+  - id: mk-events-experiential-sponsorship-2
+    name: "Types of events: trade shows, conferences, launches, pop-ups"
+  - id: mk-events-experiential-sponsorship-3
+    name: Event strategy, objectives and audiences
+  - id: mk-events-experiential-sponsorship-4
+    name: "Planning and running an event: budget, venue, logistics, risk"
+  - id: mk-events-experiential-sponsorship-5
+    name: Virtual and hybrid events
+  - id: mk-events-experiential-sponsorship-6
+    name: Experiential campaigns and brand activations
+  - id: mk-events-experiential-sponsorship-7
+    name: "Sponsorship: selection, fit and contracts"
+  - id: mk-events-experiential-sponsorship-8
+    name: Activating a sponsorship
+  - id: mk-events-experiential-sponsorship-9
+    name: Ambush marketing
+  - id: mk-events-experiential-sponsorship-10
+    name: Measuring event and sponsorship return
+  - id: mk-events-experiential-sponsorship-11
+    name: Sustainability and accessibility at events
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-events-experiential-sponsorship.json
+  sha256: cd4264807b1fb22afd176bb096760a71218b535114b963b045efcbd3f2bec557

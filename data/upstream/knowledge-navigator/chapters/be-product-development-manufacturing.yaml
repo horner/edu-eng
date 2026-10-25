@@ -1,0 +1,60 @@
+id: be-product-development-manufacturing
+name: Product Development, Stability, Packaging & Manufacturing
+category: Cosmetic Chemistry & Formulation
+level: 3
+priority: important
+summary: "How a cosmetic product goes from brief to shelf: development, stability testing, packaging, scale-up, good manufacturing practice and quality control."
+prerequisites:
+  - be-formulation-science
+  - be-preservation-microbiology
+  - ch-laboratory-safety-basic-skills
+related:
+  - ch-industrial-chemistry
+  - ch-separation-science
+  - ch-instrumental-analysis
+topics:
+  - id: be-product-development-manufacturing-1
+    name: The product brief, consumer insight and concept
+  - id: be-product-development-manufacturing-2
+    name: "Lab formulation practice: weighing, phases, heating, homogenising and records"
+  - id: be-product-development-manufacturing-3
+    name: Stability testing
+    sub:
+      - id: be-product-development-manufacturing-3-1
+        name: Accelerated and real-time stability
+      - id: be-product-development-manufacturing-3-2
+        name: Freeze-thaw, centrifuge and light exposure
+      - id: be-product-development-manufacturing-3-3
+        name: Physical, chemical and microbiological stability
+      - id: be-product-development-manufacturing-3-4
+        name: Setting shelf life and period after opening
+  - id: be-product-development-manufacturing-4
+    name: Packaging compatibility and packaging materials
+  - id: be-product-development-manufacturing-5
+    name: Scale-up from lab to pilot to production
+  - id: be-product-development-manufacturing-6
+    name: "Manufacturing equipment: mixers, homogenisers and filling lines"
+  - id: be-product-development-manufacturing-7
+    name: Good manufacturing practice (ISO 22716)
+  - id: be-product-development-manufacturing-8
+    name: Quality control
+    sub:
+      - id: be-product-development-manufacturing-8-1
+        name: Specifications and release testing
+      - id: be-product-development-manufacturing-8-2
+        name: "Analytical methods: pH, viscosity, HPLC and GC"
+      - id: be-product-development-manufacturing-8-3
+        name: Batch records, deviations and corrective actions
+  - id: be-product-development-manufacturing-9
+    name: Contract manufacturing and private label
+  - id: be-product-development-manufacturing-10
+    name: Cost of goods and formula optimisation
+  - id: be-product-development-manufacturing-11
+    name: Technology transfer and launch
+discipline: beauty
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/beauty/be-product-development-manufacturing.json
+  sha256: 563c4e54d0aed72c9fe251673172625ecefee1460c130637707f746354115f04

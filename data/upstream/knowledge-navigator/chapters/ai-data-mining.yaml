@@ -1,0 +1,34 @@
+id: ai-data-mining
+name: Data Mining
+category: Data Science
+level: 3
+priority: important
+summary: "Discovering patterns in large datasets: frequent patterns and association rules, sequential patterns, anomalies and link analysis."
+prerequisites:
+  - ai-types-of-machine-learning
+  - ai-databases
+related:
+  - cs-information-retrieval
+  - ai-anomaly-detection
+topics:
+  - id: ai-data-mining-1
+    name: Pattern Discovery
+  - id: ai-data-mining-2
+    name: Association Rules
+  - id: ai-data-mining-3
+    name: Sequential Pattern Mining
+  - id: ai-data-mining-4
+    name: Anomaly Detection
+  - id: ai-data-mining-5
+    name: Link Analysis
+  - id: ai-data-mining-6
+    name: Text and web mining
+  - id: ai-data-mining-7
+    name: Graph mining
+discipline: ai
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/ai/ai-data-mining.json
+  sha256: 7ebbd343691d7be375d8df97095b23e31f3961e31366ae9f74e086f918761387

@@ -1,0 +1,48 @@
+id: hf-sleep-science
+name: Sleep Science & Sleep Health
+category: Sleep, Recovery & Stress
+level: 2
+priority: core
+summary: Why we sleep, how sleep and the body clock work, and how sleep affects physical health and performance.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-behavioral-neuroscience
+topics:
+  - id: hf-sleep-science-1
+    name: What sleep is and why we need it
+  - id: hf-sleep-science-2
+    name: "Sleep stages and sleep architecture: NREM and REM"
+  - id: hf-sleep-science-3
+    name: "The two-process model: sleep pressure and the circadian clock"
+  - id: hf-sleep-science-4
+    name: Circadian rhythms, the suprachiasmatic nucleus, light and melatonin
+  - id: hf-sleep-science-5
+    name: How much sleep we need across the lifespan (AASM and National Sleep Foundation)
+  - id: hf-sleep-science-6
+    name: Chronotypes
+  - id: hf-sleep-science-7
+    name: "Sleep and physical health: metabolism, immunity and the heart"
+  - id: hf-sleep-science-8
+    name: Sleep, exercise and athletic performance
+  - id: hf-sleep-science-9
+    name: Effects of sleep deprivation
+  - id: hf-sleep-science-10
+    name: Napping
+  - id: hf-sleep-science-11
+    name: Shift work and jet lag
+  - id: hf-sleep-science-12
+    name: Caffeine, alcohol, screens and sleep
+  - id: hf-sleep-science-13
+    name: Sleep hygiene and what the evidence supports
+  - id: hf-sleep-science-14
+    name: "Sleep trackers: how accurate are they?"
+  - id: hf-sleep-science-15
+    name: Signs that a sleep problem needs a doctor
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-sleep-science.json
+  sha256: 37e0a6e23beab8233cb2c8a217904611ddd14ed0debbd578a2cffc78f6484950

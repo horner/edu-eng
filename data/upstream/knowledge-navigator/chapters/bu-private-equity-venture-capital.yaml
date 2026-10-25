@@ -1,0 +1,42 @@
+id: bu-private-equity-venture-capital
+name: Private Equity & Venture Capital
+category: Finance & Investment
+level: 4
+priority: advanced
+summary: How private equity and venture capital funds raise money, pick and structure deals, add value and exit.
+prerequisites:
+  - bu-valuation
+related:
+  - bu-startup-finance-fundraising
+topics:
+  - id: bu-private-equity-venture-capital-1
+    name: "The private capital landscape: VC, growth, buyout and private credit"
+  - id: bu-private-equity-venture-capital-2
+    name: "Fund structure: GPs, LPs, management fees and carried interest"
+  - id: bu-private-equity-venture-capital-3
+    name: Fundraising from limited partners and LP due diligence
+  - id: bu-private-equity-venture-capital-4
+    name: "Venture capital economics: power laws and portfolio construction"
+  - id: bu-private-equity-venture-capital-5
+    name: Sourcing and screening deals
+  - id: bu-private-equity-venture-capital-6
+    name: Venture term sheets from the investor's side
+  - id: bu-private-equity-venture-capital-7
+    name: "Leveraged buyouts: debt structure and value-creation levers"
+  - id: bu-private-equity-venture-capital-8
+    name: "Due diligence: commercial, financial and legal"
+  - id: bu-private-equity-venture-capital-9
+    name: Portfolio company governance and operational improvement
+  - id: bu-private-equity-venture-capital-10
+    name: "Exits: IPOs, trade sales, secondaries and continuation funds"
+  - id: bu-private-equity-venture-capital-11
+    name: "Measuring returns: IRR, TVPI, DPI and public market equivalents"
+  - id: bu-private-equity-venture-capital-12
+    name: Regional differences in private capital markets
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-private-equity-venture-capital.json
+  sha256: 3c3c92c5255aae829c9980d6136172eec2523ab7d82fa6952ea7056a1cccb520

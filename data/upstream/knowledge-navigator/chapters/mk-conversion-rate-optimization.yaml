@@ -1,0 +1,44 @@
+id: mk-conversion-rate-optimization
+name: Websites, Landing Pages & Conversion Optimisation
+category: Digital Marketing
+level: 2
+priority: important
+summary: Designing websites and landing pages that turn visitors into customers, and improving them systematically with research and testing.
+prerequisites:
+  - mk-digital-marketing
+  - mk-marketing-maths-metrics
+related:
+  - cs-ux-design
+  - cs-web-fundamentals
+topics:
+  - id: mk-conversion-rate-optimization-1
+    name: The website's role in the marketing system
+  - id: mk-conversion-rate-optimization-2
+    name: Information architecture and navigation
+  - id: mk-conversion-rate-optimization-3
+    name: Usability heuristics for marketing sites
+  - id: mk-conversion-rate-optimization-4
+    name: "Landing page anatomy: message match, proof, call to action"
+  - id: mk-conversion-rate-optimization-5
+    name: Forms and checkout friction
+  - id: mk-conversion-rate-optimization-6
+    name: Page speed and Core Web Vitals
+  - id: mk-conversion-rate-optimization-7
+    name: Accessibility standards (WCAG) for marketers
+  - id: mk-conversion-rate-optimization-8
+    name: "Conversion research: analytics, heatmaps, session recordings, user tests"
+  - id: mk-conversion-rate-optimization-9
+    name: Building hypotheses and prioritising tests
+  - id: mk-conversion-rate-optimization-10
+    name: A/B testing basics and common mistakes
+  - id: mk-conversion-rate-optimization-11
+    name: Personalisation on websites
+  - id: mk-conversion-rate-optimization-12
+    name: Content management systems and site builders
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-conversion-rate-optimization.json
+  sha256: 23fb1326223c57fb44c63741091028364431768ce0fdbf7697499204eecd75c5

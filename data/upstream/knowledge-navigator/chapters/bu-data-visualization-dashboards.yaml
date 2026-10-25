@@ -1,0 +1,44 @@
+id: bu-data-visualization-dashboards
+name: Data Visualisation & Dashboards for Business
+category: Analytics & Decision Sciences
+level: 2
+priority: important
+summary: Turning business data into clear charts, reports and dashboards that people use to make decisions.
+prerequisites:
+  - bu-spreadsheet-modelling
+  - ma-descriptive-statistics
+related:
+  - cs-information-visualization
+  - bu-presentation-persuasion
+topics:
+  - id: bu-data-visualization-dashboards-1
+    name: "Why visualisation matters: perception and pre-attentive attributes"
+  - id: bu-data-visualization-dashboards-2
+    name: Choosing the right chart for the question
+  - id: bu-data-visualization-dashboards-3
+    name: "Design principles: decluttering, colour and emphasis"
+  - id: bu-data-visualization-dashboards-4
+    name: Common chart mistakes and misleading visuals
+  - id: bu-data-visualization-dashboards-5
+    name: Designing KPIs and metric definitions
+  - id: bu-data-visualization-dashboards-6
+    name: "Dashboard design: layout, audience and drill-down"
+  - id: bu-data-visualization-dashboards-7
+    name: "Business intelligence tools (Power BI, Tableau, Looker): concepts"
+  - id: bu-data-visualization-dashboards-8
+    name: "Data preparation for reporting: joins, aggregation and data models"
+  - id: bu-data-visualization-dashboards-9
+    name: SQL basics for business analysts
+  - id: bu-data-visualization-dashboards-10
+    name: Data storytelling and narrative reports
+  - id: bu-data-visualization-dashboards-11
+    name: Self-service analytics and data governance
+  - id: bu-data-visualization-dashboards-12
+    name: Accessibility in charts and dashboards
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-data-visualization-dashboards.json
+  sha256: 8ab60056614d2670b3a1ced7f1d926915e2388633fbac8e63704695b23f31e45

@@ -1,0 +1,44 @@
+id: hf-life-stage-nutrition
+name: Nutrition Across the Life Cycle
+category: Applied Nutrition & Dietetics
+level: 2
+priority: important
+summary: How nutritional needs change from before conception and pregnancy through infancy, childhood, adulthood and old age.
+prerequisites:
+  - hf-micronutrients
+  - hf-macronutrients
+related: []
+topics:
+  - id: hf-life-stage-nutrition-1
+    name: Preconception nutrition
+  - id: hf-life-stage-nutrition-2
+    name: "Pregnancy: folate, iodine, iron, weight gain and foods to avoid"
+  - id: hf-life-stage-nutrition-3
+    name: Lactation
+  - id: hf-life-stage-nutrition-4
+    name: "Infant feeding: breastfeeding and formula"
+  - id: hf-life-stage-nutrition-5
+    name: Introducing solid foods and allergens
+  - id: hf-life-stage-nutrition-6
+    name: "Toddlers and pre-schoolers: fussy eating and growth"
+  - id: hf-life-stage-nutrition-7
+    name: School-age children
+  - id: hf-life-stage-nutrition-8
+    name: "Adolescents: growth, iron, calcium and sport"
+  - id: hf-life-stage-nutrition-9
+    name: "Adults: nutrition for long-term health"
+  - id: hf-life-stage-nutrition-10
+    name: Nutrition through the menopause
+  - id: hf-life-stage-nutrition-11
+    name: "Older adults: protein, vitamin D, B12 and hydration"
+  - id: hf-life-stage-nutrition-12
+    name: Malnutrition and poor appetite in older age
+  - id: hf-life-stage-nutrition-13
+    name: Nutrition at the end of life
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-life-stage-nutrition.json
+  sha256: 06b758aaf5bf66354df925cc19fb20da3f71c93134bbfb918a90138cd16fe169

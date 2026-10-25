@@ -1,0 +1,45 @@
+id: hf-sleep-disorders
+name: Sleep Disorders & Sleep Medicine Basics
+category: Sleep, Recovery & Stress
+level: 3
+priority: important
+summary: The main sleep disorders, how they are diagnosed, and the evidence-based treatments for them.
+prerequisites:
+  - hf-sleep-science
+related:
+  - py-health-psychology
+  - py-sleep-insomnia-mental-health
+topics:
+  - id: hf-sleep-disorders-1
+    name: Classifying sleep disorders (ICSD-3)
+  - id: hf-sleep-disorders-2
+    name: "Insomnia: causes, maintaining factors and CBT-I as first-line treatment"
+  - id: hf-sleep-disorders-3
+    name: "Obstructive sleep apnoea: risk factors, screening (STOP-BANG) and CPAP"
+  - id: hf-sleep-disorders-4
+    name: Restless legs syndrome
+  - id: hf-sleep-disorders-5
+    name: Narcolepsy and other hypersomnias
+  - id: hf-sleep-disorders-6
+    name: Circadian rhythm sleep-wake disorders
+  - id: hf-sleep-disorders-7
+    name: Parasomnias
+  - id: hf-sleep-disorders-8
+    name: Sleep problems in children
+  - id: hf-sleep-disorders-9
+    name: Sleep in pregnancy and menopause
+  - id: hf-sleep-disorders-10
+    name: "Sleep medicines and melatonin: evidence and risks"
+  - id: hf-sleep-disorders-11
+    name: Polysomnography and home sleep testing
+  - id: hf-sleep-disorders-12
+    name: Sleep and mental health
+  - id: hf-sleep-disorders-13
+    name: Fatigue at work and drowsy driving
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-sleep-disorders.json
+  sha256: 04b178770289ca7640a6720c1d09a55da4e40b2504fee6fdee5da00286a32e7e

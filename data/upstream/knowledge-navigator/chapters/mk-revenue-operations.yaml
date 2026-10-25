@@ -1,0 +1,43 @@
+id: mk-revenue-operations
+name: Sales & Revenue Operations
+category: Sales & Customer Relationships
+level: 3
+priority: advanced
+summary: The operations function that aligns marketing, sales and customer success around shared processes, data, tools and planning.
+prerequisites:
+  - mk-sales-management
+  - mk-crm-marketing-automation
+related:
+  - mk-martech-data-stack
+topics:
+  - id: mk-revenue-operations-1
+    name: What revenue operations (RevOps) is and why it emerged
+  - id: mk-revenue-operations-2
+    name: "The revenue engine: lifecycle stages and handovers"
+  - id: mk-revenue-operations-3
+    name: Funnel definitions and shared metrics
+  - id: mk-revenue-operations-4
+    name: CRM administration and data governance
+  - id: mk-revenue-operations-5
+    name: Lead and account routing
+  - id: mk-revenue-operations-6
+    name: Territory and capacity planning
+  - id: mk-revenue-operations-7
+    name: Forecasting methods and forecast accuracy
+  - id: mk-revenue-operations-8
+    name: Deal desk and quote-to-cash
+  - id: mk-revenue-operations-9
+    name: Sales enablement operations and tooling
+  - id: mk-revenue-operations-10
+    name: Revenue analytics and reporting
+  - id: mk-revenue-operations-11
+    name: Commission operations
+  - id: mk-revenue-operations-12
+    name: Annual planning and go-to-market modelling
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-revenue-operations.json
+  sha256: 3a2074021804ebd6a6e4e6cf592c38bdede03f03b3ed7dbd722ce4fbfd70b9c8

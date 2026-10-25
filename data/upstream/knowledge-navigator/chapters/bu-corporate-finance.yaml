@@ -1,0 +1,54 @@
+id: bu-corporate-finance
+name: Corporate Finance
+category: Finance & Investment
+level: 3
+priority: core
+summary: How companies decide which investments to make, how to fund them, and how to manage cash and return it to owners.
+prerequisites:
+  - bu-financial-accounting
+  - bu-business-statistics-analytics
+related:
+  - ma-financial-mathematics
+topics:
+  - id: bu-corporate-finance-1
+    name: The goal of the firm and the role of the financial manager
+  - id: bu-corporate-finance-2
+    name: Time value of money and discounted cash flow
+  - id: bu-corporate-finance-3
+    name: Capital budgeting
+    sub:
+      - id: bu-corporate-finance-3-1
+        name: Net present value
+      - id: bu-corporate-finance-3-2
+        name: IRR, payback and their pitfalls
+      - id: bu-corporate-finance-3-3
+        name: Estimating incremental cash flows
+  - id: bu-corporate-finance-4
+    name: "Risk and return: diversification and portfolio risk"
+  - id: bu-corporate-finance-5
+    name: The capital asset pricing model and beta
+  - id: bu-corporate-finance-6
+    name: Cost of capital and WACC
+  - id: bu-corporate-finance-7
+    name: Efficient markets and what they imply for managers
+  - id: bu-corporate-finance-8
+    name: Debt and equity financing instruments
+  - id: bu-corporate-finance-9
+    name: "Capital structure: Modigliani-Miller, tax shields and distress costs"
+  - id: bu-corporate-finance-10
+    name: "Payout policy: dividends and share buybacks"
+  - id: bu-corporate-finance-11
+    name: "Working capital management: cash, receivables, inventory and payables"
+  - id: bu-corporate-finance-12
+    name: Short-term financing and liquidity planning
+  - id: bu-corporate-finance-13
+    name: "Raising capital: IPOs, seasoned offerings and private placements"
+  - id: bu-corporate-finance-14
+    name: Agency problems and corporate financial policy
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-corporate-finance.json
+  sha256: e0557ab78e9273e2c517aa9214e098e21e925f64dbe6315309a7f9abcc6ede1f

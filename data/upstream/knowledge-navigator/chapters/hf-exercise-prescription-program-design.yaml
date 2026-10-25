@@ -1,0 +1,45 @@
+id: hf-exercise-prescription-program-design
+name: Exercise Prescription & Programme Design
+category: Fitness Training & Programme Design
+level: 3
+priority: core
+summary: How to turn assessment results and goals into safe, effective, individualised exercise programmes.
+prerequisites:
+  - hf-fitness-assessment
+  - hf-resistance-training
+  - hf-cardiorespiratory-training
+related: []
+topics:
+  - id: hf-exercise-prescription-program-design-1
+    name: Needs analysis and goal setting with clients
+  - id: hf-exercise-prescription-program-design-2
+    name: FITT-VP prescriptions for aerobic, resistance, flexibility and neuromotor exercise
+  - id: hf-exercise-prescription-program-design-3
+    name: Combining components into a weekly plan
+  - id: hf-exercise-prescription-program-design-4
+    name: "Programme templates by goal: health, fat loss, hypertrophy, strength and endurance"
+  - id: hf-exercise-prescription-program-design-5
+    name: Exercise selection and order
+  - id: hf-exercise-prescription-program-design-6
+    name: Warm-up design (the RAMP framework)
+  - id: hf-exercise-prescription-program-design-7
+    name: Progression and regression models
+  - id: hf-exercise-prescription-program-design-8
+    name: Autoregulation
+  - id: hf-exercise-prescription-program-design-9
+    name: Deloads and variation
+  - id: hf-exercise-prescription-program-design-10
+    name: Designing for adherence
+  - id: hf-exercise-prescription-program-design-11
+    name: Documenting programmes
+  - id: hf-exercise-prescription-program-design-12
+    name: Evaluating and adjusting a programme
+  - id: hf-exercise-prescription-program-design-13
+    name: Programming for groups and online clients
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-exercise-prescription-program-design.json
+  sha256: a536ef6080fd93d2baec3f9ad104ef1109815433a20cb91ac49f2169c24daac4

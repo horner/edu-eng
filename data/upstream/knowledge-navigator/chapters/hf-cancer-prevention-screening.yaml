@@ -1,0 +1,49 @@
+id: hf-cancer-prevention-screening
+name: Cancer Prevention & Screening
+category: Preventive Health & Lifestyle Medicine
+level: 2
+priority: important
+summary: The modifiable causes of cancer, the evidence on lifestyle and cancer, and the benefits and harms of screening.
+prerequisites:
+  - hf-human-body-basics
+related:
+  - bi-cancer-biology
+  - be-sun-protection-photoaging
+topics:
+  - id: hf-cancer-prevention-screening-1
+    name: What cancer is, in plain terms
+  - id: hf-cancer-prevention-screening-2
+    name: The global burden of cancer
+  - id: hf-cancer-prevention-screening-3
+    name: "Modifiable risk factors: tobacco, alcohol, excess weight, diet, inactivity, UV and infections"
+  - id: hf-cancer-prevention-screening-4
+    name: "Cancer prevention recommendations: the European Code Against Cancer and WCRF"
+  - id: hf-cancer-prevention-screening-5
+    name: "Diet and cancer: processed meat, fibre and other evidence"
+  - id: hf-cancer-prevention-screening-6
+    name: Physical activity and cancer
+  - id: hf-cancer-prevention-screening-7
+    name: HPV and hepatitis B vaccination
+  - id: hf-cancer-prevention-screening-8
+    name: Sun protection
+  - id: hf-cancer-prevention-screening-9
+    name: Environmental and workplace carcinogens and how to read IARC classifications
+  - id: hf-cancer-prevention-screening-10
+    name: "Principles of screening: benefits, harms and overdiagnosis"
+  - id: hf-cancer-prevention-screening-11
+    name: Breast, cervical, bowel and lung screening
+  - id: hf-cancer-prevention-screening-12
+    name: Prostate cancer and the PSA debate
+  - id: hf-cancer-prevention-screening-13
+    name: Body awareness and warning signs
+  - id: hf-cancer-prevention-screening-14
+    name: Family history and inherited risk such as BRCA and Lynch syndrome
+  - id: hf-cancer-prevention-screening-15
+    name: Cancer myths
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-cancer-prevention-screening.json
+  sha256: f74f735fac9158d2d56b6a19bf555fc4359aed96fef564f42dbc3545a0c2975a

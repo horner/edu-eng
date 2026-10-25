@@ -1,0 +1,50 @@
+id: mk-ai-in-marketing
+name: AI in Marketing
+category: Growth & Analytics
+level: 3
+priority: important
+summary: How machine learning and generative AI are used in marketing and sales, and how to use them effectively, honestly and safely.
+prerequisites:
+  - mk-digital-marketing
+  - mk-marketing-research-analytics
+related:
+  - ai-llm-application-engineering
+  - ai-recommender-systems
+  - ai-fairness-in-ml
+  - bu-ai-for-business
+topics:
+  - id: mk-ai-in-marketing-1
+    name: "A short history of AI in marketing: from scoring models to generative AI"
+  - id: mk-ai-in-marketing-2
+    name: "Predictive uses: scoring, forecasting, churn and propensity"
+  - id: mk-ai-in-marketing-3
+    name: Personalisation and recommendation
+  - id: mk-ai-in-marketing-4
+    name: Automated bidding and platform AI
+  - id: mk-ai-in-marketing-5
+    name: Generative AI for copy, images and video
+  - id: mk-ai-in-marketing-6
+    name: Prompting and workflows for marketing teams
+  - id: mk-ai-in-marketing-7
+    name: "AI for research: synthetic data, synthetic respondents and their validity"
+  - id: mk-ai-in-marketing-8
+    name: Conversational marketing and chatbots
+  - id: mk-ai-in-marketing-9
+    name: "AI in sales: call analysis, assistants and agents"
+  - id: mk-ai-in-marketing-10
+    name: AI search and generative engine optimisation
+  - id: mk-ai-in-marketing-11
+    name: Quality control, hallucination and brand risk
+  - id: mk-ai-in-marketing-12
+    name: Copyright, disclosure and AI regulation
+  - id: mk-ai-in-marketing-13
+    name: Bias and fairness in marketing AI
+  - id: mk-ai-in-marketing-14
+    name: Measuring the value of AI adoption
+discipline: marketing
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/marketing/mk-ai-in-marketing.json
+  sha256: e0f164484ab0399bbd137ce69fe221e91f507c814a04be977ce243dfb3e963ce

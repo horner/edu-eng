@@ -1,0 +1,45 @@
+id: bu-machine-learning-for-business
+name: Machine Learning for Business
+category: Analytics & Decision Sciences
+level: 3
+priority: advanced
+summary: Applying predictive models such as classification, clustering and recommendation to business problems, and judging their value.
+prerequisites:
+  - bu-regression-forecasting
+related:
+  - ai-core-ml-concepts
+  - ai-recommender-systems
+  - ai-fairness-in-ml
+  - mk-customer-analytics
+topics:
+  - id: bu-machine-learning-for-business-1
+    name: Prediction vs explanation in business analytics
+  - id: bu-machine-learning-for-business-2
+    name: "The ML workflow: problem framing, data, model, deployment"
+  - id: bu-machine-learning-for-business-3
+    name: "Classification models: trees, random forests and gradient boosting"
+  - id: bu-machine-learning-for-business-4
+    name: "Evaluating classifiers: confusion matrix, ROC and cost-based metrics"
+  - id: bu-machine-learning-for-business-5
+    name: Clustering for customer segmentation
+  - id: bu-machine-learning-for-business-6
+    name: Churn prediction and customer lifetime value models
+  - id: bu-machine-learning-for-business-7
+    name: Recommendation systems in practice
+  - id: bu-machine-learning-for-business-8
+    name: Text analytics for reviews and support tickets
+  - id: bu-machine-learning-for-business-9
+    name: Using generative AI and LLMs in analytics workflows
+  - id: bu-machine-learning-for-business-10
+    name: Model monitoring, drift and maintenance
+  - id: bu-machine-learning-for-business-11
+    name: Fairness, explainability and regulation of automated decisions
+  - id: bu-machine-learning-for-business-12
+    name: Estimating the business value and ROI of ML projects
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-machine-learning-for-business.json
+  sha256: 673e925bee69d80f5005f4b09af4b32a561145a76b483a6a68f362d08fadb215

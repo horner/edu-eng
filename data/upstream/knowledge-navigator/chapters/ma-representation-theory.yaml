@@ -1,0 +1,37 @@
+id: ma-representation-theory
+name: Representation Theory
+category: Algebra
+level: 3
+priority: important
+summary: "Groups acting by matrices: representations and characters of finite groups, the bridge from group theory to physics, chemistry and number theory."
+prerequisites:
+  - ma-group-theory
+related:
+  - ma-symmetries-groups-in-physics
+  - ph-symmetry-group-theory
+topics:
+  - id: ma-representation-theory-1
+    name: Representations, subrepresentations and group algebras
+  - id: ma-representation-theory-2
+    name: Maschke's theorem and complete reducibility
+  - id: ma-representation-theory-3
+    name: Schur's lemma
+  - id: ma-representation-theory-4
+    name: Characters and orthogonality relations
+  - id: ma-representation-theory-5
+    name: Character tables of small groups
+  - id: ma-representation-theory-6
+    name: Tensor products, induced and restricted representations; Frobenius reciprocity
+  - id: ma-representation-theory-7
+    name: Representations of the symmetric group
+  - id: ma-representation-theory-8
+    name: Burnside's pq theorem and other applications
+  - id: ma-representation-theory-9
+    name: Introduction to representations of compact groups (SU(2), SO(3))
+discipline: math
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/math/ma-representation-theory.json
+  sha256: facf9dd21747c54cad0e9c0587825f35d7b5a1ad9cca535a823712b91c287ab8

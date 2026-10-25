@@ -1,0 +1,56 @@
+id: bu-supply-chain-management
+name: Supply Chain Management
+category: Operations, Supply Chain & Projects
+level: 3
+priority: important
+summary: Designing and running the network of suppliers, plants, warehouses and transport that delivers products to customers.
+prerequisites:
+  - bu-operations-management
+  - bu-business-statistics-analytics
+related:
+  - bu-procurement-sourcing
+  - ai-time-series-forecasting
+  - mk-distribution-channels
+topics:
+  - id: bu-supply-chain-management-1
+    name: Supply chain strategy and fit with business strategy
+  - id: bu-supply-chain-management-2
+    name: "Supply chain network design: facility location and capacity"
+  - id: bu-supply-chain-management-3
+    name: Demand forecasting for supply chains
+  - id: bu-supply-chain-management-4
+    name: Sales and operations planning (S&OP)
+  - id: bu-supply-chain-management-5
+    name: The bullwhip effect and information sharing
+  - id: bu-supply-chain-management-6
+    name: "Inventory in the supply chain: safety stock and risk pooling"
+  - id: bu-supply-chain-management-7
+    name: Logistics and transportation
+    sub:
+      - id: bu-supply-chain-management-7-1
+        name: Transport modes and costs
+      - id: bu-supply-chain-management-7-2
+        name: Warehousing and distribution centres
+      - id: bu-supply-chain-management-7-3
+        name: Last-mile delivery
+  - id: bu-supply-chain-management-8
+    name: "Global supply chains: trade lanes, tariffs and Incoterms"
+  - id: bu-supply-chain-management-9
+    name: Supplier relationships and collaboration
+  - id: bu-supply-chain-management-10
+    name: Reverse logistics and returns
+  - id: bu-supply-chain-management-11
+    name: Supply chain risk and resilience
+  - id: bu-supply-chain-management-12
+    name: "Sustainable and ethical supply chains: emissions and labour standards"
+  - id: bu-supply-chain-management-13
+    name: Supply chain metrics and the SCOR model
+  - id: bu-supply-chain-management-14
+    name: "Supply chain technology: ERP, visibility and analytics"
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-supply-chain-management.json
+  sha256: 33ba07de686586355a4d27dfb17a59216d1e6fa45f78d6b3c7f44b9d794fe41a

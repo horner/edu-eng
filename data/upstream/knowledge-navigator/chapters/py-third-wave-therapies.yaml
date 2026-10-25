@@ -1,0 +1,52 @@
+id: py-third-wave-therapies
+name: "Third-Wave Therapies: ACT, DBT, CFT & Mindfulness-Based Approaches"
+category: Assessment, Psychotherapy & Counselling
+level: 4
+priority: important
+summary: Newer contextual and acceptance-based therapies that focus on how people relate to their thoughts and feelings rather than only on changing them.
+prerequisites:
+  - py-cognitive-behavioural-therapy
+  - py-mindfulness-contemplative-science
+related: []
+topics:
+  - id: py-third-wave-therapies-1
+    name: "What makes therapies 'third wave': context, acceptance and process"
+  - id: py-third-wave-therapies-2
+    name: Relational frame theory in outline
+  - id: py-third-wave-therapies-3
+    name: Acceptance and Commitment Therapy (ACT)
+    sub:
+      - id: py-third-wave-therapies-3-1
+        name: Psychological flexibility and the hexaflex
+      - id: py-third-wave-therapies-3-2
+        name: Defusion, acceptance and values
+      - id: py-third-wave-therapies-3-3
+        name: Committed action
+  - id: py-third-wave-therapies-4
+    name: Dialectical Behaviour Therapy (DBT)
+    sub:
+      - id: py-third-wave-therapies-4-1
+        name: Biosocial theory
+      - id: py-third-wave-therapies-4-2
+        name: "Skills modules: mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness"
+      - id: py-third-wave-therapies-4-3
+        name: Standard DBT programme structure
+  - id: py-third-wave-therapies-5
+    name: Compassion-Focused Therapy (CFT) and the three-system model
+  - id: py-third-wave-therapies-6
+    name: Mindfulness-Based Cognitive Therapy (MBCT) for recurrent depression
+  - id: py-third-wave-therapies-7
+    name: Metacognitive therapy
+  - id: py-third-wave-therapies-8
+    name: Functional analytic psychotherapy
+  - id: py-third-wave-therapies-9
+    name: Schema therapy
+  - id: py-third-wave-therapies-10
+    name: Evidence base and how it compares with traditional CBT
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-third-wave-therapies.json
+  sha256: 01dd18fadbab799c6af2f60be244f73b035df12f2edc06d10921e34951aaab8c

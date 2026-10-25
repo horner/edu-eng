@@ -1,0 +1,32 @@
+id: el-sequential-logic
+name: Sequential Logic
+category: Digital Electronics
+level: 2
+priority: core
+summary: "Circuits with memory: latches, flip-flops, registers, counters and Moore/Mealy state machines."
+prerequisites:
+  - el-combinational-logic
+related:
+  - cs-computer-organization
+topics:
+  - id: el-sequential-logic-2
+    name: Latches and registers
+  - id: el-sequential-logic-1
+    name: Flip-flops (SR, D, JK, T)
+  - id: el-sequential-logic-3
+    name: Shift registers (serial, parallel, bidirectional)
+  - id: el-sequential-logic-4
+    name: Counters (binary, BCD, ring, Johnson)
+  - id: el-sequential-logic-5
+    name: State machines (Moore and Mealy)
+  - id: el-sequential-logic-7
+    name: "Finite-state machine design procedure: state diagrams, encoding and minimization"
+  - id: el-sequential-logic-6
+    name: Synchronous and asynchronous design
+discipline: electronics
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/electronics/el-sequential-logic.json
+  sha256: 9f92ab41bc60938fd25a8384684cc920a02b7f7a0732cf9b73d9d52a2863df30

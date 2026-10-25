@@ -1,0 +1,48 @@
+id: bi-brain-computer-interfaces
+name: Brain-Computer Interfaces & Neuroprosthetics
+category: Neuroscience
+level: 5
+priority: advanced
+summary: "Connecting brains directly to machines: decoding intended movement and speech, restoring sensation, and the frontier of implanted neural interfaces."
+prerequisites:
+  - bi-neurotechnology-methods
+  - bi-motor-systems
+  - bi-computational-neuroscience
+  - ai-core-ml-concepts
+related:
+  - el-implantable-devices
+  - el-biomedical-signal-processing
+  - el-bio-integrated-electronics
+  - ai-human-robot-interaction-hri
+topics:
+  - id: bi-brain-computer-interfaces-1
+    name: "BCI architectures: invasive, partially invasive and non-invasive"
+  - id: bi-brain-computer-interfaces-2
+    name: "Control signals: motor imagery, P300, SSVEP and intracortical spikes"
+  - id: bi-brain-computer-interfaces-3
+    name: "Motor decoding: Kalman filters, population vectors and deep-learning decoders"
+  - id: bi-brain-computer-interfaces-4
+    name: Closed-loop BCIs, learning and co-adaptation between user and decoder
+  - id: bi-brain-computer-interfaces-5
+    name: Speech and handwriting neuroprostheses
+  - id: bi-brain-computer-interfaces-6
+    name: "Restoring sensation: intracortical and peripheral nerve stimulation"
+  - id: bi-brain-computer-interfaces-7
+    name: Peripheral nerve interfaces and EMG-based control
+  - id: bi-brain-computer-interfaces-8
+    name: Functional electrical stimulation to reanimate paralysed limbs
+  - id: bi-brain-computer-interfaces-9
+    name: Spinal cord stimulation for walking
+  - id: bi-brain-computer-interfaces-10
+    name: "Implant engineering constraints: power, wireless data, longevity"
+  - id: bi-brain-computer-interfaces-11
+    name: "Evaluating BCIs: bit rate, performance metrics and clinical trials"
+  - id: bi-brain-computer-interfaces-12
+    name: "Neuroethics: agency, privacy and identity"
+discipline: biology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/biology/bi-brain-computer-interfaces.json
+  sha256: 74c55d315bb1acc2f4461cff07ccb9ad14288fa5a25876b87f0b69f5b7003b41

@@ -1,0 +1,45 @@
+id: py-language-psycholinguistics
+name: Psychology of Language
+category: Learning, Memory & Cognition
+level: 3
+priority: important
+summary: How people understand, produce and acquire language, from speech sounds and words to sentences and conversation.
+prerequisites:
+  - py-cognitive-psychology
+related:
+  - ai-nlp-tasks-applications
+  - ai-large-language-models-llms
+topics:
+  - id: py-language-psycholinguistics-1
+    name: "What language is: levels of structure from phonology to pragmatics"
+  - id: py-language-psycholinguistics-2
+    name: Speech perception
+  - id: py-language-psycholinguistics-3
+    name: Visual word recognition and reading
+  - id: py-language-psycholinguistics-4
+    name: The mental lexicon and word meaning
+  - id: py-language-psycholinguistics-5
+    name: Sentence processing and ambiguity
+  - id: py-language-psycholinguistics-6
+    name: Discourse, inference and conversation
+  - id: py-language-psycholinguistics-7
+    name: Language production and speech errors
+  - id: py-language-psycholinguistics-8
+    name: Language acquisition in children
+  - id: py-language-psycholinguistics-9
+    name: Bilingualism and second-language learning
+  - id: py-language-psycholinguistics-10
+    name: "Language and thought: linguistic relativity"
+  - id: py-language-psycholinguistics-11
+    name: Dyslexia and developmental language disorder
+  - id: py-language-psycholinguistics-12
+    name: Sign languages
+  - id: py-language-psycholinguistics-13
+    name: Large language models and human language processing
+discipline: psychology
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/psychology/py-language-psycholinguistics.json
+  sha256: afde511ac111b9232fdd1d8e223c84966e8887a24cd879d778d8b86ebb94cd50

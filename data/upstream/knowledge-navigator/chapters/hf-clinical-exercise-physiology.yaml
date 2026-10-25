@@ -1,0 +1,47 @@
+id: hf-clinical-exercise-physiology
+name: Clinical Exercise Physiology
+category: Fitness Training & Programme Design
+level: 4
+priority: advanced
+summary: Exercise testing and training for people with cardiovascular, pulmonary, metabolic and other chronic diseases.
+prerequisites:
+  - hf-exercise-special-populations
+  - bi-pathophysiology-human-disease
+related:
+  - bi-pharmacology
+topics:
+  - id: hf-clinical-exercise-physiology-1
+    name: The clinical exercise physiologist's role
+  - id: hf-clinical-exercise-physiology-2
+    name: Graded exercise testing and ECG basics
+  - id: hf-clinical-exercise-physiology-3
+    name: Cardiopulmonary exercise testing (CPET)
+  - id: hf-clinical-exercise-physiology-4
+    name: Cardiac rehabilitation phases
+  - id: hf-clinical-exercise-physiology-5
+    name: Heart failure
+  - id: hf-clinical-exercise-physiology-6
+    name: "Pulmonary rehabilitation: COPD, asthma and respiratory muscle training"
+  - id: hf-clinical-exercise-physiology-7
+    name: "Metabolic disease: diabetes and MASLD"
+  - id: hf-clinical-exercise-physiology-8
+    name: Chronic kidney disease
+  - id: hf-clinical-exercise-physiology-9
+    name: "Cancer: prehabilitation and exercise during treatment"
+  - id: hf-clinical-exercise-physiology-10
+    name: Orthopaedic and post-surgical conditions
+  - id: hf-clinical-exercise-physiology-11
+    name: Neuromuscular disease
+  - id: hf-clinical-exercise-physiology-12
+    name: "ME/CFS and post-exertional malaise: why graded exercise is not recommended"
+  - id: hf-clinical-exercise-physiology-13
+    name: Contraindications, emergency procedures and supervision levels
+  - id: hf-clinical-exercise-physiology-14
+    name: Exercise is Medicine and referral pathways
+discipline: health
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/health/hf-clinical-exercise-physiology.json
+  sha256: 7c0d4b02e81fa44438916296f1b0a9faf71b8e71a8c111a0cf7cffa6830d7545

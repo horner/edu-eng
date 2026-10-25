@@ -1,0 +1,47 @@
+id: bu-sustainability-esg
+name: Sustainable Business & ESG
+category: Law, Governance, Ethics & Sustainability
+level: 2
+priority: important
+summary: How companies manage their environmental and social impacts, climate risk and ESG reporting, and how to tell real progress from greenwashing.
+prerequisites:
+  - bu-business-ethics
+related:
+  - ea-sustainability-science
+  - ea-climate-change-impacts-mitigation-adaptation
+  - bu-social-entrepreneurship
+  - mk-marketing-ethics-sustainability
+topics:
+  - id: bu-sustainability-esg-1
+    name: Sustainability, the triple bottom line and the business case
+  - id: bu-sustainability-esg-2
+    name: UN Sustainable Development Goals and the UN Global Compact principles
+  - id: bu-sustainability-esg-3
+    name: Materiality and stakeholder engagement
+  - id: bu-sustainability-esg-4
+    name: "Climate change and business: physical and transition risks"
+  - id: bu-sustainability-esg-5
+    name: "Carbon accounting: Scope 1, 2 and 3 emissions (GHG Protocol)"
+  - id: bu-sustainability-esg-6
+    name: Net zero targets, science-based targets and carbon offsets
+  - id: bu-sustainability-esg-7
+    name: Circular economy and resource efficiency
+  - id: bu-sustainability-esg-8
+    name: Human rights and labour standards in supply chains
+  - id: bu-sustainability-esg-9
+    name: "ESG reporting frameworks: GRI, ISSB (IFRS S1/S2), EU CSRD and India BRSR"
+  - id: bu-sustainability-esg-10
+    name: ESG ratings and their limits
+  - id: bu-sustainability-esg-11
+    name: "Greenwashing: claims vs evidence"
+  - id: bu-sustainability-esg-12
+    name: "Sustainable finance: green bonds and ESG investing (overview)"
+  - id: bu-sustainability-esg-13
+    name: Integrating sustainability into strategy and operations
+discipline: business
+ownership: upstream
+source:
+  repository: https://github.com/MohamedMuneerM/knowledge-navigator
+  revision: c26f8337f42f6dd3bbe5e007263fa92399f1b96e
+  path: data/disciplines/business/bu-sustainability-esg.json
+  sha256: 8a7e3d2215420c52531f4ef7a11338775d1a1b08f36bbc2dbfa01dc02b3918e1
