@@ -14,7 +14,7 @@ The prototype must provide:
 - A Knowledge Navigator-style browse view and a roadmap.sh-style graph view over the same data.
 - A tested Knowledge Navigator export for supported fields, with a report of extensions that its current application cannot display.
 - Indiana Tech branding as the default demonstration profile, with configuration-based support for another university.
-- A static deployment suitable for GitHub Pages, with no server required for the demonstration.
+- A static site suitable for GitHub Pages, with all application behavior and visitor state in the browser and no login required.
 
 This document is the implementation assignment. Do not check off implementation tasks merely because they have been described here. Treat the proposed curriculum as a design for review. Keep its status distinct from Indiana Tech's existing approved degree and from an accreditation determination.
 
@@ -26,7 +26,7 @@ A visitor selects a university and the biomedical program, explores all eight se
 
 - Implement our two presentation modes using our own UI. A roadmap-style view does not depend on importing roadmap.sh's application or content.
 - Make Knowledge Navigator synchronization one-way into this repository for the PoC. Sending changes upstream is a separate contribution action.
-- Use synthetic or nonsensitive demonstration progress and evidence. Authentication, an LMS, a production gradebook, and multi-user progress synchronization are later work.
+- Use synthetic or nonsensitive demonstration progress and evidence stored in the visitor's browser. No accounts, login, application backend, database, serverless functions, LMS, production gradebook, or multi-user progress synchronization are part of this prototype.
 - Link to Huddle and Pulse initially. Their APIs and single sign-on are not dependencies for this prototype.
 - Do not create a new paid subscription, scheduled synchronization, or external publication as an implicit implementation step.
 
@@ -67,6 +67,7 @@ For a task requiring several commits, put its ID in every commit and leave its c
 
 - [x] **BIO-000 — Record the implementation assignment.** Preserve the existing introduction, README, and curation skill; add this plan; validate document links and task IDs; commit the planning baseline. The initial evidence is this plan, its source table, and the planning commit. All implementation checkboxes below start unchecked.
 - [x] **BIO-001 — Set Indiana Tech as the prototype brand.** Update the README, brand sources, planned configuration path, and implementation acceptance criteria to use Indiana Tech's institutional identity while preserving configuration-based support for other universities. Record source verification and document checks in `docs/progress/BIO-001.md`. This completes the planning amendment; BIO-050 and BIO-051 remain implementation tasks.
+- [x] **BIO-002 — Make the static-only architecture explicit.** Document browser-only behavior, no login, local state and portable backups, and the separation between build-time synchronization and the deployed site. Update implementation acceptance criteria and record checks in `docs/progress/BIO-002.md`. This completes the planning amendment; the application tasks remain unchecked.
 
 ## 4. Technical design to implement
 
@@ -77,6 +78,16 @@ Use React, TypeScript, and Vite for a static application. Use `@mieweb/ui` for t
 Use a supported Node LTS release, pinned in the repository during setup, and pnpm pinned through `packageManager`. Record tested versions and commit the lockfile. Use Vitest for import/merge/validation behavior and Playwright for the small set of essential browser journeys. Pin versions during implementation rather than copying unverified version numbers from this plan.
 
 Primary implementation references: [Vite static deployment](https://vite.dev/guide/static-deploy.html#github-pages), [React Flow](https://reactflow.dev/learn), [layout guidance](https://reactflow.dev/learn/layouting/layouting), [graph accessibility](https://reactflow.dev/learn/advanced-use/accessibility), [YAML parser](https://eemeli.org/yaml/), and [Ajv](https://ajv.js.org/guide/getting-started.html).
+
+### Static hosting and browser state contract
+
+- Deploy only static files: HTML, CSS, JavaScript, images, and generated curriculum JSON. Same-origin static JSON fetches are allowed. All browsing, search, filtering, graph layout, and state updates execute in the browser. No application API, database, serverless function, authentication provider, or account is required.
+- Keep shareable institution/program/topic/view selections in hash-based URLs. Switching views preserves the selected competency. Links share curriculum context, not a visitor's local notes or progress.
+- Keep progress, notes, and preferences in versioned `localStorage`, keyed by institution/program and stable content ID. Local state never modifies the canonical curriculum or gets uploaded. It persists in that browser until cleared; it does not automatically synchronize across devices or browsers.
+- Provide JSON export/import for manual backup and transfer, plus a reset control. Include the format version and curriculum revision; distinguish this browser-state backup from the contributor-only `export:kn` command. Validate the complete import before changing stored state; reject unsupported versions or malformed data without losing existing progress and report unresolved IDs. Keep self-reported activity distinct from verified assessment evidence.
+- Browsing works with empty, unavailable, full, or corrupt browser storage. Fall back to in-memory state with an explicit session-only notice when persistence fails. Do not require personal data for the demonstration.
+- Node/pnpm scripts, upstream fetching, YAML conversion, validation, and export are contributor/build tools run locally or in CI. Synchronize Knowledge Navigator before building and redeploy static files to publish content changes; visitors never need GitHub credentials or a synchronization service. Vite's development/preview server is local tooling, not a deployed backend.
+- Huddle, Pulse, videos, and learning platforms are link-outs. Their availability or accounts do not gate curriculum browsing. Bundle required application assets and data so the core journey has no dependency on a live third-party API.
 
 ### Intended repository layout
 
@@ -240,7 +251,7 @@ Depends on M04 data being available, M05, and the canonical model. Exit: the com
 
 - [ ] **BIO-060 — Build program and semester navigation.** Render the four years/eight terms, foundation groups, studios, and readiness indicators from data. Include search/filtering by topic, competency, term, and review state. Acceptance: a content-only YAML change updates navigation after rebuilding; all eight terms have meaningful content and visible gaps; there are no hard-coded term arrays in JSX.
 - [ ] **BIO-061 — Build a shared detail panel and prerequisite paths.** Show context, prerequisites, related topics, selected depth, precise resources, assessments, studio links, sources, and upstream/local provenance. Compute an ordered prerequisite path. Acceptance: every relationship resolves; users can navigate from a term to a resource and back; external resource access requirements are visible before opening it.
-- [ ] **BIO-062 — Add demonstration progress without overstating mastery.** Support local saved notes and explicit states for planned/studied/practiced/assessed, plus separate evidence or review references. Version storage and key it by institution/program and stable ID. Acceptance: refresh preserves local demo state, a renamed ID uses an explicit migration, completion does not imply assessment passed, and no personal data is required for the demonstration.
+- [ ] **BIO-062 — Add demonstration progress without overstating mastery.** Support local saved notes and explicit states for planned/studied/practiced/assessed, plus separate evidence or review references. Implement the browser state contract above: versioned `localStorage` scoped by institution/program and stable ID, JSON export/import, reset, and an in-memory fallback. Acceptance: refresh preserves saved demo state; export/import restores it in a fresh browser context; malformed or unsupported imports leave current state intact; a renamed ID uses an explicit migration; storage failure leaves browsing usable with a session-only notice. Completion does not imply assessment passed, and no login, personal data, backend, or automatic cross-device synchronization is required.
 
 ### M07 — Roadmap-style visualization
 
@@ -262,7 +273,7 @@ Depends on M03/M04 and both views. Exit: supported formats have tested behavior 
 Depends on M01–M08. Exit: another developer can reproduce the PoC and a reviewer can understand a content change.
 
 - [ ] **BIO-090 — Add representative automated checks.** Run schema/semantic/credit checks, sync fixtures, deterministic builds, export compatibility, type checking, and focused UI journeys in CI. Add a proposed semantic change report and built preview artifact. Test the important invariants in Sections 4 and 7; avoid tests that only duplicate implementation wording. Acceptance: intentionally break a prerequisite, local/upstream conflict, resource reference, and export field in fixtures and observe the relevant failures.
-- [ ] **BIO-091 — Add static hosting configuration and route tests.** Configure Vite's repository base and hash-based routing, such as `/#/program/biomedical/term/3?institution=indiana-tech`. Add a Pages workflow that can be enabled when a remote and publication destination are authorized. Acceptance: build and preview under a non-root repository path; a copied competency URL survives refresh and reconstructs the selected institution/view. Public deployment is not required to finish this task.
+- [ ] **BIO-091 — Add static hosting configuration and route tests.** Configure Vite's repository base and hash-based routing, such as `/#/program/biomedical/term/3?institution=indiana-tech`. Add a Pages workflow that can be enabled when a remote and publication destination are authorized. Acceptance: serve only the built files under a non-root repository path; a copied competency URL survives refresh and reconstructs the selected institution/view. In a fresh browser context, block non-site requests and complete the core exploration and local-progress journey without login or any application API. Opening an external resource is a separate link-out. Public deployment is not required to finish this task.
 - [ ] **BIO-092 — Complete contributor and reviewer documentation.** Document adding a topic/resource, updating a term, introducing another university, previewing/applying upstream changes, interpreting validation output, reviewing a content PR, and recovering from a rejected sync. Include actual setup/build commands, schema examples, and the task-ID commit convention. Acceptance: a second person or independent agent follows the guide from a fresh checkout and reports any missing step; repair demonstrated gaps.
 
 ### M10 — Indiana Tech demonstration and handoff
@@ -291,6 +302,9 @@ Use these as the implementation's behavior checklist. The task checkboxes above 
 | Capstone/team success is recorded | Each student's individual assessment state remains independent. |
 | KN export contains local extensions | Supported core data validates upstream; extensions and display limits are explicitly reported. |
 | Deep link is refreshed under a repository base path | The same topic/view/profile loads without a server route rewrite. |
+| First visit with no account or stored data | Both views, resources, and demo progress controls work from static files without login or an application API. |
+| Local progress is saved, exported, and imported | Reload preserves state in the same browser; a validated JSON backup restores it elsewhere without uploading anything. |
+| Browser storage fails or an import is invalid | Browsing stays usable; persistence failures show a session-only notice, and invalid imports preserve existing state. |
 
 ## 8. Done means reviewable and reproducible
 

@@ -118,6 +118,14 @@ Use **Indiana Tech branding** for the prototype and the **MIE UI design system**
 
 The REFINERY rankings site is a reference for presenting a project through GitHub Pages. Indiana Tech establishes the prototype's visual identity; MIE UI supplies the component system.
 
+## Static site and client-side state
+
+The prototype will be a static site suitable for GitHub Pages. Visitors can explore both views immediately, with no login or account. HTML, CSS, JavaScript, images, and generated curriculum data are served as static files; all application behavior runs in the browser.
+
+Store personal demo progress, notes, and preferences in versioned browser `localStorage`. Use the URL for shareable selections such as institution, program, topic, and view. Local progress belongs to that browser and does not automatically follow someone to another device; provide JSON export/import and a reset control. If storage is unavailable, browsing still works and session-only changes are clearly identified.
+
+YAML editing, Knowledge Navigator synchronization, validation, and data generation run as contributor/build tooling before deployment. The deployed site has no application server, API, database, serverless functions, authentication, or shared progress service. Huddle, Pulse, and learning platforms remain external links and may have their own accounts. The application is still at the planning stage; these are implementation requirements.
+
 ## Accreditation reference
 
 ABET is a framework to account for as the proposal develops. The original insight was the alignment between the desired graduate and ABET's emphasis on problem-solving, design, communication, responsibility, teamwork, experimentation, and continued learning.
