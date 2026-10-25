@@ -1,0 +1,9 @@
+node_modules/
+generated/
+public/data/
+dist/
+.cache/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.DS_Store

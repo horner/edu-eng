@@ -1,0 +1,16 @@
+{
+  "id": "ma-example",
+  "name": "Example foundation",
+  "category": "Foundations",
+  "level": 1,
+  "priority": "core",
+  "summary": "Original example explanation.",
+  "prerequisites": [],
+  "related": [],
+  "topics": [
+    {
+      "id": "ma-example-1",
+      "name": "Example concept"
+    }
+  ]
+}

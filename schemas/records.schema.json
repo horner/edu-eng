@@ -1,0 +1,889 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "records",
+  "$defs": {
+    "topic": {
+      "type": "object",
+      "required": ["id", "name"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "name": {
+          "type": "string"
+        },
+        "sub": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/topic"
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "chapters": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "category",
+        "level",
+        "priority",
+        "summary",
+        "prerequisites",
+        "related",
+        "topics",
+        "discipline",
+        "ownership"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5
+        },
+        "priority": {
+          "enum": ["core", "important", "advanced", "optional"]
+        },
+        "ownership": {
+          "enum": ["upstream", "local"]
+        },
+        "discipline": {
+          "type": "string"
+        },
+        "prerequisites": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "related": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "topics": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/topic"
+          }
+        },
+        "resources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "competencies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assessments": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "concurrent": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "review_status": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "disciplines": {
+      "type": "object",
+      "required": ["id", "name", "prefix", "categories"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "prefix": {
+          "type": "string"
+        },
+        "categories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "competencies": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "summary",
+        "chapters",
+        "prerequisites",
+        "resources",
+        "assessments",
+        "performance_criteria",
+        "review_status"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "review_status": {
+          "type": "string"
+        },
+        "chapters": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "prerequisites": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "resources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assessments": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "performance_criteria": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "resources": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "creator",
+        "provider",
+        "url",
+        "format",
+        "topics",
+        "description",
+        "access",
+        "accuracy_evidence",
+        "engagement_rationale",
+        "review_status",
+        "date_checked",
+        "practice",
+        "assessment_connection"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "title": {
+          "type": "string"
+        },
+        "creator": {
+          "type": "string"
+        },
+        "provider": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "access": {
+          "type": "string"
+        },
+        "accuracy_evidence": {
+          "type": "string"
+        },
+        "engagement_rationale": {
+          "type": "string"
+        },
+        "date_checked": {
+          "type": "string"
+        },
+        "practice": {
+          "type": "string"
+        },
+        "assessment_connection": {
+          "type": "string"
+        },
+        "format": {
+          "enum": ["video", "reading", "interactive", "course", "practice"]
+        },
+        "review_status": {
+          "enum": [
+            "candidate",
+            "metadata_verified",
+            "transcript_reviewed",
+            "content_reviewed",
+            "expert_reviewed"
+          ]
+        },
+        "topics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "assessments": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "mode",
+        "task",
+        "evidence",
+        "rubric",
+        "competencies",
+        "review_status"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "task": {
+          "type": "string"
+        },
+        "review_status": {
+          "type": "string"
+        },
+        "mode": {
+          "enum": ["individual", "team"]
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "rubric": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "competencies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "studios": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "summary",
+        "need",
+        "deliverables",
+        "decomposition",
+        "interfaces",
+        "roles",
+        "experiments",
+        "root_cause",
+        "individual_defense",
+        "competencies",
+        "review_status"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "need": {
+          "type": "string"
+        },
+        "root_cause": {
+          "type": "string"
+        },
+        "individual_defense": {
+          "type": "string"
+        },
+        "review_status": {
+          "type": "string"
+        },
+        "deliverables": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "decomposition": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "interfaces": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "roles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "experiments": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "competencies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "programs": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "summary",
+        "review_status",
+        "semesters",
+        "target_credits"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "review_status": {
+          "type": "string"
+        },
+        "target_credits": {
+          "type": "number",
+          "minimum": 1
+        },
+        "semesters": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "number",
+              "title",
+              "theme",
+              "chapters",
+              "competencies",
+              "studio",
+              "assessments",
+              "credit_units",
+              "completion_criteria",
+              "independence"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "schema_version": {
+                "const": 1
+              },
+              "number": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 8
+              },
+              "title": {
+                "type": "string"
+              },
+              "theme": {
+                "type": "string"
+              },
+              "chapters": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "competencies": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "studio": {
+                "type": "string"
+              },
+              "assessments": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "credit_units": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["id", "title", "credits", "category", "status"],
+                  "properties": {
+                    "id": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "schema_version": {
+                      "const": 1
+                    },
+                    "title": {
+                      "type": "string"
+                    },
+                    "credits": {
+                      "type": ["number", "null"],
+                      "minimum": 0
+                    },
+                    "category": {
+                      "enum": [
+                        "math_science",
+                        "engineering",
+                        "broad_education",
+                        "unclassified"
+                      ]
+                    },
+                    "status": {
+                      "enum": ["proposed", "verified", "unresolved"]
+                    }
+                  },
+                  "additionalProperties": true
+                }
+              },
+              "completion_criteria": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "independence": {
+                "type": "string"
+              },
+              "concurrent": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "selections": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["chapter", "depth"],
+                  "properties": {
+                    "chapter": {
+                      "type": "string"
+                    },
+                    "depth": {
+                      "enum": ["full", "selected"]
+                    },
+                    "focus": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              }
+            },
+            "additionalProperties": true
+          }
+        },
+        "entry_prerequisites": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "institutions": {
+      "type": "object",
+      "required": ["id", "name", "short_name", "brand_id", "programs"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "short_name": {
+          "type": "string"
+        },
+        "brand_id": {
+          "type": "string"
+        },
+        "programs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "academic_overrides": {
+          "type": "object",
+          "properties": {
+            "requirements": {},
+            "electives": {},
+            "content_selections": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "uniqueItems": true
+              }
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": true
+    },
+    "brands": {
+      "type": "object",
+      "required": ["id", "name", "colors", "sources"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "colors": {
+          "type": "object",
+          "required": [
+            "primary",
+            "foreground",
+            "background",
+            "surface",
+            "text",
+            "muted",
+            "border"
+          ],
+          "properties": {
+            "primary": {
+              "type": "string"
+            },
+            "foreground": {
+              "type": "string"
+            },
+            "background": {
+              "type": "string"
+            },
+            "surface": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            },
+            "muted": {
+              "type": "string"
+            },
+            "border": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": true
+        },
+        "sources": {
+          "type": "array"
+        }
+      },
+      "additionalProperties": true
+    },
+    "roadmaps": {
+      "type": "object",
+      "required": ["id", "name", "stages"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "stages": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "items"],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "items": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["chapter"],
+                  "properties": {
+                    "chapter": {
+                      "type": "string"
+                    },
+                    "why": {
+                      "type": "string"
+                    },
+                    "depth": {
+                      "enum": ["full", "selected"]
+                    },
+                    "focus": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "crosswalks": {
+      "type": "object",
+      "required": ["id"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        },
+        "criteria": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "title", "requirement", "coverage"],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "title": {
+                "type": "string"
+              },
+              "requirement": {
+                "type": "string"
+              },
+              "coverage": {
+                "enum": ["planned", "gap"]
+              },
+              "competencies": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "studios": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "assessments": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "chapters": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "gaps": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "evidence": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "instructional_stages": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["stage", "terms", "meaning"],
+                  "properties": {
+                    "stage": {
+                      "enum": ["introduced", "practiced", "assessed"]
+                    },
+                    "terms": {
+                      "type": "array",
+                      "items": {
+                        "type": "integer",
+                        "minimum": 1,
+                        "maximum": 8
+                      },
+                      "uniqueItems": true
+                    },
+                    "meaning": {
+                      "type": "string"
+                    },
+                    "assessments": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              }
+            },
+            "additionalProperties": true
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "baselines": {
+      "type": "object",
+      "required": ["id"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "schema_version": {
+          "const": 1
+        }
+      },
+      "additionalProperties": true
+    }
+  }
+}
