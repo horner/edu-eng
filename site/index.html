@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Working backward from the ideal graduate: a proposal for four years of biomedical engineering practice, learning, and collaboration at Indiana Tech.">
+    <meta name="theme-color" content="#FA4616">
+    <title>Engineering Education · Indiana Tech Curriculum Proposal</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --orange: #fa4616;
+        --ink: #171717;
+        --muted: #555;
+        --paper: #faf9f6;
+        --line: #d9d7d2;
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: var(--paper); color: var(--ink); font: 1rem/1.65 system-ui, sans-serif; }
+      a { color: inherit; text-underline-offset: .2em; }
+      a:hover { text-decoration-thickness: .15em; }
+      a:focus-visible { outline: 3px solid currentColor; outline-offset: 5px; }
+      .wrap { width: min(100% - 3rem, 68rem); margin-inline: auto; }
+      .skip { position: absolute; top: .5rem; left: 1rem; padding: .5rem 1rem; background: white; transform: translateY(-200%); }
+      .skip:focus { transform: translateY(0); z-index: 2; }
+      header { border-top: .5rem solid var(--orange); background: var(--ink); color: white; }
+      .masthead { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-block: 1.4rem; }
+      .institution { font-size: 1.25rem; font-weight: 750; }
+      .project-label { display: block; font-size: .8rem; font-weight: 450; color: #ddd; }
+      .repo-link { font-size: .9rem; white-space: nowrap; }
+      .hero { padding-block: clamp(3rem, 8vw, 6rem) 3rem; }
+      .eyebrow { margin: 0 0 1rem; font-size: .8rem; font-weight: 750; letter-spacing: .1em; text-transform: uppercase; }
+      h1 { max-width: 18ch; margin: 0 0 1.5rem; font-size: clamp(2.4rem, 6vw, 4.5rem); line-height: 1.1; letter-spacing: -.045em; text-wrap: balance; }
+      .lead { max-width: 48rem; margin: 0 0 1.7rem; font-size: clamp(1.1rem, 2vw, 1.35rem); color: #383838; }
+      .actions { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 2rem; }
+      .button { display: inline-block; padding: .85rem 1.25rem; border: 1px solid var(--ink); border-radius: .25rem; font-weight: 700; text-decoration: none; }
+      .primary { background: var(--orange); border-color: var(--orange); }
+      .button:hover { background: var(--ink); border-color: var(--ink); color: white; }
+      .status { margin-top: 2.5rem; max-width: 52rem; padding: 1rem 1.25rem; border-left: 4px solid var(--orange); background: white; font-size: .95rem; }
+      .status p { margin: 0; }
+      section { padding-block: 2.8rem; border-top: 1px solid var(--line); }
+      h2 { max-width: 30ch; margin: 0 0 1rem; font-size: clamp(1.7rem, 3vw, 2.2rem); line-height: 1.2; letter-spacing: -.025em; }
+      section > p { max-width: 49rem; }
+      .principles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2rem; }
+      .principles h3 { margin: 0 0 .5rem; font-size: 1.1rem; }
+      .principles p { margin: 0; color: var(--muted); }
+      .resources { display: grid; gap: .8rem; padding-left: 1.4rem; }
+      footer { padding-block: 2rem; background: var(--ink); color: #ddd; font-size: .85rem; }
+      footer p { margin: .4rem 0; max-width: 54rem; }
+      @media (max-width: 44rem) {
+        .principles { grid-template-columns: 1fr; gap: 1.5rem; }
+        .masthead { flex-wrap: wrap; }
+        .wrap { width: min(100% - 2rem, 68rem); }
+        .actions { gap: .8rem; }
+      }
+    </style>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header>
+      <div class="wrap masthead">
+        <div class="institution">Indiana Tech<span class="project-label">Biomedical engineering curriculum proposal</span></div>
+        <a class="repo-link" href="https://github.com/horner/edu-eng">View project on GitHub ↗</a>
+      </div>
+    </header>
+    <main id="main" class="wrap">
+      <div class="hero">
+        <p class="eyebrow">Engineering education</p>
+        <h1>Working backward from the ideal graduate.</h1>
+        <p class="lead">What if students graduated with four years of experience actually doing engineering? Start with the capabilities graduates need, then design the projects, learning, and evidence that develop them.</p>
+        <div class="actions">
+          <a class="button primary" href="https://github.com/horner/edu-eng/blob/main/ReadMe.md">Read the proposal</a>
+          <a class="button" href="https://github.com/horner/edu-eng/blob/main/bioprototype-plan.md">Review the implementation plan</a>
+        </div>
+        <div class="status">
+          <p><strong>Planning stage.</strong> The four-year curriculum and interactive prototype are still to be implemented. This site introduces a proposal for discussion with Indiana Tech.</p>
+        </div>
+      </div>
+      <section aria-labelledby="practice-heading">
+        <h2 id="practice-heading">Practice engineering, every semester.</h2>
+        <p>Multidisciplinary teams would own real engineering challenges, supported by faculty mentors and strong learning resources. Fundamentals, individual assessment, and collaborative projects would develop together.</p>
+        <div class="principles">
+          <article>
+            <h3>Learn and demonstrate</h3>
+            <p>Connect mathematics, science, and engineering to explanations, practice, experiments, and individual evidence of mastery.</p>
+          </article>
+          <article>
+            <h3>Build as a team</h3>
+            <p>Decompose problems, agree on interfaces, rotate leadership, communicate clearly, and integrate working contributions.</p>
+          </article>
+          <article>
+            <h3>Fail fast, learn fast</h3>
+            <p>Test assumptions early, investigate root causes, ask the Five Whys, and use retrospectives to improve the next attempt.</p>
+          </article>
+        </div>
+      </section>
+      <section aria-labelledby="prototype-heading">
+        <h2 id="prototype-heading">One curriculum. Two ways to explore it.</h2>
+        <p>The planned prototype will connect eight semesters of biomedical study to competencies, prerequisites, resources, and assessment evidence. A Knowledge Navigator-style browse view and a roadmap-style graph will present the same readable YAML source.</p>
+        <p>The application will be a static site with no login. Progress and notes will stay in the visitor’s browser, with manual export and import. Indiana Tech branding will be the default, with configurable profiles for other universities.</p>
+      </section>
+      <section aria-labelledby="contribute-heading">
+        <h2 id="contribute-heading">Help shape the proposal.</h2>
+        <p>Faculty, students, practicing engineers, and employers can review the assumptions, curriculum progression, resource choices, collaboration practices, and ABET crosswalk planned in the repository.</p>
+        <ul class="resources">
+          <li><a href="https://github.com/horner/edu-eng/blob/main/ReadMe.md">Project context, tools, and learning resources</a></li>
+          <li><a href="https://github.com/horner/edu-eng/blob/main/bioprototype-plan.md">Developer milestones and acceptance criteria</a></li>
+          <li><a href="https://github.com/horner/edu-eng/blob/main/history/email.md">The original introduction and vision</a></li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <div class="wrap">
+        <p>Engineering Education · A project by <a href="https://github.com/horner/edu-eng">Doug Horner and contributors</a>.</p>
+        <p>An independent curriculum proposal for review; institutional adoption and accreditation review are pending.</p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -6,6 +6,8 @@ This document records the project's context, goals, tools, and reference resourc
 
 The [biomedical prototype implementation plan](bioprototype-plan.md) defines the four-year program PoC, YAML authoring, Knowledge Navigator synchronization, university branding, two visualization modes, and milestone-linked commits.
 
+The [GitHub Pages project site](https://horner.github.io/edu-eng/) introduces the proposal and links to these documents. The interactive application remains pending. The static landing page lives in `site/`; changes there deploy from `main` through [the Pages workflow](.github/workflows/pages.yml). To preview it locally, run `python3 -m http.server 8000 --directory site` and open `http://localhost:8000`. When the planned application is ready, update the workflow to publish its built static output.
+
 ## Why this project exists
 
 The project grows out of advising Indiana Tech on its curriculum and hearing MIE interns repeatedly say they learn more during internships than in the classroom. That observation motivates a question: what makes those experiences valuable, and how could those qualities shape an entire engineering education?
