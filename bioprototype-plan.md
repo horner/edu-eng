@@ -13,7 +13,7 @@ The prototype must provide:
 - Pinned imports from Knowledge Navigator, with a repeatable update process that preserves local curriculum and resource curation.
 - A Knowledge Navigator-style browse view and a roadmap.sh-style graph view over the same data.
 - A tested Knowledge Navigator export for supported fields, with a report of extensions that its current application cannot display.
-- An Indiana Tech demonstration profile, BioNanomics visual direction, and configuration-based support for another university.
+- Indiana Tech branding as the default demonstration profile, with configuration-based support for another university.
 - A static deployment suitable for GitHub Pages, with no server required for the demonstration.
 
 This document is the implementation assignment. Do not check off implementation tasks merely because they have been described here. Treat the proposed curriculum as a design for review. Keep its status distinct from Indiana Tech's existing approved degree and from an accreditation determination.
@@ -43,7 +43,7 @@ Sources checked on 2026-10-25:
 | S5 | [Knowledge Navigator schema](https://github.com/MohamedMuneerM/knowledge-navigator/blob/main/data/SCHEMA.md) and [builder](https://github.com/MohamedMuneerM/knowledge-navigator/blob/main/scripts/build.py) | Authored JSON chapters, prerequisites, related links, nested topics, and staged goal paths. Preserve their meaning on import. |
 | S6 | [Knowledge Navigator repository](https://github.com/MohamedMuneerM/knowledge-navigator) | Initial verified revision: `c26f8337f42f6dd3bbe5e007263fa92399f1b96e`. Verify it exists when implementing and record the exact imported revision. |
 | S7 | [MIE UI consumer documentation](https://github.com/mieweb/ui) and [agent instructions](https://github.com/mieweb/ui/blob/main/agent/mieweb-ui.instructions.md) | Component selection, styling, branding, accessibility, and integration conventions. Read the current instructions before implementation. |
-| S8 | [BioNanomics](https://bionanomics.com/) and [MIE UI branding](https://ui.mieweb.org/?path=/docs/branding--docs) | Visual reference. No authoritative BioNanomics token set was captured; do not invent an official palette. |
+| S8 | [Indiana Tech identity](https://marketing.indianatech.edu/identity/), [logo usage guidelines](https://marketing.indianatech.edu/wp-content/uploads/sites/21/Logo-Usage-Guidelines-Indiana-Tech.pdf), and [logo assets](https://marketing.indianatech.edu/identity/indiana-tech-logo/) | Prototype branding reference. The published guide specifies bold orange `#FA4616` alongside black. Preserve original logo artwork and distinguish official brand values from additional accessible UI tokens. |
 | S9 | [roadmap.sh contribution model](https://github.com/nilbuild/developer-roadmap/blob/master/contributing.md) and [license](https://github.com/nilbuild/developer-roadmap/blob/master/license) | Its current public repository contains topic content and synchronization tools. It does not supply the app renderer or a verified stable import contract. Link to its pages; do not assume its content can be redistributed. |
 | S10 | [Resource-curation skill](.agents/skills/curate-learning-resources/SKILL.md) and [project context](ReadMe.md) | Existing instructions and examples for accuracy, engagement, deep links, practice, access conditions, collaboration, Huddle, and Pulse. |
 
@@ -66,6 +66,7 @@ Do not insert a commit's own SHA into files included in that same commit. Git hi
 For a task requiring several commits, put its ID in every commit and leave its checkbox unchecked until the final validated commit. Stage named files; do not sweep unrelated work into a milestone commit. Use local commits throughout. Remote creation, pushing, and enabling Pages require an explicit destination and publication instruction.
 
 - [x] **BIO-000 — Record the implementation assignment.** Preserve the existing introduction, README, and curation skill; add this plan; validate document links and task IDs; commit the planning baseline. The initial evidence is this plan, its source table, and the planning commit. All implementation checkboxes below start unchecked.
+- [x] **BIO-001 — Set Indiana Tech as the prototype brand.** Update the README, brand sources, planned configuration path, and implementation acceptance criteria to use Indiana Tech's institutional identity while preserving configuration-based support for other universities. Record source verification and document checks in `docs/progress/BIO-001.md`. This completes the planning amendment; BIO-050 and BIO-051 remain implementation tasks.
 
 ## 4. Technical design to implement
 
@@ -99,7 +100,7 @@ data/
   programs/biomedical.yaml          generic eight-semester proposed program
   institutions/indiana-tech.yaml    identity, baseline sources, local program settings
   institutions/demo-university.yaml
-  brands/bionanomics.yaml
+  brands/indiana-tech.yaml
   brands/demo.yaml
   crosswalks/abet-eac-2026-2027.yaml
   crosswalks/indiana-tech-bme.yaml
@@ -192,7 +193,7 @@ The living-system measurement requirement needs an explicit faculty-defined educ
 Depends on BIO-000. Exit: a developer can install, validate a fixture, run the shell, and produce a static build from documented commands.
 
 - [ ] **BIO-010 — Establish project tooling.** Create `package.json`, the pinned Node/pnpm configuration, TypeScript settings, Vite application, ignore rules, and a minimal fixture. Add scripts `dev`, `build`, `preview`, `typecheck`, `lint`, `test`, `test:e2e`, `data:validate`, `data:build`, `sync:preview`, `sync:apply`, and `export:kn` as their implementations become available. Unimplemented scripts must fail clearly. Acceptance: clean install and initial shell build succeed; no generated bundles are tracked.
-- [ ] **BIO-011 — Integrate the MIE UI shell.** Follow S7; inspect any setup-generated instructions before retaining them. Use the library's theme/provider, semantic tokens, existing controls, icon conventions, and accessible labels. Acceptance: the shell renders with the published CSS, supports keyboard navigation and light/dark behavior where configured, and contains no invented BioNanomics token claims.
+- [ ] **BIO-011 — Integrate the MIE UI shell.** Follow S7; inspect any setup-generated instructions before retaining them. Use the library's theme/provider, semantic tokens, existing controls, icon conventions, and accessible labels. Acceptance: the shell renders with the published CSS, supports keyboard navigation and light/dark behavior where configured, and obtains university appearance from theme configuration rather than hard-coded component styles.
 - [ ] **BIO-012 — Add the documented developer workflow and initial CI.** Document actual commands in a developer guide and run type checking, appropriate linting, fixture validation, tests, and the build in CI. Acceptance: a fresh checkout can follow the guide; a deliberately invalid fixture makes the relevant check fail. Do not enable publication in this task.
 
 ### M02 — YAML schemas, graph semantics, and reviewable output
@@ -230,8 +231,8 @@ BIO-041 and BIO-043 can proceed on clearly labeled draft data while BIO-040 has 
 
 Depends on BIO-011 and M02. Exit: university identity and visual appearance are configuration choices.
 
-- [ ] **BIO-050 — Implement institution and brand resolution.** Add Indiana Tech and a clearly fictional demonstration institution. Separate name, program settings, source references, navigation terminology, and brand ID from curriculum records. Acceptance: a configuration/URL selection changes identity and theme without editing JSX or copying curriculum YAML; both profiles show the same stable curriculum IDs unless an academic override is explicitly configured.
-- [ ] **BIO-051 — Apply verified BioNanomics visual tokens.** Capture an authoritative palette/assets source, record provenance, and create a local brand using the supported MIE UI mechanism. BioNanomics is not currently a built-in MIE UI brand. Acceptance: documented token values drive both views, readable contrast and focus states are checked, and missing assets have a clear text fallback. Use a neutral provisional theme until palette provenance is established; do not check this task complete while it is provisional.
+- [ ] **BIO-050 — Implement institution and brand resolution.** Add Indiana Tech as the default profile and a clearly fictional demonstration institution. Separate name, program settings, source references, navigation terminology, and brand ID from curriculum records. Acceptance: the default route uses Indiana Tech; a configuration/URL selection changes identity and theme without editing JSX or copying curriculum YAML; both profiles show the same stable curriculum IDs unless an academic override is explicitly configured.
+- [ ] **BIO-051 — Apply Indiana Tech branding.** Create `data/brands/indiana-tech.yaml` using S8 and the supported MIE UI branding mechanism. Use the published bold orange `#FA4616` and black, with legible neutral surfaces. Record the original logo asset URLs, token provenance, and any additional UI color choices. Preserve supplied wordmarks, proportions, colors, and clear space; do not recreate the logo with a substitute font. Acceptance: Indiana Tech identity and configured tokens drive both views, text/controls/focus states pass contrast checks, suitable logo variants work on light/dark backgrounds, and missing assets have a clear text fallback. Other university profiles still load without component or curriculum changes.
 
 ### M06 — Knowledge Navigator-style browsing
 

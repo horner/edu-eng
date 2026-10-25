@@ -105,16 +105,18 @@ Adoption discussions should address coverage, rigor, accessibility, student cost
 
 ## Visual direction
 
-Use the **BioNanomics color scheme** and the **MIE UI design system** for the project's eventual site.
+Use **Indiana Tech branding** for the prototype and the **MIE UI design system** for its components. Indiana Tech is the default university profile; keep branding configurable so another university can use the same curriculum and application.
 
 | Reference | Purpose |
 | --- | --- |
-| [BioNanomics](https://bionanomics.com/) | Brand and color reference requested for this project. Exact palette values still need to be captured from an authoritative brand source. |
+| [Indiana Tech identity](https://marketing.indianatech.edu/identity/) | Institutional brand reference for the prototype. |
+| [Indiana Tech logo usage guidelines](https://marketing.indianatech.edu/wp-content/uploads/sites/21/Logo-Usage-Guidelines-Indiana-Tech.pdf) | Defines the primary bold orange web color, `#FA4616`, alongside black, and the institutional logo treatment. Use accessible text/surface combinations and preserve supplied logo artwork. |
+| [Indiana Tech logo assets](https://marketing.indianatech.edu/identity/indiana-tech-logo/) | Source for the original institutional wordmark and variants suited to light and dark backgrounds. |
 | [MIE UI](https://ui.mieweb.org/) | Design system and component documentation. |
 | [MIE UI source and usage documentation](https://github.com/mieweb/ui) | Component library and integration reference. |
 | [MIE UI branding documentation](https://ui.mieweb.org/?path=/docs/branding--docs) | Reference for applying brand and theme tokens. |
 
-The REFINERY rankings site is a reference for presenting a project through GitHub Pages. BioNanomics and MIE UI establish the requested visual direction for this project.
+The REFINERY rankings site is a reference for presenting a project through GitHub Pages. Indiana Tech establishes the prototype's visual identity; MIE UI supplies the component system.
 
 ## Accreditation reference
 
