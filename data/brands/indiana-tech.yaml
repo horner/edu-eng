@@ -1,0 +1,26 @@
+schema_version: 1
+id: indiana-tech
+name: Indiana Tech
+colors:
+  primary: '#FA4616'
+  foreground: '#171717'
+  background: '#F8F7F4'
+  surface: '#FFFFFF'
+  text: '#171717'
+  muted: '#595959'
+  border: '#DDDAD4'
+logo_url: assets/indiana-tech-black-orange.png
+logo_dark_url: assets/indiana-tech-white-orange.png
+logo_alt: Indiana Tech
+typography:
+  sans: [Inter, system-ui, sans-serif]
+sources:
+  - url: https://marketing.indianatech.edu/identity/
+    note: Institutional identity reference.
+  - url: https://marketing.indianatech.edu/wp-content/uploads/sites/21/Logo-Usage-Guidelines-Indiana-Tech.pdf
+    note: Bold orange '#FA4616' is official. Neutral UI values are project choices; the guide names black without a web hex.
+  - url: https://marketing.indianatech.edu/wp-content/uploads/sites/21/IT_logo_black_orange.png
+    note: Original supplied logo, preserved without recoloring or distortion.
+  - url: https://marketing.indianatech.edu/wp-content/uploads/sites/21/IT_logo_white_orange.png
+    note: Original supplied light wordmark for dark surfaces.
+date_checked: '2026-10-25'

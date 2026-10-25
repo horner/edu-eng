@@ -1,0 +1,17 @@
+schema_version: 1
+id: demo
+name: Example University
+colors:
+  primary: '#2563EB'
+  foreground: '#FFFFFF'
+  background: '#F5F7FB'
+  surface: '#FFFFFF'
+  text: '#172033'
+  muted: '#56647B'
+  border: '#D6DFEF'
+logo_alt: Example University
+typography:
+  sans: [Inter, system-ui, sans-serif]
+sources:
+  - url: https://github.com/horner/edu-eng
+    note: Fictional identity and project-selected palette, used solely to demonstrate configurable branding.

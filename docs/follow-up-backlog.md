@@ -1,0 +1,19 @@
+# Follow-up work from prototype evidence
+
+These items preserve the distinction between a working demonstration and an academically approved offering. Owners below are proposed roles, not assigned people. Faculty feedback will refine the priorities after the PoC is shared.
+
+| Priority | Problem and evidence | Proposed owner | Acceptance condition |
+| --- | --- | --- | --- |
+| 1 | Proposed depth and course equivalence are unapproved; the current catalog's general-education overlap rules differ from ABET categories. | BME faculty and registrar | Review each proposed credit-bearing unit against current requirements, depth, hours and substitution rules; approve or revise the ledger and sequence. |
+| 1 | Living-system acquisition is an explicit biomedical gap; synthetic data and bench analogues do not satisfy it. | Faculty laboratory lead | Define the actual experience, facilities, appropriate protocols/oversight, acquisition evidence and individual interpretation rubric. |
+| 1 | Team and individual rubrics are designed but not calibrated on student work. | Assessment lead and studio mentors | Independently score sample work, reconcile rubric disagreements, define reassessment/progression decisions, and keep team output separate from individual competence. |
+| 1 | The project has no observed attainment or continuous-improvement cycle. | Faculty pilot lead | Define a bounded pilot, comparison questions, evidence collection and review cadence; use measured weak dimensions to test a corrective action. |
+| 1 | Current BME 3700 lists EE 2050 while the current core lists ECE 2100; no official eight-term offering plan was captured. | BME program advisor | Confirm prerequisite applicability/substitution and actual term availability; update the official baseline without guessing equivalence. |
+| 2 | The resource catalog is an inspectable starting path, not a full four-year set of instructional sequences. | Subject faculty and resource curators | Resolve the depth gaps in the resource audit, trial concrete activities, inspect exact video scopes/captions and record reviewer/date/limits. Required paths keep a usable open alternative. |
+| 2 | Entertainment/popularity is not measured for every video; transcript review omits visuals and pacing. | Faculty/student curation panel | Compare candidate teaching value using actual playback and learner feedback; document accuracy separately from engagement and replace weak selections. |
+| 2 | Facilities, workload, staffing and sustained institutional support are assumptions. | Department leadership and studio leads | Review supervision capacity, equipment/access, workload and support requirements for the selected pilot. |
+| 2 | Front-end packaging includes an unused ONNX/WASM asset and broad MIE UI imports. | Application maintainer with MIE UI maintainer | Use an officially supported ButtonGroup entry when available, reduce unused output, and repeat static/browser checks without patching dependency code. |
+| 3 | No native roadmap.sh import contract is verified. | Interchange maintainer | Verify a supported current contract and demonstrate a tested round trip before advertising native compatibility. The local roadmap-style view remains usable. |
+| 3 | Browser-local progress does not synchronize across devices. | Product owner | Evaluate actual reviewer/learner demand before changing the static/no-login architecture; retain portable backups and make any new scope explicit. |
+
+The [ABET audit](abet-audit.md) and [resource audit](resource-audit.md) contain detailed findings and required evidence. External comments, messages or upstream contributions require a separate authorized action; this backlog does not send them.

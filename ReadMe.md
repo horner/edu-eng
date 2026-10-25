@@ -2,11 +2,22 @@
 
 An open, collaborative effort to design a four-year engineering education around the capabilities we want graduates to possess and the experience of doing real engineering.
 
-This document records the project's context, goals, tools, and reference resources so collaborators can align before developing a curriculum or implementation plan.
+This document records the project's context, goals, tools, and reference resources alongside the working biomedical curriculum prototype.
 
 The [biomedical prototype implementation plan](bioprototype-plan.md) defines the four-year program PoC, YAML authoring, Knowledge Navigator synchronization, university branding, two visualization modes, and milestone-linked commits.
 
-The [GitHub Pages project site](https://horner.github.io/edu-eng/) introduces the proposal and links to these documents. The interactive application remains pending. The static landing page lives in `site/`; changes there deploy from `main` through [the Pages workflow](.github/workflows/pages.yml). To preview it locally, run `python3 -m http.server 8000 --directory site` and open `http://localhost:8000`. When the planned application is ready, update the workflow to publish its built static output.
+The [interactive prototype](https://horner.github.io/edu-eng/) connects eight proposed semesters, 24 biomedical learning areas, 16 capabilities, eight studios, 16 assessments, and 49 curated resources. Curriculum browsing and a roadmap-style graph share the same YAML-backed data. Read the [review guide](docs/review-guide.md) for a walkthrough, the [ABET audit](docs/abet-audit.md) for alignment and gaps, and the [resource audit](docs/resource-audit.md) for bounded source reviews and video evidence.
+
+Use Node from `.node-version` and pnpm from `package.json`:
+
+```sh
+pnpm install --frozen-lockfile
+pnpm dev
+```
+
+Open `http://127.0.0.1:5173/edu-eng/`. The [developer guide](docs/developer-guide.md) covers validation, browser tests, YAML contributions, themes, and safe [Knowledge Navigator synchronization](docs/knowledge-navigator-sync.md). The [Pages workflow](.github/workflows/pages.yml) verifies changes and publishes the built `dist/` from `main`. The original introductory page remains in `site/` as a historical artifact.
+
+The proposed 122-credit ledger is separate from the captured current Indiana Tech catalog. Academic equivalence, living-system measurement experiences, facilities, assessment calibration, and demonstrated student attainment remain explicit review questions. This is a working proof of concept for discussion.
 
 ## Why this project exists
 
@@ -74,7 +85,7 @@ The following resources are starting references for faculty to curate and connec
 
 These are starting references. Resource selection should follow the capabilities students need to develop.
 
-Consider roadmap.sh or a similar tool for making the connections between graduate capabilities, prerequisite knowledge, learning resources, and progress visible. Tool selection and its fit across engineering disciplines remain open for later planning.
+The prototype uses Knowledge Navigator as its pinned multidisciplinary foundation and provides our own curriculum and roadmap-style views. It tests a supported Knowledge Navigator authored-data export with an extension sidecar. Native roadmap.sh import is not claimed; the [synchronization guide](docs/knowledge-navigator-sync.md) explains the contracts and limits.
 
 ### Concrete learning examples
 
@@ -122,11 +133,11 @@ The REFINERY rankings site is a reference for presenting a project through GitHu
 
 ## Static site and client-side state
 
-The prototype will be a static site suitable for GitHub Pages. Visitors can explore both views immediately, with no login or account. HTML, CSS, JavaScript, images, and generated curriculum data are served as static files; all application behavior runs in the browser.
+The prototype is a static site suitable for GitHub Pages. Visitors can explore both views immediately, with no login or account. HTML, CSS, JavaScript, images, and generated curriculum data are served as static files; all application behavior runs in the browser.
 
 Store personal demo progress, notes, and preferences in versioned browser `localStorage`. Use the URL for shareable selections such as institution, program, topic, and view. Local progress belongs to that browser and does not automatically follow someone to another device; provide JSON export/import and a reset control. If storage is unavailable, browsing still works and session-only changes are clearly identified.
 
-YAML editing, Knowledge Navigator synchronization, validation, and data generation run as contributor/build tooling before deployment. The deployed site has no application server, API, database, serverless functions, authentication, or shared progress service. Huddle, Pulse, and learning platforms remain external links and may have their own accounts. The application is still at the planning stage; these are implementation requirements.
+YAML editing, Knowledge Navigator synchronization, validation, and data generation run as contributor/build tooling before deployment. The deployed site has no application server, API, database, serverless functions, authentication, or shared progress service. Huddle, Pulse, and learning platforms remain external links and may have their own accounts. Browser tests exercise static exploration with external requests blocked and verify that progress changes send no network writes.
 
 ## Accreditation reference
 
@@ -140,4 +151,4 @@ The shared ChatGPT conversation records the project's background and reasoning. 
 
 This project welcomes Indiana Tech faculty and leadership, practicing engineers, employers, students, and others interested in developing and evaluating the idea together.
 
-The current implementation assignment is the [biomedical prototype plan](bioprototype-plan.md). Its checkboxes distinguish completed work from the curriculum and application milestones still to implement.
+The implementation record is the [biomedical prototype plan](bioprototype-plan.md). Its checkboxes and task-linked commits record verified work. The [follow-up backlog](docs/follow-up-backlog.md) preserves academic questions and improvements for faculty and contributor review.

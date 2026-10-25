@@ -1,0 +1,15 @@
+schema_version: 1
+id: indiana-tech
+name: Indiana Tech
+short_name: Indiana Tech
+brand_id: indiana-tech
+programs:
+  - biomedical
+description: A proposed biomedical engineering learning experience for discussion with Indiana Tech.
+sources:
+  - https://academics.indianatech.edu/program/biomedical-engineering/
+  - https://catalog.indianatech.edu/index.php?catoid=22
+baseline_id: indiana-tech-bme-2026-2027
+team_tools:
+  huddle: https://huddle.os.mieweb.org/
+  pulse: https://github.com/mieweb/pulse

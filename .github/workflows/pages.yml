@@ -1,11 +1,9 @@
-name: Deploy project site to GitHub Pages
+name: Verify and deploy biomedical prototype
 
 on:
   push:
     branches: [main]
-    paths:
-      - site/**
-      - .github/workflows/pages.yml
+  pull_request:
   workflow_dispatch:
 
 permissions:
@@ -16,7 +14,52 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  verify-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - name: Set up pnpm
+        uses: pnpm/action-setup@f40ffcd9367d9f12939873eb1018b921a783ffaa # v4
+      - name: Set up Node
+        uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version-file: .node-version
+          cache: pnpm
+      - name: Install pinned dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Check types, lint, invariants, and curriculum
+        run: |
+          pnpm typecheck
+          pnpm lint
+          pnpm test
+          pnpm data:validate
+      - name: Build the static application
+        run: pnpm build
+      - name: Verify Knowledge Navigator export
+        run: pnpm export:verify
+      - name: Install the browser test runtime
+        run: pnpm exec playwright install --with-deps chromium
+      - name: Test browser journeys under the repository path
+        run: pnpm test:e2e
+      - name: Save review artifacts
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: prototype-review
+          path: |
+            generated/content-change-summary.*
+            generated/validation.json
+            playwright-report/
+            test-results/
+          retention-days: 14
+      - name: Upload the static application
+        uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
+        with:
+          path: dist
   deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: verify-build
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -26,14 +69,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Check out source
-        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
       - name: Configure Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
-      - name: Upload static site
-        uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
-        with:
-          path: site
       - name: Deploy to Pages
         id: deployment
         uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
