@@ -111,6 +111,21 @@ describe("semantic YAML model", () => {
       validateCatalog(d).some((i) => i.code === "dangling-reference"),
     ).toBe(true);
   });
+  it("rejects a broken learning-resource reference with the responsible chapter", () => {
+    const d = empty();
+    d.disciplines = [
+      { id: "math", name: "Math", prefix: "ma", categories: ["Foundations"] },
+    ];
+    d.chapters = [{ ...base, resources: ["missing-resource"] }] as any;
+    expect(validateCatalog(d)).toContainEqual(
+      expect.objectContaining({
+        severity: "error",
+        code: "dangling-reference",
+        record: "ma-a",
+        message: "resources references unknown ID missing-resource",
+      }),
+    );
+  });
   it("requires a crosswalk mapping or an explicit documented gap", () => {
     const d = empty();
     d.crosswalks = [

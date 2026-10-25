@@ -9,6 +9,7 @@ import {
 } from "./kn.ts";
 import { loadCatalog } from "./model.ts";
 import { json, readYaml, write, type Obj } from "./io.ts";
+import type { Curriculum } from "../../src/data/types.ts";
 const pick = (row: Obj, keys: string[]) =>
   Object.fromEntries(
     keys.filter((k) => row[k] !== undefined).map((k) => [k, row[k]]),
@@ -107,35 +108,12 @@ export function exportKnowledgeNavigator(root: string, out: string): Snapshot {
   );
   return snapshotFromSource(out, model.upstream_revision);
 }
-export function verifyKnowledgeNavigatorExport(
-  root: string,
-  out: string,
+/** Prove that core plus sidecar retains every original authored field. */
+export function assertExportIntegrity(
+  model: Curriculum,
+  again: Pick<Snapshot, "chapters" | "disciplines" | "roadmaps">,
+  sidecar: Obj,
 ): void {
-  const exported = exportKnowledgeNavigator(root, out);
-  const source = sourceCheckout(root, exported.revision);
-  cpSync(join(source, "scripts"), join(out, "scripts"), { recursive: true });
-  const output = execFileSync(
-    "python3",
-    [join(out, "scripts/build.py"), "--strict"],
-    { encoding: "utf8" },
-  );
-  write(join(out, "UPSTREAM-VALIDATION.txt"), output);
-  const again = snapshotFromSource(out, exported.revision);
-  const core = (s: Snapshot) => ({
-    manifest: s.manifest,
-    chapters: s.chapters,
-    disciplines: s.disciplines,
-    roadmaps: s.roadmaps,
-    redirects: s.redirects,
-  });
-  if (json(core(exported)) !== json(core(again)))
-    throw new Error(
-      "Authored Knowledge Navigator core fields changed on round-trip.",
-    );
-  const model = loadCatalog(root),
-    sidecar = JSON.parse(
-      readFileSync(join(out, "edu-eng-extensions.json"), "utf8"),
-    );
   for (const kind of ["chapters", "disciplines", "roadmaps"] as const)
     for (const original of model[kind]) {
       const supportedRow = again[kind].find((r) => r.id === original.id);
@@ -167,6 +145,37 @@ export function verifyKnowledgeNavigatorExport(
       )
         throw new Error(`Missing sidecar record ${kind}/${original.id}`);
     }
+}
+export function verifyKnowledgeNavigatorExport(
+  root: string,
+  out: string,
+): void {
+  const exported = exportKnowledgeNavigator(root, out);
+  const source = sourceCheckout(root, exported.revision);
+  cpSync(join(source, "scripts"), join(out, "scripts"), { recursive: true });
+  const output = execFileSync(
+    "python3",
+    [join(out, "scripts/build.py"), "--strict"],
+    { encoding: "utf8" },
+  );
+  write(join(out, "UPSTREAM-VALIDATION.txt"), output);
+  const again = snapshotFromSource(out, exported.revision);
+  const core = (s: Snapshot) => ({
+    manifest: s.manifest,
+    chapters: s.chapters,
+    disciplines: s.disciplines,
+    roadmaps: s.roadmaps,
+    redirects: s.redirects,
+  });
+  if (json(core(exported)) !== json(core(again)))
+    throw new Error(
+      "Authored Knowledge Navigator core fields changed on round-trip.",
+    );
+  const model = loadCatalog(root),
+    sidecar = JSON.parse(
+      readFileSync(join(out, "edu-eng-extensions.json"), "utf8"),
+    );
+  assertExportIntegrity(model, again, sidecar);
   if (!existsSync(join(out, "UPSTREAM-VALIDATION.txt")))
     throw new Error("Upstream validation evidence missing.");
 }

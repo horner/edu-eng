@@ -36,6 +36,13 @@ jobs:
           pnpm data:validate
       - name: Build the static application
         run: pnpm build
+      - name: Verify deterministic curriculum output
+        run: |
+          cp -R generated "$RUNNER_TEMP/first-build"
+          pnpm data:build
+          cmp "$RUNNER_TEMP/first-build/curriculum.json" generated/curriculum.json
+          cp "$RUNNER_TEMP/first-build/content-change-summary.md" generated/content-change-summary.md
+          cp "$RUNNER_TEMP/first-build/content-change-summary.json" generated/content-change-summary.json
       - name: Verify Knowledge Navigator export
         run: pnpm export:verify
       - name: Install the browser test runtime

@@ -17,7 +17,7 @@ pnpm dev
 
 Open `http://127.0.0.1:5173/edu-eng/`. The [developer guide](docs/developer-guide.md) covers validation, browser tests, YAML contributions, themes, and safe [Knowledge Navigator synchronization](docs/knowledge-navigator-sync.md). The [Pages workflow](.github/workflows/pages.yml) verifies changes and publishes the built `dist/` from `main`. The original introductory page remains in `site/` as a historical artifact.
 
-The proposed 122-credit ledger is separate from the captured current Indiana Tech catalog. Academic equivalence, living-system measurement experiences, facilities, assessment calibration, and demonstrated student attainment remain explicit review questions. This is a working proof of concept for discussion.
+The proposed 122-credit ledger is separate from the captured current Indiana Tech catalog. Academic equivalence, living-system measurement experiences, facilities, assessment calibration, and demonstrated student attainment remain explicit review questions. This is a working proof of concept for discussion. The [independent checkout and interface review](docs/independent-review.md) records reproducibility checks and their limits; the [follow-up backlog](docs/follow-up-backlog.md) captures the next academic and technical work.
 
 ## Why this project exists
 

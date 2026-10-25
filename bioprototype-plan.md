@@ -1,6 +1,6 @@
 # Biomedical engineering prototype implementation plan
 
-Status: integrated static prototype; final deployment and handoff checks are pending.
+Status: implemented and verified static PoC, published on GitHub Pages. Faculty review, academic approval and observed student outcomes remain pending in the audits and follow-up backlog.
 
 ## 1. Outcome and scope
 
@@ -206,7 +206,7 @@ Depends on BIO-000. Exit: a developer can install, validate a fixture, run the s
 
 - [x] **BIO-010 — Establish project tooling.** Create `package.json`, the pinned Node/pnpm configuration, TypeScript settings, Vite application, ignore rules, and a minimal fixture. Add scripts `dev`, `build`, `preview`, `typecheck`, `lint`, `test`, `test:e2e`, `data:validate`, `data:build`, `sync:preview`, `sync:apply`, and `export:kn` as their implementations become available. Unimplemented scripts must fail clearly. Acceptance: clean install and initial shell build succeed; no generated bundles are tracked.
 - [x] **BIO-011 — Integrate the MIE UI shell.** Follow S7; inspect any setup-generated instructions before retaining them. Use the library's theme/provider, semantic tokens, existing controls, icon conventions, and accessible labels. Acceptance: the shell renders with the published CSS, supports keyboard navigation and light/dark behavior where configured, and obtains university appearance from theme configuration rather than hard-coded component styles.
-- [ ] **BIO-012 — Add the documented developer workflow and initial CI.** Document actual commands in a developer guide and run type checking, appropriate linting, fixture validation, tests, and the build in CI. Acceptance: a fresh checkout can follow the guide; a deliberately invalid fixture makes the relevant check fail. Do not enable publication in this task.
+- [x] **BIO-012 — Add the documented developer workflow and initial CI.** Document actual commands in a developer guide and run type checking, appropriate linting, fixture validation, tests, and the build in CI. Acceptance: a fresh checkout can follow the guide; a deliberately invalid fixture makes the relevant check fail. Do not enable publication in this task.
 
 ### M02 — YAML schemas, graph semantics, and reviewable output
 
@@ -273,16 +273,16 @@ Depends on M03/M04 and both views. Exit: supported formats have tested behavior 
 
 Depends on M01–M08. Exit: another developer can reproduce the PoC and a reviewer can understand a content change.
 
-- [ ] **BIO-090 — Add representative automated checks.** Run schema/semantic/credit checks, sync fixtures, deterministic builds, export compatibility, type checking, and focused UI journeys in CI. Add a proposed semantic change report and built preview artifact. Test the important invariants in Sections 4 and 7; avoid tests that only duplicate implementation wording. Acceptance: intentionally break a prerequisite, local/upstream conflict, resource reference, and export field in fixtures and observe the relevant failures.
+- [x] **BIO-090 — Add representative automated checks.** Run schema/semantic/credit checks, sync fixtures, deterministic builds, export compatibility, type checking, and focused UI journeys in CI. Add a proposed semantic change report and built preview artifact. Test the important invariants in Sections 4 and 7; avoid tests that only duplicate implementation wording. Acceptance: intentionally break a prerequisite, local/upstream conflict, resource reference, and export field in fixtures and observe the relevant failures.
 - [x] **BIO-091 — Add static hosting configuration and route tests.** Configure Vite's repository base and hash-based routing, such as `/#/program/biomedical/term/3?institution=indiana-tech`. Add a Pages workflow that can be enabled when a remote and publication destination are authorized. Acceptance: serve only the built files under a non-root repository path; a copied competency URL survives refresh and reconstructs the selected institution/view. In a fresh browser context, block non-site requests and complete the core exploration and local-progress journey without login or any application API. Opening an external resource is a separate link-out. Public deployment is not required to finish this task.
-- [ ] **BIO-092 — Complete contributor and reviewer documentation.** Document adding a topic/resource, updating a term, introducing another university, previewing/applying upstream changes, interpreting validation output, reviewing a content PR, and recovering from a rejected sync. Include actual setup/build commands, schema examples, and the task-ID commit convention. Acceptance: a second person or independent agent follows the guide from a fresh checkout and reports any missing step; repair demonstrated gaps.
+- [x] **BIO-092 — Complete contributor and reviewer documentation.** Document adding a topic/resource, updating a term, introducing another university, previewing/applying upstream changes, interpreting validation output, reviewing a content PR, and recovering from a rejected sync. Include actual setup/build commands, schema examples, and the task-ID commit convention. Acceptance: a second person or independent agent follows the guide from a fresh checkout and reports any missing step; repair demonstrated gaps.
 
 ### M10 — Indiana Tech demonstration and handoff
 
 Depends on M09; academic source/review limitations must be explicit.
 
-- [ ] **BIO-100 — Run the faculty-review demonstration.** Walk through all eight terms; inspect one foundation-to-capstone path, an individual assessment, a team decomposition/root-cause example, both views, and both university profiles. Demonstrate a YAML-only change and a conflicting upstream update using fixtures. Save screenshots, commands/results, known gaps, and reviewer feedback in `docs/progress/BIO-100.md`. Acceptance: the agreed PoC journey works, content and credit status are truthful, and the README links to the running local instructions and review package. This establishes prototype acceptance, not institutional adoption.
-- [ ] **BIO-101 — Record the next scope from evidence.** Turn demonstrated issues and faculty feedback into a small prioritized backlog with owners or role types, separating data corrections, academic review, UI work, and optional integrations. Acceptance: each follow-up has a concrete problem and acceptance condition; incomplete work is not hidden by marking an earlier task complete.
+- [x] **BIO-100 — Run the faculty-review demonstration.** Walk through all eight terms; inspect one foundation-to-capstone path, an individual assessment, a team decomposition/root-cause example, both views, and both university profiles. Demonstrate a YAML-only change and a conflicting upstream update using fixtures. Save screenshots, commands/results, known gaps, and reviewer feedback in `docs/progress/BIO-100.md`. Acceptance: the agreed PoC journey works, content and credit status are truthful, and the README links to the running local instructions and review package. This establishes prototype acceptance, not institutional adoption.
+- [x] **BIO-101 — Record the next scope from evidence.** Turn demonstrated issues and faculty feedback into a small prioritized backlog with owners or role types, separating data corrections, academic review, UI work, and optional integrations. Acceptance: each follow-up has a concrete problem and acceptance condition; incomplete work is not hidden by marking an earlier task complete.
 
 ## 7. Minimum acceptance scenarios
 
@@ -311,4 +311,4 @@ Use these as the implementation's behavior checklist. The task checkboxes above 
 
 The PoC is ready to present when its checked tasks, evidence records, commit history, and running demonstration agree. Every required learning path needs meaningful content; a polished empty graph does not complete a curriculum milestone. Every pending source, resource, credit, or academic review remains visible in data and in the review package.
 
-Continue with the unchecked verification and handoff tasks. Keep this plan in the same commits as the work it records; academic follow-up remains explicit in the review package and backlog.
+All 36 prototype tasks have implementation and verification evidence under `docs/progress/`. The [independent review](docs/independent-review.md) records the fresh checkout and demonstration; [BIO-090](docs/progress/BIO-090.md) and [BIO-100](docs/progress/BIO-100.md) record automated and public deployment checks. Academic follow-up remains explicit in the [review package](docs/review-guide.md) and [backlog](docs/follow-up-backlog.md). Keep future plan amendments in the same commits as the work they record.
