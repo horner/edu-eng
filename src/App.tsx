@@ -479,6 +479,9 @@ function Workspace({
   const [warning, setWarning] = useState(initial.warning);
   const [message, setMessage] = useState("");
   const [resetOpen, setResetOpen] = useState(false);
+  const [mapSearchOpen, setMapSearchOpen] = useState(
+    Boolean(route.q || route.review !== "all"),
+  );
   const [logoFailed, setLogoFailed] = useState(false);
   const fileInput = useRef<HTMLInputElement>(null);
   const records = useMemo(() => recordMap(data), [data]);
@@ -521,7 +524,14 @@ function Workspace({
     [updateRoute],
   );
   const showTerm = (term: number) =>
-    updateRoute({ term, view: "browse", q: "", review: "all", focus: false });
+    updateRoute({
+      term,
+      view: route.view === "graph" ? "graph" : "browse",
+      ...(route.view === "graph" ? { node: "" } : {}),
+      q: "",
+      review: "all",
+      focus: false,
+    });
   const updateEntry = (entry: Entry) => {
     const next = { ...entries, [selected]: entry };
     setEntries(next);
@@ -614,6 +624,45 @@ function Workspace({
         (route.review === "reviewed"
           ? inspectedResource(resource)
           : !inspectedResource(resource))),
+  );
+  const contentTools = (
+    <div className="content-tools">
+      <Input
+        label={copy.search}
+        hideLabel
+        placeholder={copy.searchPlaceholder}
+        value={route.q}
+        onChange={(event) => updateRoute({ q: event.target.value }, true)}
+      />
+      <Select
+        label={copy.reviewFilter}
+        hideLabel
+        size="md"
+        value={route.review}
+        onValueChange={(review) => updateRoute({ review })}
+        options={[
+          { value: "all", label: copy.allReviews },
+          { value: "reviewed", label: copy.reviewed },
+          { value: "gaps", label: copy.reviewGaps },
+        ]}
+      />
+      <div className="mobile-term-select">
+        <Select
+          label={copy.chooseTerm}
+          value={String(route.term)}
+          onValueChange={(term) =>
+            updateRoute({ term: Number(term), focus: false })
+          }
+          options={[
+            { value: "0", label: copy.allTerms },
+            ...program.semesters.map((term) => ({
+              value: String(term.number),
+              label: `${copy.term(term.number)}: ${term.theme}`,
+            })),
+          ]}
+        />
+      </div>
+    </div>
   );
   const heading =
     route.view === "graph"
@@ -847,43 +896,19 @@ function Workspace({
               </div>
             </div>
           )}
-          <div className="content-tools">
-            <Input
-              label={copy.search}
-              hideLabel
-              placeholder={copy.searchPlaceholder}
-              value={route.q}
-              onChange={(event) => updateRoute({ q: event.target.value }, true)}
-            />
-            <Select
-              label={copy.reviewFilter}
-              hideLabel
-              size="md"
-              value={route.review}
-              onValueChange={(review) => updateRoute({ review })}
-              options={[
-                { value: "all", label: copy.allReviews },
-                { value: "reviewed", label: copy.reviewed },
-                { value: "gaps", label: copy.reviewGaps },
-              ]}
-            />
-            <div className="mobile-term-select">
-              <Select
-                label={copy.chooseTerm}
-                value={String(route.term)}
-                onValueChange={(term) =>
-                  updateRoute({ term: Number(term), focus: false })
-                }
-                options={[
-                  { value: "0", label: copy.allTerms },
-                  ...program.semesters.map((term) => ({
-                    value: String(term.number),
-                    label: `${copy.term(term.number)}: ${term.theme}`,
-                  })),
-                ]}
-              />
-            </div>
-          </div>
+          {route.view === "graph" ? (
+            <details
+              className="map-search"
+              data-testid="map-search"
+              open={mapSearchOpen}
+              onToggle={(event) => setMapSearchOpen(event.currentTarget.open)}
+            >
+              <summary>{copy.mapSearch}</summary>
+              {contentTools}
+            </details>
+          ) : (
+            contentTools
+          )}
           {warning && <Alert variant="warning">{warning}</Alert>}
           {message && (
             <Alert
@@ -955,11 +980,37 @@ function Workspace({
           {route.view === "graph" && (
             <GraphView
               data={data}
+              program={program}
+              termNumber={route.term}
               ids={matchingIds}
+              filtering={Boolean(route.q || route.review !== "all")}
               selected={selected}
               onSelect={select}
               focused={route.focus}
-              onFocus={(focus) => updateRoute({ focus })}
+              onFocus={(focus) =>
+                updateRoute({
+                  focus,
+                  term:
+                    route.term ||
+                    program.semesters.find((term) =>
+                      [...term.chapters, ...term.competencies].includes(
+                        selected,
+                      ),
+                    )?.number ||
+                    0,
+                })
+              }
+              onTerm={showTerm}
+              onOverview={() =>
+                updateRoute({
+                  view: "graph",
+                  term: 0,
+                  node: "",
+                  focus: false,
+                  q: "",
+                  review: "all",
+                })
+              }
             />
           )}
           {route.view === "review" && (
@@ -1076,16 +1127,13 @@ export default function App() {
     window.addEventListener("hashchange", update);
     return () => window.removeEventListener("hashchange", update);
   }, []);
-  const updateRoute = useCallback(
-    (update: Partial<Route>, replace = false) => {
-      // Read the current URL so a fast edit after link navigation cannot
-      // restore the previous view while its hashchange event is queued.
-      const next = { ...readRoute(), ...update };
-      setRoute(next);
-      writeRoute(next, replace);
-    },
-    [],
-  );
+  const updateRoute = useCallback((update: Partial<Route>, replace = false) => {
+    // Read the current URL so a fast edit after link navigation cannot
+    // restore the previous view while its hashchange event is queued.
+    const next = { ...readRoute(), ...update };
+    setRoute(next);
+    writeRoute(next, replace);
+  }, []);
   if (error)
     return (
       <div className="loading-screen">

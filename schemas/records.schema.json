@@ -460,6 +460,22 @@
           "type": "number",
           "minimum": 1
         },
+        "roadmap_goal": {
+          "type": "string",
+          "minLength": 1
+        },
+        "roadmap_years": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["year", "title"],
+            "properties": {
+              "year": { "type": "integer", "minimum": 1, "maximum": 4 },
+              "title": { "type": "string", "minLength": 1 }
+            },
+            "additionalProperties": false
+          }
+        },
         "semesters": {
           "type": "array",
           "items": {

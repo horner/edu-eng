@@ -6,7 +6,7 @@ This document records the project's context, goals, tools, and reference resourc
 
 The [biomedical prototype implementation plan](bioprototype-plan.md) defines the four-year program PoC, YAML authoring, Knowledge Navigator synchronization, university branding, two visualization modes, and milestone-linked commits.
 
-The [interactive prototype](https://horner.github.io/edu-eng/) connects eight proposed semesters, 24 biomedical learning areas, 16 capabilities, eight studios, 16 assessments, and 49 curated resources. Curriculum browsing and a roadmap-style graph share the same YAML-backed data. Read the [review guide](docs/review-guide.md) for a walkthrough, the [ABET audit](docs/abet-audit.md) for alignment and gaps, and the [resource audit](docs/resource-audit.md) for bounded source reviews and video evidence.
+The [interactive prototype](https://horner.github.io/edu-eng/) connects eight proposed semesters, 24 biomedical learning areas, 16 capabilities, eight studios, 16 assessments, and 49 curated resources. Curriculum browsing and the program map share the same YAML-backed data. The map starts with four year stages, then reveals a semester, its capabilities and optional focused dependencies. Read the [review guide](docs/review-guide.md) for a walkthrough, the [ABET audit](docs/abet-audit.md) for alignment and gaps, and the [resource audit](docs/resource-audit.md) for bounded source reviews and video evidence.
 
 Use Node from `.node-version` and pnpm from `package.json`:
 

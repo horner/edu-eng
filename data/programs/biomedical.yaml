@@ -5,6 +5,16 @@ summary: A proposed four-year pathway from independent engineering capability to
   knowledge, individual mastery and collaborative studio evidence.
 review_status: draft
 target_credits: 122
+roadmap_goal: Independently solve, build and verify biomedical systems, and help a team succeed.
+roadmap_years:
+  - year: 1
+    title: Build and measure
+  - year: 2
+    title: Analyze and coordinate
+  - year: 3
+    title: Model and integrate
+  - year: 4
+    title: Defend and hand off
 entry_prerequisites:
   - ma-precalculus
 semesters:

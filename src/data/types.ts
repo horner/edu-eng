@@ -115,6 +115,8 @@ export interface Program extends Metadata {
   review_status: string;
   semesters: Semester[];
   target_credits: number;
+  roadmap_goal?: string;
+  roadmap_years?: { year: number; title: string }[];
   sources?: unknown[];
   gaps?: string[];
 }

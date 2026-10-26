@@ -61,7 +61,10 @@ test("review all eight studios and capture both university themes", async ({
           .getByRole("button", { name: "Change color theme", exact: true })
           .click();
       await expect(page.locator("html")).toHaveAttribute("data-theme", theme);
-      await page.screenshot({ animations: "disabled", path: `test-results/review/${institution}-${theme}.png` });
+      await page.screenshot({
+        animations: "disabled",
+        path: `test-results/review/${institution}-${theme}.png`,
+      });
       const contrast = await page.evaluate(() => {
         const luminance = (rgb: number[]) =>
           rgb
@@ -116,9 +119,21 @@ test("review all eight studios and capture both university themes", async ({
       });
     }
   }
+  await page.goto("./#/program/biomedical?institution=indiana-tech&view=graph");
+  await expect(page.getByTestId("program-roadmap")).toBeVisible();
+  await expect(page.locator(".roadmap-year")).toHaveCount(4);
+  await expect(page.getByTestId("graph-canvas")).toHaveCount(0);
+  await page.screenshot({
+    animations: "disabled",
+    path: "test-results/review/competency-map.png",
+  });
   await page.goto(
     "./#/program/biomedical?institution=indiana-tech&view=graph&term=5",
   );
+  await page.locator(".map-capability-button").first().click();
+  await page
+    .getByRole("button", { name: "Explore dependencies", exact: true })
+    .click();
   await expect(page.getByTestId("graph-canvas")).toBeVisible();
   await expect(page.locator(".react-flow__node").first()).toHaveCSS(
     "visibility",
@@ -136,7 +151,7 @@ test("review all eight studios and capture both university themes", async ({
     .toBeGreaterThan(150);
   await page.screenshot({
     animations: "disabled",
-    path: "test-results/review/competency-map.png",
+    path: "test-results/review/dependency-map.png",
   });
   await page.goto(
     "./#/program/biomedical?institution=indiana-tech&view=review",

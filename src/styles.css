@@ -343,6 +343,11 @@
   text-overflow: clip;
   width: 100%;
 }
+.education-app .prerequisite-list [data-slot="button-label"] {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+}
 .education-app .capability-button small {
   display: block;
   font-size: 0.64rem;
@@ -939,5 +944,224 @@
   }
   .education-app .credit-categories {
     gap: 1rem;
+  }
+}
+
+/* The map starts with a readable curriculum outline; diagrams are a drill-down. */
+.education-app .map-search {
+  margin-block-end: 1.5rem;
+  color: var(--mieweb-muted-foreground);
+  font-size: 0.85rem;
+}
+.education-app .map-search > summary,
+.education-app .map-foundations > summary {
+  cursor: pointer;
+  padding-block: 0.6rem;
+  font-weight: 600;
+}
+.education-app .map-search .content-tools {
+  margin-block: 0.8rem 0;
+}
+.education-app .roadmap-goal {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.2rem 1.4rem;
+  border: 1px solid var(--mieweb-primary-200);
+  border-inline-start: 4px solid var(--app-link);
+  border-radius: 0.7rem;
+  background: var(--mieweb-card);
+}
+.education-app .roadmap-goal > svg {
+  flex: 0 0 auto;
+  color: var(--app-link);
+}
+.education-app .roadmap-goal p {
+  font-size: 1.02rem;
+  line-height: 1.55;
+  margin: 0.4rem 0 0;
+}
+.education-app .roadmap-sequence {
+  color: var(--mieweb-muted-foreground);
+  font-size: 0.8rem;
+  margin-block: 1.6rem 0.8rem;
+}
+.education-app .roadmap-years,
+.education-app .roadmap-semesters {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.education-app .roadmap-years {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+}
+.education-app .roadmap-year {
+  height: 100%;
+  box-shadow: none;
+  border-block-start: 3px solid var(--app-link);
+}
+.education-app .roadmap-year [data-slot="card-content"] {
+  padding: 1rem;
+}
+.education-app .roadmap-year-number {
+  color: var(--app-link);
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+.education-app .roadmap-year h2 {
+  font-size: 1.1rem;
+  line-height: 1.4;
+  margin-block: 0.35rem 1rem;
+  min-height: 3.1rem;
+}
+.education-app .roadmap-semesters {
+  display: grid;
+  gap: 0.7rem;
+}
+.education-app .roadmap-milestone {
+  width: 100%;
+  height: auto;
+  padding: 0.8rem;
+  border: 1px solid var(--mieweb-border);
+  text-align: start;
+  justify-content: space-between;
+  white-space: normal;
+}
+.education-app .roadmap-milestone-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  min-width: 0;
+}
+.education-app .roadmap-milestone small {
+  color: var(--mieweb-muted-foreground);
+  font-size: 0.7rem;
+}
+.education-app .roadmap-milestone strong {
+  font-size: 0.84rem;
+  line-height: 1.6;
+  font-weight: 500;
+}
+.education-app .roadmap-milestone svg {
+  flex-shrink: 0;
+  color: var(--app-link);
+}
+.education-app .roadmap-match {
+  color: var(--app-link);
+  font-size: 0.7rem;
+}
+.education-app .map-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-block-end: 1.2rem;
+  color: var(--mieweb-muted-foreground);
+  font-size: 0.8rem;
+}
+.education-app .map-breadcrumb [data-slot="button"] {
+  padding-inline: 0;
+}
+.education-app .map-semester-heading h2,
+.education-app .map-dependency-title {
+  font-size: 1.35rem;
+  line-height: 1.5;
+  margin-block: 0 0.6rem;
+}
+.education-app .map-semester-heading p {
+  line-height: 1.7;
+}
+.education-app .map-capabilities {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.education-app .map-capabilities [data-slot="card-content"] {
+  padding: 1.1rem;
+}
+.education-app .map-capability-button {
+  width: 100%;
+  height: auto;
+  min-height: 4.2rem;
+  padding: 0.8rem;
+  white-space: normal;
+  text-align: start;
+  margin-block-start: 0.6rem;
+}
+.education-app .map-capability-button svg {
+  flex-shrink: 0;
+}
+.education-app .map-foundations {
+  border-block: 1px solid var(--mieweb-border);
+  padding-block: 0.4rem;
+}
+.education-app .map-foundation-list {
+  display: grid;
+  gap: 0.7rem;
+  margin-block: 0.8rem;
+}
+.education-app .map-foundation-list [data-slot="button"] {
+  white-space: normal;
+  height: auto;
+  min-height: 2.8rem;
+  text-align: start;
+  justify-content: space-between;
+}
+.education-app .map-selected {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  border: 1px solid var(--mieweb-border);
+  border-radius: 0.7rem;
+  padding: 1rem;
+  margin-block-start: 1.2rem;
+  background: var(--mieweb-card);
+}
+.education-app .map-selected > div {
+  flex: 1;
+  min-width: min(220px, 100%);
+}
+.education-app .map-selected strong {
+  display: block;
+  margin-block-start: 0.3rem;
+  font-size: 0.85rem;
+}
+.education-app .map-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.education-app .roadmap-milestone [data-slot="button-label"],
+.education-app .map-capability-button [data-slot="button-label"],
+.education-app .map-foundation-list [data-slot="button-label"] {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+  width: 100%;
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+}
+@media (max-width: 1250px) {
+  .education-app .roadmap-years {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .education-app .roadmap-year h2 {
+    min-height: 0;
+  }
+}
+@media (max-width: 720px) {
+  .education-app .roadmap-years,
+  .education-app .map-capabilities {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .education-app .roadmap-goal {
+    padding: 1rem;
+    align-items: start;
   }
 }

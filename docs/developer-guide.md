@@ -42,7 +42,7 @@ Ordinary builds use the checked-in pinned baseline and need no upstream fetch af
 | Local changes to imported foundations | `data/overlays/` |
 | Application copy | `src/i18n.ts`; curriculum copy stays in YAML |
 
-Each local YAML file contains one stable record. Copy the nearest existing record and consult `schemas/records.schema.json`. Keep IDs stable and use explicit migrations/redirects when a rename is needed. Never use a title as a foreign key or hand-edit imported baseline YAML. Never add graph coordinates to semantic records.
+Each local YAML file contains one stable record. Copy the nearest existing record and consult `schemas/records.schema.json`. Keep IDs stable and use explicit migrations/redirects when a rename is needed. Never use a title as a foreign key or hand-edit imported baseline YAML. Never add graph coordinates to semantic records. The program’s optional `roadmap_goal` and `roadmap_years` fields provide the overview’s graduate goal and year titles; year/semester grouping is derived from the semester numbers. The default map is a chronological outline, and prerequisite diagrams are a separate drill-down.
 
 ## Add a learning area or resource
 

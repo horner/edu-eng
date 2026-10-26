@@ -151,20 +151,35 @@ export const copy = {
   pulse: "Explore Pulse",
   teamToolsNote:
     "External collaboration tools are optional destinations; their accounts are separate from this prototype.",
-  mapTitle: "See how the capabilities connect.",
+  mapTitle: "See the journey before the details.",
   mapIntro:
-    "Prerequisite arrows describe learning dependencies. Related and concurrent study links describe different relationships. Select a node to inspect the same detail shown in the curriculum view.",
+    "Start with four years of growing independence. Open a semester to see what students build and learn, then explore one area's dependencies when you need them.",
+  mapSearch: "Find a learning area",
+  mapOverview: "All four years",
+  mapGraduateGoal: "The graduate we are working toward",
+  mapSequence: "Proposed learning sequence · open a semester to explore",
+  mapExploreTerm: (n: number) => `Explore Semester ${n}`,
+  mapSelected: "Selected learning area",
+  mapDependencies: "Explore dependencies",
+  mapBackTerm: "Back to semester",
+  mapMatches: (n: number) => `${n} matching areas`,
+  mapSearchHint:
+    "Matching areas are marked below. All semesters stay visible so you can keep your place.",
+  mapSemesterHint:
+    "Start with the individual and team capabilities. Open the studio for the work students do; expand foundations when you want the subjects behind it.",
+  mapConnections: "Show related and concurrent links",
   mapLegend: "Map relationships",
   prerequisiteEdge: "Required prerequisite",
   relatedEdge: "Related topic",
   concurrentEdge: "Concurrent study",
-  showPrereqs: "Include prerequisite foundations",
+  showPrereqs: "Include earlier prerequisite layers",
   orderedList: "Accessible ordered list",
   graphNote:
     "A roadmap-style view of our curriculum data. Native roadmap.sh import is not claimed.",
   focusMap: "Focus map on selection",
-  clearFocus: "Show program map",
-  focusHint: "This view includes the selected area and its prerequisite path.",
+  clearFocus: "Back to semester",
+  focusHint:
+    "Start with this area and its immediate prerequisites. Include earlier layers only when you want to trace further back. Arrows show required prerequisites.",
   abetTitle: "Trace the outcome to the experience.",
   abetIntro:
     "Explore the proposed evidence for engineering outcomes and biomedical content. This crosswalk supports review; it is not an accreditation determination.",

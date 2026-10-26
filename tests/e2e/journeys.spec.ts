@@ -46,10 +46,15 @@ test("static exploration, shared selection, resources, and deep-link refresh", a
       .first(),
   ).toBeVisible();
   await page.getByRole("link", { name: "Competency map", exact: true }).click();
-  await expect(page.getByTestId("graph-canvas")).toBeVisible();
+  await expect(page.getByTestId("program-roadmap")).toBeVisible();
+  await expect(page.getByTestId("graph-canvas")).toHaveCount(0);
   await expect(
     page.getByTestId("detail-panel").getByRole("heading", { level: 2 }),
   ).toHaveText(selectedTitle!);
+  await page
+    .getByRole("button", { name: "Explore dependencies", exact: true })
+    .click();
+  await expect(page.getByTestId("graph-canvas")).toBeVisible();
   await page.reload();
   await expect(
     page.getByTestId("detail-panel").getByRole("heading", { level: 2 }),
@@ -114,13 +119,11 @@ test("progress backup, import validation, reset, and university isolation", asyn
   await expect(page.getByLabel("My notes", { exact: true })).toHaveValue(
     "Export and restore this note.",
   );
-  await page
-    .locator("input[type=file]")
-    .setInputFiles({
-      name: "bad.json",
-      mimeType: "application/json",
-      buffer: Buffer.from("{invalid"),
-    });
+  await page.locator("input[type=file]").setInputFiles({
+    name: "bad.json",
+    mimeType: "application/json",
+    buffer: Buffer.from("{invalid"),
+  });
   await expect(page.getByLabel("My notes", { exact: true })).toHaveValue(
     "Export and restore this note.",
   );
