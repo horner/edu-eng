@@ -19,6 +19,10 @@ topics:
 discipline: edu-biomedical
 ownership: local
 resources:
+  - edu-res-molecular-shape-of-you
+  - edu-res-amoeba-water
+  - edu-res-amoeba-biomolecules
+  - edu-res-molecular-geometry
   - edu-res-chemistry
 competencies:
   - edu-bme-c01-technical

@@ -94,6 +94,49 @@ describe("semantic YAML model", () => {
       rmSync(root, { recursive: true, force: true });
     }
   });
+  it("requires a reason to care for a curiosity resource and rejects unsupported learning roles", () => {
+    const root = mkdtempSync(join(tmpdir(), "edu-curiosity-"));
+    const resource = {
+      id: "res-spark",
+      title: "A visual puzzle",
+      creator: "Creator",
+      provider: "YouTube",
+      url: "https://www.youtube.com/watch?v=fixture",
+      format: "video",
+      topics: [],
+      description: "A starting question",
+      access: "Public destination",
+      accuracy_evidence: "Metadata inspected",
+      engagement_rationale: "A puzzle to investigate",
+      review_status: "metadata_verified",
+      date_checked: "2026-10-26",
+      practice: "Make a prediction",
+      assessment_connection: "Explain the result",
+      learning_role: "spark",
+    };
+    try {
+      cpSync("schemas", join(root, "schemas"), { recursive: true });
+      const path = join(root, "data/resources/spark.yaml");
+      writeYaml(path, resource);
+      expect(() => loadCatalog(root)).toThrow(
+        /resources\/spark.yaml.*why_it_matters/,
+      );
+      writeYaml(path, {
+        ...resource,
+        why_it_matters: "A concrete reason",
+        learning_role: "unearned-mastery",
+      });
+      expect(() => loadCatalog(root)).toThrow(
+        /resources\/spark.yaml.*learning_role/,
+      );
+      writeYaml(path, { ...resource, why_it_matters: "A concrete reason" });
+      expect(loadCatalog(root).resources[0].why_it_matters).toBe(
+        "A concrete reason",
+      );
+    } finally {
+      rmSync(root, { recursive: true, force: true });
+    }
+  });
   it("finds unknown references and cycles", () => {
     const d = empty();
     d.disciplines = [

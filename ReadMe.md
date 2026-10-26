@@ -6,7 +6,7 @@ This document records the project's context, goals, tools, and reference resourc
 
 The [biomedical prototype implementation plan](bioprototype-plan.md) defines the four-year program PoC, YAML authoring, Knowledge Navigator synchronization, university branding, two visualization modes, and milestone-linked commits.
 
-The [interactive prototype](https://horner.github.io/edu-eng/) connects eight proposed semesters, 24 biomedical learning areas, 16 capabilities, eight studios, 16 assessments, and 49 curated resources. Curriculum browsing and the program map share the same YAML-backed data. The map starts with four year stages, then reveals a semester, its capabilities and optional focused dependencies. Read the [review guide](docs/review-guide.md) for a walkthrough, the [ABET audit](docs/abet-audit.md) for alignment and gaps, and the [resource audit](docs/resource-audit.md) for bounded source reviews and video evidence.
+The [interactive prototype](https://horner.github.io/edu-eng/) connects eight proposed semesters, 24 biomedical learning areas, 16 capabilities, eight studios, 16 assessments, and 55 curated resources. Curriculum browsing and the program map share the same YAML-backed data. The map starts with four year stages, then reveals a semester, its capabilities and optional focused dependencies. Read the [review guide](docs/review-guide.md) for a walkthrough, the [ABET audit](docs/abet-audit.md) for alignment and gaps, and the [resource audit](docs/resource-audit.md) for bounded source reviews and video evidence.
 
 Use Node from `.node-version` and pnpm from `package.json`:
 
@@ -57,6 +57,12 @@ Each academic term, multidisciplinary student teams would own real engineering c
 Teams should practice Agile development and Scrum: maintain backlogs, plan sprints, hold regular standups, review deliverables, and reflect on how they work. Students should regularly explain what they accomplished, what they are working on, what they learned, and where they are stuck.
 
 Faculty would curate strong existing explanations and learning resources, then devote substantial time to helping students understand and apply the material. Foundational study, individual assessment, experimentation, and team projects would all contribute to the educational experience.
+
+## Start with curiosity
+
+A topic should give students a reason to care. Chemistry now opens with [A Capella Science’s The Molecular Shape of You](https://www.youtube.com/watch?v=f8FAJXPBdOg), followed by molecular models and deeper reading. Biology includes [Evo-Devo](https://www.youtube.com/watch?v=ydqReeTV_vk) and Amoeba Sisters’ [water](https://www.youtube.com/watch?v=3jwAGWky98c), [biomolecules](https://www.youtube.com/watch?v=1Dx7LDwINLU), and [cell tour](https://www.youtube.com/watch?v=8IlzKri08kk). The [resource library](https://horner.github.io/edu-eng/#/program/biomedical?institution=indiana-tech&view=resources) presents these hooks before deeper explanations, with playful activities and separate source-review notes.
+
+The [curation skill](.agents/skills/curate-learning-resources/SKILL.md) explicitly values a surprising question, story, song, cartoon or demonstration alongside accuracy and technical depth. The [resource audit](docs/resource-audit.md) records which sources were inspected and the learning areas still missing this layer; fun coverage is not yet complete across the four years.
 
 ## Team tools and examples
 

@@ -270,6 +270,13 @@
         "assessment_connection": {
           "type": "string"
         },
+        "learning_role": {
+          "enum": ["spark", "explanation", "practice", "reference"]
+        },
+        "why_it_matters": {
+          "type": "string",
+          "minLength": 1
+        },
         "format": {
           "enum": ["video", "reading", "interactive", "course", "practice"]
         },
@@ -289,6 +296,15 @@
           }
         }
       },
+      "allOf": [
+        {
+          "if": {
+            "required": ["learning_role"],
+            "properties": { "learning_role": { "const": "spark" } }
+          },
+          "then": { "required": ["why_it_matters"] }
+        }
+      ],
       "additionalProperties": true
     },
     "assessments": {

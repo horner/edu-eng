@@ -17,6 +17,14 @@ Use the current repository's README and resource conventions when present. Searc
 - Search interactive platforms such as Brilliant, authoritative course sites, open textbooks, and suitable practice resources. Preserve the user's preferred sources while considering better topic-specific alternatives.
 - Inspect the resource itself where possible: video, transcript, lesson, reading, or exercise. State the basis of evaluation. Metadata alone verifies identity, not an explanation's accuracy, entertainment value, or teaching quality.
 
+## Give the learner a reason to care
+
+For this engineering-education project, seek a curiosity-building entry alongside the rigorous explanation and practice. Ask what surprising question, human need or phenomenon makes the topic worth learning. Music, comedy, animation, visual puzzles, experiments and creator storytelling are purposeful choices. A catalog of readings alone leaves this part of the experience unfinished; record a missing hook as a curation gap.
+
+The user specifically values A Capella Science’s Molecular Shape of You and Evo-Devo, Amoeba Sisters’ cartoons, 3Blue1Brown and FloatHeadPhysics. Search the creator’s original material for an appropriate concept; preserve recognizable titles so learners can find a recommended favorite. Prefer a small set of distinct entry points over a long undifferentiated playlist. An introductory cartoon can be useful to a university learner without supplying all required technical depth.
+
+Use the catalog’s `learning_role: spark` and a concrete `why_it_matters` when presenting a curiosity resource. Put it before the topic’s deeper readings in the learner experience. Invite a prediction, model, sketch, playful comparison or discussion; keep formal assessment mapping and detailed source-review notes separately available. The hook should make exploration inviting rather than turn every entertaining introduction into paperwork. Carry the accurate reference and deeper practice forward.
+
 ## Evaluate accuracy and engagement separately
 
 Accuracy and relevance are conditions for recommendation. Check central claims, equations, assumptions, terminology, and scope against an appropriate authoritative textbook, original research, official documentation, or expert course material. Identify consequential simplifications, dated material, and gaps. Mark an unverified candidate for further review rather than presenting it as validated.

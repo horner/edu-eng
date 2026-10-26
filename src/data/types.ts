@@ -61,6 +61,8 @@ export interface Resource extends Metadata {
   date_checked: string;
   practice: string;
   assessment_connection: string;
+  learning_role?: "spark" | "explanation" | "practice" | "reference";
+  why_it_matters?: string;
 }
 export interface Assessment extends Metadata {
   id: string;

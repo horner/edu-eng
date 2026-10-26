@@ -1,0 +1,54 @@
+schema_version: 1
+id: edu-res-evo-devo
+title: Evo-Devo (Despacito Biology Parody) | A Capella Science
+creator: A Capella Science (acapellascience)
+provider: YouTube
+url: https://www.youtube.com/watch?v=ydqReeTV_vk
+format: video
+learning_role: spark
+why_it_matters: How can related genetic tools produce such different living forms? Developmental switches,
+  timing and location turn a list of biological parts into an intriguing story about how bodies grow and
+  how their forms change across generations.
+topics:
+  - edu-bme-anatomy-physiology
+description: A fast, playful introduction to evolutionary developmental biology, filled with signaling
+  networks and surprising body-pattern examples. Optional broad biological context for curious engineers.
+access: The creator's public video and English transcript export were accessible in this browser session.
+  Anonymous, regional and classroom playback were not tested.
+accuracy_evidence: Read the complete exported English transcript. Checked the central developmental-gene
+  regulation and conserved-toolkit story against OpenStax Biology 2e 27.1, and the distinction between
+  individual development and population evolution against 18.1. Stanford's Kingsley Lab research summary
+  supports body-region-specific regulatory changes while explicitly identifying coding changes too.
+engagement_rationale: Observed a multi-panel performance around a DNA/regulation graphic in a sampled
+  rendered frame. The transcript uses playful computing analogies, repeated musical structure and unusual
+  developmental examples to invite questions. Full audiovisual pacing and learner response were not evaluated.
+review_status: transcript_reviewed
+date_checked: "2026-10-26"
+practice: "Play with it: Invent a paper creature with four repeated body segments and movable rule cards.
+  Move a 'grow a limb' rule to a different segment or time, draw both creatures, and let a friend guess
+  which rule changed. Then find a real regulation-and-form example in the linked reading; explain where
+  your toy analogy breaks down."
+assessment_connection: Optional biology discussion, not a required biomedical mastery topic. If revisited
+  with Term 3 gene expression, explain one real example and distinguish an individual's development from
+  evolution across generations.
+assessment_ids:
+  - edu-bme-a03-individual
+required: false
+role: optional_supplement
+review_scope: Complete exported English transcript read and a sampled rendered video frame inspected.
+  Central regulatory-development ideas cross-checked; the individual eye, limb, snake-clock and experimental
+  examples were not independently validated in full. No full audiovisual viewing or faculty approval is claimed.
+limitations: Regulatory DNA is part of the genome, and both protein-coding and regulatory changes contribute
+  to evolution. Development within an individual is different from evolution across generations. Hox genes
+  are one subset of homeobox-containing genes, not every developmental regulator. The software and planning
+  language is metaphorical; captioned technical names may be inaccurate.
+duration_seconds: 232
+prerequisite_knowledge:
+  - No prerequisite for a curiosity watch; basic cells, genes and gene expression help with deeper questions.
+related_sources:
+  - https://openstax.org/books/biology-2e/pages/27-1-features-of-the-animal-kingdom
+  - https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution
+  - https://kingsley.stanford.edu/sticklebacks.html
+transcript_evidence: English transcript exported from the original YouTube watch page on 2026-10-26.
+  Caption provenance was reported as authored or unspecified. Creator/channel identity and 3:52 player
+  duration were observed; no lyrics or transcript are saved in the repository.

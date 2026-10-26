@@ -25,6 +25,9 @@ topics:
 discipline: edu-biomedical
 ownership: local
 resources:
+  - edu-res-evo-devo
+  - edu-res-amoeba-cells
+  - edu-res-amoeba-biomolecules
   - edu-res-physiology
 competencies:
   - edu-bme-c01-technical

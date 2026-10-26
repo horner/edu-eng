@@ -4,11 +4,11 @@ Open [the prototype](https://horner.github.io/edu-eng/). This is a proposal to d
 
 ![Indiana Tech biomedical curriculum prototype](review/overview.png)
 
-Review captures also show the [dark theme](review/dark-theme.png), [four-year map](review/competency-map.png), [focused dependencies](review/dependency-map.png), and [phone layout](review/mobile-semester.png). They illustrate the tested prototype, not student attainment.
+See the new [curiosity resources](review/curiosity-resources.png). Review captures also show the [dark theme](review/dark-theme.png), [four-year map](review/competency-map.png), [focused dependencies](review/dependency-map.png), and [phone layout](review/mobile-semester.png). They illustrate the tested prototype, not student attainment.
 
 ## Suggested ten-minute walkthrough
 
-1. Inspect the eight semesters. Open Semester 1 and its individual capability. Then choose the calculus learning area to follow its prerequisite path and one learning resource. Read the resource's access notes, practice, inspection scope, and limitations.
+1. Inspect the eight semesters. Open Semester 1 and its individual capability. Then choose the calculus learning area to follow its prerequisite path and one learning resource. Read the resource's access notes, practice, inspection scope, and limitations. Open chemistry to see **Start with curiosity**: the molecular-shape song and Amoeba Sisters introduce questions before the deeper reading. Try a playful prompt, then expand its source-review and teaching notes.
 2. Open the studio. Examine problem decomposition, interface agreements, role rotation, experiments, root-cause investigation, individual defense, and separate individual/team rubrics. Repeat in a later semester to see increasing independence.
 3. Switch to the competency map. Start with the graduate goal and four year stages; open a semester to see individual/team capabilities, the studio and collapsed foundations. A selected capability retains the same ID and detail across views. Choose **Explore dependencies** to see only that area and its immediate prerequisites. Earlier layers and related/concurrent links are optional; the ordered list is an alternative to the diagram. Use **Back to semester** or **All four years** to return to context.
 4. Open Semester 5 for signals, transport and biomaterials, and Semesters 7–8 for the capstone. Follow a resource into a concrete activity and the expected performance evidence.

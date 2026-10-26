@@ -239,6 +239,8 @@ Depends on M02 and BIO-030. Exit: all eight terms are represented and navigable,
 
 BIO-041 and BIO-043 can proceed on clearly labeled draft data while BIO-040 has a source gap. A faculty-ready curriculum claim and BIO-100 acceptance require that gap to be resolved or explicitly accepted as a limitation in the review record; the UI must continue to display it.
 
+- [x] **BIO-045 — Put curiosity and enjoyment before deeper study.** Address the missing A Capella Science/Amoeba Sisters selections and the textbook-heavy presentation. Add creator-original chemistry/biology hooks with a reason to care, playful follow-up, actual review evidence and a visible deeper reference; retain precise limits and optional context. Present sparks before prerequisites/readings in topic details and before references in discovery, search creators, and keep source/assessment notes separately available. Update the curation skill to seek motivating entry points. Acceptance: chemistry exposes The Molecular Shape of You, biology exposes Evo-Devo and selected Amoeba Sisters videos, review/assessment data remains accessible, desktop/phone journeys pass, and incomplete coverage elsewhere is recorded in `docs/progress/BIO-045.md` and the resource audit.
+
 ### M05 — University profiles and branding
 
 Depends on BIO-011 and M02. Exit: university identity and visual appearance are configuration choices.
@@ -313,4 +315,4 @@ Use these as the implementation's behavior checklist. The task checkboxes above 
 
 The PoC is ready to present when its checked tasks, evidence records, commit history, and running demonstration agree. Every required learning path needs meaningful content; a polished empty graph does not complete a curriculum milestone. Every pending source, resource, credit, or academic review remains visible in data and in the review package.
 
-All 37 prototype tasks have implementation and verification evidence under `docs/progress/`. The [independent review](docs/independent-review.md) records the fresh checkout and demonstration; [BIO-090](docs/progress/BIO-090.md) and [BIO-100](docs/progress/BIO-100.md) record automated and public deployment checks. Academic follow-up remains explicit in the [review package](docs/review-guide.md) and [backlog](docs/follow-up-backlog.md). Keep future plan amendments in the same commits as the work they record.
+All 38 prototype tasks have implementation and verification evidence under `docs/progress/`. The [independent review](docs/independent-review.md) records the fresh checkout and demonstration; [BIO-090](docs/progress/BIO-090.md) and [BIO-100](docs/progress/BIO-100.md) record automated and public deployment checks. Academic follow-up remains explicit in the [review package](docs/review-guide.md) and [backlog](docs/follow-up-backlog.md). Keep future plan amendments in the same commits as the work they record.

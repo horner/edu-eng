@@ -114,6 +114,16 @@ export const copy = {
   sourceRevision: "Pinned Knowledge Navigator revision",
   resourceGap: "A reviewed learning resource is still needed for this area.",
   practice: "Try it",
+  curiosity: "Start with curiosity",
+  curiosityIntro:
+    "A song, a cartoon, a surprising question. Find a reason to care, then follow the idea deeper.",
+  goDeeper: "Go deeper",
+  whyItMatters: "Why this matters",
+  playWithIdea: "Play with the idea",
+  watchVideo: "Watch the video",
+  videoAccessNote:
+    "Opens on YouTube. Ads and school or regional restrictions may apply.",
+  sourceTeachingNotes: "Source review and teaching notes",
   assessmentConnection: "Show what you learned",
   accuracy: "Accuracy review",
   reviewScope: "What was inspected",
@@ -132,7 +142,7 @@ export const copy = {
   noResults: "No matches. Try a different search or review filter.",
   allResources: "A place to learn, then a way to apply it.",
   resourceIntro:
-    "Resources connect to concrete practice and evidence. Review labels describe what was inspected; they do not imply a complete video viewing or faculty approval.",
+    "Start with something that makes you curious, then explore the explanation and play with the idea. Source-review notes show what was inspected and what still needs review.",
   assessment: "Assessment",
   evidence: "Evidence to produce",
   rubric: "Performance indicators",
@@ -197,7 +207,7 @@ export const copy = {
   progressCount: (n: number, total: number) =>
     `${n} of ${total} areas with recorded activity`,
   unitsCount: (n: number) => `${n} learning areas`,
-  resourceCount: (n: number) => `${n} resources`,
+  resourceCount: (n: number) => `${n} ${n === 1 ? "resource" : "resources"}`,
   demoProfile: "Fictional demonstration profile",
   loadError: "The curriculum could not be loaded.",
   retry: "Try again",

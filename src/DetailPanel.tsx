@@ -10,7 +10,7 @@ import {
   Textarea,
   Accordion,
 } from "@mieweb/ui";
-import { BookOpen, Compass, ExternalLink, X } from "lucide-react";
+import { BookOpen, Compass, ExternalLink, Sparkles, X } from "lucide-react";
 import type { Assessment, Curriculum, Studio, Topic } from "./data/types";
 import { prerequisitePath } from "./data/load";
 import { recordMap, type LearningRecord } from "./graph";
@@ -141,9 +141,16 @@ export function resourcesFor(record: LearningRecord, data: Curriculum) {
       list(chapter.competencies).includes(record.id)
     )
       list(chapter.resources).forEach((id) => ids.add(id));
-  return data.resources.filter(
-    (resource) => ids.has(resource.id) || resource.topics.includes(record.id),
+  const byId = new Map(
+    data.resources.map((resource) => [resource.id, resource]),
   );
+  return [
+    ...[...ids].flatMap((id) => (byId.has(id) ? [byId.get(id)!] : [])),
+    ...data.resources.filter(
+      (resource) =>
+        !ids.has(resource.id) && resource.topics.includes(record.id),
+    ),
+  ];
 }
 
 export function DetailPanel({
@@ -181,6 +188,12 @@ export function DetailPanel({
       </aside>
     );
   const resources = resourcesFor(record, data);
+  const sparks = resources.filter(
+    (resource) => resource.learning_role === "spark",
+  );
+  const deeper = resources.filter(
+    (resource) => resource.learning_role !== "spark",
+  );
   const assessmentIds = new Set(list(record.assessments));
   const assessments = data.assessments.filter(
     (assessment) =>
@@ -244,6 +257,23 @@ export function DetailPanel({
       </div>
       {tab === "learn" && (
         <div className="stack">
+          {sparks.length > 0 && (
+            <section
+              className="curiosity-section"
+              data-testid="curiosity-resources"
+            >
+              <h3>
+                <Sparkles size={18} aria-hidden="true" />
+                {copy.curiosity}
+              </h3>
+              <p className="small-muted">{copy.curiosityIntro}</p>
+              <div className="stack">
+                {sparks.map((resource) => (
+                  <ResourceCard key={resource.id} resource={resource} />
+                ))}
+              </div>
+            </section>
+          )}
           <section>
             <h3>{copy.prerequisites}</h3>
             {path.length ? (
@@ -276,11 +306,11 @@ export function DetailPanel({
           <section>
             <h3>
               <BookOpen size={18} aria-hidden="true" />
-              {copy.learn}
+              {sparks.length ? copy.goDeeper : copy.learn}
             </h3>
-            {resources.length ? (
+            {deeper.length ? (
               <div className="stack">
-                {resources.map((resource) => (
+                {deeper.map((resource) => (
                   <ResourceCard key={resource.id} resource={resource} />
                 ))}
               </div>

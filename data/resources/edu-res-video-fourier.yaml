@@ -26,3 +26,5 @@ assessment_ids:
   - edu-bme-a05-team
 required: false
 limitations: Further content, accessibility and teaching review required before assigning this as a primary explanation.
+learning_role: spark
+why_it_matters: How can one complicated sound contain several clear notes? Decomposing a signal makes frequency useful before it becomes a formula.

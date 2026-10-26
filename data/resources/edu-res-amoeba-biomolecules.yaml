@@ -1,0 +1,67 @@
+schema_version: 1
+creator: Amoeba Sisters (Pinky and Petunia)
+provider: YouTube
+format: video
+learning_role: spark
+role: optional_supplement
+required: false
+access: The original YouTube page and English transcript export were accessible in the current
+  browser session. Advertising and separate account controls may appear. Anonymous, regional and
+  classroom playback were not tested; the linked OpenStax readings offer public text alternatives.
+review_status: transcript_reviewed
+date_checked: 2026-10-26
+transcript_evidence: English transcript exported from the original YouTube watch page through the
+  supported browser transcript tool on 2026-10-26; caption provenance was reported authored or
+  unspecified. Complete export read; no transcript is redistributed.
+identity_evidence: The original watch page displayed the verified @AmoebaSisters channel and
+  matching title. The creators’ official video page identifies their YouTube channel and describes
+  these as introductory science comics.
+review_scope: Complete exported English transcript read; selected mechanisms checked against the
+  linked OpenStax sections. Full audiovisual playback, pacing, animation accuracy, caption
+  synchronization, classroom access and learner response were not evaluated. No faculty or
+  subject-expert approval is claimed.
+id: edu-res-amoeba-biomolecules
+title: Biomolecules (Updated 2023)
+url: https://www.youtube.com/watch?v=1Dx7LDwINLU
+topics:
+  - edu-bme-chemistry
+  - edu-bme-anatomy-physiology
+description: Start with a favorite-food question, then discover the molecular cast behind membranes,
+  muscles, messages and genetic instructions. A playful first look before the chemistry gets more
+  detailed.
+why_it_matters: "A strawberry contains more than sugar: its cells also contain proteins, membranes
+  and DNA. Recognizing this molecular cast makes living materials less mysterious and gives you
+  useful questions to ask about their structure and function."
+accuracy_evidence: Read the complete original English transcript. Cross-checked the assigned
+  carbohydrate, protein and nucleic-acid building blocks/functions with OpenStax Biology 2e chapter
+  3 summary, and membrane/lipid roles with section 3.3. The assignment skips the broad solubility
+  and carbs-before-fats generalizations; the limitations below state the necessary corrections for
+  viewers who watch the full video.
+engagement_rationale: "Observed in the transcript: a favorite-food opening, a surprising
+  strawberry/DNA question and direct, informal explanations of a cast of molecular characters. These
+  give a reason to care before memorizing names; audiovisual humor and student enjoyment were not
+  measured."
+practice: "Locally authored activity: Draw a tiny cell as a four-character comic: a phospholipid
+  boundary, a glucose fuel token, a protein channel and a DNA instruction book. Secretly swap two
+  job labels for a partner to catch. Explain why one swapped character could not simply do the
+  other’s job, then check the relevant molecular structure in the reading."
+assessment_connection: "Term 1 individual: use one corrected structure–function explanation to
+  defend a biological mechanism or chemical/material assumption. Term 3 individual: connect one
+  molecular role to a cellular mechanism. The comic starts the conversation; it does not replace
+  quantitative work or independent transfer."
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a03-individual
+assigned_segments:
+  - "0:04–2:44: favorite-food hook, monomers and carbohydrates"
+  - "3:23–3:42: phospholipids and cell membranes"
+  - "3:52–6:37: other lipid roles, proteins and nucleic acids"
+limitations: "Introductory categories, not nutrition advice or metabolic regulation. The nonassigned
+  3:10–3:23 passage overgeneralizes solubility: not every protein or carbohydrate dissolves in
+  water. The nonassigned 3:42–3:52 energy-storage passage must not imply metabolism always exhausts
+  carbohydrates before using fats. Lipids are not one repeating-monomer polymer family, and the
+  closing elemental mnemonic is not a complete composition rule."
+related_sources:
+  - https://www.amoebasisters.com/our-videos.html
+  - https://openstax.org/books/biology-2e/pages/3-chapter-summary
+  - https://openstax.org/books/biology-2e/pages/3-3-lipids

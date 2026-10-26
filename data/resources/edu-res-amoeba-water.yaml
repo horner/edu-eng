@@ -1,0 +1,62 @@
+schema_version: 1
+creator: Amoeba Sisters (Pinky and Petunia)
+provider: YouTube
+format: video
+learning_role: spark
+role: optional_supplement
+required: false
+access: The original YouTube page and English transcript export were accessible in the current
+  browser session. Advertising and separate account controls may appear. Anonymous, regional and
+  classroom playback were not tested; the linked OpenStax readings offer public text alternatives.
+review_status: transcript_reviewed
+date_checked: 2026-10-26
+transcript_evidence: English transcript exported from the original YouTube watch page through the
+  supported browser transcript tool on 2026-10-26; caption provenance was reported authored or
+  unspecified. Complete export read; no transcript is redistributed.
+identity_evidence: The original watch page displayed the verified @AmoebaSisters channel and
+  matching title. The creators’ official video page identifies their YouTube channel and describes
+  these as introductory science comics.
+review_scope: Complete exported English transcript read; selected mechanisms checked against the
+  linked OpenStax sections. Full audiovisual playback, pacing, animation accuracy, caption
+  synchronization, classroom access and learner response were not evaluated. No faculty or
+  subject-expert approval is claimed.
+id: edu-res-amoeba-water
+title: Properties of Water
+url: https://www.youtube.com/watch?v=3jwAGWky98c
+topics:
+  - edu-bme-chemistry
+  - edu-bme-anatomy-physiology
+description: Why can a water strider stand on a pond, and why might fish survive beneath its ice?
+  Follow one small molecule from partial charges to surprising everyday behavior.
+why_it_matters: The same molecular attractions that shape a droplet also matter when moving fluids,
+  dissolving substances and controlling temperature around living tissue. Water becomes an
+  engineering material with a personality you can investigate.
+accuracy_evidence: Read the complete original English transcript. Cross-checked the assigned
+  polarity, intermolecular hydrogen bonds, cohesion/adhesion, solvent behavior, floating ice,
+  specific heat and evaporative cooling against OpenStax Biology 2e section 2.2. Distinguish
+  hydrogen bonds between water molecules from the covalent O–H bonds within one molecule.
+engagement_rationale: "Observed in the transcript: an opening molecule riddle, water-strider
+  imagery, a childhood goldfish-pond story and familiar swimming/sweating examples. The narrative
+  turns molecular attraction into questions one can try to explain; full audiovisual humor, pacing
+  and learning effectiveness were not tested."
+practice: "Locally authored activity: Make a water dome on a clean coin using a dropper. Predict
+  what adding one tiny drop of dish soap will do, then try it and sketch the before/after. Explain
+  cohesion and surface tension to a partner. Could a change in drop size fool your comparison? Try a
+  second prediction with that possible cause controlled."
+assessment_connection: "Term 1 individual: explain a chemical mechanism, distinguish a prediction
+  from an observation and defend a changed case. Term 2 individual: connect the playful drop
+  comparison to controlled measurement and uncertainty; it is preparation for the full quantitative
+  task."
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a02-individual
+assigned_segments:
+  - "0:46–2:37: polarity, hydrogen bonds, adhesion, cohesion and the water strider"
+  - "2:54–6:07: solvent behavior, the frozen pond, heat capacity and evaporative cooling"
+limitations: This is an intuition-building introduction. Rounded geographic trivia and the broader
+  animal water-walking examples outside the assigned segments were not validated. The drop activity
+  is a locally proposed qualitative exploration, not an experiment performed during curation or a
+  complete model of wetting, fluid transport or heat transfer.
+related_sources:
+  - https://www.amoebasisters.com/our-videos.html
+  - https://openstax.org/books/biology-2e/pages/2-2-water

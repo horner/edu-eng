@@ -1,0 +1,66 @@
+schema_version: 1
+creator: Amoeba Sisters (Pinky and Petunia)
+provider: YouTube
+format: video
+learning_role: spark
+role: optional_supplement
+required: false
+access: The original YouTube page and English transcript export were accessible in the current
+  browser session. Advertising and separate account controls may appear. Anonymous, regional and
+  classroom playback were not tested; the linked OpenStax readings offer public text alternatives.
+review_status: transcript_reviewed
+date_checked: 2026-10-26
+transcript_evidence: English transcript exported from the original YouTube watch page through the
+  supported browser transcript tool on 2026-10-26; caption provenance was reported authored or
+  unspecified. Complete export read; no transcript is redistributed.
+identity_evidence: The original watch page displayed the verified @AmoebaSisters channel and
+  matching title. The creators’ official video page identifies their YouTube channel and describes
+  these as introductory science comics.
+review_scope: Complete exported English transcript read; selected mechanisms checked against the
+  linked OpenStax sections. Full audiovisual playback, pacing, animation accuracy, caption
+  synchronization, classroom access and learner response were not evaluated. No faculty or
+  subject-expert approval is claimed.
+id: edu-res-amoeba-cells
+title: "Introduction to Cells: The Grand Cell Tour"
+url: https://www.youtube.com/watch?v=8IlzKri08kk
+topics:
+  - edu-bme-anatomy-physiology
+description: A pond-water discovery becomes a comic tour of a living cell. Meet the structures that
+  make, move and export molecules, then imagine travelling as the cargo.
+why_it_matters: Before designing something that interacts with living tissue, get curious about what
+  a cell is doing. Its boundaries, molecular assembly and delivery routes help explain why a cell
+  can respond very differently from a passive material.
+accuracy_evidence: Read the complete original English transcript. Checked the assigned
+  prokaryote/eukaryote contrast, shared ribosomes and membranes, selective barrier, and
+  secreted-protein route through rough ER, vesicles, Golgi and plasma membrane against OpenStax
+  Biology 2e sections 4.2–4.4. The secretion route applies to appropriately targeted proteins, not
+  every protein.
+engagement_rationale: "Observed in the transcript: a remembered microscope discovery, an invitation
+  to travel inside the cell, an ER highway/Golgi packaging metaphor and an escape as secreted cargo.
+  This creates a story to draw and interrupt with predictions; visual scale, full audiovisual pacing
+  and learner enjoyment remain unreviewed."
+practice: "Locally authored activity: Play “you are the cargo.” Draw a short comic following a
+  protein destined for secretion from a ribosome on rough ER through vesicles and Golgi to the
+  membrane. A partner closes one station: predict where the cargo might accumulate and explain which
+  arrow needs checking. Swap roles and try a different station."
+assessment_connection: "Term 1 individual: explain a structure–function mechanism and the limits of
+  the cartoon. Term 3 individual: defend the cellular mechanism and a changed case without a
+  teammate supplying the answer. The drawing is a spark for that explanation, not evidence that the
+  whole cell-biology capability is mastered."
+assessment_ids:
+  - edu-bme-a01-individual
+  - edu-bme-a03-individual
+assigned_segments:
+  - "0:09–4:37: pond-water discovery, cell types, membrane, cytoplasm and ribosomes"
+  - "5:16–6:35: ER, vesicles and Golgi"
+  - "8:14–8:53: leave the cell as appropriately targeted secreted protein"
+limitations: A deliberately simplified tour, not a complete cell model. Drawings and factory
+  metaphors are not molecular scale or literal agency. General cell-type statements have
+  specialized-cell exceptions; use a typical secretory eukaryotic cell for the activity.
+  Mitochondria, photosynthesis and numerical body-cell claims outside the assigned scope were not
+  the focus of the cross-check.
+related_sources:
+  - https://www.amoebasisters.com/our-videos.html
+  - https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells
+  - https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells
+  - https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins

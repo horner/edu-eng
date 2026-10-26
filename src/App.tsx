@@ -503,7 +503,7 @@ function Workspace({
     const resources = resourcesFor(record, data);
     return (
       (!q ||
-        `${record.name} ${record.summary} ${resources.map((resource) => resource.title).join(" ")}`
+        `${record.name} ${record.summary} ${resources.map((resource) => [resource.title, resource.creator, resource.provider, resource.why_it_matters || ""].join(" ")).join(" ")}`
           .toLowerCase()
           .includes(q)) &&
       (route.review === "all" ||
@@ -616,7 +616,7 @@ function Workspace({
   const resources = data.resources.filter(
     (resource) =>
       (!route.q ||
-        `${resource.title} ${resource.description} ${resource.topics.map((id) => records.get(id)?.name || id).join(" ")}`
+        `${resource.title} ${resource.creator} ${resource.provider} ${resource.description} ${resource.why_it_matters || ""} ${resource.topics.map((id) => records.get(id)?.name || id).join(" ")}`
           .toLowerCase()
           .includes(route.q.toLowerCase())) &&
       (!route.term || resource.topics.some((id) => visibleIds.includes(id))) &&
@@ -624,6 +624,12 @@ function Workspace({
         (route.review === "reviewed"
           ? inspectedResource(resource)
           : !inspectedResource(resource))),
+  );
+  const curiosityResources = resources.filter(
+    (resource) => resource.learning_role === "spark",
+  );
+  const deeperResources = resources.filter(
+    (resource) => resource.learning_role !== "spark",
   );
   const contentTools = (
     <div className="content-tools">
@@ -1036,8 +1042,25 @@ function Workspace({
                   <ArrowUpRight size={14} aria-hidden="true" />
                 </a>
               </div>
+              {curiosityResources.length > 0 && (
+                <section
+                  className="curiosity-section"
+                  data-testid="curiosity-library"
+                >
+                  <h2>{copy.curiosity}</h2>
+                  <p className="small-muted">{copy.curiosityIntro}</p>
+                  <div className="resource-grid">
+                    {curiosityResources.map((resource) => (
+                      <ResourceCard key={resource.id} resource={resource} />
+                    ))}
+                  </div>
+                </section>
+              )}
+              {curiosityResources.length > 0 && deeperResources.length > 0 && (
+                <h2>{copy.goDeeper}</h2>
+              )}
               <div className="resource-grid">
-                {resources.map((resource) => (
+                {deeperResources.map((resource) => (
                   <ResourceCard key={resource.id} resource={resource} />
                 ))}
               </div>

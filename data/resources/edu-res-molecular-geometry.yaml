@@ -1,0 +1,39 @@
+schema_version: 1
+id: edu-res-molecular-geometry
+title: Chemistry 2e — 7.6 Molecular Structure and Polarity
+creator: OpenStax authors
+provider: OpenStax
+url: https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity
+format: reading
+learning_role: explanation
+why_it_matters: Three-dimensional arrangement changes a molecule's charge pattern and interactions. This
+  reading turns the song's shapes into a model you can sketch, question and use.
+topics:
+  - edu-bme-chemistry
+description: >-
+  Go deeper after the song: explore electron groups, lone pairs, molecular geometry and polarity
+  through methane, ammonia, water and other worked examples.
+access: Public text and worked examples were accessible without an account during this audit.
+accuracy_evidence: Inspected the VSEPR geometry table, the distinction between electron-pair geometry and
+  atom arrangement, methane/ammonia comparisons, and the worked water example. Lone pairs change molecular
+  shape and angles; polarity depends on bond dipoles and their spatial arrangement.
+engagement_rationale: Three-dimensional diagrams and concrete molecule comparisons let students check and
+  improve a small physical model rather than memorize names alone.
+review_status: content_reviewed
+date_checked: "2026-10-26"
+practice: "Play with it: Sketch CH4, NH3 and H2O, showing bonds and lone pairs separately. Predict which
+  arrangement is tetrahedral, pyramidal or bent before opening the diagrams. Ask a partner to explain why
+  four electron groups do not always mean four visible atoms around the center."
+assessment_connection: >-
+  Term 1 individual chemistry explanation: predict the local geometry of a fresh
+  Lewis structure and explain the model's assumptions, including lone pairs and polarity.
+assessment_ids:
+  - edu-bme-a01-individual
+required: false
+role: optional_supplement
+review_scope: Selected section text, diagrams and worked examples inspected; not a complete chemistry course
+  or faculty review. The resource supplies an explicit visible follow-up to the molecular-shape spark.
+limitations: VSEPR predicts approximate local geometry. Actual angles can differ from ideal values, and
+  whole biomolecule folding depends on additional interactions and environment.
+prerequisite_knowledge:
+  - Lewis structures, valence electrons, bonds and lone pairs.

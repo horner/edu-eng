@@ -1,0 +1,54 @@
+schema_version: 1
+id: edu-res-molecular-shape-of-you
+title: The Molecular Shape of You (Ed Sheeran Parody) | A Capella Science
+creator: A Capella Science (acapellascience)
+provider: YouTube
+url: https://www.youtube.com/watch?v=f8FAJXPBdOg
+format: video
+learning_role: spark
+why_it_matters: Molecules are three-dimensional things, and their shapes help make life work. This song connects
+  the chemistry of tiny bonds to the proteins and other molecules that make up your body.
+topics:
+  - edu-bme-chemistry
+description: A playful four-minute trip from electron orbitals to methane, rings and biological molecules.
+  Enjoy the big picture first; pick one shape or unfamiliar idea to explore afterward.
+access: The creator's public video and English transcript export were accessible in this browser session.
+  A pre-roll advertisement was observed. Anonymous, regional and classroom playback were not tested.
+accuracy_evidence: Read the complete exported English transcript. Cross-checked tetrahedral methane and the
+  sp3 model against OpenStax Chemistry 2e 8.2, sigma/pi bonding against 8.3, and protein secondary structure
+  against Biology 2e 3.4. These checks support selected central ideas, not every compressed quantum or
+  biochemical statement in the song.
+engagement_rationale: Observed a multi-panel performance beside equation graphics in a sampled video frame.
+  The transcript uses a recurring pop-song structure and builds from small-scale bonding to the body,
+  giving technical terms a playful context. Full audiovisual pacing and learner response were not evaluated.
+review_status: transcript_reviewed
+date_checked: "2026-10-26"
+practice: "Play with it: Make tiny methane, ammonia and water sculptures from clay, paper or your hands.
+  Give a friend two shapes to identify. Then check the geometry reading: what changes when a lone pair
+  takes the place of a bond, and which parts of your sculpture hide that difference?"
+assessment_connection: Optional Term 1 curiosity starter. A later individual chemistry explanation can ask
+  you to predict an unfamiliar molecule's geometry using a stated model.
+assessment_ids:
+  - edu-bme-a01-individual
+required: false
+role: optional_supplement
+review_scope: Complete exported English transcript read and a sampled rendered video frame inspected.
+  Selected chemistry and protein claims checked against the linked textbook sections. No full audiovisual
+  viewing or faculty approval is claimed; lyrics and transcripts are not redistributed.
+limitations: >-
+  The degeneracy passage needs a hydrogenic-model qualifier: do not assume isolated carbon's
+  2s and 2p orbitals have equal energy; Chemistry 2e 6.4 distinguishes their energies in multi-electron
+  atoms. Hybridization and VSEPR are models of local bonding; they do not by themselves predict a whole
+  protein's folding or function. Captions can garble technical terms.
+duration_seconds: 239
+prerequisite_knowledge:
+  - No prerequisite for a curiosity watch; Lewis structures and electron pairs help with the follow-up.
+related_sources:
+  - https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity
+  - https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals
+  - https://openstax.org/books/chemistry-2e/pages/8-3-multiple-bonds
+  - https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations
+  - https://openstax.org/books/biology-2e/pages/3-4-proteins
+transcript_evidence: English transcript exported from the original YouTube watch page on 2026-10-26 after
+  the pre-roll player cleared. Caption provenance was reported as authored or unspecified. Creator/channel
+  identity and 3:59 player duration were observed; no transcript is saved in the repository.

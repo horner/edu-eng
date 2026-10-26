@@ -1165,3 +1165,66 @@
     align-items: start;
   }
 }
+
+.education-app .curiosity-section > h2 {
+  font-size: 1.4rem;
+  margin-block: 1.2rem 0.6rem;
+}
+.education-app .curiosity-section > .small-muted {
+  margin-block: 0 0.9rem;
+  line-height: 1.6;
+}
+.education-app .curiosity-section {
+  margin-block-end: 1.5rem;
+}
+.education-app .spark-resource {
+  border-block-start: 3px solid var(--app-link);
+}
+.education-app .curiosity-question {
+  display: flex;
+  align-items: start;
+  gap: 0.6rem;
+  padding: 0.85rem;
+  background: var(--mieweb-muted);
+  border-radius: 0.55rem;
+}
+.education-app .curiosity-question > svg {
+  color: var(--app-link);
+  flex: 0 0 auto;
+  margin-block-start: 0.15rem;
+}
+.education-app .curiosity-question strong {
+  display: block;
+  margin-block-end: 0.4rem;
+}
+.education-app .spark-watch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--app-link);
+  border: 1px solid var(--app-link);
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.8rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-block: 0.4rem;
+  text-decoration: none;
+}
+.education-app .spark-watch:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.education-app .resource-teaching-notes {
+  padding-block: 0.5rem;
+  border-block-start: 1px solid var(--mieweb-border);
+}
+.education-app .resource-teaching-notes > summary {
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--mieweb-muted-foreground);
+}
+.education-app .resource-teaching-notes > h4 {
+  font-size: 0.8rem;
+  margin-block-start: 1rem;
+}
